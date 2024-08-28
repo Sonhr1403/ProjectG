@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "534897bb-b54f-4b13-be6d-faf1c4795f40",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 788,
+  "height": 51,
+  "platformSettings": {},
+  "subMetas": {
+    "slotkk_freegame_lbl": {
+      "ver": "1.0.6",
+      "uuid": "34134e75-596b-416c-8804-15379af7967c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "534897bb-b54f-4b13-be6d-faf1c4795f40",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 786,
+      "height": 49,
+      "rawWidth": 788,
+      "rawHeight": 51,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

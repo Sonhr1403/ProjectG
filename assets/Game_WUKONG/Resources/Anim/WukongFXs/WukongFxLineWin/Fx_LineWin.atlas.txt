@@ -1,0 +1,174 @@
+
+Fx_LineWin.png
+size: 1600,1025
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fx/BG_GLow
+  rotate: false
+  xy: 2, 429
+  size: 251, 594
+  orig: 251, 595
+  offset: 0, 1
+  index: -1
+Fx/LineWin_0
+  rotate: false
+  xy: 1260, 548
+  size: 325, 93
+  orig: 354, 419
+  offset: 15, 10
+  index: -1
+Fx/LineWin_1
+  rotate: false
+  xy: 312, 30
+  size: 296, 108
+  orig: 354, 419
+  offset: 29, 5
+  index: -1
+Fx/LineWin_10
+  rotate: false
+  xy: 635, 300
+  size: 252, 354
+  orig: 354, 419
+  offset: 51, 0
+  index: -1
+Fx/LineWin_11
+  rotate: true
+  xy: 889, 391
+  size: 229, 369
+  orig: 354, 419
+  offset: 71, 0
+  index: -1
+Fx/LineWin_12
+  rotate: false
+  xy: 952, 51
+  size: 221, 338
+  orig: 354, 419
+  offset: 81, 5
+  index: -1
+Fx/LineWin_13
+  rotate: false
+  xy: 1175, 32
+  size: 139, 357
+  orig: 354, 419
+  offset: 117, 14
+  index: -1
+Fx/LineWin_14
+  rotate: true
+  xy: 1243, 643
+  size: 95, 355
+  orig: 354, 419
+  offset: 131, 17
+  index: -1
+Fx/LineWin_15
+  rotate: false
+  xy: 1467, 63
+  size: 92, 360
+  orig: 354, 419
+  offset: 134, 20
+  index: -1
+Fx/LineWin_16
+  rotate: true
+  xy: 255, 485
+  size: 159, 373
+  orig: 354, 419
+  offset: 136, 24
+  index: -1
+Fx/LineWin_17
+  rotate: true
+  xy: 930, 937
+  size: 86, 379
+  orig: 354, 419
+  offset: 138, 34
+  index: -1
+Fx/LineWin_18
+  rotate: true
+  xy: 1243, 740
+  size: 154, 346
+  orig: 354, 419
+  offset: 159, 42
+  index: -1
+Fx/LineWin_19
+  rotate: true
+  xy: 1243, 622
+  size: 19, 4
+  orig: 354, 419
+  offset: 168, 42
+  index: -1
+Fx/LineWin_2
+  rotate: false
+  xy: 1260, 425
+  size: 224, 121
+  orig: 354, 419
+  offset: 66, 0
+  index: -1
+Fx/LineWin_20
+  rotate: false
+  xy: 1316, 71
+  size: 149, 352
+  orig: 354, 419
+  offset: 164, 42
+  index: -1
+Fx/LineWin_21
+  rotate: false
+  xy: 255, 479
+  size: 11, 4
+  orig: 354, 419
+  offset: 172, 42
+  index: -1
+Fx/LineWin_3
+  rotate: false
+  xy: 1311, 896
+  size: 245, 127
+  orig: 354, 419
+  offset: 53, 0
+  index: -1
+Fx/LineWin_4
+  rotate: true
+  xy: 635, 2
+  size: 296, 315
+  orig: 354, 419
+  offset: 26, 0
+  index: -1
+Fx/LineWin_5
+  rotate: true
+  xy: 900, 622
+  size: 313, 341
+  orig: 354, 419
+  offset: 21, 0
+  index: -1
+Fx/LineWin_6
+  rotate: false
+  xy: 312, 140
+  size: 321, 343
+  orig: 354, 419
+  offset: 16, 0
+  index: -1
+Fx/LineWin_7
+  rotate: false
+  xy: 575, 656
+  size: 323, 346
+  orig: 354, 419
+  offset: 16, 0
+  index: -1
+Fx/LineWin_8
+  rotate: false
+  xy: 255, 646
+  size: 318, 356
+  orig: 354, 419
+  offset: 20, 0
+  index: -1
+Fx/LineWin_9
+  rotate: false
+  xy: 2, 62
+  size: 308, 365
+  orig: 354, 419
+  offset: 22, 0
+  index: -1
+Fx/OutGlow
+  rotate: true
+  xy: 255, 1004
+  size: 19, 673
+  orig: 850, 850
+  offset: 424, 79
+  index: -1

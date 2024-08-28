@@ -1,0 +1,13 @@
+
+Payline_Win_03.png
+size: 573,25
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Payline/Payline_3
+  rotate: false
+  xy: 2, 2
+  size: 569, 21
+  orig: 864, 486
+  offset: 147, 125
+  index: -1

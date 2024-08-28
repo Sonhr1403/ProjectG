@@ -1,0 +1,206 @@
+{
+  "urls": [
+    "assets/desktop/sounds/sfx1Sprite.ogg",
+    "assets/desktop/sounds/sfx1Sprite.m4a",
+    "assets/desktop/sounds/sfx1Sprite.mp3",
+    "assets/desktop/sounds/sfx1Sprite.ac3"
+  ],
+  "sprite": {
+    "0_splash_screen_ctc": [
+      0,
+      2250
+    ],
+    "0_train_arrives_base": [
+      2750,
+      6666.666666666668
+    ],
+    "0_train_arrives_base_door": [
+      9916.666666666668,
+      1983.3333333333344
+    ],
+    "1_ambience_base_layer_1_loop": [
+      12400.000000000002,
+      32000
+    ],
+    "1_ambience_base_random_a": [
+      44900.00000000001,
+      3000
+    ],
+    "1_ambience_base_random_b": [
+      48400.00000000001,
+      3000
+    ],
+    "1_ambience_base_random_c": [
+      51900.00000000001,
+      3000
+    ],
+    "anticipation_highlight_stop": [
+      55400.00000000001,
+      1816.66666666667
+    ],
+    "anticipation_loop": [
+      57716.66666666668,
+      2000
+    ],
+    "anticipation_start_layer": [
+      60216.66666666668,
+      1250
+    ],
+    "anticipation_stop": [
+      61966.66666666668,
+      1750
+    ],
+    "anticipation_stop_positive_layer": [
+      64216.66666666667,
+      2750
+    ],
+    "bonus_board_left_close": [
+      67466.66666666667,
+      733.3333333333343
+    ],
+    "bonus_board_left_number_change": [
+      68700,
+      1533.3333333333314
+    ],
+    "bonus_board_left_open": [
+      70733.33333333333,
+      783.3333333333314
+    ],
+    "bonus_board_right_close": [
+      72016.66666666667,
+      733.3333333333343
+    ],
+    "bonus_board_right_number_change": [
+      73250,
+      1450.0000000000027
+    ],
+    "bonus_board_right_open": [
+      75200,
+      783.3333333333314
+    ],
+    "bonus_reel_armed": [
+      76483.33333333333,
+      683.3333333333371
+    ],
+    "bonus_reel_dynamite_beep": [
+      77666.66666666667,
+      516.6666666666657
+    ],
+    "bonus_reel_explosion": [
+      78683.33333333334,
+      2250
+    ],
+    "buy_feature_appears": [
+      81433.33333333334,
+      1150.0000000000057
+    ],
+    "buy_feature_buy": [
+      83083.33333333334,
+      3683.333333333337
+    ],
+    "buy_feature_buy_hover": [
+      87266.66666666669,
+      3299.9999999999973
+    ],
+    "buy_feature_click": [
+      91066.66666666667,
+      583.3333333333286
+    ],
+    "buy_feature_close": [
+      92150,
+      1400.0000000000057
+    ],
+    "buy_feature_disappears": [
+      94050.00000000001,
+      1099.9999999999943
+    ],
+    "buy_feature_hover": [
+      95650,
+      2016.6666666666656
+    ],
+    "buy_feature_open_board": [
+      98166.66666666667,
+      1683.3333333333371
+    ],
+    "buy_feature_open_click": [
+      100350.00000000001,
+      1216.6666666666686
+    ],
+    "counter_coins_loop": [
+      102066.66666666667,
+      1529.387755102036
+    ],
+    "counter_loop": [
+      104096.05442176871,
+      124.98866213151416
+    ],
+    "feature_2_scatters_electricity_loop": [
+      104721.04308390022,
+      8066.666666666662
+    ],
+    "feature_2_scatters_multiplier_door_close": [
+      113287.7097505669,
+      2000
+    ],
+    "feature_2_scatters_multiplier_door_open": [
+      115787.7097505669,
+      1466.6666666666686
+    ],
+    "feature_2_scatters_number_fly": [
+      117754.37641723357,
+      1166.6666666666715
+    ],
+    "feature_2_scatters_number_hit": [
+      119421.04308390024,
+      2099.9999999999945
+    ],
+    "feature_2_scatters_respin_notification": [
+      122021.04308390022,
+      2966.666666666669
+    ],
+    "feature_2_scatters_WR_stops_spinning": [
+      125487.7097505669,
+      1766.6666666666656
+    ],
+    "feedback_base_outro": [
+      127754.37641723357,
+      4716.666666666654
+    ],
+    "feedback_bonus_intro": [
+      132971.0430839002,
+      5666.666666666657
+    ],
+    "feedback_bonus_intro_ctc": [
+      139137.70975056686,
+      4500
+    ],
+    "feedback_bonus_outro_ctc": [
+      144137.70975056686,
+      3033.333333333331
+    ],
+    "feedback_bonus_outro_postitive": [
+      147671.0430839002,
+      6849.9999999999945
+    ],
+    "feedback_bonus_outro_zero": [
+      155021.0430839002,
+      6849.9999999999945
+    ],
+    "feedback_bonus_train_arrives": [
+      162371.04308390018,
+      4107.551020408153
+    ],
+    "feedback_bonus_train_arrives_door": [
+      166978.59410430834,
+      1874.9886621315284
+    ],
+    "feedback_bonus_train_leaves": [
+      169353.58276643988,
+      3866.6666666666742
+    ],
+    "feedback_bonus_train_leaves_door": [
+      173720.24943310654,
+      1933.3333333333371
+    ]
+  }
+}

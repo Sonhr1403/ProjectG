@@ -1,0 +1,216 @@
+
+H3@2x.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background
+  rotate: false
+  xy: 558, 46
+  size: 208, 208
+  orig: 210, 210
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 768, 143
+  size: 210, 111
+  orig: 210, 111
+  offset: 0, 0
+  index: -1
+chamber
+  rotate: false
+  xy: 768, 53
+  size: 56, 24
+  orig: 58, 26
+  offset: 1, 1
+  index: -1
+eye_left
+  rotate: false
+  xy: 826, 65
+  size: 14, 12
+  orig: 16, 14
+  offset: 1, 1
+  index: -1
+eye_right
+  rotate: true
+  xy: 619, 2
+  size: 42, 15
+  orig: 44, 17
+  offset: 1, 1
+  index: -1
+flare_c
+  rotate: false
+  xy: 2, 47
+  size: 331, 207
+  orig: 350, 239
+  offset: 19, 32
+  index: -1
+forearm_right
+  rotate: false
+  xy: 1154, 194
+  size: 151, 60
+  orig: 153, 62
+  offset: 1, 1
+  index: -1
+frame
+  rotate: false
+  xy: 335, 33
+  size: 221, 221
+  orig: 223, 223
+  offset: 1, 1
+  index: -1
+hand_b
+  rotate: false
+  xy: 1649, 205
+  size: 65, 49
+  orig: 65, 49
+  offset: 0, 0
+  index: -1
+hand_right
+  rotate: false
+  xy: 1502, 194
+  size: 69, 60
+  orig: 69, 60
+  offset: 0, 0
+  index: -1
+hat_back
+  rotate: false
+  xy: 768, 79
+  size: 173, 62
+  orig: 175, 64
+  offset: 1, 1
+  index: -1
+hat_front
+  rotate: false
+  xy: 2, 8
+  size: 171, 37
+  orig: 171, 37
+  offset: 0, 0
+  index: -1
+hat_top
+  rotate: false
+  xy: 1307, 194
+  size: 99, 60
+  orig: 101, 62
+  offset: 1, 1
+  index: -1
+head
+  rotate: true
+  xy: 1408, 168
+  size: 86, 92
+  orig: 87, 110
+  offset: 0, 0
+  index: -1
+iris_left
+  rotate: false
+  xy: 1573, 196
+  size: 34, 8
+  orig: 36, 10
+  offset: 1, 1
+  index: -1
+iris_right
+  rotate: false
+  xy: 968, 133
+  size: 8, 8
+  orig: 10, 10
+  offset: 1, 1
+  index: -1
+lever
+  rotate: false
+  xy: 1207, 178
+  size: 23, 14
+  orig: 25, 16
+  offset: 1, 1
+  index: -1
+rifle
+  rotate: false
+  xy: 980, 146
+  size: 172, 108
+  orig: 174, 110
+  offset: 1, 1
+  index: -1
+scope
+  rotate: false
+  xy: 1573, 206
+  size: 74, 48
+  orig: 76, 50
+  offset: 1, 1
+  index: -1
+shell/shell_00000
+  rotate: false
+  xy: 558, 2
+  size: 35, 42
+  orig: 83, 94
+  offset: 16, 29
+  index: -1
+shell/shell_00001
+  rotate: true
+  xy: 175, 2
+  size: 43, 66
+  orig: 83, 94
+  offset: 11, 22
+  index: -1
+shell/shell_00002
+  rotate: true
+  xy: 243, 8
+  size: 37, 69
+  orig: 83, 94
+  offset: 15, 21
+  index: -1
+shell/shell_00003
+  rotate: false
+  xy: 943, 85
+  size: 23, 56
+  orig: 83, 94
+  offset: 25, 24
+  index: -1
+shell/shell_00004
+  rotate: false
+  xy: 1502, 169
+  size: 47, 23
+  orig: 83, 94
+  offset: 16, 35
+  index: -1
+shell/shell_00005
+  rotate: false
+  xy: 1778, 202
+  size: 59, 52
+  orig: 83, 94
+  offset: 13, 16
+  index: -1
+shell/shell_00006
+  rotate: true
+  xy: 1716, 197
+  size: 57, 60
+  orig: 83, 94
+  offset: 13, 10
+  index: -1
+shell/shell_00007
+  rotate: true
+  xy: 1154, 153
+  size: 39, 51
+  orig: 83, 94
+  offset: 19, 16
+  index: -1
+shell/shell_00008
+  rotate: false
+  xy: 1839, 229
+  size: 26, 25
+  orig: 83, 94
+  offset: 22, 35
+  index: -1
+tube_left
+  rotate: false
+  xy: 314, 20
+  size: 18, 25
+  orig: 20, 27
+  offset: 1, 1
+  index: -1
+tube_right
+  rotate: true
+  xy: 595, 2
+  size: 42, 22
+  orig: 44, 24
+  offset: 1, 1
+  index: -1

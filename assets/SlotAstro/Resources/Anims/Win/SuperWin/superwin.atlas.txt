@@ -1,0 +1,312 @@
+
+superwin.png
+size: 2048,1923
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 1056, 1446
+  size: 236, 177
+  orig: 247, 251
+  offset: 6, 32
+  index: -1
+1
+  rotate: true
+  xy: 2, 1293
+  size: 188, 193
+  orig: 247, 251
+  offset: 24, 40
+  index: -1
+10
+  rotate: false
+  xy: 1859, 1739
+  size: 187, 182
+  orig: 247, 251
+  offset: 35, 53
+  index: -1
+11
+  rotate: false
+  xy: 1854, 1559
+  size: 188, 178
+  orig: 247, 251
+  offset: 37, 53
+  index: -1
+12
+  rotate: false
+  xy: 1729, 1375
+  size: 195, 182
+  orig: 247, 251
+  offset: 45, 40
+  index: -1
+13
+  rotate: true
+  xy: 1524, 1422
+  size: 178, 203
+  orig: 247, 251
+  offset: 32, 46
+  index: -1
+14
+  rotate: true
+  xy: 639, 1459
+  size: 172, 199
+  orig: 247, 251
+  offset: 34, 43
+  index: -1
+15
+  rotate: true
+  xy: 1450, 1615
+  size: 162, 208
+  orig: 247, 251
+  offset: 35, 42
+  index: -1
+16
+  rotate: true
+  xy: 1050, 1629
+  size: 160, 207
+  orig: 247, 251
+  offset: 39, 43
+  index: -1
+17
+  rotate: true
+  xy: 2, 1483
+  size: 163, 209
+  orig: 247, 251
+  offset: 36, 41
+  index: -1
+18
+  rotate: true
+  xy: 404, 1799
+  size: 122, 208
+  orig: 247, 251
+  offset: 89, 4
+  index: -1
+19
+  rotate: true
+  xy: 2, 1811
+  size: 110, 188
+  orig: 247, 251
+  offset: 71, 42
+  index: -1
+2
+  rotate: true
+  xy: 847, 1630
+  size: 159, 201
+  orig: 247, 251
+  offset: 41, 42
+  index: -1
+20
+  rotate: true
+  xy: 428, 1638
+  size: 151, 214
+  orig: 247, 251
+  offset: 38, 26
+  index: -1
+21
+  rotate: true
+  xy: 1660, 1602
+  size: 172, 192
+  orig: 247, 251
+  offset: 59, 38
+  index: -1
+22
+  rotate: true
+  xy: 644, 1633
+  size: 156, 201
+  orig: 247, 251
+  offset: 33, 17
+  index: -1
+23
+  rotate: true
+  xy: 2, 1652
+  size: 146, 198
+  orig: 247, 251
+  offset: 52, 33
+  index: -1
+25
+  rotate: true
+  xy: 213, 1476
+  size: 170, 205
+  orig: 247, 251
+  offset: 51, 41
+  index: -1
+26
+  rotate: true
+  xy: 480, 1256
+  size: 201, 216
+  orig: 247, 251
+  offset: 45, 34
+  index: -1
+27
+  rotate: true
+  xy: 1216, 1197
+  size: 237, 249
+  orig: 247, 251
+  offset: 9, 1
+  index: -1
+28
+  rotate: false
+  xy: 987, 1218
+  size: 227, 226
+  orig: 247, 251
+  offset: 1, 3
+  index: -1
+29
+  rotate: true
+  xy: 1294, 1436
+  size: 177, 228
+  orig: 247, 251
+  offset: 31, 11
+  index: -1
+3
+  rotate: true
+  xy: 420, 1469
+  size: 167, 217
+  orig: 247, 251
+  offset: 17, 33
+  index: -1
+4
+  rotate: true
+  xy: 1458, 1779
+  size: 142, 207
+  orig: 247, 251
+  offset: 65, 25
+  index: -1
+5
+  rotate: true
+  xy: 202, 1648
+  size: 149, 224
+  orig: 247, 251
+  offset: 73, 1
+  index: -1
+6
+  rotate: true
+  xy: 192, 1800
+  size: 121, 210
+  orig: 247, 251
+  offset: 86, 1
+  index: -1
+7
+  rotate: true
+  xy: 1667, 1776
+  size: 145, 190
+  orig: 247, 251
+  offset: 44, 39
+  index: -1
+8
+  rotate: true
+  xy: 840, 1456
+  size: 171, 214
+  orig: 247, 251
+  offset: 44, 17
+  index: -1
+9
+  rotate: true
+  xy: 1259, 1625
+  size: 164, 189
+  orig: 247, 251
+  offset: 49, 39
+  index: -1
+superWin
+  rotate: true
+  xy: 614, 1791
+  size: 130, 842
+  orig: 138, 850
+  offset: 5, 4
+  index: -1
+superWinEffect1_0
+  rotate: true
+  xy: 2, 447
+  size: 475, 901
+  orig: 483, 906
+  offset: 4, 2
+  index: -1
+superWinGlowSm
+  rotate: false
+  xy: 2, 934
+  size: 462, 343
+  orig: 487, 347
+  offset: 15, 2
+  index: -1
+superWinParticlesSmall0
+  rotate: true
+  xy: 947, 673
+  size: 522, 493
+  orig: 536, 506
+  offset: 5, 7
+  index: -1
+superWinPlate
+  rotate: false
+  xy: 905, 2
+  size: 1096, 486
+  orig: 1102, 492
+  offset: 3, 2
+  index: -1
+superWinPlateShine0_0
+  rotate: true
+  xy: 197, 1279
+  size: 188, 281
+  orig: 199, 299
+  offset: 4, 4
+  index: -1
+superWinPlateShine1
+  rotate: false
+  xy: 1467, 1050
+  size: 471, 323
+  orig: 517, 341
+  offset: 35, 3
+  index: -1
+superWinPlateShine2_0
+  rotate: true
+  xy: 466, 924
+  size: 325, 479
+  orig: 341, 530
+  offset: 4, 34
+  index: -1
+superWinPlateShine3_0
+  rotate: true
+  xy: 698, 1251
+  size: 203, 287
+  orig: 214, 304
+  offset: 4, 11
+  index: -1
+superWinVortexSmall0
+  rotate: false
+  xy: 1442, 490
+  size: 603, 558
+  orig: 614, 582
+  offset: 6, 7
+  index: -1
+
+superwin2.png
+size: 1710,1454
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+superWinBg
+  rotate: false
+  xy: 2, 793
+  size: 788, 659
+  orig: 788, 659
+  offset: 0, 0
+  index: -1
+superWinEffect2
+  rotate: true
+  xy: 792, 2
+  size: 1450, 916
+  orig: 1458, 923
+  offset: 4, 3
+  index: -1
+
+superwin3.png
+size: 919,1463
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+superWinEffect3_0
+  rotate: false
+  xy: 2, 2
+  size: 915, 1459
+  orig: 931, 1470
+  offset: 6, 5
+  index: -1

@@ -1,0 +1,21 @@
+{
+  "ver": "1.1.3",
+  "uuid": "2cabae6b-1d87-40ac-b07c-a7023f8c0341",
+  "importer": "folder",
+  "isBundle": false,
+  "bundleName": "BinaryOption",
+  "priority": 1,
+  "compressionType": {
+    "android": "merge_all_json"
+  },
+  "optimizeHotUpdate": {
+    "android": false
+  },
+  "inlineSpriteFrames": {
+    "android": false
+  },
+  "isRemoteBundle": {
+    "android": false
+  },
+  "subMetas": {}
+}

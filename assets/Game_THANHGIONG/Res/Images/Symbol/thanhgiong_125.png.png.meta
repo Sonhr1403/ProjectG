@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "2bde9659-d45d-4a0e-9254-0483dd939c60",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 67,
+  "height": 41,
+  "platformSettings": {},
+  "subMetas": {
+    "thanhgiong_125.png": {
+      "ver": "1.0.6",
+      "uuid": "6a5aa602-5cb2-4509-9eb8-d395c625c3f3",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "2bde9659-d45d-4a0e-9254-0483dd939c60",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 67,
+      "height": 41,
+      "rawWidth": 67,
+      "rawHeight": 41,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

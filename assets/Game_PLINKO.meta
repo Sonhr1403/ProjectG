@@ -1,0 +1,21 @@
+{
+  "ver": "1.1.3",
+  "uuid": "50207779-cd38-447a-9cfa-c4b595a5ea5c",
+  "importer": "folder",
+  "isBundle": false,
+  "bundleName": "GamePLINKO",
+  "priority": 1,
+  "compressionType": {
+    "android": "merge_all_json"
+  },
+  "optimizeHotUpdate": {
+    "android": false
+  },
+  "inlineSpriteFrames": {
+    "android": false
+  },
+  "isRemoteBundle": {
+    "android": true
+  },
+  "subMetas": {}
+}

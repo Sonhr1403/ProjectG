@@ -1,0 +1,13 @@
+
+Payline_Win_15.png
+size: 573,154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Payline/Payline_15
+  rotate: false
+  xy: 2, 2
+  size: 569, 150
+  orig: 864, 486
+  offset: 147, 126
+  index: -1

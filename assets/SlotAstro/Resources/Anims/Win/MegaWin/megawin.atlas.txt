@@ -1,0 +1,327 @@
+
+megawin.png
+size: 2048,1743
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 1254, 1256
+  size: 236, 177
+  orig: 247, 251
+  offset: 6, 32
+  index: -1
+1
+  rotate: true
+  xy: 2, 1113
+  size: 188, 193
+  orig: 247, 251
+  offset: 24, 40
+  index: -1
+10
+  rotate: true
+  xy: 1864, 1554
+  size: 187, 182
+  orig: 247, 251
+  offset: 35, 53
+  index: -1
+11
+  rotate: true
+  xy: 1861, 1364
+  size: 188, 178
+  orig: 247, 251
+  offset: 37, 53
+  index: -1
+12
+  rotate: false
+  xy: 1722, 1180
+  size: 195, 182
+  orig: 247, 251
+  offset: 45, 40
+  index: -1
+13
+  rotate: true
+  xy: 1049, 1269
+  size: 178, 203
+  orig: 247, 251
+  offset: 32, 46
+  index: -1
+14
+  rotate: true
+  xy: 1660, 1422
+  size: 172, 199
+  orig: 247, 251
+  offset: 34, 43
+  index: -1
+15
+  rotate: true
+  xy: 1450, 1435
+  size: 162, 208
+  orig: 247, 251
+  offset: 35, 42
+  index: -1
+16
+  rotate: true
+  xy: 1050, 1449
+  size: 160, 207
+  orig: 247, 251
+  offset: 39, 43
+  index: -1
+17
+  rotate: true
+  xy: 2, 1303
+  size: 163, 209
+  orig: 247, 251
+  offset: 36, 41
+  index: -1
+18
+  rotate: true
+  xy: 404, 1619
+  size: 122, 208
+  orig: 247, 251
+  offset: 89, 4
+  index: -1
+19
+  rotate: true
+  xy: 2, 1631
+  size: 110, 188
+  orig: 247, 251
+  offset: 71, 42
+  index: -1
+2
+  rotate: true
+  xy: 847, 1450
+  size: 159, 201
+  orig: 247, 251
+  offset: 41, 42
+  index: -1
+20
+  rotate: true
+  xy: 428, 1458
+  size: 151, 214
+  orig: 247, 251
+  offset: 38, 26
+  index: -1
+21
+  rotate: true
+  xy: 639, 1279
+  size: 172, 192
+  orig: 247, 251
+  offset: 59, 38
+  index: -1
+22
+  rotate: true
+  xy: 644, 1453
+  size: 156, 201
+  orig: 247, 251
+  offset: 33, 17
+  index: -1
+23
+  rotate: true
+  xy: 2, 1472
+  size: 146, 198
+  orig: 247, 251
+  offset: 52, 33
+  index: -1
+25
+  rotate: true
+  xy: 213, 1296
+  size: 170, 205
+  orig: 247, 251
+  offset: 51, 41
+  index: -1
+26
+  rotate: true
+  xy: 197, 1093
+  size: 201, 216
+  orig: 247, 251
+  offset: 45, 34
+  index: -1
+27
+  rotate: true
+  xy: 967, 1030
+  size: 237, 249
+  orig: 247, 251
+  offset: 9, 1
+  index: -1
+28
+  rotate: false
+  xy: 415, 1051
+  size: 227, 226
+  orig: 247, 251
+  offset: 1, 3
+  index: -1
+29
+  rotate: true
+  xy: 1492, 1243
+  size: 177, 228
+  orig: 247, 251
+  offset: 31, 11
+  index: -1
+3
+  rotate: true
+  xy: 420, 1289
+  size: 167, 217
+  orig: 247, 251
+  offset: 17, 33
+  index: -1
+4
+  rotate: true
+  xy: 1463, 1599
+  size: 142, 207
+  orig: 247, 251
+  offset: 65, 25
+  index: -1
+5
+  rotate: true
+  xy: 202, 1468
+  size: 149, 224
+  orig: 247, 251
+  offset: 73, 1
+  index: -1
+6
+  rotate: true
+  xy: 192, 1620
+  size: 121, 210
+  orig: 247, 251
+  offset: 86, 1
+  index: -1
+7
+  rotate: true
+  xy: 1672, 1596
+  size: 145, 190
+  orig: 247, 251
+  offset: 44, 39
+  index: -1
+8
+  rotate: true
+  xy: 833, 1277
+  size: 171, 214
+  orig: 247, 251
+  offset: 44, 17
+  index: -1
+9
+  rotate: true
+  xy: 1259, 1445
+  size: 164, 189
+  orig: 247, 251
+  offset: 49, 39
+  index: -1
+megaWin
+  rotate: true
+  xy: 614, 1611
+  size: 130, 847
+  orig: 138, 855
+  offset: 5, 4
+  index: -1
+megaWinGlowSm
+  rotate: false
+  xy: 1541, 845
+  size: 424, 333
+  orig: 433, 338
+  offset: 6, 2
+  index: -1
+megaWinLightnings1_0
+  rotate: false
+  xy: 492, 188
+  size: 616, 474
+  orig: 633, 515
+  offset: 6, 24
+  index: -1
+megaWinLightnings2
+  rotate: true
+  xy: 2, 761
+  size: 288, 578
+  orig: 309, 590
+  offset: 18, 2
+  index: -1
+megaWinLightnings3_0
+  rotate: false
+  xy: 582, 664
+  size: 766, 330
+  orig: 778, 342
+  offset: 8, 4
+  index: -1
+megaWinPlateShine0
+  rotate: true
+  xy: 644, 1047
+  size: 228, 321
+  orig: 277, 344
+  offset: 42, 3
+  index: -1
+megaWinPlateShine1
+  rotate: false
+  xy: 1350, 479
+  size: 441, 364
+  orig: 498, 411
+  offset: 42, 22
+  index: -1
+megaWinPlateShine2
+  rotate: true
+  xy: 2, 395
+  size: 364, 488
+  orig: 411, 514
+  offset: 22, 9
+  index: -1
+megaWinPlateShine3
+  rotate: true
+  xy: 1218, 996
+  size: 245, 321
+  orig: 293, 344
+  offset: 6, 3
+  index: -1
+superWinEffect1_0
+  rotate: true
+  xy: 1110, 2
+  size: 475, 901
+  orig: 483, 906
+  offset: 4, 2
+  index: -1
+
+megawin2.png
+size: 1994,1633
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+megaWinBg
+  rotate: true
+  xy: 598, 257
+  size: 788, 659
+  orig: 788, 659
+  offset: 0, 0
+  index: -1
+megaWinEffect1_0
+  rotate: false
+  xy: 2, 105
+  size: 594, 940
+  orig: 604, 948
+  offset: 6, 4
+  index: -1
+megaWinEffect2_0
+  rotate: true
+  xy: 1100, 1065
+  size: 566, 892
+  orig: 573, 899
+  offset: 4, 3
+  index: -1
+megaWinPlate
+  rotate: false
+  xy: 2, 1047
+  size: 1096, 584
+  orig: 1102, 589
+  offset: 3, 3
+  index: -1
+megaWinVortexSmall0
+  rotate: false
+  xy: 1259, 497
+  size: 606, 566
+  orig: 614, 582
+  offset: 5, 7
+  index: -1
+superWinParticlesSmall0
+  rotate: false
+  xy: 1259, 2
+  size: 522, 493
+  orig: 536, 506
+  offset: 5, 7
+  index: -1

@@ -1,0 +1,601 @@
+
+Symbol_mwx2.png
+size: 1952,1747
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Symbols/Star_1
+  rotate: false
+  xy: 531, 1223
+  size: 30, 30
+  orig: 215, 300
+  offset: 33, 246
+  index: -1
+Symbols/Star_10
+  rotate: true
+  xy: 1685, 1565
+  size: 180, 265
+  orig: 215, 300
+  offset: 12, 22
+  index: -1
+Symbols/Star_11
+  rotate: false
+  xy: 196, 604
+  size: 182, 268
+  orig: 215, 300
+  offset: 11, 22
+  index: -1
+Symbols/Star_12
+  rotate: true
+  xy: 574, 1369
+  size: 183, 272
+  orig: 215, 300
+  offset: 10, 20
+  index: -1
+Symbols/Star_13
+  rotate: true
+  xy: 848, 1365
+  size: 187, 272
+  orig: 215, 300
+  offset: 8, 21
+  index: -1
+Symbols/Star_14
+  rotate: true
+  xy: 1134, 1556
+  size: 189, 275
+  orig: 215, 300
+  offset: 7, 18
+  index: -1
+Symbols/Star_15
+  rotate: false
+  xy: 2, 37
+  size: 190, 277
+  orig: 215, 300
+  offset: 7, 16
+  index: -1
+Symbols/Star_16
+  rotate: true
+  xy: 574, 1554
+  size: 191, 279
+  orig: 215, 300
+  offset: 7, 13
+  index: -1
+Symbols/Star_17
+  rotate: false
+  xy: 2, 594
+  size: 192, 278
+  orig: 215, 300
+  offset: 8, 11
+  index: -1
+Symbols/Star_18
+  rotate: false
+  xy: 2, 316
+  size: 192, 276
+  orig: 215, 300
+  offset: 10, 10
+  index: -1
+Symbols/Star_19
+  rotate: true
+  xy: 855, 1554
+  size: 191, 277
+  orig: 215, 300
+  offset: 13, 8
+  index: -1
+Symbols/Star_2
+  rotate: true
+  xy: 476, 188
+  size: 77, 103
+  orig: 215, 300
+  offset: 32, 173
+  index: -1
+Symbols/Star_20
+  rotate: true
+  xy: 1411, 1553
+  size: 192, 272
+  orig: 215, 300
+  offset: 14, 7
+  index: -1
+Symbols/Star_21
+  rotate: false
+  xy: 380, 1255
+  size: 192, 218
+  orig: 215, 300
+  offset: 15, 7
+  index: -1
+Symbols/Star_22
+  rotate: false
+  xy: 380, 671
+  size: 188, 217
+  orig: 215, 300
+  offset: 20, 8
+  index: -1
+Symbols/Star_23
+  rotate: false
+  xy: 393, 459
+  size: 169, 210
+  orig: 215, 300
+  offset: 38, 9
+  index: -1
+Symbols/Star_24
+  rotate: false
+  xy: 1741, 46
+  size: 168, 167
+  orig: 215, 300
+  offset: 38, 10
+  index: -1
+Symbols/Star_25
+  rotate: false
+  xy: 364, 2
+  size: 158, 164
+  orig: 215, 300
+  offset: 46, 13
+  index: -1
+Symbols/Star_26
+  rotate: true
+  xy: 524, 19
+  size: 101, 155
+  orig: 215, 300
+  offset: 100, 15
+  index: -1
+Symbols/Star_27
+  rotate: true
+  xy: 389, 168
+  size: 97, 85
+  orig: 215, 300
+  offset: 103, 15
+  index: -1
+Symbols/Star_28
+  rotate: false
+  xy: 681, 37
+  size: 88, 83
+  orig: 215, 300
+  offset: 105, 15
+  index: -1
+Symbols/Star_29
+  rotate: false
+  xy: 668, 960
+  size: 49, 80
+  orig: 215, 300
+  offset: 105, 18
+  index: -1
+Symbols/Star_3
+  rotate: false
+  xy: 1830, 1230
+  size: 88, 141
+  orig: 215, 300
+  offset: 21, 136
+  index: -1
+Symbols/Star_30
+  rotate: false
+  xy: 302, 1452
+  size: 21, 21
+  orig: 215, 300
+  offset: 110, 72
+  index: -1
+Symbols/Star_4
+  rotate: false
+  xy: 1451, 1408
+  size: 159, 143
+  orig: 215, 300
+  offset: 20, 135
+  index: -1
+Symbols/Star_5
+  rotate: false
+  xy: 506, 894
+  size: 160, 146
+  orig: 215, 300
+  offset: 20, 134
+  index: -1
+Symbols/Star_6
+  rotate: false
+  xy: 1286, 1391
+  size: 163, 160
+  orig: 215, 300
+  offset: 18, 121
+  index: -1
+Symbols/Star_7
+  rotate: true
+  xy: 1122, 1387
+  size: 165, 162
+  orig: 215, 300
+  offset: 17, 120
+  index: -1
+Symbols/Star_8
+  rotate: false
+  xy: 194, 2
+  size: 168, 164
+  orig: 215, 300
+  offset: 16, 120
+  index: -1
+Symbols/Star_9
+  rotate: true
+  xy: 274, 890
+  size: 177, 230
+  orig: 215, 300
+  offset: 14, 55
+  index: -1
+Symbols/Win_Effect_1
+  rotate: false
+  xy: 393, 267
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_10
+  rotate: true
+  xy: 1148, 786
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_11
+  rotate: false
+  xy: 762, 592
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_12
+  rotate: false
+  xy: 955, 592
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_13
+  rotate: true
+  xy: 1148, 593
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_14
+  rotate: true
+  xy: 570, 508
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_15
+  rotate: true
+  xy: 586, 315
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_16
+  rotate: false
+  xy: 778, 400
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_17
+  rotate: false
+  xy: 971, 400
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_18
+  rotate: true
+  xy: 1164, 400
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_19
+  rotate: false
+  xy: 778, 208
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_2
+  rotate: true
+  xy: 570, 701
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_20
+  rotate: false
+  xy: 971, 208
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_21
+  rotate: false
+  xy: 1164, 208
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_22
+  rotate: true
+  xy: 586, 122
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_23
+  rotate: false
+  xy: 778, 16
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_24
+  rotate: false
+  xy: 971, 16
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_25
+  rotate: false
+  xy: 1164, 16
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_26
+  rotate: false
+  xy: 1685, 1373
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_27
+  rotate: true
+  xy: 1254, 1180
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_28
+  rotate: true
+  xy: 1310, 987
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_29
+  rotate: true
+  xy: 1340, 794
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_3
+  rotate: true
+  xy: 1062, 1172
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_30
+  rotate: true
+  xy: 1340, 601
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_31
+  rotate: true
+  xy: 1356, 408
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_32
+  rotate: true
+  xy: 1357, 215
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_33
+  rotate: true
+  xy: 1357, 22
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_34
+  rotate: true
+  xy: 1446, 1180
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_35
+  rotate: true
+  xy: 1502, 987
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_36
+  rotate: true
+  xy: 1638, 1180
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_37
+  rotate: true
+  xy: 1532, 794
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_38
+  rotate: true
+  xy: 1532, 601
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_39
+  rotate: true
+  xy: 1548, 408
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_4
+  rotate: false
+  xy: 196, 168
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_40
+  rotate: true
+  xy: 1549, 215
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_41
+  rotate: true
+  xy: 1549, 22
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_42
+  rotate: true
+  xy: 1694, 987
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_43
+  rotate: true
+  xy: 1724, 794
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_44
+  rotate: true
+  xy: 1724, 601
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_45
+  rotate: true
+  xy: 1740, 408
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_46
+  rotate: true
+  xy: 1741, 215
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_5
+  rotate: false
+  xy: 732, 976
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_6
+  rotate: false
+  xy: 925, 976
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_7
+  rotate: true
+  xy: 1118, 979
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_8
+  rotate: false
+  xy: 762, 784
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_9
+  rotate: false
+  xy: 955, 784
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/font_v
+  rotate: false
+  xy: 531, 1042
+  size: 199, 128
+  orig: 199, 128
+  offset: 0, 0
+  index: -1
+Symbols/wildx2
+  rotate: false
+  xy: 302, 1475
+  size: 270, 270
+  orig: 324, 324
+  offset: 27, 27
+  index: -1
+Symbols/wildx2_B2
+  rotate: false
+  xy: 2, 874
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+Symbols/wildx2_G
+  rotate: false
+  xy: 2, 1447
+  size: 298, 298
+  orig: 608, 608
+  offset: 154, 156
+  index: -1
+Symbols/wildx2_G2
+  rotate: true
+  xy: 2, 1146
+  size: 299, 283
+  orig: 299, 283
+  offset: 0, 0
+  index: -1
+Symbols/wildx2_Screen
+  rotate: true
+  xy: 196, 360
+  size: 242, 195
+  orig: 270, 270
+  offset: 14, 59
+  index: -1
+Symbols/wildx2_Screen2
+  rotate: false
+  xy: 574, 1172
+  size: 242, 195
+  orig: 270, 270
+  offset: 14, 59
+  index: -1
+Symbols/wildx2_Screen3
+  rotate: false
+  xy: 818, 1168
+  size: 242, 195
+  orig: 324, 324
+  offset: 41, 86
+  index: -1
+Symbols/wildx2_Screen4
+  rotate: false
+  xy: 287, 1069
+  size: 242, 184
+  orig: 270, 270
+  offset: 14, 70
+  index: -1

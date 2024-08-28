@@ -1,0 +1,27 @@
+
+demso.png
+size: 224,145
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 39
+  rotate: false
+  xy: 2, 4
+  size: 81, 139
+  orig: 84, 142
+  offset: 2, 2
+  index: -1
+Group 40
+  rotate: true
+  xy: 85, 64
+  size: 79, 137
+  orig: 81, 139
+  offset: 1, 1
+  index: -1
+Group 41
+  rotate: true
+  xy: 85, 2
+  size: 60, 135
+  orig: 64, 137
+  offset: 2, 1
+  index: -1

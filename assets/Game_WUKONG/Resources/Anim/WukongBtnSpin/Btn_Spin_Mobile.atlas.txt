@@ -1,0 +1,27 @@
+
+Btn_Spin_Mobile.png
+size: 468,322
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI/Spin_M
+  rotate: false
+  xy: 310, 10
+  size: 152, 152
+  orig: 176, 178
+  offset: 13, 12
+  index: -1
+UI/Spin_M_2
+  rotate: false
+  xy: 310, 164
+  size: 156, 156
+  orig: 176, 178
+  offset: 11, 10
+  index: -1
+UI/Spin_M_BG2
+  rotate: true
+  xy: 2, 2
+  size: 318, 306
+  orig: 318, 307
+  offset: 0, 1
+  index: -1

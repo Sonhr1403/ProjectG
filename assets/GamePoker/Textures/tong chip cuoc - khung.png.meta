@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "b2193dff-f8d3-42bb-b901-61a306911d06",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 222,
+  "height": 66,
+  "platformSettings": {},
+  "subMetas": {
+    "tong chip cuoc - khung": {
+      "ver": "1.0.6",
+      "uuid": "d53abccd-357f-4853-ab5b-aa0a2142be62",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "b2193dff-f8d3-42bb-b901-61a306911d06",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 222,
+      "height": 66,
+      "rawWidth": 222,
+      "rawHeight": 66,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

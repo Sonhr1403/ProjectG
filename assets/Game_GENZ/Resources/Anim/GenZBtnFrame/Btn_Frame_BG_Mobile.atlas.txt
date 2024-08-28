@@ -1,0 +1,20 @@
+
+Btn_Frame_BG_Mobile.png
+size: 1924,328
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI/D_Gra
+  rotate: false
+  xy: 2, 154
+  size: 1920, 172
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+UI/P_Gra
+  rotate: false
+  xy: 2, 2
+  size: 1080, 150
+  orig: 1080, 1836
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+Payline_Win_26.png
+size: 572,287
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Payline/Payline_26
+  rotate: false
+  xy: 2, 2
+  size: 568, 283
+  orig: 864, 486
+  offset: 148, 125
+  index: -1

@@ -1,0 +1,105 @@
+{
+  "skeleton": {
+    "hash": "faDMaBwpI5i/EZYqK+ImK4BkhqA",
+    "spine": "3.8.75",
+    "images": "C:/Users/Admin/Desktop/hotties_paradise/GenZBtnSpinMobile",
+    "audio": ""
+  },
+  "bones": [
+    { "name": "root" },
+    { "name": "All", "parent": "root", "scaleX": 0.85, "scaleY": 0.85 },
+    { "name": "Spin", "parent": "All" }
+  ],
+  "slots": [
+    { "name": "UI/Btn_BG", "bone": "All", "attachment": "UI/Spin_M_BG2" },
+    { "name": "Spin", "bone": "Spin", "attachment": "UI/Spin_M" },
+    { "name": "UI/Spin_M", "bone": "All" }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "UI/Btn_BG": {
+          "UI/Spin_M_BG2": {
+            "type": "mesh",
+            "uvs": [
+              0.85516, 0.15099, 0.97641, 0.38319, 0.97376, 0.68793, 0.72727,
+              0.97489, 0.31093, 0.97482, 0.03238, 0.71475, 0.03221, 0.30628,
+              0.26853, 0.0673, 0.57466, 0.00598
+            ],
+            "triangles": [
+              0, 1, 7, 5, 6, 7, 7, 1, 4, 0, 7, 8, 2, 4, 1, 5, 7, 4, 3, 4, 2
+            ],
+            "vertices": [
+              98.38, 98.68, 131.97, 34.36, 131.23, -50.06, 62.95, -129.55,
+              -52.37, -129.53, -129.53, -57.49, -129.58, 55.66, -64.12, 121.86,
+              20.68, 138.84
+            ],
+            "hull": 9,
+            "edges": [
+              0, 16, 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12, 12, 14, 14, 16
+            ],
+            "width": 277,
+            "height": 277
+          }
+        },
+        "UI/Spin_M": { "UI/Spin_M": { "y": 6, "width": 197, "height": 197 } },
+        "Spin": { "UI/Spin_M": { "width": 197, "height": 197 } }
+      }
+    }
+  ],
+  "animations": {
+    "Disable": {
+      "slots": {
+        "UI/Spin_M": {
+          "color": [{ "color": "1f1f1fff" }],
+          "attachment": [{ "name": "UI/Spin_M" }]
+        },
+        "Spin": { "attachment": [{ "name": null }] }
+      },
+      "bones": { "All": { "scale": [{ "x": 0.8, "y": 0.8 }] } }
+    },
+    "Disable_Portrait": {
+      "slots": {
+        "UI/Spin_M": {
+          "color": [{ "color": "1f1f1fff" }],
+          "attachment": [{ "name": "UI/Spin_M" }]
+        },
+        "Spin": { "attachment": [{ "name": null }] }
+      },
+      "bones": { "All": { "scale": [{ "x": 1.25, "y": 1.25 }] } }
+    },
+    "Down": { "bones": { "All": { "scale": [{ "x": 0.8, "y": 0.8 }] } } },
+    "Down_Portrait": {
+      "bones": { "All": { "scale": [{ "x": 1.25, "y": 1.25 }] } }
+    },
+    "Landscape": { "bones": { "All": { "scale": [{ "x": 0.8, "y": 0.8 }] } } },
+    "Portrait": { "bones": { "All": { "scale": [{ "x": 1.25, "y": 1.25 }] } } },
+    "Up": {
+      "bones": {
+        "All": { "scale": [{ "x": 0.8, "y": 0.8 }] },
+        "Spin": {
+          "rotate": [
+            {},
+            { "time": 2.6667, "angle": -120 },
+            { "time": 5.3, "angle": 120 },
+            { "time": 7.9667 }
+          ]
+        }
+      }
+    },
+    "Up_Portrait": {
+      "bones": {
+        "All": { "scale": [{ "x": 1.25, "y": 1.25 }] },
+        "Spin": {
+          "rotate": [
+            {},
+            { "time": 2.6667, "angle": -120 },
+            { "time": 5.3, "angle": 120 },
+            { "time": 7.9667 }
+          ]
+        }
+      }
+    }
+  }
+}

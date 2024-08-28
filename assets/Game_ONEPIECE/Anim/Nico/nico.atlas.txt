@@ -1,0 +1,132 @@
+
+nico.png
+size: 300,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 17
+  rotate: true
+  xy: 2, 8
+  size: 88, 124
+  orig: 88, 124
+  offset: 0, 0
+  index: -1
+Group 9
+  rotate: true
+  xy: 159, 218
+  size: 151, 139
+  orig: 151, 139
+  offset: 0, 0
+  index: -1
+Layer 699
+  rotate: false
+  xy: 2, 444
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+Layer 700
+  rotate: false
+  xy: 234, 77
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+Layer 754
+  rotate: true
+  xy: 2, 346
+  size: 96, 155
+  orig: 96, 155
+  offset: 0, 0
+  index: -1
+Layer 756
+  rotate: false
+  xy: 164, 371
+  size: 126, 147
+  orig: 126, 148
+  offset: 0, 1
+  index: -1
+Layer 759
+  rotate: true
+  xy: 128, 2
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+Layer 760
+  rotate: false
+  xy: 262, 77
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+Layer 761
+  rotate: false
+  xy: 153, 8
+  size: 79, 88
+  orig: 79, 88
+  offset: 0, 0
+  index: -1
+Layer 764
+  rotate: false
+  xy: 283, 205
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+Layer 767
+  rotate: false
+  xy: 283, 192
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+Layer 769
+  rotate: false
+  xy: 2, 105
+  size: 151, 93
+  orig: 151, 93
+  offset: 0, 0
+  index: -1
+Layer 772
+  rotate: true
+  xy: 283, 126
+  size: 26, 8
+  orig: 26, 8
+  offset: 0, 0
+  index: -1
+Polygon 1
+  rotate: false
+  xy: 283, 178
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+khung tim copy
+  rotate: false
+  xy: 155, 98
+  size: 126, 118
+  orig: 126, 118
+  offset: 0, 0
+  index: -1
+kinh
+  rotate: true
+  xy: 128, 38
+  size: 65, 23
+  orig: 65, 23
+  offset: 0, 0
+  index: -1
+nhay mat
+  rotate: true
+  xy: 283, 154
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+nico blur_00
+  rotate: false
+  xy: 2, 200
+  size: 151, 144
+  orig: 210, 210
+  offset: 30, 32
+  index: -1

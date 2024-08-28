@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "24e2aae0-3064-473f-9e59-5cccfb69945f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 239,
+  "height": 148,
+  "platformSettings": {},
+  "subMetas": {
+    "box chat phai - khung thoai": {
+      "ver": "1.0.6",
+      "uuid": "c31460b2-643d-4b79-a8a2-f12978f5ea37",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "24e2aae0-3064-473f-9e59-5cccfb69945f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 3,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 239,
+      "height": 142,
+      "rawWidth": 239,
+      "rawHeight": 148,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

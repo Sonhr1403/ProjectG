@@ -1,0 +1,118 @@
+
+ClockCountDownt.png
+size: 267,305
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buttondongho
+  rotate: true
+  xy: 2, 224
+  size: 79, 90
+  orig: 79, 90
+  offset: 0, 0
+  index: -1
+num clock/so dong ho
+  rotate: false
+  xy: 223, 10
+  size: 36, 71
+  orig: 38, 73
+  offset: 1, 1
+  index: -1
+num clock/so dong ho copy
+  rotate: false
+  xy: 175, 8
+  size: 46, 72
+  orig: 48, 74
+  offset: 1, 1
+  index: -1
+num clock/so dong ho copy 10
+  rotate: true
+  xy: 89, 82
+  size: 72, 71
+  orig: 74, 73
+  offset: 1, 1
+  index: -1
+num clock/so dong ho copy 11
+  rotate: false
+  xy: 181, 156
+  size: 83, 72
+  orig: 85, 74
+  offset: 1, 1
+  index: -1
+num clock/so dong ho copy 12
+  rotate: false
+  xy: 181, 230
+  size: 84, 73
+  orig: 86, 75
+  offset: 1, 1
+  index: -1
+num clock/so dong ho copy 13
+  rotate: false
+  xy: 2, 151
+  size: 85, 71
+  orig: 87, 73
+  offset: 1, 1
+  index: -1
+num clock/so dong ho copy 14
+  rotate: false
+  xy: 94, 156
+  size: 85, 72
+  orig: 87, 74
+  offset: 1, 1
+  index: -1
+num clock/so dong ho copy 2
+  rotate: true
+  xy: 2, 51
+  size: 47, 73
+  orig: 49, 75
+  offset: 1, 1
+  index: -1
+num clock/so dong ho copy 3
+  rotate: true
+  xy: 2, 100
+  size: 49, 71
+  orig: 51, 73
+  offset: 1, 1
+  index: -1
+num clock/so dong ho copy 4
+  rotate: false
+  xy: 162, 82
+  size: 47, 72
+  orig: 49, 74
+  offset: 1, 1
+  index: -1
+num clock/so dong ho copy 5
+  rotate: true
+  xy: 2, 2
+  size: 47, 73
+  orig: 49, 75
+  offset: 1, 1
+  index: -1
+num clock/so dong ho copy 6
+  rotate: false
+  xy: 211, 83
+  size: 39, 71
+  orig: 41, 73
+  offset: 1, 1
+  index: -1
+num clock/so dong ho copy 7
+  rotate: false
+  xy: 77, 7
+  size: 47, 73
+  orig: 49, 75
+  offset: 1, 1
+  index: -1
+num clock/so dong ho copy 8
+  rotate: false
+  xy: 126, 7
+  size: 47, 73
+  orig: 49, 75
+  offset: 1, 1
+  index: -1
+num clock/so dong ho copy 9
+  rotate: false
+  xy: 94, 230
+  size: 85, 73
+  orig: 87, 75
+  offset: 1, 1
+  index: -1

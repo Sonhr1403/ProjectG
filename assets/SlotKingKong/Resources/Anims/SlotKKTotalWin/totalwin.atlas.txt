@@ -1,0 +1,41 @@
+
+totalwin.png
+size: 1313,445
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: false
+  xy: 768, 2
+  size: 543, 441
+  orig: 1456, 700
+  offset: 472, 117
+  index: -1
+number
+  rotate: false
+  xy: 2, 442
+  size: 1, 1
+  orig: 1156, 78
+  offset: 540, 45
+  index: -1
+totalwin
+  rotate: false
+  xy: 2, 31
+  size: 764, 169
+  orig: 2080, 1000
+  offset: 648, 400
+  index: -1
+totalwin3
+  rotate: false
+  xy: 5, 338
+  size: 698, 105
+  orig: 2080, 1000
+  offset: 687, 485
+  index: -1
+totalwin4
+  rotate: false
+  xy: 2, 202
+  size: 695, 134
+  orig: 697, 139
+  offset: 0, 1
+  index: -1

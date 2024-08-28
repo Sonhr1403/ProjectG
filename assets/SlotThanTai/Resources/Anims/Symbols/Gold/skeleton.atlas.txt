@@ -1,0 +1,167 @@
+
+skeleton.png
+size: 663,511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+p_u_img4_en.png/file_19
+  rotate: false
+  xy: 2, 291
+  size: 215, 218
+  orig: 218, 219
+  offset: 2, 1
+  index: -1
+p_u_img4_en.png/file_21
+  rotate: false
+  xy: 2, 80
+  size: 215, 209
+  orig: 218, 214
+  offset: 2, 3
+  index: -1
+p_u_img4_en.png/gold_05
+  rotate: true
+  xy: 2, 10
+  size: 68, 106
+  orig: 250, 250
+  offset: 17, 131
+  index: -1
+p_u_img4_en.png/gold_06
+  rotate: true
+  xy: 372, 23
+  size: 97, 136
+  orig: 250, 250
+  offset: 12, 102
+  index: -1
+p_u_img4_en.png/gold_07
+  rotate: false
+  xy: 529, 348
+  size: 120, 161
+  orig: 250, 250
+  offset: 12, 77
+  index: -1
+p_u_img4_en.png/gold_08
+  rotate: false
+  xy: 372, 122
+  size: 141, 184
+  orig: 250, 250
+  offset: 15, 54
+  index: -1
+p_u_img4_en.png/gold_09
+  rotate: false
+  xy: 369, 308
+  size: 158, 201
+  orig: 250, 250
+  offset: 25, 36
+  index: -1
+p_u_img4_en.png/gold_10
+  rotate: false
+  xy: 219, 297
+  size: 148, 212
+  orig: 250, 250
+  offset: 42, 24
+  index: -1
+p_u_img4_en.png/gold_11
+  rotate: false
+  xy: 219, 100
+  size: 151, 195
+  orig: 250, 250
+  offset: 64, 18
+  index: -1
+p_u_img4_en.png/gold_12
+  rotate: false
+  xy: 515, 157
+  size: 145, 149
+  orig: 250, 250
+  offset: 88, 18
+  index: -1
+p_u_img4_en.png/gold_13
+  rotate: true
+  xy: 515, 32
+  size: 123, 146
+  orig: 250, 250
+  offset: 114, 19
+  index: -1
+p_u_img4_en.png/gold_14
+  rotate: true
+  xy: 219, 2
+  size: 96, 126
+  orig: 250, 250
+  offset: 141, 22
+  index: -1
+p_u_img4_en.png/gold_15
+  rotate: true
+  xy: 110, 11
+  size: 67, 89
+  orig: 250, 250
+  offset: 167, 30
+  index: -1
+p_u_img4_en.png/gold_16
+  rotate: false
+  xy: 529, 332
+  size: 10, 14
+  orig: 250, 250
+  offset: 207, 57
+  index: -1
+p_u_img4_en.png/gold_20
+  rotate: false
+  xy: 369, 305
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+p_u_img4_en.png/gold_00
+  rotate: false
+  xy: 369, 305
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+p_u_img4_en.png/gold_01
+  rotate: false
+  xy: 369, 305
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+p_u_img4_en.png/gold_02
+  rotate: false
+  xy: 369, 305
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+p_u_img4_en.png/gold_03
+  rotate: false
+  xy: 369, 305
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+p_u_img4_en.png/gold_04
+  rotate: false
+  xy: 369, 305
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+p_u_img4_en.png/gold_17
+  rotate: false
+  xy: 369, 305
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+p_u_img4_en.png/gold_18
+  rotate: false
+  xy: 369, 305
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+p_u_img4_en.png/gold_19
+  rotate: false
+  xy: 369, 305
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

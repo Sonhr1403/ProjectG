@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "667a6586-6cdb-4e07-9c3b-53b352c65cdf",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 154,
+  "height": 153,
+  "platformSettings": {},
+  "subMetas": {
+    "thong tin user khac - avatar mac dinh": {
+      "ver": "1.0.6",
+      "uuid": "e7239fee-a9dc-4999-9ecd-c0df70bbc65a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "667a6586-6cdb-4e07-9c3b-53b352c65cdf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 154,
+      "height": 153,
+      "rawWidth": 154,
+      "rawHeight": 153,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

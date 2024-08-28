@@ -1,0 +1,20 @@
+
+mini-load.png
+size: 111,58
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg-miniload
+  rotate: false
+  xy: 2, 2
+  size: 54, 54
+  orig: 56, 56
+  offset: 1, 1
+  index: -1
+loadd
+  rotate: true
+  xy: 58, 3
+  size: 53, 51
+  orig: 55, 58
+  offset: 1, 1
+  index: -1

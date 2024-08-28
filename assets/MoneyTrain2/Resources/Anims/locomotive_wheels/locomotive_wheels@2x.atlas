@@ -1,0 +1,55 @@
+
+locomotive_wheels@2x.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+handle_A
+  rotate: false
+  xy: 1088, 433
+  size: 300, 55
+  orig: 302, 57
+  offset: 1, 1
+  index: -1
+handle_B
+  rotate: false
+  xy: 2, 2
+  size: 404, 55
+  orig: 406, 57
+  offset: 1, 1
+  index: -1
+handle_BIG
+  rotate: false
+  xy: 434, 433
+  size: 652, 55
+  orig: 654, 57
+  offset: 1, 1
+  index: -1
+weel_right_a
+  rotate: false
+  xy: 943, 180
+  size: 250, 251
+  orig: 252, 253
+  offset: 1, 1
+  index: -1
+wheel_left_a
+  rotate: false
+  xy: 2, 59
+  size: 430, 429
+  orig: 432, 431
+  offset: 1, 1
+  index: -1
+wheel_left_b
+  rotate: false
+  xy: 434, 179
+  size: 254, 252
+  orig: 256, 254
+  offset: 1, 1
+  index: -1
+wheel_right_b
+  rotate: false
+  xy: 690, 180
+  size: 251, 251
+  orig: 253, 253
+  offset: 1, 1
+  index: -1

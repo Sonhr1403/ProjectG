@@ -1,0 +1,27 @@
+
+traitim.png
+size: 158,93
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tim1
+  rotate: false
+  xy: 2, 2
+  size: 108, 89
+  orig: 108, 89
+  offset: 0, 0
+  index: -1
+tim2
+  rotate: true
+  xy: 112, 41
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+tim3
+  rotate: false
+  xy: 112, 8
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1

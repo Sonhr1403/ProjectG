@@ -1,0 +1,273 @@
+{
+  "frames": {
+    "sceneFgrPyramids0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 1579,
+        "h": 538
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 1579,
+        "h": 538
+      },
+      "sourceSize": {
+        "w": 1575,
+        "h": 534
+      }
+    },
+    "paytable1Pyramid": {
+      "frame": {
+        "x": 0,
+        "y": 538,
+        "w": 1390,
+        "h": 520
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 1390,
+        "h": 520
+      },
+      "sourceSize": {
+        "w": 1386,
+        "h": 516
+      }
+    },
+    "sceneSlotLightningR": {
+      "frame": {
+        "x": 520,
+        "y": 538,
+        "w": 557,
+        "h": 1267
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 557,
+        "h": 1267
+      },
+      "sourceSize": {
+        "w": 553,
+        "h": 1263
+      }
+    },
+    "sceneSlotPlanetGow0": {
+      "frame": {
+        "x": 1077,
+        "y": 538,
+        "w": 1189,
+        "h": 954
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 56,
+        "y": 15,
+        "w": 1189,
+        "h": 954
+      },
+      "sourceSize": {
+        "w": 1269,
+        "h": 1129
+      }
+    },
+    "paytable1Smoke": {
+      "frame": {
+        "x": 1077,
+        "y": 1727,
+        "w": 754,
+        "h": 306
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 754,
+        "h": 306
+      },
+      "sourceSize": {
+        "w": 750,
+        "h": 302
+      }
+    },
+    "paytable1GoldSand": {
+      "frame": {
+        "x": 0,
+        "y": 1928,
+        "w": 580,
+        "h": 91
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 580,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 87
+      }
+    },
+    "paytable1Lightning": {
+      "frame": {
+        "x": 1579,
+        "y": 0,
+        "w": 249,
+        "h": 538
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 249,
+        "h": 538
+      },
+      "sourceSize": {
+        "w": 245,
+        "h": 534
+      }
+    },
+    "paytable1Top": {
+      "frame": {
+        "x": 1828,
+        "y": 0,
+        "w": 504,
+        "h": 163
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 504,
+        "h": 163
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 159
+      }
+    },
+    "logoLine": {
+      "frame": {
+        "x": 580,
+        "y": 1805,
+        "w": 487,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 487,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 483,
+        "h": 83
+      }
+    },
+    "shineWhite": {
+      "frame": {
+        "x": 580,
+        "y": 1892,
+        "w": 133,
+        "h": 334
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 133,
+        "h": 334
+      },
+      "sourceSize": {
+        "w": 129,
+        "h": 330
+      }
+    },
+    "paytableTitleShine1": {
+      "frame": {
+        "x": 1831,
+        "y": 1727,
+        "w": 315,
+        "h": 102
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 60,
+        "y": 29,
+        "w": 315,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 165
+      }
+    },
+    "paytable1TextPlateShine1": {
+      "frame": {
+        "x": 1933,
+        "y": 1727,
+        "w": 315,
+        "h": 101
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 46,
+        "y": 21,
+        "w": 315,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 554,
+        "h": 144
+      }
+    },
+    "paytablePyramidTopShine3": {
+      "frame": {
+        "x": 914,
+        "y": 1892,
+        "w": 160,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 136,
+        "y": 18,
+        "w": 160,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 304,
+        "h": 186
+      }
+    }
+  },
+  "meta": {
+    "app": "PixiAnimate",
+    "scale": 1,
+    "image": "loader_core_default_atlas_1.png?c=1672fd98ac",
+    "size": {
+      "w": 2048,
+      "h": 2048
+    }
+  }
+}

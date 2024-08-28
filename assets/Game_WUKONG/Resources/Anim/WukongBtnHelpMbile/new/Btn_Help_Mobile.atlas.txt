@@ -1,0 +1,13 @@
+
+Btn_Help_Mobile.png
+size: 58,76
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI/Icon_Help
+  rotate: false
+  xy: 2, 2
+  size: 54, 72
+  orig: 54, 72
+  offset: 0, 0
+  index: -1

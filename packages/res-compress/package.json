@@ -1,0 +1,25 @@
+{
+  "name": "res-compress",
+  "version": "0.0.1",
+  "description": "Ahihi",
+  "author": "F.L.I.X",
+  "main": "main.js",
+  "main-menu": {
+    "i18n:MAIN_MENU.package.title/i18n:res-compress.title": {
+      "message": "res-compress:open",
+      "accelerator": "CmdOrCtrl+Shift+m"
+    }
+  },
+  "panel": {
+    "main": "panel/index.js",
+    "type": "dockable",
+    "title": "Compress",
+    "engineSupport": true,
+    "width": 400,
+    "height": 300
+  },
+  "dependencies": {
+    "is-jpg": "^2.0.0",
+    "is-png": "^2.0.0"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "frames": {
+    "paytable1Text": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 924,
+        "h": 43
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 45,
+        "w": 924,
+        "h": 43
+      },
+      "sourceSize": {
+        "w": 990,
+        "h": 126
+      }
+    },
+    "paytable5Title": {
+      "frame": {
+        "x": 924,
+        "y": 0,
+        "w": 622,
+        "h": 69
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -1,
+        "y": 26,
+        "w": 622,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 622,
+        "h": 113
+      }
+    },
+    "paytable2Title": {
+      "frame": {
+        "x": 0,
+        "y": 43,
+        "w": 597,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 24,
+        "w": 597,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 622,
+        "h": 113
+      }
+    },
+    "paytable6Title": {
+      "frame": {
+        "x": 597,
+        "y": 43,
+        "w": 519,
+        "h": 70
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 51,
+        "y": 24,
+        "w": 519,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 622,
+        "h": 113
+      }
+    },
+    "logo": {
+      "frame": {
+        "x": 1546,
+        "y": 0,
+        "w": 487,
+        "h": 181
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 51,
+        "y": 3,
+        "w": 487,
+        "h": 181
+      },
+      "sourceSize": {
+        "w": 588,
+        "h": 194
+      }
+    },
+    "paytable3Title": {
+      "frame": {
+        "x": 0,
+        "y": 113,
+        "w": 440,
+        "h": 68
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 90,
+        "y": 25,
+        "w": 440,
+        "h": 68
+      },
+      "sourceSize": {
+        "w": 622,
+        "h": 113
+      }
+    },
+    "paytable4Title": {
+      "frame": {
+        "x": 667,
+        "y": 43,
+        "w": 177,
+        "h": 68
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 222,
+        "y": 26,
+        "w": 177,
+        "h": 68
+      },
+      "sourceSize": {
+        "w": 622,
+        "h": 113
+      }
+    }
+  },
+  "meta": {
+    "app": "PixiAnimate",
+    "scale": 1,
+    "image": "loader_default_atlas_0.png?c=e8e440b84f",
+    "size": {
+      "w": 2048,
+      "h": 1024
+    }
+  }
+}

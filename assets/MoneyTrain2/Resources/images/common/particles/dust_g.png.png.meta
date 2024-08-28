@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a663d9b0-07db-4825-95ee-21d703de2623",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 148,
+  "height": 150,
+  "platformSettings": {},
+  "subMetas": {
+    "dust_g.png": {
+      "ver": "1.0.6",
+      "uuid": "8cdc9d8e-c74d-441e-92a2-d46a169f06a7",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a663d9b0-07db-4825-95ee-21d703de2623",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 1,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 147,
+      "height": 146,
+      "rawWidth": 148,
+      "rawHeight": 150,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "266ae2d4-0372-4213-a0cb-77e0e0c93516",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 559,
+  "height": 559,
+  "platformSettings": {},
+  "subMetas": {
+    "UTM Futura Extra - font so bang bingo": {
+      "ver": "1.0.6",
+      "uuid": "50b61afe-4d49-43bc-b4c4-c5ff0238050a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "266ae2d4-0372-4213-a0cb-77e0e0c93516",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 557,
+      "height": 557,
+      "rawWidth": 559,
+      "rawHeight": 559,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

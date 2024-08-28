@@ -1,0 +1,41 @@
+
+table.png
+size: 1205,1829
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 12
+  rotate: true
+  xy: 766, 328
+  size: 438, 437
+  orig: 440, 439
+  offset: 1, 1
+  index: -1
+Group 14 copy
+  rotate: true
+  xy: 766, 2
+  size: 324, 325
+  orig: 326, 327
+  offset: 1, 1
+  index: -1
+Group 6
+  rotate: false
+  xy: 2, 3
+  size: 762, 763
+  orig: 764, 765
+  offset: 1, 1
+  index: -1
+Group 8
+  rotate: false
+  xy: 2, 768
+  size: 1061, 1059
+  orig: 1063, 1062
+  offset: 1, 1
+  index: -1
+Layer 1468
+  rotate: false
+  xy: 1065, 1788
+  size: 39, 39
+  orig: 41, 41
+  offset: 1, 1
+  index: -1

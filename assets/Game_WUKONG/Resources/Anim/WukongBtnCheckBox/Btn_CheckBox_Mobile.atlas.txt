@@ -1,0 +1,20 @@
+
+Btn_CheckBox_Mobile.png
+size: 266,58
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Image/Btn_Radio
+  rotate: false
+  xy: 2, 2
+  size: 130, 54
+  orig: 130, 54
+  offset: 0, 0
+  index: -1
+Image/Btn_Radio_D
+  rotate: false
+  xy: 134, 2
+  size: 130, 54
+  orig: 130, 54
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+sanji.png
+size: 407,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 11
+  rotate: false
+  xy: 155, 127
+  size: 150, 139
+  orig: 150, 139
+  offset: 0, 0
+  index: -1
+Layer 287
+  rotate: true
+  xy: 391, 80
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+Layer 306
+  rotate: true
+  xy: 130, 21
+  size: 99, 85
+  orig: 99, 86
+  offset: 0, 1
+  index: -1
+Layer 308
+  rotate: true
+  xy: 307, 133
+  size: 133, 98
+  orig: 133, 98
+  offset: 0, 0
+  index: -1
+Layer 334 copy
+  rotate: false
+  xy: 344, 19
+  size: 45, 51
+  orig: 45, 51
+  offset: 0, 0
+  index: -1
+Layer 685
+  rotate: true
+  xy: 391, 102
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+Layer 688
+  rotate: false
+  xy: 130, 8
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+Layer 780
+  rotate: false
+  xy: 158, 8
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+Layer 782
+  rotate: true
+  xy: 391, 58
+  size: 20, 6
+  orig: 20, 6
+  offset: 0, 0
+  index: -1
+Layer 783
+  rotate: false
+  xy: 307, 127
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+Layer 784
+  rotate: false
+  xy: 217, 43
+  size: 71, 82
+  orig: 71, 82
+  offset: 0, 0
+  index: -1
+Layer 787
+  rotate: false
+  xy: 265, 4
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+Layer 788 copy
+  rotate: false
+  xy: 344, 72
+  size: 45, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1
+Layer 789
+  rotate: false
+  xy: 217, 10
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+Layer 790
+  rotate: false
+  xy: 290, 46
+  size: 52, 79
+  orig: 56, 82
+  offset: 0, 1
+  index: -1
+khung xanh bien copy
+  rotate: false
+  xy: 2, 2
+  size: 126, 118
+  orig: 126, 118
+  offset: 0, 0
+  index: -1
+sanji blur_00
+  rotate: false
+  xy: 2, 122
+  size: 151, 144
+  orig: 210, 210
+  offset: 31, 33
+  index: -1

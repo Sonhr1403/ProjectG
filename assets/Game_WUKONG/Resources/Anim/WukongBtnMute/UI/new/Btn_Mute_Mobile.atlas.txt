@@ -1,0 +1,20 @@
+
+Btn_Mute_Mobile.png
+size: 172,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI/BG_Icons
+  rotate: false
+  xy: 2, 2
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+UI/Icon_Sound_02
+  rotate: true
+  xy: 116, 42
+  size: 72, 54
+  orig: 72, 54
+  offset: 0, 0
+  index: -1

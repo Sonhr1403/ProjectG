@@ -1,0 +1,83 @@
+
+transition_spine.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tran_00
+  rotate: false
+  xy: 2, 546
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+tran_01
+  rotate: false
+  xy: 2, 274
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+tran_02
+  rotate: false
+  xy: 484, 546
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+tran_03
+  rotate: false
+  xy: 2, 2
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+tran_04
+  rotate: false
+  xy: 484, 274
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+tran_05
+  rotate: false
+  xy: 966, 546
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+tran_06
+  rotate: false
+  xy: 484, 2
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+tran_07
+  rotate: false
+  xy: 966, 274
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+tran_08
+  rotate: false
+  xy: 1448, 546
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+tran_09
+  rotate: false
+  xy: 966, 2
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+tran_10
+  rotate: false
+  xy: 1448, 274
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1

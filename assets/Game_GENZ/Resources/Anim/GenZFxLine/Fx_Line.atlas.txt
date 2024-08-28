@@ -1,0 +1,27 @@
+
+Fx_Line.png
+size: 1250,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FxLine/Line_Back
+  rotate: true
+  xy: 2, 2
+  size: 201, 562
+  orig: 203, 575
+  offset: 1, 9
+  index: -1
+FxLine/Line_GraBack
+  rotate: true
+  xy: 566, 24
+  size: 179, 548
+  orig: 203, 575
+  offset: 13, 11
+  index: -1
+Symbols/Symbol_glow
+  rotate: false
+  xy: 1116, 43
+  size: 132, 160
+  orig: 200, 200
+  offset: 33, 20
+  index: -1

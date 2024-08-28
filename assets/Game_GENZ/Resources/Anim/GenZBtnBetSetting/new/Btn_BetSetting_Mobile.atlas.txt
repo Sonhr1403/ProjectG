@@ -1,0 +1,27 @@
+
+Btn_BetSetting_Mobile.png
+size: 469,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG/PosDummy
+  rotate: false
+  xy: 2, 141
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+UI/Btn_Back
+  rotate: false
+  xy: 5, 2
+  size: 230, 140
+  orig: 230, 140
+  offset: 0, 0
+  index: -1
+UI/Btn_Frame
+  rotate: false
+  xy: 237, 2
+  size: 230, 140
+  orig: 230, 140
+  offset: 0, 0
+  index: -1

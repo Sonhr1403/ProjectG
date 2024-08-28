@@ -1,0 +1,20 @@
+
+coin_up.png
+size: 158,192
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ske_light
+  rotate: false
+  xy: 2, 82
+  size: 147, 108
+  orig: 147, 108
+  offset: 0, 0
+  index: -1
+ske_phinh
+  rotate: false
+  xy: 2, 2
+  size: 154, 78
+  orig: 154, 78
+  offset: 0, 0
+  index: -1

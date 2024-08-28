@@ -1,0 +1,27 @@
+
+front_wheel@2x.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+grill_left
+  rotate: true
+  xy: 2, 55
+  size: 367, 526
+  orig: 367, 526
+  offset: 0, 0
+  index: -1
+wheel_left
+  rotate: false
+  xy: 530, 140
+  size: 282, 282
+  orig: 282, 282
+  offset: 0, 0
+  index: -1
+wheel_left_light
+  rotate: true
+  xy: 2, 2
+  size: 51, 197
+  orig: 51, 197
+  offset: 0, 0
+  index: -1

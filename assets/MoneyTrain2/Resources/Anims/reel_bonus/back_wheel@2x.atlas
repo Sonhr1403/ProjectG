@@ -1,0 +1,34 @@
+
+back_wheel@2x.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+grill_right
+  rotate: true
+  xy: 809, 73
+  size: 331, 431
+  orig: 331, 431
+  offset: 0, 0
+  index: -1
+wheel_right
+  rotate: false
+  xy: 2, 2
+  size: 402, 402
+  orig: 402, 402
+  offset: 0, 0
+  index: -1
+wheel_right_light_bootom
+  rotate: false
+  xy: 1242, 74
+  size: 343, 330
+  orig: 343, 330
+  offset: 0, 0
+  index: -1
+wheel_right_shadow
+  rotate: false
+  xy: 406, 2
+  size: 401, 402
+  orig: 401, 402
+  offset: 0, 0
+  index: -1

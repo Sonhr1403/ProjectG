@@ -1,0 +1,55 @@
+
+bongnuoc.png
+size: 291,535
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b1
+  rotate: false
+  xy: 171, 303
+  size: 96, 94
+  orig: 98, 96
+  offset: 1, 1
+  index: -1
+b2
+  rotate: false
+  xy: 128, 2
+  size: 137, 133
+  orig: 202, 187
+  offset: 35, 0
+  index: -1
+b3
+  rotate: true
+  xy: 171, 399
+  size: 134, 118
+  orig: 202, 187
+  offset: 44, 9
+  index: -1
+b4
+  rotate: true
+  xy: 2, 174
+  size: 193, 132
+  orig: 202, 187
+  offset: 0, 20
+  index: -1
+b5
+  rotate: true
+  xy: 2, 369
+  size: 164, 167
+  orig: 202, 187
+  offset: 38, 20
+  index: -1
+b6
+  rotate: true
+  xy: 2, 15
+  size: 157, 124
+  orig: 202, 187
+  offset: 32, 28
+  index: -1
+b7
+  rotate: true
+  xy: 136, 137
+  size: 164, 142
+  orig: 202, 187
+  offset: 27, 34
+  index: -1

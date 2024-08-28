@@ -1,0 +1,160 @@
+
+FreeSpin_Count.png
+size: 1005,1064
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fx/FreeSpinCount_1
+  rotate: false
+  xy: 903, 613
+  size: 100, 449
+  orig: 125, 474
+  offset: 12, 13
+  index: -1
+Fx/FreeSpinCount_1_G
+  rotate: false
+  xy: 781, 596
+  size: 120, 466
+  orig: 125, 474
+  offset: 2, 4
+  index: -1
+Fx/FreeSpinCount_2
+  rotate: false
+  xy: 340, 174
+  size: 120, 420
+  orig: 145, 445
+  offset: 12, 13
+  index: -1
+Fx/FreeSpinCount_2_G
+  rotate: false
+  xy: 641, 624
+  size: 138, 438
+  orig: 145, 445
+  offset: 3, 4
+  index: -1
+Fx/FreeSpinCount_3
+  rotate: false
+  xy: 500, 614
+  size: 139, 448
+  orig: 164, 473
+  offset: 12, 13
+  index: -1
+Fx/FreeSpinCount_3_G
+  rotate: false
+  xy: 340, 596
+  size: 158, 466
+  orig: 164, 473
+  offset: 2, 4
+  index: -1
+Fx/FreeSpin_BG_G
+  rotate: false
+  xy: 2, 702
+  size: 336, 360
+  orig: 336, 360
+  offset: 0, 0
+  index: -1
+Fx/FreeSpin_BG_G2
+  rotate: false
+  xy: 2, 340
+  size: 336, 360
+  orig: 336, 360
+  offset: 0, 0
+  index: -1
+Fx/FreeSpin_BG_G3
+  rotate: false
+  xy: 2, 26
+  size: 292, 312
+  orig: 336, 360
+  offset: 22, 24
+  index: -1
+Fx/FreeSpin_Count_1
+  rotate: false
+  xy: 844, 57
+  size: 45, 95
+  orig: 46, 95
+  offset: 1, 0
+  index: -1
+Fx/FreeSpin_Count_1_G
+  rotate: true
+  xy: 401, 13
+  size: 69, 118
+  orig: 69, 143
+  offset: 0, 13
+  index: -1
+Fx/FreeSpin_Count_1_Main
+  rotate: false
+  xy: 910, 370
+  size: 87, 241
+  orig: 92, 246
+  offset: 3, 2
+  index: -1
+Fx/FreeSpin_Count_2
+  rotate: false
+  xy: 764, 55
+  size: 78, 97
+  orig: 79, 98
+  offset: 0, 1
+  index: -1
+Fx/FreeSpin_Count_2_G
+  rotate: true
+  xy: 642, 51
+  size: 101, 120
+  orig: 119, 147
+  offset: 9, 15
+  index: -1
+Fx/FreeSpin_Count_2_Main_1
+  rotate: false
+  xy: 910, 128
+  size: 88, 240
+  orig: 95, 250
+  offset: 3, 6
+  index: -1
+Fx/FreeSpin_Count_2_Main_2
+  rotate: true
+  xy: 401, 84
+  size: 68, 239
+  orig: 76, 250
+  offset: 3, 5
+  index: -1
+Fx/FreeSpin_Count_3
+  rotate: true
+  xy: 521, 2
+  size: 80, 99
+  orig: 80, 100
+  offset: 0, 1
+  index: -1
+Fx/FreeSpin_Count_3_G
+  rotate: false
+  xy: 296, 50
+  size: 103, 122
+  orig: 120, 150
+  offset: 8, 15
+  index: -1
+Fx/FreeSpin_Count_BG_1
+  rotate: false
+  xy: 462, 154
+  size: 110, 440
+  orig: 110, 440
+  offset: 0, 0
+  index: -1
+Fx/FreeSpin_Count_BG_2
+  rotate: false
+  xy: 574, 172
+  size: 110, 440
+  orig: 110, 440
+  offset: 0, 0
+  index: -1
+Fx/FreeSpin_Count_BG_3
+  rotate: false
+  xy: 686, 154
+  size: 110, 440
+  orig: 110, 440
+  offset: 0, 0
+  index: -1
+Fx/FreeSpin_Count_BG_Frame
+  rotate: false
+  xy: 798, 154
+  size: 110, 440
+  orig: 110, 440
+  offset: 0, 0
+  index: -1

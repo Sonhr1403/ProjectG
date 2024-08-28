@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "6cd66f39-0e12-4ed5-9dc0-11772a32d2a2",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 287,
+  "height": 449,
+  "platformSettings": {},
+  "subMetas": {
+    "khung betting poket": {
+      "ver": "1.0.6",
+      "uuid": "9ca98ac3-9564-4fa8-9814-4ec9bcb2557c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "6cd66f39-0e12-4ed5-9dc0-11772a32d2a2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 287,
+      "height": 449,
+      "rawWidth": 287,
+      "rawHeight": 449,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

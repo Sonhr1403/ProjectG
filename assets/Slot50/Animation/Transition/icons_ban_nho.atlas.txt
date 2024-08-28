@@ -1,0 +1,454 @@
+
+icons_ban_nho.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Transition finish_00
+  rotate: false
+  xy: 2, 912
+  size: 16, 1
+  orig: 240, 135
+  offset: 22, 0
+  index: -1
+Transition finish_01
+  rotate: false
+  xy: 489, 853
+  size: 240, 60
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition finish_02
+  rotate: false
+  xy: 1253, 825
+  size: 240, 88
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition finish_03
+  rotate: false
+  xy: 210, 732
+  size: 240, 123
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition finish_04
+  rotate: false
+  xy: 452, 716
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition finish_05
+  rotate: false
+  xy: 694, 695
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition finish_06
+  rotate: false
+  xy: 936, 693
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition finish_07
+  rotate: false
+  xy: 1178, 688
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition finish_08
+  rotate: false
+  xy: 1587, 665
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition finish_09
+  rotate: false
+  xy: 2, 595
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition finish_10
+  rotate: false
+  xy: 244, 579
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition finish_11
+  rotate: false
+  xy: 486, 558
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition finish_12
+  rotate: false
+  xy: 728, 556
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition finish_13
+  rotate: false
+  xy: 970, 551
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition finish_14
+  rotate: false
+  xy: 1212, 550
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition finish_15
+  rotate: false
+  xy: 1454, 528
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition finish_16
+  rotate: false
+  xy: 1696, 520
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition finish_17
+  rotate: false
+  xy: 2, 458
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition finish_18
+  rotate: false
+  xy: 1420, 687
+  size: 165, 135
+  orig: 240, 135
+  offset: 75, 0
+  index: -1
+Transition finish_19
+  rotate: true
+  xy: 1873, 794
+  size: 119, 134
+  orig: 240, 135
+  offset: 121, 1
+  index: -1
+Transition finish_20
+  rotate: false
+  xy: 373, 857
+  size: 114, 56
+  orig: 240, 135
+  offset: 126, 79
+  index: -1
+Transition finish_21
+  rotate: false
+  xy: 73, 884
+  size: 108, 29
+  orig: 240, 135
+  offset: 131, 93
+  index: -1
+Transition finish_22
+  rotate: true
+  xy: 20, 910
+  size: 3, 4
+  orig: 240, 135
+  offset: 172, 101
+  index: -1
+Transition stage_00
+  rotate: false
+  xy: 244, 442
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition stage_01
+  rotate: false
+  xy: 183, 882
+  size: 42, 31
+  orig: 240, 135
+  offset: 0, 104
+  index: -1
+Transition stage_02
+  rotate: false
+  xy: 227, 878
+  size: 71, 35
+  orig: 240, 135
+  offset: 0, 100
+  index: -1
+Transition stage_03
+  rotate: false
+  xy: 731, 853
+  size: 108, 60
+  orig: 240, 135
+  offset: 0, 75
+  index: -1
+Transition stage_04
+  rotate: false
+  xy: 1495, 824
+  size: 154, 89
+  orig: 240, 135
+  offset: 0, 46
+  index: -1
+Transition stage_05
+  rotate: false
+  xy: 2, 768
+  size: 206, 112
+  orig: 240, 135
+  offset: 0, 23
+  index: -1
+Transition stage_06
+  rotate: false
+  xy: 1829, 657
+  size: 213, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition stage_07
+  rotate: false
+  xy: 486, 421
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition stage_08
+  rotate: false
+  xy: 728, 419
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition stage_09
+  rotate: false
+  xy: 970, 414
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition stage_10
+  rotate: false
+  xy: 1212, 413
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition stage_11
+  rotate: false
+  xy: 1454, 391
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition stage_12
+  rotate: false
+  xy: 1696, 383
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition stage_13
+  rotate: false
+  xy: 2, 321
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition stage_14
+  rotate: false
+  xy: 244, 305
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition stage_15
+  rotate: false
+  xy: 486, 284
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition stage_16
+  rotate: false
+  xy: 728, 282
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition stage_17
+  rotate: false
+  xy: 970, 277
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition stage_18
+  rotate: false
+  xy: 1212, 276
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition stage_19
+  rotate: false
+  xy: 1454, 254
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition stage_20
+  rotate: false
+  xy: 1696, 246
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition stage_21
+  rotate: false
+  xy: 2, 184
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition stage_22
+  rotate: false
+  xy: 244, 168
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition stage_23
+  rotate: false
+  xy: 486, 147
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition stage_24
+  rotate: false
+  xy: 728, 145
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition stage_25
+  rotate: false
+  xy: 970, 140
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition stage_26
+  rotate: false
+  xy: 1212, 139
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition stage_27
+  rotate: false
+  xy: 1454, 117
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition stage_28
+  rotate: false
+  xy: 1696, 109
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition stage_29
+  rotate: false
+  xy: 2, 47
+  size: 240, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition stage_30
+  rotate: false
+  xy: 244, 31
+  size: 239, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition stage_31
+  rotate: false
+  xy: 485, 10
+  size: 238, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition stage_32
+  rotate: false
+  xy: 725, 8
+  size: 229, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition stage_33
+  rotate: false
+  xy: 956, 3
+  size: 231, 135
+  orig: 240, 135
+  offset: 0, 0
+  index: -1
+Transition stage_34
+  rotate: false
+  xy: 1189, 2
+  size: 229, 135
+  orig: 240, 135
+  offset: 1, 0
+  index: -1
+Transition stage_35
+  rotate: false
+  xy: 1651, 802
+  size: 220, 111
+  orig: 240, 135
+  offset: 7, 0
+  index: -1
+Transition stage_36
+  rotate: false
+  xy: 1037, 830
+  size: 214, 83
+  orig: 240, 135
+  offset: 9, 0
+  index: -1
+Transition stage_37
+  rotate: false
+  xy: 841, 832
+  size: 194, 81
+  orig: 240, 135
+  offset: 10, 0
+  index: -1
+Transition stage_38
+  rotate: true
+  xy: 300, 872
+  size: 41, 71
+  orig: 240, 135
+  offset: 86, 3
+  index: -1
+Transition stage_39
+  rotate: true
+  xy: 33, 888
+  size: 25, 38
+  orig: 240, 135
+  offset: 95, 27
+  index: -1
+Transition stage_40
+  rotate: false
+  xy: 26, 908
+  size: 5, 5
+  orig: 240, 135
+  offset: 110, 53
+  index: -1

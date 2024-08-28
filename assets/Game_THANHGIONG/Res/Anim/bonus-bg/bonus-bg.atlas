@@ -1,0 +1,13 @@
+
+bonus-bg.png
+size: 302,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonus_bg-cloud
+  rotate: false
+  xy: 1, 1
+  size: 300, 140
+  orig: 300, 143
+  offset: 0, 1
+  index: -1

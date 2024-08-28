@@ -1,0 +1,363 @@
+
+Symbol_ls2.png
+size: 1819,1160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Symbols/Win_Effect_1
+  rotate: true
+  xy: 274, 967
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_10
+  rotate: true
+  xy: 466, 388
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_11
+  rotate: true
+  xy: 466, 195
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_12
+  rotate: true
+  xy: 466, 2
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_13
+  rotate: true
+  xy: 658, 967
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_14
+  rotate: true
+  xy: 658, 774
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_15
+  rotate: true
+  xy: 658, 581
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_16
+  rotate: true
+  xy: 658, 388
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_17
+  rotate: true
+  xy: 658, 195
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_18
+  rotate: true
+  xy: 658, 2
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_19
+  rotate: false
+  xy: 850, 968
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_2
+  rotate: true
+  xy: 274, 774
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_20
+  rotate: false
+  xy: 1043, 968
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_21
+  rotate: false
+  xy: 1236, 968
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_22
+  rotate: false
+  xy: 1429, 968
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_23
+  rotate: false
+  xy: 1622, 968
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_24
+  rotate: true
+  xy: 850, 775
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_25
+  rotate: true
+  xy: 850, 582
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_26
+  rotate: true
+  xy: 850, 389
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_27
+  rotate: true
+  xy: 850, 196
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_28
+  rotate: true
+  xy: 850, 3
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_29
+  rotate: false
+  xy: 1042, 776
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_3
+  rotate: true
+  xy: 274, 581
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_30
+  rotate: false
+  xy: 1235, 776
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_31
+  rotate: false
+  xy: 1428, 776
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_32
+  rotate: false
+  xy: 1621, 776
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_33
+  rotate: true
+  xy: 1042, 583
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_34
+  rotate: true
+  xy: 1042, 390
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_35
+  rotate: true
+  xy: 1042, 197
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_36
+  rotate: true
+  xy: 1042, 4
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_37
+  rotate: false
+  xy: 1234, 584
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_38
+  rotate: false
+  xy: 1427, 584
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_39
+  rotate: false
+  xy: 1620, 584
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_4
+  rotate: true
+  xy: 274, 388
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_40
+  rotate: true
+  xy: 1234, 391
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_41
+  rotate: true
+  xy: 1234, 198
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_42
+  rotate: true
+  xy: 1234, 5
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_43
+  rotate: false
+  xy: 1426, 392
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_44
+  rotate: false
+  xy: 1619, 392
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_45
+  rotate: true
+  xy: 1426, 199
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_46
+  rotate: true
+  xy: 1426, 6
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_5
+  rotate: true
+  xy: 274, 195
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_6
+  rotate: true
+  xy: 274, 2
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_7
+  rotate: true
+  xy: 466, 967
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_8
+  rotate: true
+  xy: 466, 774
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/Win_Effect_9
+  rotate: true
+  xy: 466, 581
+  size: 191, 190
+  orig: 198, 198
+  offset: 3, 3
+  index: -1
+Symbols/ls2
+  rotate: true
+  xy: 1618, 270
+  size: 120, 199
+  orig: 120, 199
+  offset: 0, 0
+  index: -1
+Symbols/ls2_B
+  rotate: false
+  xy: 2, 873
+  size: 270, 285
+  orig: 337, 338
+  offset: 33, 27
+  index: -1
+Symbols/ls2_B2
+  rotate: false
+  xy: 2, 601
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+Symbols/ls_BG
+  rotate: false
+  xy: 2, 329
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+Symbols/ls_Frame
+  rotate: false
+  xy: 2, 57
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1

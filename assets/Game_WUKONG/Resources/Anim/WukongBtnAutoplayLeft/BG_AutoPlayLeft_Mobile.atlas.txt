@@ -1,0 +1,20 @@
+
+BG_AutoPlayLeft_Mobile.png
+size: 136,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG/PosDummy
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+UI/BG_AutoPlayLeft_M
+  rotate: false
+  xy: 2, 5
+  size: 132, 132
+  orig: 134, 134
+  offset: 2, 0
+  index: -1

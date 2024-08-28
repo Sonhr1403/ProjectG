@@ -1,0 +1,21 @@
+{
+  "ver": "1.1.3",
+  "uuid": "1a663355-8720-479c-bf5d-f3fe9cc1a836",
+  "importer": "folder",
+  "isBundle": false,
+  "bundleName": "GameGenZ",
+  "priority": 1,
+  "compressionType": {
+    "android": "merge_all_json"
+  },
+  "optimizeHotUpdate": {
+    "android": false
+  },
+  "inlineSpriteFrames": {
+    "android": false
+  },
+  "isRemoteBundle": {
+    "android": true
+  },
+  "subMetas": {}
+}

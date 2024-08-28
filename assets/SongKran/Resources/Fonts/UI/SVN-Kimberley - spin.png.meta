@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "762017d5-c85b-46ec-98ca-d10d4425b736",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 671,
+  "height": 668,
+  "platformSettings": {},
+  "subMetas": {
+    "SVN-Kimberley - spin": {
+      "ver": "1.0.6",
+      "uuid": "208aa4e3-fad8-4ba4-9b58-7f39463abbb9",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "762017d5-c85b-46ec-98ca-d10d4425b736",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 669,
+      "height": 666,
+      "rawWidth": 671,
+      "rawHeight": 668,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

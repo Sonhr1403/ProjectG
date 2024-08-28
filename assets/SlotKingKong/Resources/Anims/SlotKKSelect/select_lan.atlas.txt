@@ -1,0 +1,104 @@
+
+select_lan.png
+size: 586,923
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4scatter_4_2
+  rotate: false
+  xy: 424, 3
+  size: 146, 30
+  orig: 474, 269
+  offset: 163, 200
+  index: -1
+4scatter_4_3
+  rotate: false
+  xy: 356, 2
+  size: 66, 89
+  orig: 474, 269
+  offset: 126, 81
+  index: -1
+4scatter_4_3_000
+  rotate: false
+  xy: 442, 164
+  size: 131, 153
+  orig: 474, 269
+  offset: 94, 54
+  index: -1
+4scatter_4_4
+  rotate: true
+  xy: 356, 93
+  size: 90, 75
+  orig: 474, 269
+  offset: 284, 46
+  index: -1
+4scatter_4_4_000
+  rotate: false
+  xy: 433, 35
+  size: 145, 127
+  orig: 474, 269
+  offset: 255, 19
+  index: -1
+4scatter_4_5
+  rotate: true
+  xy: 464, 319
+  size: 299, 114
+  orig: 474, 269
+  offset: 91, 56
+  index: -1
+4scatter_4_5_000
+  rotate: false
+  xy: 2, 242
+  size: 355, 185
+  orig: 474, 269
+  offset: 61, 18
+  index: -1
+bg1
+  rotate: false
+  xy: 2, 429
+  size: 460, 240
+  orig: 474, 252
+  offset: 7, 1
+  index: -1
+bg3
+  rotate: true
+  xy: 359, 185
+  size: 242, 81
+  orig: 474, 269
+  offset: 114, 174
+  index: -1
+freespin1
+  rotate: true
+  xy: 475, 620
+  size: 301, 103
+  orig: 474, 252
+  offset: 89, 79
+  index: -1
+freespin1_000
+  rotate: false
+  xy: 2, 74
+  size: 352, 166
+  orig: 474, 252
+  offset: 64, 49
+  index: -1
+freespin_5
+  rotate: false
+  xy: 580, 920
+  size: 1, 1
+  orig: 474, 252
+  offset: 156, 146
+  index: -1
+freespin_x5
+  rotate: false
+  xy: 583, 920
+  size: 1, 1
+  orig: 474, 252
+  offset: 337, 94
+  index: -1
+select_fx
+  rotate: false
+  xy: 2, 671
+  size: 471, 250
+  orig: 474, 252
+  offset: 2, 0
+  index: -1

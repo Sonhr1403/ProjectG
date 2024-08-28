@@ -1,0 +1,2442 @@
+
+man_win_ban_nho.png
+size: 2033,1730
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Big win/B_00
+  rotate: false
+  xy: 127, 29
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+Big win/G_00
+  rotate: false
+  xy: 1727, 1145
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+Big win/Group 33
+  rotate: false
+  xy: 1335, 1596
+  size: 298, 132
+  orig: 298, 132
+  offset: 0, 0
+  index: -1
+Big win/Group 42
+  rotate: true
+  xy: 1014, 1424
+  size: 179, 211
+  orig: 179, 211
+  offset: 0, 0
+  index: -1
+Big win/Group 80
+  rotate: false
+  xy: 1211, 1249
+  size: 116, 127
+  orig: 118, 128
+  offset: 1, 1
+  index: -1
+Epic win/Group 80 copy 4
+  rotate: false
+  xy: 1211, 1249
+  size: 116, 127
+  orig: 118, 128
+  offset: 1, 1
+  index: -1
+Mega win/Group 80 copy 2
+  rotate: false
+  xy: 1211, 1249
+  size: 116, 127
+  orig: 118, 128
+  offset: 1, 1
+  index: -1
+Ultra win/Group 80 copy 3
+  rotate: false
+  xy: 1211, 1249
+  size: 116, 127
+  orig: 118, 128
+  offset: 1, 1
+  index: -1
+Big win/I1_00
+  rotate: true
+  xy: 265, 189
+  size: 132, 173
+  orig: 173, 173
+  offset: 23, 0
+  index: -1
+Big win/I2_00
+  rotate: true
+  xy: 1329, 1177
+  size: 141, 200
+  orig: 214, 214
+  offset: 39, 6
+  index: -1
+Big win/Layer 1019
+  rotate: false
+  xy: 1005, 37
+  size: 89, 107
+  orig: 91, 108
+  offset: 1, 1
+  index: -1
+Big win/Layer 1020
+  rotate: true
+  xy: 1546, 712
+  size: 48, 107
+  orig: 50, 108
+  offset: 1, 1
+  index: -1
+Big win/Layer 1021
+  rotate: false
+  xy: 1096, 35
+  size: 105, 110
+  orig: 107, 111
+  offset: 1, 1
+  index: -1
+Big win/Layer 1022
+  rotate: true
+  xy: 261, 679
+  size: 154, 127
+  orig: 156, 129
+  offset: 1, 1
+  index: -1
+Epic win/Layer 1022 copy 4
+  rotate: true
+  xy: 261, 679
+  size: 154, 127
+  orig: 156, 129
+  offset: 1, 1
+  index: -1
+Mega win/Layer 1022 copy 2
+  rotate: true
+  xy: 261, 679
+  size: 154, 127
+  orig: 156, 129
+  offset: 1, 1
+  index: -1
+Ultra win/Layer 1022 copy 3
+  rotate: true
+  xy: 261, 679
+  size: 154, 127
+  orig: 156, 129
+  offset: 1, 1
+  index: -1
+Big win/Layer 1023
+  rotate: true
+  xy: 1799, 491
+  size: 56, 127
+  orig: 58, 128
+  offset: 1, 1
+  index: -1
+Epic win/Layer 1023 copy 4
+  rotate: true
+  xy: 1799, 491
+  size: 56, 127
+  orig: 58, 128
+  offset: 1, 1
+  index: -1
+Mega win/Layer 1023 copy 2
+  rotate: true
+  xy: 1799, 491
+  size: 56, 127
+  orig: 58, 128
+  offset: 1, 1
+  index: -1
+Ultra win/Layer 1023 copy 3
+  rotate: true
+  xy: 1799, 491
+  size: 56, 127
+  orig: 58, 128
+  offset: 1, 1
+  index: -1
+Big win/Layer 1029
+  rotate: false
+  xy: 918, 402
+  size: 74, 163
+  orig: 76, 165
+  offset: 1, 1
+  index: -1
+Big win/Layer 1031
+  rotate: false
+  xy: 399, 693
+  size: 137, 163
+  orig: 139, 165
+  offset: 1, 1
+  index: -1
+Big win/Layer 1033
+  rotate: true
+  xy: 543, 849
+  size: 176, 163
+  orig: 178, 165
+  offset: 1, 1
+  index: -1
+Big win/Layer 1034
+  rotate: false
+  xy: 1902, 1206
+  size: 129, 145
+  orig: 131, 147
+  offset: 1, 1
+  index: -1
+Big win/Layer 1035
+  rotate: true
+  xy: 860, 209
+  size: 76, 143
+  orig: 78, 145
+  offset: 1, 1
+  index: -1
+Big win/Layer 1036
+  rotate: false
+  xy: 465, 52
+  size: 111, 143
+  orig: 113, 145
+  offset: 1, 1
+  index: -1
+Big win/Layer 111 copy 4
+  rotate: true
+  xy: 127, 432
+  size: 241, 136
+  orig: 241, 136
+  offset: 0, 0
+  index: -1
+Big win/Layer 157
+  rotate: true
+  xy: 127, 189
+  size: 241, 136
+  orig: 241, 136
+  offset: 0, 0
+  index: -1
+Big win/Layer 657
+  rotate: true
+  xy: 2, 660
+  size: 313, 123
+  orig: 313, 124
+  offset: 0, 1
+  index: -1
+Big win/Layer 99
+  rotate: false
+  xy: 2, 1633
+  size: 507, 95
+  orig: 507, 95
+  offset: 0, 0
+  index: -1
+Big win/Layer_10
+  rotate: true
+  xy: 1100, 1027
+  size: 103, 104
+  orig: 103, 104
+  offset: 0, 0
+  index: -1
+Big win/Layer_2
+  rotate: true
+  xy: 1206, 1135
+  size: 112, 121
+  orig: 112, 121
+  offset: 0, 0
+  index: -1
+Big win/Layer_3
+  rotate: true
+  xy: 585, 204
+  size: 118, 108
+  orig: 118, 108
+  offset: 0, 0
+  index: -1
+Big win/Layer_4
+  rotate: false
+  xy: 877, 287
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+Big win/Layer_6
+  rotate: false
+  xy: 970, 568
+  size: 109, 102
+  orig: 109, 102
+  offset: 0, 0
+  index: -1
+Big win/Layer_8
+  rotate: false
+  xy: 1459, 637
+  size: 83, 86
+  orig: 83, 86
+  offset: 0, 0
+  index: -1
+Big win/Layer_9
+  rotate: false
+  xy: 1554, 285
+  size: 81, 75
+  orig: 81, 75
+  offset: 0, 0
+  index: -1
+Big win/N_00
+  rotate: false
+  xy: 811, 1432
+  size: 201, 199
+  orig: 214, 214
+  offset: 8, 3
+  index: -1
+Big win/W_00
+  rotate: false
+  xy: 256, 1238
+  size: 214, 199
+  orig: 214, 214
+  offset: 0, 2
+  index: -1
+Coin/coin_00
+  rotate: true
+  xy: 1637, 282
+  size: 13, 83
+  orig: 90, 83
+  offset: 40, 0
+  index: -1
+Coin/coin_24
+  rotate: true
+  xy: 1637, 282
+  size: 13, 83
+  orig: 90, 83
+  offset: 40, 0
+  index: -1
+Coin/coin_01
+  rotate: false
+  xy: 1081, 1026
+  size: 17, 83
+  orig: 90, 83
+  offset: 39, 0
+  index: -1
+Coin/coin_02
+  rotate: true
+  xy: 1873, 278
+  size: 22, 83
+  orig: 90, 83
+  offset: 37, 0
+  index: -1
+Coin/coin_03
+  rotate: false
+  xy: 1553, 74
+  size: 27, 83
+  orig: 90, 83
+  offset: 35, 0
+  index: -1
+Coin/coin_04
+  rotate: true
+  xy: 860, 2
+  size: 33, 83
+  orig: 90, 83
+  offset: 32, 0
+  index: -1
+Coin/coin_05
+  rotate: true
+  xy: 1639, 360
+  size: 40, 83
+  orig: 90, 83
+  offset: 29, 0
+  index: -1
+Coin/coin_06
+  rotate: false
+  xy: 1880, 878
+  size: 47, 83
+  orig: 90, 83
+  offset: 25, 0
+  index: -1
+Coin/coin_07
+  rotate: true
+  xy: 1396, 39
+  size: 54, 83
+  orig: 90, 83
+  offset: 21, 0
+  index: -1
+Coin/coin_08
+  rotate: true
+  xy: 1468, 95
+  size: 62, 83
+  orig: 90, 83
+  offset: 17, 0
+  index: -1
+Coin/coin_09
+  rotate: false
+  xy: 1550, 200
+  size: 71, 83
+  orig: 90, 83
+  offset: 12, 0
+  index: -1
+Coin/coin_10
+  rotate: true
+  xy: 1440, 350
+  size: 80, 83
+  orig: 90, 83
+  offset: 6, 0
+  index: -1
+Coin/coin_11
+  rotate: true
+  xy: 1251, 431
+  size: 90, 83
+  orig: 90, 83
+  offset: 0, 0
+  index: -1
+Coin/coin_12
+  rotate: false
+  xy: 1348, 349
+  size: 90, 83
+  orig: 90, 83
+  offset: 0, 0
+  index: -1
+Coin/coin_13
+  rotate: false
+  xy: 1468, 200
+  size: 80, 83
+  orig: 90, 83
+  offset: 4, 0
+  index: -1
+Coin/coin_14
+  rotate: false
+  xy: 1481, 10
+  size: 70, 83
+  orig: 90, 83
+  offset: 8, 0
+  index: -1
+Coin/coin_15
+  rotate: true
+  xy: 1637, 297
+  size: 61, 83
+  orig: 90, 83
+  offset: 12, 0
+  index: -1
+Coin/coin_16
+  rotate: true
+  xy: 1873, 302
+  size: 52, 83
+  orig: 90, 83
+  offset: 16, 0
+  index: -1
+Coin/coin_17
+  rotate: false
+  xy: 1694, 197
+  size: 44, 83
+  orig: 90, 83
+  offset: 20, 0
+  index: -1
+Coin/coin_18
+  rotate: true
+  xy: 1864, 240
+  size: 36, 83
+  orig: 90, 83
+  offset: 24, 0
+  index: -1
+Coin/coin_19
+  rotate: false
+  xy: 1582, 75
+  size: 30, 83
+  orig: 90, 83
+  offset: 27, 0
+  index: -1
+Coin/coin_20
+  rotate: true
+  xy: 372, 1212
+  size: 24, 83
+  orig: 90, 83
+  offset: 30, 0
+  index: -1
+Coin/coin_21
+  rotate: false
+  xy: 1958, 271
+  size: 18, 83
+  orig: 90, 83
+  offset: 34, 0
+  index: -1
+Coin/coin_22
+  rotate: false
+  xy: 2015, 423
+  size: 13, 83
+  orig: 90, 83
+  offset: 37, 0
+  index: -1
+Coin/coin_23
+  rotate: true
+  xy: 1461, 862
+  size: 10, 83
+  orig: 90, 83
+  offset: 41, 0
+  index: -1
+Epic win/C_00
+  rotate: false
+  xy: 1531, 1145
+  size: 194, 173
+  orig: 296, 173
+  offset: 49, 0
+  index: -1
+Epic win/E_00
+  rotate: true
+  xy: 908, 1111
+  size: 168, 190
+  orig: 200, 200
+  offset: 16, 3
+  index: -1
+Epic win/Group 29
+  rotate: false
+  xy: 2, 1536
+  size: 507, 95
+  orig: 507, 95
+  offset: 0, 0
+  index: -1
+Epic win/Group 37 copy 4
+  rotate: false
+  xy: 1206, 867
+  size: 116, 97
+  orig: 116, 97
+  offset: 0, 0
+  index: -1
+Epic win/Group 37 copy 5
+  rotate: true
+  xy: 399, 858
+  size: 170, 142
+  orig: 170, 143
+  offset: 0, 0
+  index: -1
+Epic win/Group 60
+  rotate: false
+  xy: 1203, 33
+  size: 90, 112
+  orig: 92, 114
+  offset: 1, 1
+  index: -1
+Epic win/I_00
+  rotate: false
+  xy: 261, 835
+  size: 136, 182
+  orig: 200, 200
+  offset: 34, 7
+  index: -1
+Epic win/Layer 1029 copy 6
+  rotate: true
+  xy: 695, 211
+  size: 74, 163
+  orig: 76, 165
+  offset: 1, 1
+  index: -1
+Epic win/Layer 1031 copy 6
+  rotate: true
+  xy: 538, 710
+  size: 137, 163
+  orig: 139, 165
+  offset: 1, 1
+  index: -1
+Epic win/Layer 1033 copy 6
+  rotate: true
+  xy: 265, 501
+  size: 176, 163
+  orig: 178, 165
+  offset: 1, 1
+  index: -1
+Epic win/Layer 1061
+  rotate: false
+  xy: 578, 2
+  size: 81, 111
+  orig: 83, 113
+  offset: 1, 1
+  index: -1
+Epic win/Layer 1062
+  rotate: true
+  xy: 585, 115
+  size: 87, 108
+  orig: 89, 110
+  offset: 1, 1
+  index: -1
+Epic win/Layer 1063
+  rotate: true
+  xy: 465, 2
+  size: 48, 108
+  orig: 50, 110
+  offset: 1, 1
+  index: -1
+Epic win/Layer 1065
+  rotate: true
+  xy: 822, 567
+  size: 103, 146
+  orig: 105, 148
+  offset: 1, 1
+  index: -1
+Epic win/Layer 1066
+  rotate: false
+  xy: 563, 420
+  size: 114, 143
+  orig: 116, 145
+  offset: 1, 1
+  index: -1
+Epic win/Layer 1067
+  rotate: true
+  xy: 860, 132
+  size: 75, 143
+  orig: 77, 145
+  offset: 1, 1
+  index: -1
+Epic win/Layer 1068
+  rotate: false
+  xy: 430, 545
+  size: 115, 146
+  orig: 117, 148
+  offset: 1, 1
+  index: -1
+Epic win/Layer 111 copy 3
+  rotate: false
+  xy: 511, 1350
+  size: 241, 136
+  orig: 241, 136
+  offset: 0, 0
+  index: -1
+Epic win/Layer 135 copy 2
+  rotate: false
+  xy: 511, 1488
+  size: 298, 143
+  orig: 298, 143
+  offset: 0, 0
+  index: -1
+Epic win/Layer 158
+  rotate: false
+  xy: 472, 1212
+  size: 241, 136
+  orig: 241, 136
+  offset: 0, 0
+  index: -1
+Epic win/Layer 162
+  rotate: false
+  xy: 1329, 1458
+  size: 241, 136
+  orig: 241, 136
+  offset: 0, 0
+  index: -1
+Epic win/Layer 657 copy 6
+  rotate: true
+  xy: 2, 345
+  size: 313, 123
+  orig: 313, 124
+  offset: 0, 1
+  index: -1
+Epic win/P_00
+  rotate: true
+  xy: 713, 937
+  size: 173, 183
+  orig: 200, 200
+  offset: 14, 7
+  index: -1
+Epic win/fire 2_01
+  rotate: true
+  xy: 390, 804
+  size: 29, 7
+  orig: 94, 135
+  offset: 64, 0
+  index: -1
+Epic win/fire 2_02
+  rotate: false
+  xy: 1870, 177
+  size: 41, 29
+  orig: 94, 135
+  offset: 53, 0
+  index: -1
+Epic win/fire 2_03
+  rotate: false
+  xy: 1985, 362
+  size: 46, 55
+  orig: 94, 135
+  offset: 48, 0
+  index: -1
+Epic win/fire 2_04
+  rotate: true
+  xy: 781, 5
+  size: 52, 77
+  orig: 94, 135
+  offset: 42, 0
+  index: -1
+Epic win/fire 2_05
+  rotate: true
+  xy: 1799, 364
+  size: 53, 93
+  orig: 94, 135
+  offset: 41, 0
+  index: -1
+Epic win/fire 2_06
+  rotate: true
+  xy: 661, 2
+  size: 55, 118
+  orig: 94, 135
+  offset: 39, 0
+  index: -1
+Epic win/fire 2_07
+  rotate: false
+  xy: 1033, 674
+  size: 56, 135
+  orig: 94, 135
+  offset: 38, 0
+  index: -1
+Epic win/fire 2_08
+  rotate: true
+  xy: 1328, 938
+  size: 57, 135
+  orig: 94, 135
+  offset: 37, 0
+  index: -1
+Epic win/fire 2_09
+  rotate: false
+  xy: 1183, 703
+  size: 59, 135
+  orig: 94, 135
+  offset: 35, 0
+  index: -1
+Epic win/fire 2_10
+  rotate: true
+  xy: 1322, 708
+  size: 60, 135
+  orig: 94, 135
+  offset: 34, 0
+  index: -1
+Epic win/fire 2_11
+  rotate: true
+  xy: 1091, 640
+  size: 61, 135
+  orig: 94, 135
+  offset: 33, 0
+  index: -1
+Epic win/fire 2_12
+  rotate: false
+  xy: 1186, 431
+  size: 63, 135
+  orig: 94, 135
+  offset: 31, 0
+  index: -1
+Epic win/fire 2_13
+  rotate: true
+  xy: 1324, 862
+  size: 74, 135
+  orig: 94, 135
+  offset: 20, 0
+  index: -1
+Epic win/fire 2_14
+  rotate: false
+  xy: 1244, 730
+  size: 76, 135
+  orig: 94, 135
+  offset: 18, 0
+  index: -1
+Epic win/fire 2_15
+  rotate: false
+  xy: 1953, 1459
+  size: 78, 135
+  orig: 94, 135
+  offset: 16, 0
+  index: -1
+Epic win/fire 2_16
+  rotate: true
+  xy: 1095, 349
+  size: 80, 135
+  orig: 94, 135
+  offset: 14, 0
+  index: -1
+Epic win/fire 2_17
+  rotate: true
+  xy: 567, 324
+  size: 94, 135
+  orig: 94, 135
+  offset: 0, 0
+  index: -1
+Epic win/fire 2_18
+  rotate: true
+  xy: 1518, 874
+  size: 86, 135
+  orig: 94, 135
+  offset: 8, 0
+  index: -1
+Epic win/fire 2_19
+  rotate: false
+  xy: 1096, 147
+  size: 87, 135
+  orig: 94, 135
+  offset: 7, 0
+  index: -1
+Epic win/fire 2_20
+  rotate: false
+  xy: 1005, 283
+  size: 88, 135
+  orig: 94, 135
+  offset: 6, 0
+  index: -1
+Epic win/fire 2_21
+  rotate: false
+  xy: 1095, 431
+  size: 89, 135
+  orig: 94, 135
+  offset: 5, 0
+  index: -1
+Epic win/fire 2_22
+  rotate: false
+  xy: 1091, 703
+  size: 90, 135
+  orig: 94, 135
+  offset: 4, 0
+  index: -1
+Epic win/fire 2_23
+  rotate: true
+  xy: 1322, 770
+  size: 90, 135
+  orig: 94, 135
+  offset: 4, 0
+  index: -1
+Epic win/fire 2_24
+  rotate: false
+  xy: 1005, 146
+  size: 89, 135
+  orig: 94, 135
+  offset: 5, 0
+  index: -1
+Epic win/fire 2_25
+  rotate: false
+  xy: 1185, 147
+  size: 85, 135
+  orig: 94, 135
+  offset: 9, 0
+  index: -1
+Epic win/fire 2_26
+  rotate: false
+  xy: 1459, 725
+  size: 85, 135
+  orig: 94, 135
+  offset: 9, 0
+  index: -1
+Epic win/fire 2_27
+  rotate: false
+  xy: 1935, 1596
+  size: 86, 132
+  orig: 94, 135
+  offset: 8, 3
+  index: -1
+Epic win/fire 2_28
+  rotate: true
+  xy: 1206, 1044
+  size: 89, 121
+  orig: 94, 135
+  offset: 5, 14
+  index: -1
+Epic win/fire 2_29
+  rotate: true
+  xy: 1232, 339
+  size: 90, 114
+  orig: 94, 135
+  offset: 4, 21
+  index: -1
+Epic win/fire 2_30
+  rotate: true
+  xy: 1430, 544
+  size: 91, 112
+  orig: 94, 135
+  offset: 3, 23
+  index: -1
+Epic win/fire 2_31
+  rotate: true
+  xy: 1544, 618
+  size: 92, 109
+  orig: 94, 135
+  offset: 2, 26
+  index: -1
+Epic win/fire 2_32
+  rotate: false
+  xy: 1929, 599
+  size: 94, 106
+  orig: 94, 135
+  offset: 0, 29
+  index: -1
+Epic win/fire 2_33
+  rotate: false
+  xy: 1929, 508
+  size: 94, 89
+  orig: 94, 135
+  offset: 0, 46
+  index: -1
+Epic win/fire 2_34
+  rotate: false
+  xy: 1363, 284
+  size: 94, 63
+  orig: 94, 135
+  offset: 0, 72
+  index: -1
+Epic win/fire 2_35
+  rotate: false
+  xy: 1459, 285
+  size: 93, 63
+  orig: 94, 135
+  offset: 1, 72
+  index: -1
+Epic win/fire 2_36
+  rotate: false
+  xy: 1894, 356
+  size: 89, 61
+  orig: 94, 135
+  offset: 5, 74
+  index: -1
+Epic win/fire 2_37
+  rotate: true
+  xy: 1740, 218
+  size: 71, 58
+  orig: 94, 135
+  offset: 23, 77
+  index: -1
+Epic win/fire 3_01
+  rotate: true
+  xy: 1211, 1406
+  size: 16, 14
+  orig: 66, 43
+  offset: 6, 10
+  index: -1
+Epic win/fire 3_02
+  rotate: true
+  xy: 1644, 426
+  size: 21, 16
+  orig: 66, 43
+  offset: 6, 10
+  index: -1
+Epic win/fire 3_03
+  rotate: true
+  xy: 1081, 1000
+  size: 24, 17
+  orig: 66, 43
+  offset: 5, 10
+  index: -1
+Epic win/fire 3_04
+  rotate: false
+  xy: 1218, 568
+  size: 31, 19
+  orig: 66, 43
+  offset: 5, 10
+  index: -1
+Epic win/fire 3_05
+  rotate: false
+  xy: 1913, 139
+  size: 38, 21
+  orig: 66, 43
+  offset: 5, 8
+  index: -1
+Epic win/fire 3_06
+  rotate: false
+  xy: 206, 4
+  size: 46, 23
+  orig: 66, 43
+  offset: 4, 7
+  index: -1
+Epic win/fire 3_07
+  rotate: false
+  xy: 1953, 1353
+  size: 47, 25
+  orig: 66, 43
+  offset: 4, 7
+  index: -1
+Epic win/fire 3_08
+  rotate: true
+  xy: 1949, 218
+  size: 51, 27
+  orig: 66, 43
+  offset: 4, 7
+  index: -1
+Epic win/fire 3_09
+  rotate: true
+  xy: 1660, 86
+  size: 52, 27
+  orig: 66, 43
+  offset: 4, 7
+  index: -1
+Epic win/fire 3_10
+  rotate: false
+  xy: 1978, 251
+  size: 53, 28
+  orig: 66, 43
+  offset: 4, 7
+  index: -1
+Epic win/fire 3_11
+  rotate: false
+  xy: 1798, 142
+  size: 54, 28
+  orig: 66, 43
+  offset: 4, 7
+  index: -1
+Epic win/fire 3_12
+  rotate: false
+  xy: 1623, 140
+  size: 54, 28
+  orig: 66, 43
+  offset: 4, 8
+  index: -1
+Epic win/fire 3_13
+  rotate: false
+  xy: 1799, 172
+  size: 55, 28
+  orig: 66, 43
+  offset: 4, 8
+  index: -1
+Epic win/fire 3_14
+  rotate: false
+  xy: 1179, 2
+  size: 55, 29
+  orig: 66, 43
+  offset: 4, 8
+  index: -1
+Epic win/fire 3_15
+  rotate: false
+  xy: 256, 1207
+  size: 56, 29
+  orig: 66, 43
+  offset: 4, 8
+  index: -1
+Epic win/fire 3_16
+  rotate: false
+  xy: 314, 1207
+  size: 56, 29
+  orig: 66, 43
+  offset: 4, 8
+  index: -1
+Epic win/fire 3_17
+  rotate: true
+  xy: 1553, 15
+  size: 57, 30
+  orig: 66, 43
+  offset: 4, 8
+  index: -1
+Epic win/fire 3_18
+  rotate: false
+  xy: 945, 2
+  size: 57, 33
+  orig: 66, 43
+  offset: 4, 6
+  index: -1
+Epic win/fire 3_19
+  rotate: true
+  xy: 1585, 16
+  size: 57, 36
+  orig: 66, 43
+  offset: 4, 3
+  index: -1
+Epic win/fire 3_20
+  rotate: true
+  xy: 1843, 851
+  size: 57, 35
+  orig: 66, 43
+  offset: 4, 4
+  index: -1
+Epic win/fire 3_21
+  rotate: false
+  xy: 1740, 180
+  size: 57, 36
+  orig: 66, 43
+  offset: 4, 4
+  index: -1
+Epic win/fire 3_22
+  rotate: false
+  xy: 1740, 143
+  size: 56, 35
+  orig: 66, 43
+  offset: 4, 5
+  index: -1
+Epic win/fire 3_23
+  rotate: false
+  xy: 1800, 202
+  size: 56, 34
+  orig: 66, 43
+  offset: 4, 6
+  index: -1
+Epic win/fire 3_24
+  rotate: true
+  xy: 1623, 35
+  size: 54, 34
+  orig: 66, 43
+  offset: 6, 6
+  index: -1
+Epic win/fire 3_25
+  rotate: false
+  xy: 1978, 215
+  size: 52, 34
+  orig: 66, 43
+  offset: 8, 6
+  index: -1
+Epic win/fire 3_26
+  rotate: false
+  xy: 1734, 107
+  size: 52, 34
+  orig: 66, 43
+  offset: 8, 7
+  index: -1
+Epic win/fire 3_27
+  rotate: false
+  xy: 1788, 106
+  size: 52, 34
+  orig: 66, 43
+  offset: 8, 7
+  index: -1
+Epic win/fire 3_28
+  rotate: false
+  xy: 1978, 281
+  size: 53, 34
+  orig: 66, 43
+  offset: 8, 7
+  index: -1
+Epic win/fire 3_29
+  rotate: true
+  xy: 661, 61
+  size: 52, 32
+  orig: 66, 43
+  offset: 10, 8
+  index: -1
+Epic win/fire 3_30
+  rotate: false
+  xy: 1815, 1320
+  size: 52, 31
+  orig: 66, 43
+  offset: 10, 8
+  index: -1
+Epic win/fire 3_31
+  rotate: true
+  xy: 1218, 589
+  size: 49, 31
+  orig: 66, 43
+  offset: 12, 9
+  index: -1
+Epic win/fire 3_32
+  rotate: false
+  xy: 1864, 208
+  size: 47, 30
+  orig: 66, 43
+  offset: 13, 10
+  index: -1
+Epic win/fire 3_33
+  rotate: false
+  xy: 1086, 2
+  size: 46, 31
+  orig: 66, 43
+  offset: 13, 10
+  index: -1
+Epic win/fire 3_34
+  rotate: false
+  xy: 1874, 107
+  size: 40, 30
+  orig: 66, 43
+  offset: 17, 11
+  index: -1
+Epic win/fire 3_35
+  rotate: false
+  xy: 1913, 162
+  size: 33, 29
+  orig: 66, 43
+  offset: 18, 12
+  index: -1
+Epic win/fire 3_36
+  rotate: false
+  xy: 1054, 811
+  size: 32, 27
+  orig: 66, 43
+  offset: 19, 13
+  index: -1
+Epic win/fire 3_37
+  rotate: false
+  xy: 47, 2
+  size: 32, 26
+  orig: 66, 43
+  offset: 19, 13
+  index: -1
+Epic win/fire 3_38
+  rotate: false
+  xy: 677, 685
+  size: 22, 23
+  orig: 66, 43
+  offset: 28, 15
+  index: -1
+Epic win/fire 3_39
+  rotate: false
+  xy: 2005, 73
+  size: 21, 22
+  orig: 66, 43
+  offset: 28, 16
+  index: -1
+Epic win/fire 3_40
+  rotate: false
+  xy: 311, 2
+  size: 18, 20
+  orig: 66, 43
+  offset: 30, 17
+  index: -1
+Epic win/fire 3_41
+  rotate: false
+  xy: 1054, 865
+  size: 16, 17
+  orig: 66, 43
+  offset: 31, 19
+  index: -1
+Epic win/fire left_02
+  rotate: false
+  xy: 543, 1027
+  size: 3, 1
+  orig: 88, 135
+  offset: 17, 0
+  index: -1
+Epic win/fire left_03
+  rotate: false
+  xy: 877, 402
+  size: 38, 18
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+Epic win/fire left_04
+  rotate: false
+  xy: 1134, 2
+  size: 43, 31
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+Epic win/fire left_05
+  rotate: true
+  xy: 754, 1439
+  size: 47, 55
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+Epic win/fire left_06
+  rotate: true
+  xy: 1953, 989
+  size: 48, 78
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+Epic win/fire left_07
+  rotate: false
+  xy: 1655, 864
+  size: 49, 96
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+Epic win/fire left_08
+  rotate: true
+  xy: 1100, 975
+  size: 50, 104
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+Epic win/fire left_09
+  rotate: false
+  xy: 1465, 877
+  size: 51, 118
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+Epic win/fire left_10
+  rotate: false
+  xy: 1295, 23
+  size: 51, 122
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+Epic win/fire left_11
+  rotate: false
+  xy: 1346, 156
+  size: 52, 126
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+Epic win/fire left_12
+  rotate: true
+  xy: 1902, 1151
+  size: 53, 129
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+Epic win/fire left_13
+  rotate: true
+  xy: 1230, 284
+  size: 53, 131
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+Epic win/fire left_14
+  rotate: true
+  xy: 1072, 840
+  size: 56, 132
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+Epic win/fire left_15
+  rotate: true
+  xy: 1095, 284
+  size: 63, 133
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+Epic win/fire left_16
+  rotate: true
+  xy: 1706, 843
+  size: 65, 135
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+Epic win/fire left_17
+  rotate: true
+  xy: 1655, 699
+  size: 66, 135
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+Epic win/fire left_18
+  rotate: true
+  xy: 1792, 697
+  size: 68, 135
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+Epic win/fire left_19
+  rotate: true
+  xy: 1322, 637
+  size: 69, 135
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+Epic win/fire left_20
+  rotate: true
+  xy: 1081, 568
+  size: 70, 135
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+Epic win/fire left_21
+  rotate: true
+  xy: 1792, 624
+  size: 71, 135
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+Epic win/fire left_22
+  rotate: true
+  xy: 430, 323
+  size: 72, 135
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+Epic win/fire left_23
+  rotate: true
+  xy: 1655, 624
+  size: 73, 135
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+Epic win/fire left_24
+  rotate: true
+  xy: 1653, 767
+  size: 74, 135
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+Epic win/fire left_25
+  rotate: true
+  xy: 1790, 767
+  size: 74, 135
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+Epic win/fire left_26
+  rotate: true
+  xy: 1655, 549
+  size: 73, 135
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+Epic win/fire left_27
+  rotate: false
+  xy: 1272, 147
+  size: 72, 135
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+Epic win/fire left_28
+  rotate: true
+  xy: 1662, 402
+  size: 71, 135
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+Epic win/fire left_29
+  rotate: false
+  xy: 1251, 523
+  size: 69, 135
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+Epic win/fire left_30
+  rotate: true
+  xy: 1799, 419
+  size: 70, 135
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+Epic win/fire left_31
+  rotate: true
+  xy: 1662, 475
+  size: 72, 135
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+Epic win/fire left_32
+  rotate: true
+  xy: 1792, 549
+  size: 73, 135
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+Epic win/fire left_33
+  rotate: true
+  xy: 1528, 449
+  size: 74, 132
+  orig: 88, 135
+  offset: 0, 3
+  index: -1
+Epic win/fire left_34
+  rotate: true
+  xy: 1081, 898
+  size: 75, 123
+  orig: 88, 135
+  offset: 0, 12
+  index: -1
+Epic win/fire left_35
+  rotate: true
+  xy: 1206, 966
+  size: 76, 120
+  orig: 88, 135
+  offset: 0, 15
+  index: -1
+Epic win/fire left_36
+  rotate: false
+  xy: 1936, 419
+  size: 77, 87
+  orig: 88, 135
+  offset: 0, 19
+  index: -1
+Epic win/fire left_37
+  rotate: true
+  xy: 1953, 1380
+  size: 77, 78
+  orig: 88, 135
+  offset: 0, 28
+  index: -1
+Epic win/fire left_38
+  rotate: false
+  xy: 1244, 660
+  size: 76, 68
+  orig: 88, 135
+  offset: 0, 39
+  index: -1
+Epic win/fire left_39
+  rotate: false
+  xy: 1722, 291
+  size: 75, 67
+  orig: 88, 135
+  offset: 0, 40
+  index: -1
+Epic win/fire left_40
+  rotate: true
+  xy: 1400, 100
+  size: 73, 66
+  orig: 88, 135
+  offset: 0, 41
+  index: -1
+Epic win/fire left_41
+  rotate: false
+  xy: 1623, 217
+  size: 69, 63
+  orig: 88, 135
+  offset: 0, 43
+  index: -1
+Epic win/fire left_42
+  rotate: false
+  xy: 1800, 238
+  size: 62, 54
+  orig: 88, 135
+  offset: 1, 49
+  index: -1
+Epic win/fire side 2 R_00
+  rotate: true
+  xy: 1827, 2
+  size: 34, 23
+  orig: 50, 50
+  offset: 2, 0
+  index: -1
+Epic win/fire side 2 R_01
+  rotate: false
+  xy: 472, 1353
+  size: 37, 31
+  orig: 50, 50
+  offset: 2, 0
+  index: -1
+Epic win/fire side 2 R_02
+  rotate: true
+  xy: 220, 977
+  size: 40, 39
+  orig: 50, 50
+  offset: 3, 1
+  index: -1
+Epic win/fire side 2 R_03
+  rotate: false
+  xy: 1744, 20
+  size: 40, 41
+  orig: 50, 50
+  offset: 3, 1
+  index: -1
+Epic win/fire side 2 R_04
+  rotate: true
+  xy: 1743, 63
+  size: 42, 43
+  orig: 50, 50
+  offset: 3, 1
+  index: -1
+Epic win/fire side 2 R_05
+  rotate: true
+  xy: 1694, 152
+  size: 43, 44
+  orig: 50, 50
+  offset: 3, 1
+  index: -1
+Epic win/fire side 2 R_06
+  rotate: true
+  xy: 1985, 317
+  size: 43, 46
+  orig: 50, 50
+  offset: 4, 1
+  index: -1
+Epic win/fire side 2 R_07
+  rotate: false
+  xy: 1614, 91
+  size: 44, 47
+  orig: 50, 50
+  offset: 4, 1
+  index: -1
+Epic win/fire side 2 R_08
+  rotate: false
+  xy: 1689, 103
+  size: 43, 47
+  orig: 50, 50
+  offset: 5, 1
+  index: -1
+Epic win/fire side 2 R_09
+  rotate: false
+  xy: 1659, 36
+  size: 42, 48
+  orig: 50, 50
+  offset: 6, 1
+  index: -1
+Epic win/fire side 2 R_10
+  rotate: false
+  xy: 1703, 53
+  size: 38, 48
+  orig: 50, 50
+  offset: 7, 1
+  index: -1
+Epic win/fire side 2 R_11
+  rotate: true
+  xy: 1788, 68
+  size: 36, 48
+  orig: 50, 50
+  offset: 7, 1
+  index: -1
+Epic win/fire side 2 R_12
+  rotate: true
+  xy: 1880, 843
+  size: 33, 47
+  orig: 50, 50
+  offset: 8, 1
+  index: -1
+Epic win/fire side 2 R_13
+  rotate: false
+  xy: 1913, 193
+  size: 33, 45
+  orig: 50, 50
+  offset: 8, 1
+  index: -1
+Epic win/fire side 2 R_14
+  rotate: true
+  xy: 2, 2
+  size: 26, 43
+  orig: 50, 50
+  offset: 9, 1
+  index: -1
+Epic win/fire side 2 R_15
+  rotate: false
+  xy: 1953, 139
+  size: 24, 35
+  orig: 50, 50
+  offset: 10, 1
+  index: -1
+Epic win/fire side 2 R_16
+  rotate: true
+  xy: 254, 2
+  size: 20, 32
+  orig: 50, 50
+  offset: 12, 3
+  index: -1
+Epic win/fire side 2 R_17
+  rotate: true
+  xy: 351, 4
+  size: 18, 30
+  orig: 50, 50
+  offset: 13, 4
+  index: -1
+Epic win/fire side 2 R_18
+  rotate: true
+  xy: 715, 1293
+  size: 13, 25
+  orig: 50, 50
+  offset: 17, 7
+  index: -1
+Epic win/fire side R_00
+  rotate: false
+  xy: 1653, 843
+  size: 21, 19
+  orig: 50, 50
+  offset: 5, 3
+  index: -1
+Epic win/fire side R_01
+  rotate: true
+  xy: 1842, 108
+  size: 32, 30
+  orig: 50, 50
+  offset: 5, 3
+  index: -1
+Epic win/fire side R_02
+  rotate: true
+  xy: 1874, 139
+  size: 36, 37
+  orig: 50, 50
+  offset: 6, 4
+  index: -1
+Epic win/fire side R_03
+  rotate: false
+  xy: 1916, 98
+  size: 36, 39
+  orig: 50, 50
+  offset: 7, 5
+  index: -1
+Epic win/fire side R_04
+  rotate: false
+  xy: 715, 1308
+  size: 37, 40
+  orig: 50, 50
+  offset: 8, 6
+  index: -1
+Epic win/fire side R_05
+  rotate: false
+  xy: 1870, 65
+  size: 36, 40
+  orig: 50, 50
+  offset: 9, 6
+  index: -1
+Epic win/fire side R_06
+  rotate: true
+  xy: 1908, 60
+  size: 36, 39
+  orig: 50, 50
+  offset: 10, 8
+  index: -1
+Epic win/fire side R_07
+  rotate: true
+  xy: 1908, 23
+  size: 35, 39
+  orig: 50, 50
+  offset: 11, 9
+  index: -1
+Epic win/fire side R_08
+  rotate: false
+  xy: 1949, 59
+  size: 31, 37
+  orig: 50, 50
+  offset: 14, 11
+  index: -1
+Epic win/fire side R_09
+  rotate: true
+  xy: 1870, 33
+  size: 30, 36
+  orig: 50, 50
+  offset: 15, 11
+  index: -1
+Epic win/fire side R_10
+  rotate: false
+  xy: 1054, 2
+  size: 30, 33
+  orig: 50, 50
+  offset: 16, 13
+  index: -1
+Epic win/fire side R_11
+  rotate: false
+  xy: 1869, 1320
+  size: 29, 31
+  orig: 50, 50
+  offset: 16, 14
+  index: -1
+Epic win/fire side R_12
+  rotate: false
+  xy: 1949, 27
+  size: 27, 30
+  orig: 50, 50
+  offset: 17, 14
+  index: -1
+Epic win/fire side R_13
+  rotate: true
+  xy: 1206, 840
+  size: 25, 27
+  orig: 50, 50
+  offset: 17, 14
+  index: -1
+Epic win/fire side R_14
+  rotate: true
+  xy: 2002, 1353
+  size: 25, 23
+  orig: 50, 50
+  offset: 17, 17
+  index: -1
+Epic win/fire side R_15
+  rotate: false
+  xy: 538, 697
+  size: 7, 11
+  orig: 50, 50
+  offset: 24, 23
+  index: -1
+Epic win/fire side R_16
+  rotate: false
+  xy: 538, 849
+  size: 3, 7
+  orig: 50, 50
+  offset: 27, 26
+  index: -1
+Epic win/fire side R_17
+  rotate: true
+  xy: 1978, 56
+  size: 1, 2
+  orig: 50, 50
+  offset: 28, 31
+  index: -1
+Mega win/A_00
+  rotate: false
+  xy: 382, 1030
+  size: 179, 180
+  orig: 200, 200
+  offset: 11, 17
+  index: -1
+Mega win/E_00
+  rotate: true
+  xy: 898, 948
+  size: 161, 181
+  orig: 200, 200
+  offset: 20, 15
+  index: -1
+Mega win/Group 29 copy 2
+  rotate: false
+  xy: 511, 1633
+  size: 507, 95
+  orig: 507, 95
+  offset: 0, 0
+  index: -1
+Mega win/Group 43
+  rotate: false
+  xy: 2, 1207
+  size: 252, 230
+  orig: 252, 230
+  offset: 0, 0
+  index: -1
+Mega win/Group 45
+  rotate: false
+  xy: 708, 821
+  size: 170, 114
+  orig: 170, 114
+  offset: 0, 0
+  index: -1
+Mega win/Group 72
+  rotate: false
+  xy: 1929, 863
+  size: 102, 107
+  orig: 104, 108
+  offset: 1, 1
+  index: -1
+Mega win/Layer 1029 copy 2
+  rotate: true
+  xy: 695, 135
+  size: 74, 163
+  orig: 76, 165
+  offset: 1, 1
+  index: -1
+Mega win/Layer 1031 copy 2
+  rotate: true
+  xy: 703, 682
+  size: 137, 163
+  orig: 139, 165
+  offset: 1, 1
+  index: -1
+Mega win/Layer 1033 copy 2
+  rotate: true
+  xy: 265, 323
+  size: 176, 163
+  orig: 178, 165
+  offset: 1, 1
+  index: -1
+Mega win/Layer 1041
+  rotate: false
+  xy: 1322, 528
+  size: 106, 107
+  orig: 108, 108
+  offset: 1, 1
+  index: -1
+Mega win/Layer 1042
+  rotate: false
+  xy: 1445, 432
+  size: 81, 110
+  orig: 83, 112
+  offset: 1, 1
+  index: -1
+Mega win/Layer 1043
+  rotate: false
+  xy: 1546, 762
+  size: 105, 110
+  orig: 107, 111
+  offset: 1, 1
+  index: -1
+Mega win/Layer 1045
+  rotate: false
+  xy: 547, 565
+  size: 128, 143
+  orig: 130, 145
+  offset: 1, 1
+  index: -1
+Mega win/Layer 1046
+  rotate: false
+  xy: 1100, 1132
+  size: 104, 147
+  orig: 106, 149
+  offset: 1, 1
+  index: -1
+Mega win/Layer 1047
+  rotate: false
+  xy: 430, 397
+  size: 131, 146
+  orig: 133, 148
+  offset: 1, 1
+  index: -1
+Mega win/Layer 1048
+  rotate: true
+  xy: 440, 197
+  size: 124, 143
+  orig: 126, 145
+  offset: 1, 1
+  index: -1
+Mega win/Layer 111
+  rotate: false
+  xy: 1572, 1458
+  size: 241, 136
+  orig: 241, 136
+  offset: 0, 0
+  index: -1
+Mega win/Layer 130 copy 2
+  rotate: false
+  xy: 1635, 1596
+  size: 298, 132
+  orig: 298, 132
+  offset: 0, 0
+  index: -1
+Mega win/Layer 657 copy 2
+  rotate: true
+  xy: 2, 30
+  size: 313, 123
+  orig: 313, 124
+  offset: 0, 1
+  index: -1
+Mega win/Layer 671
+  rotate: false
+  xy: 1329, 1320
+  size: 241, 136
+  orig: 241, 136
+  offset: 0, 0
+  index: -1
+Mega win/M_00
+  rotate: false
+  xy: 715, 1112
+  size: 191, 179
+  orig: 200, 200
+  offset: 7, 17
+  index: -1
+Ultra win/A_0
+  rotate: false
+  xy: 1707, 963
+  size: 184, 180
+  orig: 200, 200
+  offset: 8, 20
+  index: -1
+Ultra win/Group 29 copy 3
+  rotate: false
+  xy: 2, 1439
+  size: 507, 95
+  orig: 507, 95
+  offset: 0, 0
+  index: -1
+Ultra win/Group 46
+  rotate: false
+  xy: 754, 1293
+  size: 236, 137
+  orig: 236, 137
+  offset: 0, 0
+  index: -1
+Ultra win/Group 47
+  rotate: false
+  xy: 1799, 294
+  size: 72, 68
+  orig: 72, 68
+  offset: 0, 0
+  index: -1
+Ultra win/Group 48
+  rotate: false
+  xy: 992, 1281
+  size: 217, 141
+  orig: 217, 141
+  offset: 0, 0
+  index: -1
+Ultra win/Group 49
+  rotate: false
+  xy: 2, 975
+  size: 216, 230
+  orig: 216, 230
+  offset: 0, 0
+  index: -1
+Ultra win/Group 51
+  rotate: true
+  xy: 1623, 170
+  size: 45, 69
+  orig: 45, 70
+  offset: 0, 0
+  index: -1
+Ultra win/Group 53
+  rotate: false
+  xy: 1929, 707
+  size: 102, 45
+  orig: 196, 45
+  offset: 0, 0
+  index: -1
+Ultra win/Group 54
+  rotate: true
+  xy: 1227, 1378
+  size: 225, 100
+  orig: 225, 100
+  offset: 0, 0
+  index: -1
+Ultra win/Group 55
+  rotate: true
+  xy: 288, 2
+  size: 20, 21
+  orig: 21, 21
+  offset: 1, 0
+  index: -1
+Ultra win/Group 56
+  rotate: true
+  xy: 1978, 26
+  size: 28, 21
+  orig: 28, 22
+  offset: 0, 1
+  index: -1
+Ultra win/Group 57
+  rotate: true
+  xy: 331, 2
+  size: 20, 18
+  orig: 21, 18
+  offset: 1, 0
+  index: -1
+Ultra win/Group 58
+  rotate: true
+  xy: 1528, 525
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Ultra win/Group 59
+  rotate: false
+  xy: 131, 2
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Ultra win/Group 66
+  rotate: false
+  xy: 1929, 754
+  size: 102, 107
+  orig: 104, 108
+  offset: 1, 1
+  index: -1
+Ultra win/L_0
+  rotate: false
+  xy: 563, 1027
+  size: 148, 183
+  orig: 200, 200
+  offset: 25, 5
+  index: -1
+Ultra win/Layer 1029 copy 4
+  rotate: true
+  xy: 695, 59
+  size: 74, 163
+  orig: 76, 165
+  offset: 1, 1
+  index: -1
+Ultra win/Layer 1031 copy 4
+  rotate: true
+  xy: 868, 672
+  size: 137, 163
+  orig: 139, 165
+  offset: 1, 1
+  index: -1
+Ultra win/Layer 1033 copy 4
+  rotate: false
+  xy: 287, 24
+  size: 176, 163
+  orig: 178, 165
+  offset: 1, 1
+  index: -1
+Ultra win/Layer 1050
+  rotate: true
+  xy: 1544, 525
+  size: 91, 108
+  orig: 93, 109
+  offset: 1, 1
+  index: -1
+Ultra win/Layer 1051
+  rotate: false
+  xy: 1400, 175
+  size: 66, 107
+  orig: 68, 108
+  offset: 1, 1
+  index: -1
+Ultra win/Layer 1052
+  rotate: false
+  xy: 1953, 1039
+  size: 78, 110
+  orig: 80, 112
+  offset: 1, 1
+  index: -1
+Ultra win/Layer 1053
+  rotate: true
+  xy: 1336, 434
+  size: 92, 107
+  orig: 94, 108
+  offset: 1, 1
+  index: -1
+Ultra win/Layer 1055
+  rotate: true
+  xy: 677, 567
+  size: 113, 143
+  orig: 115, 145
+  offset: 1, 1
+  index: -1
+Ultra win/Layer 1056
+  rotate: true
+  xy: 860, 37
+  size: 93, 143
+  orig: 95, 145
+  offset: 1, 1
+  index: -1
+Ultra win/Layer 1057
+  rotate: false
+  xy: 994, 420
+  size: 99, 146
+  orig: 101, 148
+  offset: 1, 1
+  index: -1
+Ultra win/Layer 1058
+  rotate: false
+  xy: 806, 422
+  size: 110, 143
+  orig: 112, 145
+  offset: 1, 1
+  index: -1
+Ultra win/Layer 1059
+  rotate: false
+  xy: 679, 422
+  size: 125, 143
+  orig: 127, 145
+  offset: 1, 1
+  index: -1
+Ultra win/Layer 1072
+  rotate: false
+  xy: 1724, 360
+  size: 73, 40
+  orig: 73, 40
+  offset: 0, 0
+  index: -1
+Ultra win/Layer 111 copy 2
+  rotate: false
+  xy: 1572, 1320
+  size: 241, 136
+  orig: 241, 136
+  offset: 0, 0
+  index: -1
+Ultra win/Layer 131
+  rotate: true
+  xy: 127, 675
+  size: 298, 132
+  orig: 298, 132
+  offset: 0, 0
+  index: -1
+Ultra win/Layer 160
+  rotate: true
+  xy: 1815, 1353
+  size: 241, 136
+  orig: 241, 136
+  offset: 0, 0
+  index: -1
+Ultra win/Layer 657 copy 4
+  rotate: false
+  xy: 1020, 1605
+  size: 313, 123
+  orig: 313, 124
+  offset: 0, 1
+  index: -1
+Ultra win/R_0
+  rotate: true
+  xy: 1329, 997
+  size: 178, 187
+  orig: 200, 200
+  offset: 11, 3
+  index: -1
+Ultra win/T_0
+  rotate: false
+  xy: 220, 1019
+  size: 160, 186
+  orig: 200, 200
+  offset: 20, 4
+  index: -1
+Ultra win/U_0
+  rotate: true
+  xy: 1518, 962
+  size: 181, 187
+  orig: 200, 200
+  offset: 12, 5
+  index: -1
+Ultra win/lightning 1_00
+  rotate: true
+  xy: 1528, 404
+  size: 43, 114
+  orig: 54, 120
+  offset: 7, 2
+  index: -1
+Ultra win/lightning 1_01
+  rotate: false
+  xy: 575, 49
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Ultra win/lightning 1_03
+  rotate: false
+  xy: 575, 49
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Ultra win/lightning 1_05
+  rotate: false
+  xy: 575, 49
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Ultra win/lightning 1_07
+  rotate: false
+  xy: 575, 49
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Ultra win/lightning 1_08
+  rotate: false
+  xy: 575, 49
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Ultra win/lightning 1_10
+  rotate: false
+  xy: 575, 49
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Ultra win/lightning 2_01
+  rotate: false
+  xy: 575, 49
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Ultra win/lightning 2_03
+  rotate: false
+  xy: 575, 49
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Ultra win/lightning 2_05
+  rotate: false
+  xy: 575, 49
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Ultra win/lightning 2_07
+  rotate: false
+  xy: 575, 49
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Ultra win/lightning 2_08
+  rotate: false
+  xy: 575, 49
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Ultra win/lightning 2_10
+  rotate: false
+  xy: 575, 49
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Ultra win/lightning 1_02
+  rotate: true
+  xy: 1468, 159
+  size: 39, 111
+  orig: 54, 120
+  offset: 12, 4
+  index: -1
+Ultra win/lightning 1_04
+  rotate: true
+  xy: 1348, 2
+  size: 35, 112
+  orig: 54, 120
+  offset: 12, 3
+  index: -1
+Ultra win/lightning 1_06
+  rotate: true
+  xy: 1525, 362
+  size: 40, 112
+  orig: 54, 120
+  offset: 9, 3
+  index: -1
+Ultra win/lightning 1_09
+  rotate: false
+  xy: 1348, 39
+  size: 46, 115
+  orig: 54, 120
+  offset: 3, 1
+  index: -1
+Ultra win/lightning 2_00
+  rotate: true
+  xy: 898, 884
+  size: 62, 172
+  orig: 72, 173
+  offset: 4, 1
+  index: -1
+Ultra win/lightning 2_02
+  rotate: false
+  xy: 1893, 972
+  size: 58, 171
+  orig: 72, 173
+  offset: 6, 2
+  index: -1
+Ultra win/lightning 2_04
+  rotate: true
+  xy: 1707, 910
+  size: 51, 171
+  orig: 72, 173
+  offset: 10, 2
+  index: -1
+Ultra win/lightning 2_06
+  rotate: true
+  xy: 704, 287
+  size: 59, 171
+  orig: 72, 173
+  offset: 9, 2
+  index: -1
+Ultra win/lightning 2_09
+  rotate: true
+  xy: 704, 348
+  size: 72, 171
+  orig: 72, 173
+  offset: 0, 2
+  index: -1
+Ultra win/lightning 2_11
+  rotate: true
+  xy: 880, 811
+  size: 71, 172
+  orig: 72, 173
+  offset: 0, 1
+  index: -1
+Ultra win/slash_00
+  rotate: true
+  xy: 880, 909
+  size: 26, 16
+  orig: 74, 44
+  offset: 2, 14
+  index: -1
+Ultra win/slash_01
+  rotate: false
+  xy: 1953, 972
+  size: 37, 15
+  orig: 74, 44
+  offset: 5, 12
+  index: -1
+Ultra win/slash_02
+  rotate: false
+  xy: 81, 2
+  size: 48, 20
+  orig: 74, 44
+  offset: 7, 11
+  index: -1
+Ultra win/slash_03
+  rotate: false
+  xy: 156, 5
+  size: 48, 22
+  orig: 74, 44
+  offset: 8, 11
+  index: -1
+Ultra win/slash_04
+  rotate: false
+  xy: 1788, 38
+  size: 48, 28
+  orig: 74, 44
+  offset: 9, 10
+  index: -1
+Ultra win/slash_05
+  rotate: false
+  xy: 1236, 2
+  size: 48, 29
+  orig: 74, 44
+  offset: 9, 10
+  index: -1
+Ultra win/slash_06
+  rotate: true
+  xy: 1838, 56
+  size: 48, 30
+  orig: 74, 44
+  offset: 9, 9
+  index: -1
+Ultra win/slash_07
+  rotate: false
+  xy: 1004, 2
+  size: 48, 33
+  orig: 74, 44
+  offset: 9, 7
+  index: -1
+Ultra win/slash_08
+  rotate: false
+  xy: 1978, 178
+  size: 45, 35
+  orig: 74, 44
+  offset: 12, 5
+  index: -1
+Ultra win/slash_09
+  rotate: true
+  xy: 1706, 5
+  size: 46, 36
+  orig: 74, 44
+  offset: 13, 4
+  index: -1
+Ultra win/slash_10
+  rotate: true
+  xy: 472, 1386
+  size: 51, 37
+  orig: 74, 44
+  offset: 13, 3
+  index: -1
+Ultra win/slash_11
+  rotate: false
+  xy: 1581, 160
+  size: 40, 38
+  orig: 74, 44
+  offset: 24, 2
+  index: -1
+Ultra win/slash_12
+  rotate: false
+  xy: 1979, 139
+  size: 36, 37
+  orig: 74, 44
+  offset: 29, 2
+  index: -1
+Ultra win/slash_13
+  rotate: true
+  xy: 1786, 2
+  size: 34, 39
+  orig: 74, 44
+  offset: 31, 2
+  index: -1
+Ultra win/slash_14
+  rotate: true
+  xy: 1665, 2
+  size: 32, 39
+  orig: 74, 44
+  offset: 33, 2
+  index: -1
+Ultra win/slash_15
+  rotate: true
+  xy: 1623, 2
+  size: 31, 40
+  orig: 74, 44
+  offset: 34, 2
+  index: -1
+Ultra win/slash_16
+  rotate: false
+  xy: 1954, 98
+  size: 30, 39
+  orig: 74, 44
+  offset: 35, 3
+  index: -1
+Ultra win/slash_17
+  rotate: true
+  xy: 1852, 2
+  size: 29, 39
+  orig: 74, 44
+  offset: 36, 3
+  index: -1
+Ultra win/slash_18
+  rotate: false
+  xy: 1948, 176
+  size: 28, 40
+  orig: 74, 44
+  offset: 37, 3
+  index: -1
+Ultra win/slash_19
+  rotate: false
+  xy: 1986, 97
+  size: 27, 40
+  orig: 74, 44
+  offset: 37, 3
+  index: -1
+Ultra win/slash_20
+  rotate: false
+  xy: 1982, 56
+  size: 21, 39
+  orig: 74, 44
+  offset: 38, 4
+  index: -1
+Ultra win/slash_21
+  rotate: false
+  xy: 992, 1424
+  size: 6, 6
+  orig: 74, 44
+  offset: 39, 4
+  index: -1
+Ultra win/slash_22
+  rotate: false
+  xy: 440, 189
+  size: 6, 6
+  orig: 74, 44
+  offset: 39, 4
+  index: -1
+Ultra win/slash_23
+  rotate: false
+  xy: 1843, 843
+  size: 6, 6
+  orig: 74, 44
+  offset: 39, 4
+  index: -1

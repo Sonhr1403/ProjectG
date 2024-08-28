@@ -1,0 +1,20 @@
+
+Btn_AutoPlayStop_Mobile.png
+size: 400,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI/Spin_M_BG2
+  rotate: true
+  xy: 129, 2
+  size: 268, 269
+  orig: 277, 277
+  offset: 8, 6
+  index: -1
+UI/Stop_M
+  rotate: false
+  xy: 2, 145
+  size: 125, 125
+  orig: 134, 134
+  offset: 6, 3
+  index: -1

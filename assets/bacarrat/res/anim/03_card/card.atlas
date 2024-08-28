@@ -1,0 +1,188 @@
+
+card.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+123_all
+  rotate: true
+  xy: 2, 78
+  size: 32, 167
+  orig: 32, 167
+  offset: 0, 0
+  index: -1
+Bi_2
+  rotate: true
+  xy: 2, 44
+  size: 32, 167
+  orig: 32, 167
+  offset: 0, 0
+  index: -1
+Bi_3
+  rotate: true
+  xy: 171, 78
+  size: 32, 167
+  orig: 32, 167
+  offset: 0, 0
+  index: -1
+Bi_4
+  rotate: true
+  xy: 2, 10
+  size: 32, 167
+  orig: 32, 167
+  offset: 0, 0
+  index: -1
+Bi_J
+  rotate: true
+  xy: 171, 44
+  size: 32, 167
+  orig: 32, 167
+  offset: 0, 0
+  index: -1
+Bi_K
+  rotate: true
+  xy: 340, 78
+  size: 32, 167
+  orig: 32, 167
+  offset: 0, 0
+  index: -1
+Bi_Q
+  rotate: true
+  xy: 171, 10
+  size: 32, 167
+  orig: 32, 167
+  offset: 0, 0
+  index: -1
+CardBack
+  rotate: true
+  xy: 1354, 2
+  size: 74, 104
+  orig: 74, 104
+  offset: 0, 0
+  index: -1
+Ch_2
+  rotate: true
+  xy: 340, 44
+  size: 32, 167
+  orig: 32, 167
+  offset: 0, 0
+  index: -1
+Ch_3
+  rotate: true
+  xy: 509, 78
+  size: 32, 167
+  orig: 32, 167
+  offset: 0, 0
+  index: -1
+Ch_4
+  rotate: true
+  xy: 340, 10
+  size: 32, 167
+  orig: 32, 167
+  offset: 0, 0
+  index: -1
+Ch_J
+  rotate: true
+  xy: 509, 44
+  size: 32, 167
+  orig: 32, 167
+  offset: 0, 0
+  index: -1
+Ch_K
+  rotate: true
+  xy: 678, 78
+  size: 32, 167
+  orig: 32, 167
+  offset: 0, 0
+  index: -1
+Ch_Q
+  rotate: true
+  xy: 509, 10
+  size: 32, 167
+  orig: 32, 167
+  offset: 0, 0
+  index: -1
+Co_2
+  rotate: true
+  xy: 678, 44
+  size: 32, 167
+  orig: 32, 167
+  offset: 0, 0
+  index: -1
+Co_3
+  rotate: true
+  xy: 847, 78
+  size: 32, 167
+  orig: 32, 167
+  offset: 0, 0
+  index: -1
+Co_4
+  rotate: true
+  xy: 678, 10
+  size: 32, 167
+  orig: 32, 167
+  offset: 0, 0
+  index: -1
+Co_J
+  rotate: true
+  xy: 847, 44
+  size: 32, 167
+  orig: 32, 167
+  offset: 0, 0
+  index: -1
+Co_K
+  rotate: true
+  xy: 1016, 78
+  size: 32, 167
+  orig: 32, 167
+  offset: 0, 0
+  index: -1
+Co_Q
+  rotate: true
+  xy: 847, 10
+  size: 32, 167
+  orig: 32, 167
+  offset: 0, 0
+  index: -1
+Ro_2
+  rotate: true
+  xy: 1016, 44
+  size: 32, 167
+  orig: 32, 167
+  offset: 0, 0
+  index: -1
+Ro_3
+  rotate: true
+  xy: 1185, 78
+  size: 32, 167
+  orig: 32, 167
+  offset: 0, 0
+  index: -1
+Ro_4
+  rotate: true
+  xy: 1016, 10
+  size: 32, 167
+  orig: 32, 167
+  offset: 0, 0
+  index: -1
+Ro_J
+  rotate: true
+  xy: 1185, 44
+  size: 32, 167
+  orig: 32, 167
+  offset: 0, 0
+  index: -1
+Ro_K
+  rotate: true
+  xy: 1354, 78
+  size: 32, 167
+  orig: 32, 167
+  offset: 0, 0
+  index: -1
+Ro_Q
+  rotate: true
+  xy: 1185, 10
+  size: 32, 167
+  orig: 32, 167
+  offset: 0, 0
+  index: -1

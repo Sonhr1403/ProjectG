@@ -1,0 +1,27 @@
+
+HL1.png
+size: 410,920
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+activatorActiveBigFx1_0
+  rotate: false
+  xy: 2, 755
+  size: 196, 163
+  orig: 202, 171
+  offset: 3, 4
+  index: -1
+activatorActiveBigFx4_0
+  rotate: true
+  xy: 2, 2
+  size: 389, 406
+  orig: 404, 416
+  offset: 6, 8
+  index: -1
+activatorTileFx2
+  rotate: false
+  xy: 2, 393
+  size: 404, 360
+  orig: 418, 368
+  offset: 8, 3
+  index: -1

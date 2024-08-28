@@ -1,0 +1,90 @@
+
+random_feature_effect.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+electric_01
+  rotate: false
+  xy: 2, 2
+  size: 54, 42
+  orig: 56, 44
+  offset: 1, 1
+  index: -1
+electric_02
+  rotate: true
+  xy: 1853, 267
+  size: 199, 190
+  orig: 201, 192
+  offset: 1, 1
+  index: -1
+electric_03
+  rotate: false
+  xy: 333, 86
+  size: 199, 190
+  orig: 201, 192
+  offset: 1, 1
+  index: -1
+electric_04
+  rotate: false
+  xy: 1654, 272
+  size: 197, 194
+  orig: 199, 196
+  offset: 1, 1
+  index: -1
+electric_05
+  rotate: false
+  xy: 1455, 269
+  size: 197, 197
+  orig: 199, 199
+  offset: 1, 1
+  index: -1
+electric_06
+  rotate: false
+  xy: 1054, 269
+  size: 199, 197
+  orig: 201, 199
+  offset: 1, 1
+  index: -1
+electric_07
+  rotate: false
+  xy: 1255, 268
+  size: 198, 198
+  orig: 200, 200
+  offset: 1, 1
+  index: -1
+electric_08
+  rotate: true
+  xy: 851, 269
+  size: 197, 201
+  orig: 199, 203
+  offset: 1, 1
+  index: -1
+electric_09
+  rotate: true
+  xy: 648, 269
+  size: 197, 201
+  orig: 199, 203
+  offset: 1, 1
+  index: -1
+flash_01
+  rotate: false
+  xy: 2, 261
+  size: 329, 205
+  orig: 331, 207
+  offset: 1, 1
+  index: -1
+flash_02
+  rotate: false
+  xy: 333, 278
+  size: 313, 188
+  orig: 315, 190
+  offset: 1, 1
+  index: -1
+flash_03
+  rotate: false
+  xy: 2, 46
+  size: 313, 213
+  orig: 315, 215
+  offset: 1, 1
+  index: -1

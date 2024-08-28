@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>ske_room_100k.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{220,170},{219,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{35,34},{219,50}}</string>
+				<key>sourceSize</key>
+				<string>{286,126}</string>
+			</dict>
+
+			<key>ske_room_1k.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{241,107},{174,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{57,34},{174,42}}</string>
+				<key>sourceSize</key>
+				<string>{286,126}</string>
+			</dict>
+
+			<key>ske_room_1m.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,115},{240,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{24,34},{240,54}}</string>
+				<key>sourceSize</key>
+				<string>{286,126}</string>
+			</dict>
+
+			<key>ske_room_20k.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{241,60},{196,46}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{46,34},{196,46}}</string>
+				<key>sourceSize</key>
+				<string>{286,126}</string>
+			</dict>
+
+			<key>ske_room_20m.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{262,59}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{13,34},{262,59}}</string>
+				<key>sourceSize</key>
+				<string>{286,126}</string>
+			</dict>
+
+			<key>ske_room_500k.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,170},{219,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{35,34},{219,50}}</string>
+				<key>sourceSize</key>
+				<string>{286,126}</string>
+			</dict>
+
+			<key>ske_room_5k.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{263,0},{174,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{57,34},{174,42}}</string>
+				<key>sourceSize</key>
+				<string>{286,126}</string>
+			</dict>
+
+			<key>ske_room_5m.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,60},{240,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{24,34},{240,54}}</string>
+				<key>sourceSize</key>
+				<string>{286,126}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{512,256}</string>
+			<key>textureFileName</key>
+			<string>RoomLevel.png</string>
+			</dict>
+		</dict>
+</plist>

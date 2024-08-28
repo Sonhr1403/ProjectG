@@ -1,0 +1,454 @@
+
+SC@2x.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: true
+  xy: 1130, 1573
+  size: 223, 93
+  orig: 225, 95
+  offset: 1, 1
+  index: -1
+background
+  rotate: true
+  xy: 734, 90
+  size: 141, 136
+  orig: 143, 138
+  offset: 1, 1
+  index: -1
+bullet_hole_big
+  rotate: false
+  xy: 776, 1453
+  size: 112, 97
+  orig: 112, 97
+  offset: 0, 0
+  index: -1
+bullet_hole_big_add
+  rotate: false
+  xy: 770, 1321
+  size: 63, 64
+  orig: 112, 97
+  offset: 23, 15
+  index: -1
+door_part_01
+  rotate: false
+  xy: 835, 1319
+  size: 59, 63
+  orig: 61, 65
+  offset: 1, 1
+  index: -1
+door_part_02
+  rotate: false
+  xy: 837, 1384
+  size: 55, 67
+  orig: 57, 69
+  offset: 1, 1
+  index: -1
+door_part_03
+  rotate: false
+  xy: 770, 1256
+  size: 63, 63
+  orig: 65, 65
+  offset: 1, 1
+  index: -1
+door_part_04
+  rotate: false
+  xy: 835, 1253
+  size: 62, 64
+  orig: 64, 66
+  offset: 1, 1
+  index: -1
+door_part_05
+  rotate: false
+  xy: 755, 1187
+  size: 55, 67
+  orig: 57, 69
+  offset: 1, 1
+  index: -1
+door_part_06
+  rotate: false
+  xy: 770, 1387
+  size: 65, 64
+  orig: 67, 66
+  offset: 1, 1
+  index: -1
+dust_a3
+  rotate: false
+  xy: 1327, 1457
+  size: 114, 116
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+electricity/electricity_000
+  rotate: false
+  xy: 2, 450
+  size: 249, 258
+  orig: 280, 280
+  offset: 14, 20
+  index: -1
+electricity/electricity_001
+  rotate: true
+  xy: 1588, 1794
+  size: 250, 254
+  orig: 280, 280
+  offset: 13, 20
+  index: -1
+electricity/electricity_002
+  rotate: false
+  xy: 2, 972
+  size: 249, 262
+  orig: 280, 280
+  offset: 14, 6
+  index: -1
+electricity/electricity_003
+  rotate: false
+  xy: 270, 1782
+  size: 262, 262
+  orig: 280, 280
+  offset: 7, 5
+  index: -1
+electricity/electricity_004
+  rotate: false
+  xy: 2, 189
+  size: 247, 259
+  orig: 280, 280
+  offset: 14, 5
+  index: -1
+electricity/electricity_005
+  rotate: false
+  xy: 508, 1041
+  size: 245, 241
+  orig: 280, 280
+  offset: 14, 22
+  index: -1
+electricity/electricity_006
+  rotate: false
+  xy: 254, 751
+  size: 251, 251
+  orig: 280, 280
+  offset: 13, 14
+  index: -1
+electricity/electricity_007
+  rotate: false
+  xy: 534, 1782
+  size: 257, 262
+  orig: 280, 280
+  offset: 14, 6
+  index: -1
+electricity/electricity_008
+  rotate: true
+  xy: 508, 1284
+  size: 242, 260
+  orig: 280, 280
+  offset: 14, 7
+  index: -1
+electricity/electricity_009
+  rotate: true
+  xy: 251, 189
+  size: 259, 238
+  orig: 280, 280
+  offset: 7, 17
+  index: -1
+electricity/electricity_010
+  rotate: false
+  xy: 509, 567
+  size: 238, 232
+  orig: 280, 280
+  offset: 19, 20
+  index: -1
+electricity/electricity_011
+  rotate: false
+  xy: 503, 7
+  size: 229, 208
+  orig: 280, 280
+  offset: 26, 36
+  index: -1
+electricity/electricity_012
+  rotate: false
+  xy: 507, 801
+  size: 240, 238
+  orig: 280, 280
+  offset: 17, 24
+  index: -1
+electricity/electricity_013
+  rotate: true
+  xy: 2, 1504
+  size: 276, 250
+  orig: 280, 280
+  offset: 3, 15
+  index: -1
+electricity/electricity_014
+  rotate: false
+  xy: 508, 1528
+  size: 266, 252
+  orig: 280, 280
+  offset: 13, 15
+  index: -1
+electricity/electricity_015
+  rotate: true
+  xy: 254, 1258
+  size: 248, 252
+  orig: 280, 280
+  offset: 14, 15
+  index: -1
+electricity/electricity_016
+  rotate: false
+  xy: 254, 504
+  size: 253, 245
+  orig: 280, 280
+  offset: 14, 18
+  index: -1
+electricity/electricity_017
+  rotate: false
+  xy: 1328, 1796
+  size: 258, 248
+  orig: 280, 280
+  offset: 16, 18
+  index: -1
+electricity/electricity_018
+  rotate: true
+  xy: 2, 710
+  size: 260, 250
+  orig: 280, 280
+  offset: 15, 18
+  index: -1
+electricity/electricity_019
+  rotate: false
+  xy: 2, 1782
+  size: 266, 262
+  orig: 280, 280
+  offset: 14, 11
+  index: -1
+electricity/electricity_020
+  rotate: false
+  xy: 793, 1793
+  size: 265, 251
+  orig: 280, 280
+  offset: 15, 18
+  index: -1
+electricity/electricity_021
+  rotate: true
+  xy: 1060, 1798
+  size: 246, 266
+  orig: 280, 280
+  offset: 19, 7
+  index: -1
+electricity/electricity_022
+  rotate: false
+  xy: 2, 1236
+  size: 247, 266
+  orig: 280, 280
+  offset: 14, 2
+  index: -1
+electricity/electricity_023
+  rotate: false
+  xy: 254, 1508
+  size: 252, 272
+  orig: 280, 280
+  offset: 11, 2
+  index: -1
+electricity/electricity_024
+  rotate: false
+  xy: 253, 1004
+  size: 252, 252
+  orig: 280, 280
+  offset: 11, 19
+  index: -1
+fire_cracker/fire_caracker_A_00000
+  rotate: false
+  xy: 253, 451
+  size: 93, 51
+  orig: 100, 56
+  offset: 2, 4
+  index: -1
+fire_cracker/fire_caracker_A_00001
+  rotate: false
+  xy: 348, 455
+  size: 80, 47
+  orig: 100, 56
+  offset: 6, 3
+  index: -1
+fire_cracker/fire_caracker_A_00002
+  rotate: true
+  xy: 749, 901
+  size: 65, 49
+  orig: 100, 56
+  offset: 18, 1
+  index: -1
+flare
+  rotate: true
+  xy: 1844, 1760
+  size: 284, 160
+  orig: 284, 160
+  offset: 0, 0
+  index: -1
+flare_o
+  rotate: false
+  xy: 2, 27
+  size: 284, 160
+  orig: 284, 160
+  offset: 0, 0
+  index: -1
+gear
+  rotate: true
+  xy: 1541, 1586
+  size: 206, 207
+  orig: 208, 209
+  offset: 1, 1
+  index: -1
+gold
+  rotate: true
+  xy: 717, 296
+  size: 143, 111
+  orig: 143, 111
+  offset: 0, 0
+  index: -1
+light_burst_MAIN
+  rotate: false
+  xy: 908, 1567
+  size: 220, 224
+  orig: 220, 224
+  offset: 0, 0
+  index: -1
+lights_blue
+  rotate: false
+  xy: 749, 789
+  size: 47, 53
+  orig: 49, 55
+  offset: 1, 1
+  index: -1
+lights_yellow
+  rotate: false
+  xy: 749, 734
+  size: 47, 53
+  orig: 49, 55
+  offset: 1, 1
+  index: -1
+pipe
+  rotate: true
+  xy: 430, 457
+  size: 45, 73
+  orig: 47, 75
+  offset: 1, 1
+  index: -1
+pipe2
+  rotate: false
+  xy: 749, 968
+  size: 46, 71
+  orig: 48, 73
+  offset: 1, 1
+  index: -1
+sc_door_closed
+  rotate: false
+  xy: 908, 1426
+  size: 139, 139
+  orig: 141, 141
+  offset: 1, 1
+  index: -1
+sc_text
+  rotate: true
+  xy: 776, 1552
+  size: 228, 130
+  orig: 230, 132
+  offset: 1, 1
+  index: -1
+sc_text_glow
+  rotate: false
+  xy: 509, 441
+  size: 230, 124
+  orig: 230, 132
+  offset: 0, 8
+  index: -1
+sparks_02
+  rotate: true
+  xy: 1750, 1561
+  size: 197, 198
+  orig: 200, 200
+  offset: 3, 0
+  index: -1
+super_scatter/back
+  rotate: true
+  xy: 1446, 1588
+  size: 206, 93
+  orig: 208, 95
+  offset: 1, 1
+  index: -1
+super_scatter/down
+  rotate: false
+  xy: 717, 233
+  size: 121, 61
+  orig: 123, 63
+  offset: 1, 1
+  index: -1
+super_scatter/front
+  rotate: false
+  xy: 491, 217
+  size: 224, 222
+  orig: 226, 224
+  offset: 1, 1
+  index: -1
+super_scatter/gear
+  rotate: false
+  xy: 1225, 1575
+  size: 219, 219
+  orig: 221, 221
+  offset: 1, 1
+  index: -1
+super_scatter/hide
+  rotate: true
+  xy: 1049, 1427
+  size: 138, 137
+  orig: 140, 139
+  offset: 1, 1
+  index: -1
+super_scatter/inside
+  rotate: true
+  xy: 1188, 1433
+  size: 138, 137
+  orig: 140, 139
+  offset: 1, 1
+  index: -1
+super_scatter/middle
+  rotate: false
+  xy: 749, 844
+  size: 55, 55
+  orig: 57, 57
+  offset: 1, 1
+  index: -1
+super_scatter/pipe_a
+  rotate: false
+  xy: 755, 1114
+  size: 50, 71
+  orig: 52, 73
+  offset: 1, 1
+  index: -1
+super_scatter/pipe_b
+  rotate: false
+  xy: 755, 1041
+  size: 50, 71
+  orig: 52, 73
+  offset: 1, 1
+  index: -1
+super_scatter/stroke_occluder
+  rotate: true
+  xy: 1950, 1552
+  size: 206, 54
+  orig: 208, 56
+  offset: 1, 1
+  index: -1
+super_scatter/upper
+  rotate: false
+  xy: 734, 27
+  size: 121, 61
+  orig: 123, 63
+  offset: 1, 1
+  index: -1
+upper_part
+  rotate: false
+  xy: 288, 2
+  size: 213, 185
+  orig: 215, 187
+  offset: 1, 1
+  index: -1

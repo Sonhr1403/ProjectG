@@ -1,0 +1,55 @@
+
+L2_spine.png
+size: 992,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L2/base
+  rotate: true
+  xy: 709, 50
+  size: 144, 135
+  orig: 144, 135
+  offset: 0, 0
+  index: -1
+L2/base_glow
+  rotate: false
+  xy: 2, 2
+  size: 198, 192
+  orig: 198, 192
+  offset: 0, 0
+  index: -1
+L2/base_glow_1
+  rotate: true
+  xy: 572, 17
+  size: 177, 135
+  orig: 177, 135
+  offset: 0, 0
+  index: -1
+L2/base_glow_2
+  rotate: false
+  xy: 202, 2
+  size: 184, 192
+  orig: 184, 192
+  offset: 0, 0
+  index: -1
+L2/base_glow_3
+  rotate: true
+  xy: 388, 6
+  size: 188, 182
+  orig: 188, 182
+  offset: 0, 0
+  index: -1
+L2/base_glow_4
+  rotate: false
+  xy: 846, 90
+  size: 144, 104
+  orig: 144, 104
+  offset: 0, 0
+  index: -1
+L2/ft
+  rotate: false
+  xy: 846, 27
+  size: 132, 61
+  orig: 132, 61
+  offset: 0, 0
+  index: -1

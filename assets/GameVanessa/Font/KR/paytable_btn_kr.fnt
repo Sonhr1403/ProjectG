@@ -1,0 +1,10 @@
+info face=paytable_btn_kr size=55 bold=1 italic=0 charset= unicode= stretchH=100 smooth=1 aa=1 padding=2,2,2,2 spacing=0,0 outline=0
+common lineHeight=73 base=43 scaleW=256 scaleH=58 pages=1 packed=0
+page id=0 file="paytable_btn_kr.png"
+chars count=4
+char id=44592 x=2 y=2 width=46 height=54 xoffset=3 yoffset=0 xadvance=55 page=0 chnl=15
+char id=44032 x=50 y=2 width=53 height=54 xoffset=2 yoffset=0 xadvance=55 page=0 chnl=15
+char id=45208 x=105 y=2 width=50 height=54 xoffset=5 yoffset=0 xadvance=55 page=0 chnl=15
+char id=13 x=157 y=2 width=0 height=0 xoffset=0 yoffset=42 xadvance=5 page=0 chnl=15
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=42 xadvance=19 page=0 chnl=15
+kernings count=0

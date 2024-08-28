@@ -1,0 +1,21 @@
+{
+  "ver": "1.1.3",
+  "uuid": "86eb612e-0c8a-493d-9cb7-4fc523866fb1",
+  "importer": "folder",
+  "isBundle": false,
+  "bundleName": "Panda",
+  "priority": 1,
+  "compressionType": {
+    "android": "merge_all_json"
+  },
+  "optimizeHotUpdate": {
+    "android": false
+  },
+  "inlineSpriteFrames": {
+    "android": false
+  },
+  "isRemoteBundle": {
+    "android": true
+  },
+  "subMetas": {}
+}

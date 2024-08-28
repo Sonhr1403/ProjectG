@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "6515eba9-988f-429c-8db4-9c2e4e1caeb8",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 665,
+  "height": 665,
+  "platformSettings": {},
+  "subMetas": {
+    "UTM Neutra - font chu onepiece": {
+      "ver": "1.0.6",
+      "uuid": "d1165507-4630-48d9-8fd2-d0ac1cf4d8d0",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "6515eba9-988f-429c-8db4-9c2e4e1caeb8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 663,
+      "height": 663,
+      "rawWidth": 665,
+      "rawHeight": 665,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

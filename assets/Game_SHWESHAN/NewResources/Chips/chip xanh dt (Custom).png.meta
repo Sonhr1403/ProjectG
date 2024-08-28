@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "90c4bde0-d1d0-4e39-b911-46bd8447510f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 94,
+  "height": 101,
+  "platformSettings": {},
+  "subMetas": {
+    "chip xanh dt (Custom)": {
+      "ver": "1.0.6",
+      "uuid": "82b95a0c-74b7-4a1c-a1f1-e73d577f22f2",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "90c4bde0-d1d0-4e39-b911-46bd8447510f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 94,
+      "height": 101,
+      "rawWidth": 94,
+      "rawHeight": 101,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

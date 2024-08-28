@@ -1,0 +1,176 @@
+{
+    "frames": {
+        "dot.png": {
+            "frame": {
+                "x": 50,
+                "y": 43,
+                "w": 2,
+                "h": 2
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 2,
+                "h": 2
+            },
+            "sourceSize": {
+                "w": 2,
+                "h": 2
+            }
+        },
+        "dot2.png": {
+            "frame": {
+                "x": 54,
+                "y": 43,
+                "w": 2,
+                "h": 2
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 2,
+                "h": 2
+            },
+            "sourceSize": {
+                "w": 2,
+                "h": 2
+            }
+        },
+        "dot3.png": {
+            "frame": {
+                "x": 58,
+                "y": 43,
+                "w": 2,
+                "h": 2
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 2,
+                "h": 2
+            },
+            "sourceSize": {
+                "w": 2,
+                "h": 2
+            }
+        },
+        "dust1.png": {
+            "frame": {
+                "x": 50,
+                "y": 1,
+                "w": 40,
+                "h": 39
+            },
+            "rotated": true,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 40,
+                "h": 39
+            },
+            "sourceSize": {
+                "w": 40,
+                "h": 39
+            }
+        },
+        "ember1.png": {
+            "frame": {
+                "x": 132,
+                "y": 1,
+                "w": 30,
+                "h": 31
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 30,
+                "h": 31
+            },
+            "sourceSize": {
+                "w": 30,
+                "h": 31
+            }
+        },
+        "ember2.png": {
+            "frame": {
+                "x": 1,
+                "y": 1,
+                "w": 45,
+                "h": 47
+            },
+            "rotated": true,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 45,
+                "h": 47
+            },
+            "sourceSize": {
+                "w": 45,
+                "h": 47
+            }
+        },
+        "ember3.png": {
+            "frame": {
+                "x": 1,
+                "y": 1,
+                "w": 45,
+                "h": 47
+            },
+            "rotated": true,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 45,
+                "h": 47
+            },
+            "sourceSize": {
+                "w": 45,
+                "h": 47
+            }
+        },
+        "firework.png": {
+            "frame": {
+                "x": 91,
+                "y": 1,
+                "w": 40,
+                "h": 39
+            },
+            "rotated": true,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 40,
+                "h": 39
+            },
+            "sourceSize": {
+                "w": 40,
+                "h": 39
+            }
+        }
+    },
+    "meta": {
+        "app": "https://www.codeandweb.com/texturepacker",
+        "version": "1.0",
+        "image": "fireworks.png?v=1590576219436",
+        "format": "RGBA8888",
+        "size": {
+            "w": 163,
+            "h": 47
+        },
+        "scale": "1",
+        "smartupdate": "$TexturePacker:SmartUpdate:98eccca562be1ad1e99227ea914ae294:e83b85616374a6c29f9ee2c026c8ab02:09f03cad1ac716f1bab556a36bf297b7$"
+    }
+}

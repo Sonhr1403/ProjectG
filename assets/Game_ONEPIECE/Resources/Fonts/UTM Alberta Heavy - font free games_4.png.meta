@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "0d6676d0-70ec-4f2d-98da-b3a1849d6154",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 617,
+  "height": 613,
+  "platformSettings": {},
+  "subMetas": {
+    "UTM Alberta Heavy - font free games_4": {
+      "ver": "1.0.6",
+      "uuid": "551d968b-0658-43c1-a82a-500bedfd0127",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "0d6676d0-70ec-4f2d-98da-b3a1849d6154",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 615,
+      "height": 611,
+      "rawWidth": 617,
+      "rawHeight": 613,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

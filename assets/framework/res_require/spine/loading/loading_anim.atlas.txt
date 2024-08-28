@@ -1,0 +1,20 @@
+
+loading_anim.png
+size: 386,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hinh_tron
+  rotate: false
+  xy: 2, 2
+  size: 276, 276
+  orig: 278, 278
+  offset: 1, 1
+  index: -1
+trai_tim
+  rotate: true
+  xy: 280, 168
+  size: 110, 104
+  orig: 112, 106
+  offset: 1, 1
+  index: -1

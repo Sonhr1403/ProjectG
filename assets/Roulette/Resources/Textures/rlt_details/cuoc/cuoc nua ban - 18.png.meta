@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "5a433556-0615-450e-a9fa-e265c6269cc2",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 158,
+  "height": 113,
+  "platformSettings": {},
+  "subMetas": {
+    "cuoc nua ban - 18": {
+      "ver": "1.0.6",
+      "uuid": "27013827-d660-4434-bbb5-a1f34bcd6020",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "5a433556-0615-450e-a9fa-e265c6269cc2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 158,
+      "height": 113,
+      "rawWidth": 158,
+      "rawHeight": 113,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

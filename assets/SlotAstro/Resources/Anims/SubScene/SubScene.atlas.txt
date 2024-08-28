@@ -1,0 +1,223 @@
+
+SubScene.png
+size: 1971,1419
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paytable1Lightning
+  rotate: false
+  xy: 1206, 362
+  size: 233, 510
+  orig: 249, 538
+  offset: 10, 22
+  index: -1
+paytable1LightningGlow
+  rotate: false
+  xy: 520, 273
+  size: 313, 594
+  orig: 331, 618
+  offset: 10, 12
+  index: -1
+paytable1Pyramid
+  rotate: false
+  xy: 2, 34
+  size: 516, 1383
+  orig: 520, 1390
+  offset: 2, 3
+  index: -1
+paytable1PyramidTop
+  rotate: true
+  xy: 1192, 874
+  size: 277, 517
+  orig: 280, 521
+  offset: 1, 2
+  index: -1
+paytable1Sand
+  rotate: false
+  xy: 520, 1153
+  size: 1281, 264
+  orig: 1294, 286
+  offset: 11, 14
+  index: -1
+paytable1SandFlare
+  rotate: false
+  xy: 1084, 81
+  size: 120, 786
+  orig: 152, 832
+  offset: 19, 19
+  index: -1
+paytable1Smoke
+  rotate: false
+  xy: 520, 869
+  size: 670, 282
+  orig: 754, 306
+  offset: 28, 19
+  index: -1
+paytable1Symbol1
+  rotate: false
+  xy: 912, 51
+  size: 107, 163
+  orig: 110, 167
+  offset: 1, 2
+  index: -1
+paytable1Symbol10
+  rotate: true
+  xy: 1863, 638
+  size: 128, 97
+  orig: 134, 100
+  offset: 2, 1
+  index: -1
+paytable1Symbol11
+  rotate: true
+  xy: 1699, 6
+  size: 82, 114
+  orig: 87, 121
+  offset: 2, 5
+  index: -1
+paytable1Symbol12
+  rotate: false
+  xy: 1865, 278
+  size: 82, 114
+  orig: 86, 118
+  offset: 2, 2
+  index: -1
+paytable1Symbol2
+  rotate: true
+  xy: 1861, 1038
+  size: 151, 108
+  orig: 155, 112
+  offset: 2, 2
+  index: -1
+paytable1Symbol3
+  rotate: true
+  xy: 1863, 512
+  size: 124, 92
+  orig: 131, 96
+  offset: 4, 2
+  index: -1
+paytable1Symbol4
+  rotate: true
+  xy: 1861, 901
+  size: 135, 105
+  orig: 139, 109
+  offset: 2, 2
+  index: -1
+paytable1Symbol5
+  rotate: true
+  xy: 1863, 394
+  size: 116, 87
+  orig: 119, 92
+  offset: 1, 2
+  index: -1
+paytable1Symbol6
+  rotate: false
+  xy: 1361, 2
+  size: 80, 113
+  orig: 84, 117
+  offset: 2, 2
+  index: -1
+paytable1Symbol7
+  rotate: false
+  xy: 1852, 58
+  size: 117, 171
+  orig: 120, 175
+  offset: 1, 2
+  index: -1
+paytable1Symbol8
+  rotate: false
+  xy: 1206, 2
+  size: 153, 113
+  orig: 159, 117
+  offset: 3, 2
+  index: -1
+paytable1Symbol9
+  rotate: true
+  xy: 1863, 768
+  size: 131, 101
+  orig: 137, 105
+  offset: 3, 2
+  index: -1
+paytable1SymbolGlow
+  rotate: false
+  xy: 1667, 231
+  size: 196, 139
+  orig: 206, 148
+  offset: 6, 3
+  index: -1
+paytable1Top
+  rotate: false
+  xy: 1703, 372
+  size: 158, 500
+  orig: 163, 504
+  offset: 3, 2
+  index: -1
+paytablePyramidShine0
+  rotate: true
+  xy: 1448, 197
+  size: 254, 217
+  orig: 265, 227
+  offset: 8, 4
+  index: -1
+paytablePyramidShine1
+  rotate: true
+  xy: 520, 2
+  size: 269, 390
+  orig: 283, 406
+  offset: 8, 8
+  index: -1
+paytablePyramidShine2
+  rotate: false
+  xy: 835, 352
+  size: 247, 515
+  orig: 269, 541
+  offset: 16, 18
+  index: -1
+paytablePyramidShine3
+  rotate: true
+  xy: 1441, 453
+  size: 419, 260
+  orig: 435, 268
+  offset: 8, 3
+  index: -1
+paytablePyramidShine4
+  rotate: true
+  xy: 1448, 2
+  size: 193, 249
+  orig: 207, 258
+  offset: 6, 3
+  index: -1
+paytablePyramidTopShine0
+  rotate: false
+  xy: 912, 216
+  size: 140, 134
+  orig: 150, 144
+  offset: 7, 4
+  index: -1
+paytablePyramidTopShine1
+  rotate: false
+  xy: 1711, 931
+  size: 148, 220
+  orig: 156, 229
+  offset: 3, 3
+  index: -1
+paytablePyramidTopShine2
+  rotate: false
+  xy: 1803, 1191
+  size: 149, 226
+  orig: 159, 236
+  offset: 5, 6
+  index: -1
+paytablePyramidTopShine3
+  rotate: false
+  xy: 1699, 90
+  size: 151, 139
+  orig: 160, 152
+  offset: 4, 6
+  index: -1
+sceneSlotStar
+  rotate: true
+  xy: 1206, 117
+  size: 243, 240
+  orig: 272, 272
+  offset: 27, 15
+  index: -1

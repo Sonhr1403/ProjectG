@@ -1,0 +1,736 @@
+{
+    "frames": {
+        "autospin_counter.png": {
+            "frame": {
+                "x": 1025,
+                "y": 666,
+                "w": 41,
+                "h": 34
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 41,
+                "h": 34
+            },
+            "sourceSize": {
+                "w": 41,
+                "h": 34
+            }
+        },
+        "autospin_panel.png": {
+            "frame": {
+                "x": 889,
+                "y": 591,
+                "w": 121,
+                "h": 74
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 121,
+                "h": 74
+            },
+            "sourceSize": {
+                "w": 121,
+                "h": 74
+            }
+        },
+        "bamboo_back-l.png": {
+            "frame": {
+                "x": 1123,
+                "y": 1,
+                "w": 182,
+                "h": 470
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 182,
+                "h": 470
+            },
+            "sourceSize": {
+                "w": 182,
+                "h": 470
+            }
+        },
+        "bamboo_front-l.png": {
+            "frame": {
+                "x": 908,
+                "y": 1,
+                "w": 213,
+                "h": 511
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 213,
+                "h": 511
+            },
+            "sourceSize": {
+                "w": 213,
+                "h": 511
+            }
+        },
+        "betlevel-popup-select.png": {
+            "frame": {
+                "x": 984,
+                "y": 962,
+                "w": 61,
+                "h": 17
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 61,
+                "h": 17
+            },
+            "sourceSize": {
+                "w": 61,
+                "h": 17
+            }
+        },
+        "boarder_bonus.png": {
+            "frame": {
+                "x": 1,
+                "y": 973,
+                "w": 146,
+                "h": 3
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 146,
+                "h": 3
+            },
+            "sourceSize": {
+                "w": 146,
+                "h": 3
+            }
+        },
+        "callout_panel.png": {
+            "frame": {
+                "x": 732,
+                "y": 771,
+                "w": 348,
+                "h": 44
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 348,
+                "h": 44
+            },
+            "sourceSize": {
+                "w": 348,
+                "h": 44
+            }
+        },
+        "forward.png": {
+            "frame": {
+                "x": 1171,
+                "y": 909,
+                "w": 41,
+                "h": 35
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 41,
+                "h": 35
+            },
+            "sourceSize": {
+                "w": 41,
+                "h": 35
+            }
+        },
+        "freespin_icon.png": {
+            "frame": {
+                "x": 516,
+                "y": 771,
+                "w": 214,
+                "h": 213
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 214,
+                "h": 213
+            },
+            "sourceSize": {
+                "w": 214,
+                "h": 213
+            }
+        },
+        "freespins_6.png": {
+            "frame": {
+                "x": 1012,
+                "y": 591,
+                "w": 72,
+                "h": 73
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 72,
+                "h": 73
+            },
+            "sourceSize": {
+                "w": 72,
+                "h": 73
+            }
+        },
+        "linebet_arrow.png": {
+            "frame": {
+                "x": 149,
+                "y": 973,
+                "w": 13,
+                "h": 12
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 13,
+                "h": 12
+            },
+            "sourceSize": {
+                "w": 13,
+                "h": 12
+            }
+        },
+        "linebet_frame.png": {
+            "frame": {
+                "x": 1056,
+                "y": 932,
+                "w": 113,
+                "h": 38
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 113,
+                "h": 38
+            },
+            "sourceSize": {
+                "w": 113,
+                "h": 38
+            }
+        },
+        "majorpanel.png": {
+            "frame": {
+                "x": 1123,
+                "y": 473,
+                "w": 183,
+                "h": 35
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 183,
+                "h": 35
+            },
+            "sourceSize": {
+                "w": 183,
+                "h": 35
+            }
+        },
+        "maxbet_panel.png": {
+            "frame": {
+                "x": 1082,
+                "y": 733,
+                "w": 121,
+                "h": 74
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 121,
+                "h": 74
+            },
+            "sourceSize": {
+                "w": 121,
+                "h": 74
+            }
+        },
+        "megapanel.png": {
+            "frame": {
+                "x": 908,
+                "y": 514,
+                "w": 190,
+                "h": 35
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 190,
+                "h": 35
+            },
+            "sourceSize": {
+                "w": 190,
+                "h": 35
+            }
+        },
+        "menu_backframe.png": {
+            "frame": {
+                "x": 1,
+                "y": 587,
+                "w": 886,
+                "h": 90
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 886,
+                "h": 90
+            },
+            "sourceSize": {
+                "w": 886,
+                "h": 90
+            }
+        },
+        "minipanel.png": {
+            "frame": {
+                "x": 1123,
+                "y": 510,
+                "w": 183,
+                "h": 35
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 183,
+                "h": 35
+            },
+            "sourceSize": {
+                "w": 183,
+                "h": 35
+            }
+        },
+        "minorpanel.png": {
+            "frame": {
+                "x": 1123,
+                "y": 473,
+                "w": 183,
+                "h": 35
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 183,
+                "h": 35
+            },
+            "sourceSize": {
+                "w": 183,
+                "h": 35
+            }
+        },
+        "payline-hplp.png": {
+            "frame": {
+                "x": 894,
+                "y": 817,
+                "w": 160,
+                "h": 143
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 160,
+                "h": 143
+            },
+            "sourceSize": {
+                "w": 160,
+                "h": 143
+            }
+        },
+        "payline-scatter.png": {
+            "frame": {
+                "x": 1100,
+                "y": 547,
+                "w": 184,
+                "h": 184
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 184,
+                "h": 184
+            },
+            "sourceSize": {
+                "w": 184,
+                "h": 184
+            }
+        },
+        "payline-wild.png": {
+            "frame": {
+                "x": 732,
+                "y": 817,
+                "w": 160,
+                "h": 162
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 160,
+                "h": 162
+            },
+            "sourceSize": {
+                "w": 160,
+                "h": 162
+            }
+        },
+        "play.png": {
+            "frame": {
+                "x": 1059,
+                "y": 551,
+                "w": 31,
+                "h": 35
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 31,
+                "h": 35
+            },
+            "sourceSize": {
+                "w": 31,
+                "h": 35
+            }
+        },
+        "pleaseclick_frame.png": {
+            "frame": {
+                "x": 1,
+                "y": 679,
+                "w": 937,
+                "h": 42
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 937,
+                "h": 42
+            },
+            "sourceSize": {
+                "w": 937,
+                "h": 42
+            }
+        },
+        "plus_freespin-6.png": {
+            "frame": {
+                "x": 940,
+                "y": 667,
+                "w": 83,
+                "h": 54
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 83,
+                "h": 54
+            },
+            "sourceSize": {
+                "w": 83,
+                "h": 54
+            }
+        },
+        "popup-select.png": {
+            "frame": {
+                "x": 894,
+                "y": 962,
+                "w": 88,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 18
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 18
+            }
+        },
+        "reel.png": {
+            "frame": {
+                "x": 1,
+                "y": 1,
+                "w": 905,
+                "h": 584
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 905,
+                "h": 584
+            },
+            "sourceSize": {
+                "w": 905,
+                "h": 584
+            }
+        },
+        "respins_3.png": {
+            "frame": {
+                "x": 1171,
+                "y": 830,
+                "w": 62,
+                "h": 77
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 62,
+                "h": 77
+            },
+            "sourceSize": {
+                "w": 62,
+                "h": 77
+            }
+        },
+        "scrollerbar_in.png": {
+            "frame": {
+                "x": 1047,
+                "y": 962,
+                "w": 7,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 7,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 7,
+                "h": 10
+            }
+        },
+        "scrollerbar_out.png": {
+            "frame": {
+                "x": 1286,
+                "y": 547,
+                "w": 7,
+                "h": 96
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 7,
+                "h": 96
+            },
+            "sourceSize": {
+                "w": 7,
+                "h": 96
+            }
+        },
+        "spinbutton.png": {
+            "frame": {
+                "x": 1205,
+                "y": 733,
+                "w": 95,
+                "h": 95
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 95,
+                "h": 95
+            },
+            "sourceSize": {
+                "w": 95,
+                "h": 95
+            }
+        },
+        "spinbutton_arrow.png": {
+            "frame": {
+                "x": 1235,
+                "y": 830,
+                "w": 61,
+                "h": 69
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 61,
+                "h": 69
+            },
+            "sourceSize": {
+                "w": 61,
+                "h": 69
+            }
+        },
+        "spinbutton_frame.png": {
+            "frame": {
+                "x": 1056,
+                "y": 817,
+                "w": 113,
+                "h": 113
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 113,
+                "h": 113
+            },
+            "sourceSize": {
+                "w": 113,
+                "h": 113
+            }
+        },
+        "stop.png": {
+            "frame": {
+                "x": 1171,
+                "y": 946,
+                "w": 28,
+                "h": 28
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 28,
+                "h": 28
+            },
+            "sourceSize": {
+                "w": 28,
+                "h": 28
+            }
+        },
+        "totalbet_frame.png": {
+            "frame": {
+                "x": 908,
+                "y": 551,
+                "w": 149,
+                "h": 38
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 149,
+                "h": 38
+            },
+            "sourceSize": {
+                "w": 149,
+                "h": 38
+            }
+        },
+        "totalwin_panel.png": {
+            "frame": {
+                "x": 1,
+                "y": 723,
+                "w": 513,
+                "h": 248
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 513,
+                "h": 248
+            },
+            "sourceSize": {
+                "w": 513,
+                "h": 248
+            }
+        },
+        "winpanel.png": {
+            "frame": {
+                "x": 516,
+                "y": 723,
+                "w": 564,
+                "h": 46
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 564,
+                "h": 46
+            },
+            "sourceSize": {
+                "w": 564,
+                "h": 46
+            }
+        }
+    },
+    "meta": {
+        "app": "https://www.codeandweb.com/texturepacker",
+        "version": "1.0",
+        "image": "uiAtlas.png?v=1590576219436",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1307,
+            "h": 986
+        },
+        "scale": "1",
+        "smartupdate": "$TexturePacker:SmartUpdate:bbffc6b8d102195cf73b98d94d967d9e:62e2acb7f5650c70b4fcc8db25713f2b:9dc5e028986bbda5d66c627c8901dc2a$"
+    }
+}

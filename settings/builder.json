@@ -1,0 +1,78 @@
+{
+  "title": "gamecasino",
+  "packageName": "org.cocos2d.demo",
+  "startScene": "eec75904-6761-4aca-b6dc-b81e4c497550",
+  "excludeScenes": [
+    "8547e4ab-bbf9-4edd-ba24-e2ea7389529e",
+    "a8c7f557-6b80-4ee6-9b5c-2abe28b0b33b",
+    "73116609-551d-427a-9d8e-7adcfa5425df",
+    "83f3cac2-2260-4b0d-ac93-5f06f4327a1b",
+    "4f10ea7c-3a93-439e-bee4-4003655abd1d",
+    "5d812ee9-6cbf-4095-80a8-15e12ac0b374",
+    "4faccaa8-313e-45e8-81b5-ba0ced8c4a70",
+    "8267771e-f902-4144-ba1f-64b174141a51",
+    "cf7e4539-b4f5-4bd1-9424-7950b11f2ce9",
+    "c49c255c-9672-4dd5-bf8f-7eaf4c5cebcb",
+    "eb6850bb-e466-40d5-8c61-96426ae3d378",
+    "68ab37c4-cad6-4a6f-977f-b11e229432aa",
+    "95c8c74e-f2bd-4858-803b-8cd6312f1fb7",
+    "32c7deed-ead6-4f94-bafc-07859371ee7b",
+    "6a044cba-ae7e-4773-91a2-3e65fb8015f5",
+    "430a9549-8b94-478b-bbc9-f4b98dc9b673",
+    "7189ecf6-6123-43bf-8bac-0d6c1b97b228",
+    "56491623-53b5-4b9e-9709-9982be8c1404",
+    "47ee91c8-4a87-454a-8ce1-1f204cecb43a",
+    "fe963a0a-e644-447b-882a-1da003d0af72",
+    "c1d28734-825c-47a8-821c-14469f808b06",
+    "6b0628da-621b-48bb-ba5c-ae5402473459"
+  ],
+  "orientation": {
+    "landscapeRight": true,
+    "landscapeLeft": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "webOrientation": "auto",
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "mainCompressionType": "merge_all_json",
+  "mainIsRemote": false,
+  "optimizeHotUpdate": false,
+  "md5Cache": true,
+  "nativeMd5Cache": true,
+  "encryptJs": false,
+  "xxteaKey": "c9d26ab1-d314-45",
+  "zipCompressJs": true,
+  "fb-instant-games": {},
+  "android": {
+    "packageName": "com.wiwa.tech",
+    "REMOTE_SERVER_ROOT": "bundle"
+  },
+  "ios": {
+    "packageName": "org.cocos2d.demo",
+    "REMOTE_SERVER_ROOT": "",
+    "ios_enable_jit": true
+  },
+  "mac": {
+    "packageName": "org.cocos2d.demo",
+    "REMOTE_SERVER_ROOT": "",
+    "width": 1280,
+    "height": 720
+  },
+  "win32": {
+    "REMOTE_SERVER_ROOT": "",
+    "width": 1280,
+    "height": 720
+  },
+  "android-instant": {
+    "packageName": "org.cocos2d.demo",
+    "REMOTE_SERVER_ROOT": "",
+    "pathPattern": "",
+    "scheme": "https",
+    "host": "",
+    "skipRecord": false,
+    "recordPath": ""
+  },
+  "appBundle": false,
+  "agreements": {}
+}

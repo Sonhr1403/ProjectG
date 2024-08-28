@@ -1,0 +1,20 @@
+
+H6_spine.png
+size: 233,411
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H6/short
+  rotate: false
+  xy: 2, 2
+  size: 176, 171
+  orig: 176, 171
+  offset: 0, 0
+  index: -1
+H6/short_glow
+  rotate: true
+  xy: 2, 175
+  size: 234, 229
+  orig: 234, 229
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+Dealer.png
+size: 947,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bodynv
+  rotate: false
+  xy: 308, 69
+  size: 146, 198
+  orig: 146, 198
+  offset: 0, 0
+  index: -1
+chopmat
+  rotate: true
+  xy: 688, 28
+  size: 42, 17
+  orig: 46, 19
+  offset: 2, 1
+  index: -1
+doimoi
+  rotate: false
+  xy: 872, 2
+  size: 38, 24
+  orig: 42, 27
+  offset: 2, 1
+  index: -1
+hongio
+  rotate: true
+  xy: 653, 18
+  size: 52, 33
+  orig: 54, 35
+  offset: 1, 1
+  index: -1
+l1
+  rotate: false
+  xy: 150, 54
+  size: 156, 213
+  orig: 164, 248
+  offset: 1, 0
+  index: -1
+l2
+  rotate: false
+  xy: 602, 72
+  size: 158, 195
+  orig: 164, 248
+  offset: 6, 0
+  index: -1
+l3
+  rotate: true
+  xy: 762, 115
+  size: 152, 183
+  orig: 164, 248
+  offset: 6, 0
+  index: -1
+l4
+  rotate: false
+  xy: 2, 19
+  size: 146, 248
+  orig: 164, 248
+  offset: 6, 0
+  index: -1
+labaile
+  rotate: true
+  xy: 707, 38
+  size: 32, 34
+  orig: 34, 36
+  offset: 1, 1
+  index: -1
+lua
+  rotate: false
+  xy: 2, 16
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nv-gian
+  rotate: false
+  xy: 456, 71
+  size: 144, 196
+  orig: 146, 198
+  offset: 1, 1
+  index: -1
+taychiabai1
+  rotate: false
+  xy: 558, 11
+  size: 93, 58
+  orig: 95, 60
+  offset: 1, 1
+  index: -1
+taychiabai2
+  rotate: true
+  xy: 838, 4
+  size: 109, 32
+  orig: 111, 35
+  offset: 1, 2
+  index: -1
+taydoi1
+  rotate: true
+  xy: 872, 28
+  size: 85, 30
+  orig: 87, 32
+  offset: 1, 1
+  index: -1
+taydoi2
+  rotate: true
+  xy: 904, 28
+  size: 85, 30
+  orig: 87, 32
+  offset: 1, 1
+  index: -1
+tayhongio
+  rotate: false
+  xy: 520, 3
+  size: 36, 66
+  orig: 38, 68
+  offset: 1, 1
+  index: -1
+tayphai1
+  rotate: true
+  xy: 311, 3
+  size: 64, 103
+  orig: 66, 105
+  offset: 1, 1
+  index: -1
+taythatim1
+  rotate: true
+  xy: 150, 3
+  size: 49, 104
+  orig: 49, 104
+  offset: 0, 0
+  index: -1
+taytrai1
+  rotate: true
+  xy: 416, 3
+  size: 64, 102
+  orig: 66, 104
+  offset: 1, 1
+  index: -1
+traitim
+  rotate: false
+  xy: 256, 5
+  size: 53, 47
+  orig: 55, 49
+  offset: 1, 1
+  index: -1
+votay1
+  rotate: false
+  xy: 762, 3
+  size: 36, 110
+  orig: 36, 110
+  offset: 0, 0
+  index: -1
+votay2
+  rotate: false
+  xy: 800, 3
+  size: 36, 110
+  orig: 36, 110
+  offset: 0, 0
+  index: -1

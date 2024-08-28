@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "9cfdbc59-1aad-4e07-b4fd-d40efe189f63",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 183,
+  "height": 35,
+  "platformSettings": {},
+  "subMetas": {
+    "thanh_giong_minipanel.png": {
+      "ver": "1.0.6",
+      "uuid": "7ed641fb-6c95-49ce-8e57-73441af25e74",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "9cfdbc59-1aad-4e07-b4fd-d40efe189f63",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 183,
+      "height": 35,
+      "rawWidth": 183,
+      "rawHeight": 35,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

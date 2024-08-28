@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "c1c184cb-778a-4301-8cb3-a5f081534e50",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 779,
+  "height": 660,
+  "platformSettings": {},
+  "subMetas": {
+    "astro_paytable2b": {
+      "ver": "1.0.6",
+      "uuid": "fe4eca05-b498-461d-aaa7-488687f7ba8b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "c1c184cb-778a-4301-8cb3-a5f081534e50",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 777,
+      "height": 658,
+      "rawWidth": 779,
+      "rawHeight": 660,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

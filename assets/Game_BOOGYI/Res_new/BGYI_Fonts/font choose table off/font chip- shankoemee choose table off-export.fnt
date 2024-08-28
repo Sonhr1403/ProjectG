@@ -1,0 +1,26 @@
+info face="E:\WORK OUT\YOLO 2023\SKM MM\SKM MM\export them\THEM 2\font\font chip- shankoemee choose table off-export" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=131 base=26 scaleW=512 scaleH=512 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="E:\WORK OUT\YOLO 2023\SKM MM\SKM MM\export them\THEM 2\font\font chip- shankoemee choose table off-export.png"
+chars count=20
+char id=48 x=74 y=396 width=72 height=101 xoffset=0 yoffset=30 xadvance=79 page=0 chnl=0 letter="0"
+char id=49 x=225 y=0 width=59 height=98 xoffset=0 yoffset=31 xadvance=66 page=0 chnl=0 letter="1"
+char id=50 x=149 y=99 width=69 height=99 xoffset=0 yoffset=30 xadvance=76 page=0 chnl=0 letter="2"
+char id=51 x=148 y=201 width=71 height=101 xoffset=0 yoffset=30 xadvance=78 page=0 chnl=0 letter="3"
+char id=52 x=0 y=198 width=74 height=98 xoffset=0 yoffset=31 xadvance=81 page=0 chnl=0 letter="4"
+char id=53 x=147 y=396 width=72 height=100 xoffset=0 yoffset=31 xadvance=79 page=0 chnl=0 letter="5"
+char id=54 x=0 y=399 width=73 height=101 xoffset=0 yoffset=30 xadvance=80 page=0 chnl=0 letter="6"
+char id=55 x=161 y=0 width=63 height=98 xoffset=0 yoffset=31 xadvance=70 page=0 chnl=0 letter="7"
+char id=56 x=76 y=99 width=72 height=101 xoffset=0 yoffset=30 xadvance=79 page=0 chnl=0 letter="8"
+char id=57 x=0 y=297 width=73 height=101 xoffset=0 yoffset=30 xadvance=80 page=0 chnl=0 letter="9"
+char id=75 x=0 y=99 width=75 height=98 xoffset=0 yoffset=33 xadvance=82 page=0 chnl=0 letter="K"
+char id=77 x=0 y=0 width=89 height=98 xoffset=0 yoffset=33 xadvance=96 page=0 chnl=0 letter="M"
+char id=66 x=74 y=297 width=73 height=98 xoffset=0 yoffset=33 xadvance=80 page=0 chnl=0 letter="B"
+char id=84 x=90 y=0 width=70 height=98 xoffset=0 yoffset=33 xadvance=77 page=0 chnl=0 letter="T"
+char id=47 x=219 y=99 width=62 height=101 xoffset=0 yoffset=32 xadvance=69 page=0 chnl=0 letter="/"
+char id=45 x=148 y=303 width=50 height=38 xoffset=0 yoffset=70 xadvance=57 page=0 chnl=0 letter="-"
+char id=46 x=148 y=342 width=39 height=39 xoffset=0 yoffset=92 xadvance=46 page=0 chnl=0 letter="."
+char id=43 x=75 y=201 width=72 height=68 xoffset=0 yoffset=48 xadvance=79 page=0 chnl=0 letter="+"
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=46 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=368 page=0 chnl=0 letter="	"
+
+kernings count=0

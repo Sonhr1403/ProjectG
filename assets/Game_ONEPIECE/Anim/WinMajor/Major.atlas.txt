@@ -1,0 +1,734 @@
+
+Major.png
+size: 1254,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 81
+  rotate: true
+  xy: 747, 246
+  size: 95, 106
+  orig: 99, 106
+  offset: 1, 0
+  index: -1
+Group 82
+  rotate: true
+  xy: 865, 2
+  size: 35, 36
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+Group 83
+  rotate: true
+  xy: 1066, 429
+  size: 166, 107
+  orig: 166, 107
+  offset: 0, 0
+  index: -1
+Group 84
+  rotate: true
+  xy: 1150, 305
+  size: 122, 102
+  orig: 122, 102
+  offset: 0, 0
+  index: -1
+Layer 789
+  rotate: true
+  xy: 1067, 35
+  size: 28, 29
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+Layer 790
+  rotate: true
+  xy: 579, 3
+  size: 22, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+man tra thuong/Group 113
+  rotate: false
+  xy: 1102, 90
+  size: 56, 45
+  orig: 56, 45
+  offset: 0, 0
+  index: -1
+man tra thuong/Group 113 copy
+  rotate: true
+  xy: 920, 34
+  size: 56, 45
+  orig: 56, 45
+  offset: 0, 0
+  index: -1
+man tra thuong/Group 114 copy 4
+  rotate: false
+  xy: 553, 241
+  size: 192, 100
+  orig: 192, 100
+  offset: 0, 0
+  index: -1
+man tra thuong/Group 114 copy 5
+  rotate: false
+  xy: 805, 353
+  size: 192, 100
+  orig: 192, 100
+  offset: 0, 0
+  index: -1
+man tra thuong/Group 118
+  rotate: false
+  xy: 749, 735
+  size: 399, 37
+  orig: 399, 37
+  offset: 0, 0
+  index: -1
+man tra thuong/Group 119
+  rotate: false
+  xy: 2, 373
+  size: 550, 37
+  orig: 550, 37
+  offset: 0, 0
+  index: -1
+man tra thuong/Layer 1169 copy
+  rotate: false
+  xy: 2, 586
+  size: 745, 444
+  orig: 790, 466
+  offset: 24, 21
+  index: -1
+man tra thuong/Layer 1169 copy 3
+  rotate: false
+  xy: 749, 774
+  size: 431, 256
+  orig: 456, 270
+  offset: 13, 13
+  index: -1
+man tra thuong/Layer 1189 copy 4
+  rotate: true
+  xy: 1224, 442
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+man tra thuong/Layer 1189 copy 5
+  rotate: false
+  xy: 1067, 65
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+man tra thuong/Layer 1192
+  rotate: false
+  xy: 855, 276
+  size: 83, 75
+  orig: 84, 75
+  offset: 1, 0
+  index: -1
+man tra thuong/Layer 1192 copy
+  rotate: true
+  xy: 871, 191
+  size: 83, 75
+  orig: 84, 75
+  offset: 0, 0
+  index: -1
+man tra thuong/Layer 1193
+  rotate: false
+  xy: 1136, 144
+  size: 25, 25
+  orig: 25, 26
+  offset: 0, 1
+  index: -1
+man tra thuong/Layer 1193 copy
+  rotate: false
+  xy: 1062, 8
+  size: 25, 25
+  orig: 25, 26
+  offset: 0, 1
+  index: -1
+man tra thuong/Layer 1194
+  rotate: true
+  xy: 1210, 629
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+man tra thuong/Layer 1194 copy
+  rotate: false
+  xy: 1021, 51
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+man tra thuong/Layer 1195
+  rotate: false
+  xy: 1210, 597
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+man tra thuong/Layer 1195 copy
+  rotate: false
+  xy: 1222, 687
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+man tra thuong/Layer 1196
+  rotate: true
+  xy: 1220, 115
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+man tra thuong/Layer 1196 copy
+  rotate: true
+  xy: 1220, 88
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+man tra thuong/Layer 538 copy
+  rotate: true
+  xy: 226, 64
+  size: 27, 125
+  orig: 27, 125
+  offset: 0, 0
+  index: -1
+man tra thuong/Layer 538 copy 2
+  rotate: true
+  xy: 242, 6
+  size: 22, 99
+  orig: 22, 99
+  offset: 0, 0
+  index: -1
+man tra thuong/Layer 538 copy 3
+  rotate: false
+  xy: 1222, 719
+  size: 17, 74
+  orig: 17, 74
+  offset: 0, 0
+  index: -1
+man tra thuong/Layer 5381
+  rotate: true
+  xy: 444, 11
+  size: 17, 74
+  orig: 17, 74
+  offset: 0, 0
+  index: -1
+man tra thuong/Layer 5382
+  rotate: true
+  xy: 343, 6
+  size: 22, 99
+  orig: 22, 99
+  offset: 0, 0
+  index: -1
+man tra thuong/Layer 5383
+  rotate: true
+  xy: 353, 64
+  size: 27, 125
+  orig: 27, 125
+  offset: 0, 0
+  index: -1
+man tra thuong/MajorLayer_2
+  rotate: false
+  xy: 1027, 597
+  size: 125, 136
+  orig: 125, 136
+  offset: 0, 0
+  index: -1
+man tra thuong/MajorLayer_3
+  rotate: false
+  xy: 999, 291
+  size: 149, 136
+  orig: 149, 136
+  offset: 0, 0
+  index: -1
+man tra thuong/MajorLayer_4
+  rotate: false
+  xy: 699, 103
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+man tra thuong/MajorLayer_6
+  rotate: false
+  xy: 553, 103
+  size: 144, 136
+  orig: 144, 136
+  offset: 0, 0
+  index: -1
+man tra thuong/Major_00
+  rotate: false
+  xy: 520, 27
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+man tra thuong/Major_12
+  rotate: false
+  xy: 520, 27
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+man tra thuong/major lightning_00
+  rotate: false
+  xy: 520, 27
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+man tra thuong/Major_01
+  rotate: true
+  xy: 999, 432
+  size: 21, 59
+  orig: 174, 71
+  offset: 2, 7
+  index: -1
+man tra thuong/Major_02
+  rotate: true
+  xy: 547, 27
+  size: 40, 63
+  orig: 174, 71
+  offset: 2, 4
+  index: -1
+man tra thuong/Major_03
+  rotate: false
+  xy: 940, 288
+  size: 57, 63
+  orig: 174, 71
+  offset: 3, 4
+  index: -1
+man tra thuong/Major_04
+  rotate: true
+  xy: 482, 30
+  size: 61, 63
+  orig: 174, 71
+  offset: 17, 4
+  index: -1
+man tra thuong/Major_05
+  rotate: false
+  xy: 871, 126
+  size: 62, 63
+  orig: 174, 71
+  offset: 36, 4
+  index: -1
+man tra thuong/Major_06
+  rotate: true
+  xy: 612, 5
+  size: 62, 63
+  orig: 174, 71
+  offset: 55, 4
+  index: -1
+man tra thuong/Major_07
+  rotate: true
+  xy: 677, 5
+  size: 62, 63
+  orig: 174, 71
+  offset: 74, 4
+  index: -1
+man tra thuong/Major_08
+  rotate: false
+  xy: 742, 4
+  size: 62, 63
+  orig: 174, 71
+  offset: 93, 4
+  index: -1
+man tra thuong/Major_09
+  rotate: true
+  xy: 976, 96
+  size: 57, 63
+  orig: 174, 71
+  offset: 112, 4
+  index: -1
+man tra thuong/Major_10
+  rotate: true
+  xy: 1170, 142
+  size: 41, 62
+  orig: 174, 71
+  offset: 131, 4
+  index: -1
+man tra thuong/Major_11
+  rotate: true
+  xy: 520, 2
+  size: 23, 57
+  orig: 174, 71
+  offset: 149, 5
+  index: -1
+man tra thuong/khung bia mo
+  rotate: false
+  xy: 2, 412
+  size: 543, 172
+  orig: 543, 172
+  offset: 0, 0
+  index: -1
+man tra thuong/major - mummy
+  rotate: false
+  xy: 2, 36
+  size: 163, 55
+  orig: 163, 55
+  offset: 0, 0
+  index: -1
+man tra thuong/major frame_00
+  rotate: false
+  xy: 2, 2
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/major frame_01
+  rotate: false
+  xy: 122, 2
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/major frame_02
+  rotate: true
+  xy: 837, 126
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/major frame_03
+  rotate: false
+  xy: 551, 69
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/major frame_04
+  rotate: false
+  xy: 671, 69
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/major frame_05
+  rotate: false
+  xy: 242, 30
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/major frame_06
+  rotate: false
+  xy: 362, 30
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/major frame_07
+  rotate: false
+  xy: 999, 257
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/major frame_08
+  rotate: false
+  xy: 837, 92
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/major frame_09
+  rotate: true
+  xy: 948, 168
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/major frame_10
+  rotate: false
+  xy: 982, 223
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/major frame_11
+  rotate: false
+  xy: 982, 189
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/major frame_12
+  rotate: false
+  xy: 982, 155
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/major frame_13
+  rotate: true
+  xy: 1102, 137
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/major frame_14
+  rotate: true
+  xy: 1154, 654
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/major frame_15
+  rotate: true
+  xy: 1188, 675
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/major frame_16
+  rotate: true
+  xy: 1175, 477
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/major frame_17
+  rotate: true
+  xy: 1209, 477
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/major frame_18
+  rotate: true
+  xy: 1136, 171
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/major frame_19
+  rotate: true
+  xy: 1170, 185
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/major frame_20
+  rotate: true
+  xy: 1204, 185
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/major lightning 3_00
+  rotate: false
+  xy: 1231, 70
+  size: 21, 16
+  orig: 63, 63
+  offset: 23, 23
+  index: -1
+man tra thuong/major lightning 3_01
+  rotate: false
+  xy: 791, 70
+  size: 31, 31
+  orig: 63, 63
+  offset: 16, 16
+  index: -1
+man tra thuong/major lightning 3_02
+  rotate: true
+  xy: 935, 126
+  size: 40, 39
+  orig: 63, 63
+  offset: 12, 12
+  index: -1
+man tra thuong/major lightning 3_03
+  rotate: false
+  xy: 1021, 10
+  size: 39, 39
+  orig: 63, 63
+  offset: 12, 12
+  index: -1
+man tra thuong/major lightning 3_04
+  rotate: false
+  xy: 1175, 429
+  size: 47, 46
+  orig: 63, 63
+  offset: 8, 8
+  index: -1
+man tra thuong/major lightning 3_05
+  rotate: false
+  xy: 865, 39
+  size: 53, 51
+  orig: 63, 63
+  offset: 6, 5
+  index: -1
+man tra thuong/major lightning 3_06
+  rotate: false
+  xy: 1102, 47
+  size: 41, 41
+  orig: 63, 63
+  offset: 11, 11
+  index: -1
+man tra thuong/major lightning 3_07
+  rotate: false
+  xy: 167, 36
+  size: 57, 55
+  orig: 63, 63
+  offset: 3, 2
+  index: -1
+man tra thuong/major lightning 3_08
+  rotate: false
+  xy: 1145, 39
+  size: 41, 41
+  orig: 63, 63
+  offset: 11, 11
+  index: -1
+man tra thuong/major lightning 3_09
+  rotate: false
+  xy: 1160, 82
+  size: 58, 58
+  orig: 63, 63
+  offset: 4, 2
+  index: -1
+man tra thuong/major lightning 3_10
+  rotate: true
+  xy: 1041, 95
+  size: 58, 59
+  orig: 63, 63
+  offset: 4, 2
+  index: -1
+man tra thuong/major lightning 3_11
+  rotate: true
+  xy: 824, 70
+  size: 20, 25
+  orig: 63, 63
+  offset: 20, 18
+  index: -1
+man tra thuong/major lightning 3_12
+  rotate: false
+  xy: 806, 11
+  size: 57, 57
+  orig: 63, 63
+  offset: 4, 4
+  index: -1
+man tra thuong/major lightning 3_13
+  rotate: false
+  xy: 957, 107
+  size: 17, 17
+  orig: 63, 63
+  offset: 22, 23
+  index: -1
+man tra thuong/major lightning 3_14
+  rotate: false
+  xy: 1154, 597
+  size: 54, 55
+  orig: 63, 63
+  offset: 4, 5
+  index: -1
+man tra thuong/major lightning 3_15
+  rotate: false
+  xy: 967, 42
+  size: 52, 52
+  orig: 63, 63
+  offset: 5, 7
+  index: -1
+man tra thuong/major lightning 3_16
+  rotate: false
+  xy: 795, 436
+  size: 8, 8
+  orig: 63, 63
+  offset: 27, 28
+  index: -1
+man tra thuong/major lightning 3_17
+  rotate: false
+  xy: 1182, 795
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+man tra thuong/major lightning 3_19
+  rotate: false
+  xy: 1182, 795
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+man tra thuong/major lightning 3_20
+  rotate: false
+  xy: 1182, 795
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+man tra thuong/major lightning 3_18
+  rotate: false
+  xy: 967, 2
+  size: 46, 38
+  orig: 63, 63
+  offset: 8, 11
+  index: -1
+man tra thuong/major lightning_01
+  rotate: false
+  xy: 547, 446
+  size: 256, 138
+  orig: 276, 138
+  offset: 0, 0
+  index: -1
+man tra thuong/major lightning_02
+  rotate: false
+  xy: 805, 455
+  size: 259, 138
+  orig: 276, 138
+  offset: 0, 0
+  index: -1
+man tra thuong/major lightning_03
+  rotate: false
+  xy: 280, 93
+  size: 269, 138
+  orig: 276, 138
+  offset: 0, 0
+  index: -1
+man tra thuong/major lightning_04
+  rotate: false
+  xy: 280, 233
+  size: 271, 138
+  orig: 276, 138
+  offset: 0, 0
+  index: -1
+man tra thuong/major lightning_05
+  rotate: false
+  xy: 2, 233
+  size: 276, 138
+  orig: 276, 138
+  offset: 0, 0
+  index: -1
+man tra thuong/major lightning_06
+  rotate: false
+  xy: 749, 595
+  size: 276, 138
+  orig: 276, 138
+  offset: 0, 0
+  index: -1
+man tra thuong/major lightning_07
+  rotate: false
+  xy: 2, 93
+  size: 276, 138
+  orig: 276, 138
+  offset: 0, 0
+  index: -1
+man tra thuong/major lightning_08
+  rotate: false
+  xy: 554, 343
+  size: 239, 101
+  orig: 276, 138
+  offset: 2, 21
+  index: -1
+man tra thuong/major-mummy_00
+  rotate: true
+  xy: 1182, 860
+  size: 170, 63
+  orig: 174, 71
+  offset: 2, 4
+  index: -1
+man tra thuong/particle_00
+  rotate: false
+  xy: 1188, 39
+  size: 41, 41
+  orig: 75, 75
+  offset: 17, 17
+  index: -1

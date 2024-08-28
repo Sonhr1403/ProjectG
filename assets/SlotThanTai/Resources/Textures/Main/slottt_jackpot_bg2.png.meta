@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "1f97345e-0275-4b31-82c8-6b32c7d0ffa4",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 188,
+  "height": 40,
+  "platformSettings": {},
+  "subMetas": {
+    "slottt_jackpot_bg2": {
+      "ver": "1.0.6",
+      "uuid": "910f8150-eebb-45d1-ae2f-922b51323024",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "1f97345e-0275-4b31-82c8-6b32c7d0ffa4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 188,
+      "height": 40,
+      "rawWidth": 188,
+      "rawHeight": 40,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,209 @@
+
+H4_spine.png
+size: 1382,237
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H4/gun
+  rotate: true
+  xy: 281, 33
+  size: 202, 156
+  orig: 202, 156
+  offset: 0, 0
+  index: -1
+H4/gun_glow
+  rotate: false
+  xy: 2, 11
+  size: 277, 224
+  orig: 277, 224
+  offset: 0, 0
+  index: -1
+H4/yellow
+  rotate: false
+  xy: 1308, 6
+  size: 54, 41
+  orig: 54, 41
+  offset: 0, 0
+  index: -1
+water/watergun_00
+  rotate: false
+  xy: 2, 2
+  size: 7, 7
+  orig: 152, 108
+  offset: 2, 18
+  index: -1
+water/watergun_01
+  rotate: true
+  xy: 1138, 5
+  size: 31, 37
+  orig: 152, 108
+  offset: 0, 10
+  index: -1
+water/watergun_02
+  rotate: true
+  xy: 1222, 83
+  size: 56, 52
+  orig: 152, 108
+  offset: 2, 18
+  index: -1
+water/watergun_03
+  rotate: false
+  xy: 1308, 49
+  size: 72, 67
+  orig: 152, 108
+  offset: 0, 11
+  index: -1
+water/watergun_04
+  rotate: false
+  xy: 1276, 118
+  size: 84, 67
+  orig: 152, 108
+  offset: 0, 14
+  index: -1
+water/watergun_05
+  rotate: true
+  xy: 1120, 135
+  size: 100, 73
+  orig: 152, 108
+  offset: 0, 13
+  index: -1
+water/watergun_06
+  rotate: true
+  xy: 661, 2
+  size: 108, 75
+  orig: 152, 108
+  offset: 1, 16
+  index: -1
+water/watergun_07
+  rotate: true
+  xy: 680, 114
+  size: 121, 78
+  orig: 152, 108
+  offset: 2, 18
+  index: -1
+water/watergun_08
+  rotate: true
+  xy: 600, 112
+  size: 123, 78
+  orig: 152, 108
+  offset: 9, 23
+  index: -1
+water/watergun_09
+  rotate: true
+  xy: 439, 106
+  size: 129, 77
+  orig: 152, 108
+  offset: 9, 25
+  index: -1
+water/watergun_10
+  rotate: true
+  xy: 518, 111
+  size: 124, 80
+  orig: 152, 108
+  offset: 15, 27
+  index: -1
+water/watergun_11
+  rotate: true
+  xy: 760, 117
+  size: 118, 84
+  orig: 152, 108
+  offset: 24, 24
+  index: -1
+water/watergun_12
+  rotate: true
+  xy: 846, 118
+  size: 117, 87
+  orig: 152, 108
+  offset: 30, 21
+  index: -1
+water/watergun_13
+  rotate: true
+  xy: 935, 119
+  size: 116, 94
+  orig: 152, 108
+  offset: 35, 14
+  index: -1
+water/watergun_14
+  rotate: false
+  xy: 439, 2
+  size: 113, 102
+  orig: 152, 108
+  offset: 39, 6
+  index: -1
+water/watergun_15
+  rotate: false
+  xy: 943, 11
+  size: 106, 106
+  orig: 152, 108
+  offset: 44, 1
+  index: -1
+water/watergun_16
+  rotate: false
+  xy: 554, 2
+  size: 105, 107
+  orig: 152, 108
+  offset: 47, 0
+  index: -1
+water/watergun_17
+  rotate: false
+  xy: 738, 5
+  size: 103, 107
+  orig: 152, 108
+  offset: 49, 0
+  index: -1
+water/watergun_18
+  rotate: false
+  xy: 843, 8
+  size: 98, 107
+  orig: 152, 108
+  offset: 52, 0
+  index: -1
+water/watergun_19
+  rotate: false
+  xy: 1031, 130
+  size: 87, 105
+  orig: 152, 108
+  offset: 65, 0
+  index: -1
+water/watergun_20
+  rotate: false
+  xy: 1051, 27
+  size: 85, 101
+  orig: 152, 108
+  offset: 67, 2
+  index: -1
+water/watergun_21
+  rotate: false
+  xy: 1138, 38
+  size: 82, 95
+  orig: 152, 108
+  offset: 69, 0
+  index: -1
+water/watergun_22
+  rotate: false
+  xy: 1195, 141
+  size: 79, 94
+  orig: 152, 108
+  offset: 71, 0
+  index: -1
+water/watergun_23
+  rotate: true
+  xy: 1276, 187
+  size: 48, 86
+  orig: 152, 108
+  offset: 101, 3
+  index: -1
+water/watergun_24
+  rotate: false
+  xy: 1222, 2
+  size: 42, 79
+  orig: 152, 108
+  offset: 102, 0
+  index: -1
+water/watergun_25
+  rotate: false
+  xy: 1266, 5
+  size: 40, 76
+  orig: 152, 108
+  offset: 104, 1
+  index: -1

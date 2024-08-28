@@ -1,0 +1,101 @@
+{
+  "skeleton": {
+    "hash": "LbgsCd+Y8yVIk/gI/oqiyhPfrQ8",
+    "spine":"3.7.99",
+    "x": -106,
+    "y": -106,
+    "width": 213,
+    "height": 212,
+    "images": "../02_assets/tnt/",
+    "audio": ""
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "tnt_left_1",
+      "bone": "root",
+      "attachment": "tnt_left_1"
+    },
+    {
+      "name": "tnt_left_2",
+      "bone": "root",
+      "attachment": "tnt_left_2"
+    },
+    {
+      "name": "tnt_left_3",
+      "bone": "root",
+      "attachment": "tnt_left_3"
+    },
+    {
+      "name": "tnt_right_1",
+      "bone": "root",
+      "attachment": "tnt_right_1"
+    },
+    {
+      "name": "tnt_right_2",
+      "bone": "root",
+      "attachment": "tnt_right_2"
+    },
+    {
+      "name": "tnt_right_3",
+      "bone": "root",
+      "attachment": "tnt_right_3"
+    }
+  ],
+  "skins": {
+    "default": {
+      "tnt_left_1": {
+        "tnt_left_1": {
+          "x": 0.5,
+          "y": 0.5,
+          "width": 205,
+          "height": 145
+        }
+      },
+      "tnt_left_2": {
+        "tnt_left_2": {
+          "y": 0.5,
+          "width": 84,
+          "height": 199
+        }
+      },
+      "tnt_left_3": {
+        "tnt_left_3": {
+          "x": 0.5,
+          "y": 0.5,
+          "width": 85,
+          "height": 197
+        }
+      },
+      "tnt_right_1": {
+        "tnt_right_1": {
+          "x": 0.5,
+          "y": 0.5,
+          "width": 213,
+          "height": 107
+        }
+      },
+      "tnt_right_2": {
+        "tnt_right_2": {
+          "width": 90,
+          "height": 212
+        }
+      },
+      "tnt_right_3": {
+        "tnt_right_3": {
+          "x": 0.5,
+          "y": 0.5,
+          "width": 95,
+          "height": 197
+        }
+      }
+    }
+  },
+  "animations": {
+    "animation": {}
+  }
+}

@@ -1,0 +1,62 @@
+
+skeleton.png
+size: 1005,1005
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BETTIME
+  rotate: false
+  xy: 257, 133
+  size: 300, 73
+  orig: 300, 74
+  offset: 0, 0
+  index: -1
+ligh
+  rotate: true
+  xy: 901, 110
+  size: 161, 92
+  orig: 167, 94
+  offset: 6, 1
+  index: -1
+rib
+  rotate: true
+  xy: 738, 58
+  size: 945, 161
+  orig: 999, 161
+  offset: 0, 0
+  index: -1
+roun
+  rotate: false
+  xy: 2, 28
+  size: 253, 253
+  orig: 257, 257
+  offset: 2, 2
+  index: -1
+sanng
+  rotate: false
+  xy: 2, 283
+  size: 734, 720
+  orig: 734, 720
+  offset: 0, 0
+  index: -1
+starr
+  rotate: false
+  xy: 901, 66
+  size: 43, 42
+  orig: 45, 44
+  offset: 1, 1
+  index: -1
+texteng
+  rotate: true
+  xy: 901, 273
+  size: 730, 102
+  orig: 732, 103
+  offset: 1, 1
+  index: -1
+txt_compare
+  rotate: false
+  xy: 257, 208
+  size: 341, 73
+  orig: 342, 75
+  offset: 1, 1
+  index: -1

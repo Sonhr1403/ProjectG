@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "bfe873d8-4bf1-4462-8faf-5468a4258ca8",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 70,
+  "height": 54,
+  "platformSettings": {},
+  "subMetas": {
+    "slottt_info_home_hover": {
+      "ver": "1.0.6",
+      "uuid": "23cc3b61-370c-4226-b9b5-dedcec1e9c07",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "bfe873d8-4bf1-4462-8faf-5468a4258ca8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 70,
+      "height": 54,
+      "rawWidth": 70,
+      "rawHeight": 54,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

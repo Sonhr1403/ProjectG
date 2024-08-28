@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "9f6b5e3a-ab6b-4480-a2f0-db814ad42ced",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 213,
+  "height": 511,
+  "platformSettings": {},
+  "subMetas": {
+    "thanh_giong_bamboo_front-l.png": {
+      "ver": "1.0.6",
+      "uuid": "ea42d997-8ec8-433e-9613-d2057d8ff956",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "9f6b5e3a-ab6b-4480-a2f0-db814ad42ced",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 212,
+      "height": 511,
+      "rawWidth": 213,
+      "rawHeight": 511,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

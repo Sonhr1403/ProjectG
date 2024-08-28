@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "05853db7-4395-46fd-b01f-348a928ad4bf",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 438,
+  "height": 107,
+  "platformSettings": {},
+  "subMetas": {
+    "moneytrain2_totalbet_bg": {
+      "ver": "1.0.6",
+      "uuid": "cee4c19a-7858-4cac-8dd9-cc2147e4627c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "05853db7-4395-46fd-b01f-348a928ad4bf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 436,
+      "height": 105,
+      "rawWidth": 438,
+      "rawHeight": 107,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

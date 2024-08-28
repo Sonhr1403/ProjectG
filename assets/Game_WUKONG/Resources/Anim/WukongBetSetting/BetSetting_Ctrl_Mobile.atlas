@@ -1,0 +1,41 @@
+
+BetSetting_Ctrl_Mobile.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG/Color_BG
+  rotate: false
+  xy: 5, 1506
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BG/PosDummy
+  rotate: false
+  xy: 2, 1569
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+UI/BetSetting_BG
+  rotate: false
+  xy: 164, 935
+  size: 1449, 635
+  orig: 1461, 647
+  offset: 6, 6
+  index: -1
+UI/BetSetting_BG_P
+  rotate: true
+  xy: 2, 2
+  size: 931, 1676
+  orig: 1080, 1836
+  offset: 82, 12
+  index: -1
+UI/Btn_Close
+  rotate: false
+  xy: 71, 1479
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1

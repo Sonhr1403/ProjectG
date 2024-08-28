@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "53ff9813-df59-4b48-9ce3-81810d230f0d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 617,
+  "height": 613,
+  "platformSettings": {},
+  "subMetas": {
+    "UTM Alberta Heavy - font chu khi nhan i": {
+      "ver": "1.0.6",
+      "uuid": "b36e2c80-4514-42ec-ba1d-cb411800eeef",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "53ff9813-df59-4b48-9ce3-81810d230f0d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 615,
+      "height": 611,
+      "rawWidth": 617,
+      "rawHeight": 613,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

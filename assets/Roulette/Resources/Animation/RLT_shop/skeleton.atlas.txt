@@ -1,0 +1,34 @@
+
+skeleton.png
+size: 161,544
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buttonxehang
+  rotate: false
+  xy: 2, 2
+  size: 105, 99
+  orig: 105, 99
+  offset: 0, 0
+  index: -1
+vfx/56406161_00000
+  rotate: false
+  xy: 2, 372
+  size: 157, 170
+  orig: 157, 170
+  offset: 0, 0
+  index: -1
+vfx/5640616_00000
+  rotate: false
+  xy: 2, 103
+  size: 121, 119
+  orig: 131, 124
+  offset: 7, 0
+  index: -1
+vfx/Comp 4_00000
+  rotate: false
+  xy: 2, 224
+  size: 153, 146
+  orig: 185, 146
+  offset: 18, 0
+  index: -1

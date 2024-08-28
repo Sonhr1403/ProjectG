@@ -1,0 +1,21 @@
+{
+  "ver": "1.1.3",
+  "uuid": "a3b3f473-3e23-4caa-9b90-5bd2b007b90d",
+  "importer": "folder",
+  "isBundle": false,
+  "bundleName": "GameBauCua",
+  "priority": 1,
+  "compressionType": {
+    "android": "merge_all_json"
+  },
+  "optimizeHotUpdate": {
+    "android": false
+  },
+  "inlineSpriteFrames": {
+    "android": false
+  },
+  "isRemoteBundle": {
+    "android": true
+  },
+  "subMetas": {}
+}

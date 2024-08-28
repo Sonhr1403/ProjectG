@@ -1,0 +1,132 @@
+
+BG_Main.png
+size: 1999,1492
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG/BG
+  rotate: false
+  xy: 2, 747
+  size: 864, 743
+  orig: 864, 743
+  offset: 0, 0
+  index: -1
+BG/BG_B
+  rotate: false
+  xy: 868, 1287
+  size: 991, 203
+  orig: 991, 203
+  offset: 0, 0
+  index: -1
+BG/BG_F
+  rotate: false
+  xy: 2, 2
+  size: 864, 743
+  orig: 864, 743
+  offset: 0, 0
+  index: -1
+BG/BG_L1
+  rotate: false
+  xy: 868, 333
+  size: 186, 952
+  orig: 189, 952
+  offset: 3, 0
+  index: -1
+BG/BG_L1_G
+  rotate: false
+  xy: 1871, 1014
+  size: 94, 476
+  orig: 95, 476
+  offset: 1, 0
+  index: -1
+BG/BG_L2
+  rotate: false
+  xy: 1863, 174
+  size: 133, 404
+  orig: 133, 404
+  offset: 0, 0
+  index: -1
+BG/BG_L2_G
+  rotate: true
+  xy: 868, 198
+  size: 133, 404
+  orig: 133, 404
+  offset: 0, 0
+  index: -1
+BG/BG_Slot
+  rotate: false
+  xy: 1308, 483
+  size: 275, 802
+  orig: 275, 802
+  offset: 0, 0
+  index: -1
+BG/BG_SlotFrame_1
+  rotate: false
+  xy: 1862, 690
+  size: 7, 800
+  orig: 7, 800
+  offset: 0, 0
+  index: -1
+BG/BG_SlotFrame_2
+  rotate: false
+  xy: 1056, 372
+  size: 51, 33
+  orig: 61, 39
+  offset: 5, 0
+  index: -1
+BG/BG_SlotFrame_3
+  rotate: false
+  xy: 868, 128
+  size: 252, 9
+  orig: 252, 9
+  offset: 0, 0
+  index: -1
+BG/BG_Slot_F
+  rotate: false
+  xy: 1585, 483
+  size: 275, 802
+  orig: 275, 802
+  offset: 0, 0
+  index: -1
+BG/BG_T
+  rotate: true
+  xy: 1056, 407
+  size: 878, 250
+  orig: 880, 250
+  offset: 2, 0
+  index: -1
+BG/BG_T_1
+  rotate: false
+  xy: 1308, 36
+  size: 553, 445
+  orig: 554, 449
+  offset: 1, 1
+  index: -1
+BG/BG_T_G
+  rotate: true
+  xy: 1871, 580
+  size: 432, 125
+  orig: 440, 125
+  offset: 0, 0
+  index: -1
+BG/Center_Gra
+  rotate: false
+  xy: 1967, 1153
+  size: 30, 337
+  orig: 30, 347
+  offset: 0, 5
+  index: -1
+BG/Center_Gra2
+  rotate: true
+  xy: 868, 139
+  size: 57, 338
+  orig: 59, 347
+  offset: 1, 5
+  index: -1
+BG/Color_BG
+  rotate: false
+  xy: 1863, 114
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1

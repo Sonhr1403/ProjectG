@@ -1,0 +1,20 @@
+
+Btn_Close_Mobile.png
+size: 95,98
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG/PosDummy
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+UI/Btn_Close
+  rotate: false
+  xy: 2, 5
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1

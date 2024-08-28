@@ -1,0 +1,20 @@
+
+Wild_spine.png
+size: 724,428
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: true
+  xy: 2, 2
+  size: 190, 672
+  orig: 190, 672
+  offset: 0, 0
+  index: -1
+frame
+  rotate: true
+  xy: 2, 194
+  size: 232, 720
+  orig: 232, 720
+  offset: 0, 0
+  index: -1

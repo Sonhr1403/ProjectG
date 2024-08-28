@@ -1,0 +1,92 @@
+{
+  "skeleton": {
+    "hash": "jeG36Bvz5o413v490WON0HbU/vo",
+    "spine": "3.7.94",
+    "width": 480,
+    "height": 270,
+    "images": "./images/",
+    "audio": "C:/Users/andrew.chan/Desktop/transition"
+  },
+  "bones": [
+    { "name": "root" },
+    { "name": "transit", "parent": "root" },
+    { "name": "rot", "parent": "transit" }
+  ],
+  "slots": [{ "name": "transit", "bone": "rot", "attachment": "tran_08" }],
+  "skins": {
+    "default": {
+      "transit": {
+        "tran_00": { "width": 480, "height": 270 },
+        "tran_01": { "width": 480, "height": 270 },
+        "tran_02": { "width": 480, "height": 270 },
+        "tran_03": { "width": 480, "height": 270 },
+        "tran_04": { "width": 480, "height": 270 },
+        "tran_05": { "width": 480, "height": 270 },
+        "tran_06": { "width": 480, "height": 270 },
+        "tran_07": { "width": 480, "height": 270 },
+        "tran_08": { "width": 480, "height": 270 },
+        "tran_09": { "width": 480, "height": 270 },
+        "tran_10": { "width": 480, "height": 270 }
+      }
+    }
+  },
+  "events": {
+    "Change": {}
+  },
+  "animations": {
+    "idle": {
+      "slots": {
+        "transit": {
+          "attachment": [{ "time": 0, "name": null }]
+        }
+      },
+      "bones": {
+        "rot": {
+          "rotate": [{ "time": 0, "angle": 0 }]
+        }
+      }
+    },
+    "start": {
+      "slots": {
+        "transit": {
+          "attachment": [
+            { "time": 0, "name": null },
+            { "time": 0.0333, "name": "tran_00" },
+            { "time": 0.0667, "name": "tran_01" },
+            { "time": 0.1, "name": "tran_02" },
+            { "time": 0.1333, "name": "tran_03" },
+            { "time": 0.1667, "name": "tran_04" },
+            { "time": 0.2, "name": "tran_05" },
+            { "time": 0.2667, "name": "tran_06" },
+            { "time": 0.3, "name": "tran_07" },
+            { "time": 0.3333, "name": "tran_08" },
+            { "time": 0.3667, "name": "tran_09" },
+            { "time": 0.4, "name": "tran_10" },
+            { "time": 0.4667, "name": "tran_10" },
+            { "time": 0.5, "name": "tran_09" },
+            { "time": 0.5333, "name": "tran_08" },
+            { "time": 0.6, "name": "tran_07" },
+            { "time": 0.6333, "name": "tran_06" },
+            { "time": 0.7, "name": "tran_05" },
+            { "time": 0.7333, "name": "tran_04" },
+            { "time": 0.8, "name": "tran_03" },
+            { "time": 0.8333, "name": "tran_02" },
+            { "time": 0.9, "name": "tran_01" },
+            { "time": 0.9333, "name": "tran_00" },
+            { "time": 1, "name": null }
+          ]
+        }
+      },
+      "bones": {
+        "rot": {
+          "rotate": [
+            { "time": 0, "angle": 0, "curve": "stepped" },
+            { "time": 0.4, "angle": 0, "curve": "stepped" },
+            { "time": 0.4667, "angle": 180 }
+          ]
+        }
+      },
+      "events": [{ "time": 0.4, "name": "Change" }]
+    }
+  }
+}

@@ -1,0 +1,5 @@
+{"file":"wc_common.png","frames":{
+"gold_mask":{"x":831,"y":219,"w":188,"h":189,"offX":0,"offY":0,"sourceW":188,"sourceH":189},
+"darkgreen_mask":{"x":641,"y":219,"w":188,"h":189,"offX":0,"offY":0,"sourceW":188,"sourceH":189},
+"circle_frame":{"x":641,"y":0,"w":210,"h":217,"offX":4,"offY":0,"sourceW":217,"sourceH":217},
+"rect_frame":{"x":0,"y":0,"w":639,"h":505,"offX":0,"offY":0,"sourceW":639,"sourceH":505}}}

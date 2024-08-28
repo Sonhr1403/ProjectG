@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "aca41763-f4aa-49b7-8e12-b69aa036b6da",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 149,
+  "height": 38,
+  "platformSettings": {},
+  "subMetas": {
+    "thanh_giong_totalbet_frame.png": {
+      "ver": "1.0.6",
+      "uuid": "0a9f757b-d22c-4732-9d4f-203ee5dad2a1",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "aca41763-f4aa-49b7-8e12-b69aa036b6da",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 149,
+      "height": 38,
+      "rawWidth": 149,
+      "rawHeight": 38,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

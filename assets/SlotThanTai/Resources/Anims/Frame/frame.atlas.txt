@@ -1,0 +1,153 @@
+
+frame.png
+size: 1701,1497
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+p_u_img11_en.png/Frame_00
+  rotate: true
+  xy: 2, 763
+  size: 365, 297
+  orig: 365, 297
+  offset: 0, 0
+  index: -1
+p_u_img11_en.png/Frame_01
+  rotate: true
+  xy: 2, 396
+  size: 365, 297
+  orig: 365, 297
+  offset: 0, 0
+  index: -1
+p_u_img11_en.png/Frame_02
+  rotate: true
+  xy: 2, 29
+  size: 365, 297
+  orig: 365, 297
+  offset: 0, 0
+  index: -1
+p_u_img11_en.png/Frame_03
+  rotate: false
+  xy: 301, 1198
+  size: 365, 297
+  orig: 365, 297
+  offset: 0, 0
+  index: -1
+p_u_img11_en.png/Frame_04
+  rotate: false
+  xy: 668, 1198
+  size: 365, 297
+  orig: 365, 297
+  offset: 0, 0
+  index: -1
+p_u_img11_en.png/Frame_05
+  rotate: false
+  xy: 1035, 1198
+  size: 365, 297
+  orig: 365, 297
+  offset: 0, 0
+  index: -1
+p_u_img11_en.png/Frame_06
+  rotate: true
+  xy: 1402, 1130
+  size: 365, 297
+  orig: 365, 297
+  offset: 0, 0
+  index: -1
+p_u_img11_en.png/Frame_07
+  rotate: false
+  xy: 301, 899
+  size: 365, 297
+  orig: 365, 297
+  offset: 0, 0
+  index: -1
+p_u_img11_en.png/Frame_08
+  rotate: false
+  xy: 668, 899
+  size: 365, 297
+  orig: 365, 297
+  offset: 0, 0
+  index: -1
+p_u_img11_en.png/Frame_09
+  rotate: false
+  xy: 1035, 899
+  size: 365, 297
+  orig: 365, 297
+  offset: 0, 0
+  index: -1
+p_u_img11_en.png/Frame_10
+  rotate: true
+  xy: 1402, 763
+  size: 365, 297
+  orig: 365, 297
+  offset: 0, 0
+  index: -1
+p_u_img11_en.png/Frame_11
+  rotate: true
+  xy: 301, 532
+  size: 365, 297
+  orig: 365, 297
+  offset: 0, 0
+  index: -1
+p_u_img11_en.png/Frame_12
+  rotate: false
+  xy: 600, 600
+  size: 365, 297
+  orig: 365, 297
+  offset: 0, 0
+  index: -1
+p_u_img11_en.png/Frame_13
+  rotate: false
+  xy: 967, 600
+  size: 365, 297
+  orig: 365, 297
+  offset: 0, 0
+  index: -1
+p_u_img11_en.png/Frame_14
+  rotate: false
+  xy: 1334, 464
+  size: 365, 297
+  orig: 365, 297
+  offset: 0, 0
+  index: -1
+p_u_img11_en.png/Frame_15
+  rotate: true
+  xy: 600, 233
+  size: 365, 297
+  orig: 365, 297
+  offset: 0, 0
+  index: -1
+p_u_img11_en.png/Frame_16
+  rotate: true
+  xy: 301, 165
+  size: 365, 297
+  orig: 365, 297
+  offset: 0, 0
+  index: -1
+p_u_img11_en.png/Frame_17
+  rotate: false
+  xy: 899, 301
+  size: 365, 297
+  orig: 365, 297
+  offset: 0, 0
+  index: -1
+p_u_img11_en.png/Frame_18
+  rotate: false
+  xy: 1266, 165
+  size: 365, 297
+  orig: 365, 297
+  offset: 0, 0
+  index: -1
+p_u_img11_en.png/Frame_19
+  rotate: false
+  xy: 899, 2
+  size: 365, 297
+  orig: 365, 297
+  offset: 0, 0
+  index: -1
+p_u_img11_en.png/Frame_20
+  rotate: true
+  xy: 2, 1130
+  size: 365, 297
+  orig: 365, 297
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+H5_spine.png
+size: 255,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H5/shadow
+  rotate: true
+  xy: 2, 2
+  size: 165, 118
+  orig: 165, 118
+  offset: 0, 0
+  index: -1
+H5/slipper_bk
+  rotate: true
+  xy: 154, 202
+  size: 187, 96
+  orig: 187, 98
+  offset: 0, 2
+  index: -1
+H5/slipper_bk_glow
+  rotate: false
+  xy: 2, 391
+  size: 251, 135
+  orig: 251, 135
+  offset: 0, 0
+  index: -1
+H5/slipper_ft
+  rotate: false
+  xy: 122, 9
+  size: 107, 158
+  orig: 107, 158
+  offset: 0, 0
+  index: -1
+H5/slipper_ft_glow
+  rotate: false
+  xy: 2, 169
+  size: 150, 220
+  orig: 150, 220
+  offset: 0, 0
+  index: -1

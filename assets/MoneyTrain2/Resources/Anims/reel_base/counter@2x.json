@@ -1,0 +1,458 @@
+{
+  "skeleton": {
+    "hash": "eGVWkR6hDP9pFcjbxDoCVvfLCas",
+    "spine":"3.7.99",
+    "x": 383,
+    "y": -1,
+    "width": 317,
+    "height": 365,
+    "images": "../01_PSDs/FINAL/reel_base_elements/",
+    "audio": "E:/09 Relax/!!!/08_Money_Train_2/03_spine/../02_assets"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "COUNTER",
+      "parent": "root",
+      "x": 545.19,
+      "y": 185.48
+    },
+    {
+      "name": "door_1",
+      "parent": "COUNTER",
+      "x": -75.8,
+      "y": 64.21
+    },
+    {
+      "name": "door_2",
+      "parent": "COUNTER",
+      "x": 10.59,
+      "y": 99.63
+    },
+    {
+      "name": "door_3",
+      "parent": "COUNTER",
+      "x": 90.69,
+      "y": 34.75
+    },
+    {
+      "name": "door_4",
+      "parent": "COUNTER",
+      "x": 72.82,
+      "y": -57.26
+    },
+    {
+      "name": "door_5",
+      "parent": "COUNTER",
+      "x": -13.9,
+      "y": -89.04
+    },
+    {
+      "name": "door_6",
+      "parent": "COUNTER",
+      "x": -87.38,
+      "y": -39.06
+    }
+  ],
+  "slots": [
+    {
+      "name": "door_backgorund",
+      "bone": "COUNTER",
+      "attachment": "door_backgorund"
+    },
+    {
+      "name": "clipping_COUNTER",
+      "bone": "COUNTER",
+      "attachment": "clipping_COUNTER"
+    },
+    {
+      "name": "door_part_01",
+      "bone": "door_1",
+      "attachment": "door_part_01"
+    },
+    {
+      "name": "door_part_02",
+      "bone": "door_2",
+      "attachment": "door_part_02"
+    },
+    {
+      "name": "door_part_03",
+      "bone": "door_3",
+      "attachment": "door_part_03"
+    },
+    {
+      "name": "door_part_04",
+      "bone": "door_4",
+      "attachment": "door_part_04"
+    },
+    {
+      "name": "door_part_05",
+      "bone": "door_5",
+      "attachment": "door_part_05"
+    },
+    {
+      "name": "door_part_06",
+      "bone": "door_6",
+      "attachment": "door_part_06"
+    },
+    {
+      "name": "counter_hide",
+      "bone": "COUNTER",
+      "attachment": "counter_hide"
+    }
+  ],
+  "skins": {
+    "default": {
+      "clipping_COUNTER": {
+        "clipping_COUNTER": {
+          "type": "clipping",
+          "end": "door_part_06",
+          "vertexCount": 8,
+          "vertices": [
+            -2.24,
+            109.9,
+            -82.5,
+            85.2,
+            -105.56,
+            1.68,
+            -72.04,
+            -73.1,
+            7.97,
+            -104.28,
+            76.7,
+            -76.21,
+            109.33,
+            1.85,
+            76.26,
+            87.85
+          ],
+          "color": "ce3a3a00"
+        }
+      },
+      "counter_hide": {
+        "counter_hide": {
+          "x": 2.31,
+          "y": 10.02,
+          "width": 305,
+          "height": 337
+        }
+      },
+      "door_backgorund": {
+        "door_backgorund": {
+          "x": -4.19,
+          "y": -19.98,
+          "width": 316,
+          "height": 333
+        }
+      },
+      "door_part_01": {
+        "door_part_01": {
+          "x": 33.11,
+          "y": -16.19,
+          "width": 87,
+          "height": 97
+        }
+      },
+      "door_part_02": {
+        "door_part_02": {
+          "x": 32.22,
+          "y": -51.61,
+          "width": 86,
+          "height": 97
+        }
+      },
+      "door_part_03": {
+        "door_part_03": {
+          "x": -42.88,
+          "y": -34.23,
+          "width": 96,
+          "height": 96
+        }
+      },
+      "door_part_04": {
+        "door_part_04": {
+          "x": -31.51,
+          "y": 10.29,
+          "width": 83,
+          "height": 97
+        }
+      },
+      "door_part_05": {
+        "door_part_05": {
+          "x": -27.29,
+          "y": 42.06,
+          "width": 84,
+          "height": 97
+        }
+      },
+      "door_part_06": {
+        "door_part_06": {
+          "x": 39.69,
+          "y": 39.58,
+          "width": 95,
+          "height": 96
+        }
+      }
+    }
+  },
+  "animations": {
+    "counter_close": {
+      "bones": {
+        "door_6": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 49.2
+            },
+            {
+              "time": 0.1,
+              "angle": 56.7
+            },
+            {
+              "time": 0.4,
+              "angle": -2.4
+            },
+            {
+              "time": 0.5,
+              "angle": 0
+            }
+          ]
+        },
+        "door_5": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 49.2
+            },
+            {
+              "time": 0.1,
+              "angle": 56.7
+            },
+            {
+              "time": 0.4,
+              "angle": -2.4
+            },
+            {
+              "time": 0.5,
+              "angle": 0
+            }
+          ]
+        },
+        "door_4": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 49.2
+            },
+            {
+              "time": 0.1,
+              "angle": 56.7
+            },
+            {
+              "time": 0.4,
+              "angle": -2.4
+            },
+            {
+              "time": 0.5,
+              "angle": 0
+            }
+          ]
+        },
+        "door_3": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 49.2
+            },
+            {
+              "time": 0.1,
+              "angle": 56.7
+            },
+            {
+              "time": 0.4,
+              "angle": -2.4
+            },
+            {
+              "time": 0.5,
+              "angle": 0
+            }
+          ]
+        },
+        "door_2": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 49.2
+            },
+            {
+              "time": 0.1,
+              "angle": 56.7
+            },
+            {
+              "time": 0.4,
+              "angle": -2.4
+            },
+            {
+              "time": 0.5,
+              "angle": 0
+            }
+          ]
+        },
+        "door_1": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 49.2
+            },
+            {
+              "time": 0.1,
+              "angle": 56.7
+            },
+            {
+              "time": 0.4,
+              "angle": -2.4
+            },
+            {
+              "time": 0.5,
+              "angle": 0
+            }
+          ]
+        }
+      }
+    },
+    "counter_open": {
+      "bones": {
+        "door_6": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.1,
+              "angle": -2.4
+            },
+            {
+              "time": 0.4,
+              "angle": 56.7
+            },
+            {
+              "time": 0.5,
+              "angle": 49.2
+            }
+          ]
+        },
+        "door_5": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.1,
+              "angle": -2.4
+            },
+            {
+              "time": 0.4,
+              "angle": 56.7
+            },
+            {
+              "time": 0.5,
+              "angle": 49.2
+            }
+          ]
+        },
+        "door_4": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.1,
+              "angle": -2.4
+            },
+            {
+              "time": 0.4,
+              "angle": 56.7
+            },
+            {
+              "time": 0.5,
+              "angle": 49.2
+            }
+          ]
+        },
+        "door_3": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.1,
+              "angle": -2.4
+            },
+            {
+              "time": 0.4,
+              "angle": 56.7
+            },
+            {
+              "time": 0.5,
+              "angle": 49.2
+            }
+          ]
+        },
+        "door_2": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.1,
+              "angle": -2.4
+            },
+            {
+              "time": 0.4,
+              "angle": 56.7
+            },
+            {
+              "time": 0.5,
+              "angle": 49.2
+            }
+          ]
+        },
+        "door_1": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.1,
+              "angle": -2.4
+            },
+            {
+              "time": 0.4,
+              "angle": 56.7
+            },
+            {
+              "time": 0.5,
+              "angle": 49.2
+            }
+          ]
+        },
+        "COUNTER": {
+          "rotate": [
+            {
+              "time": 1.2,
+              "angle": 0
+            }
+          ]
+        }
+      }
+    }
+  }
+}

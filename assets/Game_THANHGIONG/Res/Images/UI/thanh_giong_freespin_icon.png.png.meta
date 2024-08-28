@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "34ae3321-263d-4cba-b119-eaee92160c72",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 214,
+  "height": 213,
+  "platformSettings": {},
+  "subMetas": {
+    "thanh_giong_freespin_icon.png": {
+      "ver": "1.0.6",
+      "uuid": "68e77740-e792-4532-847c-f1c2885eb07f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "34ae3321-263d-4cba-b119-eaee92160c72",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 2,
+      "trimY": 3,
+      "width": 210,
+      "height": 208,
+      "rawWidth": 214,
+      "rawHeight": 213,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

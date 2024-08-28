@@ -1,0 +1,124 @@
+
+PlayTable.png
+size: 2033,1868
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slotFrame1
+  rotate: false
+  xy: 1277, 1589
+  size: 536, 156
+  orig: 540, 160
+  offset: 2, 2
+  index: -1
+slotFrame1GlowFx
+  rotate: false
+  xy: 1455, 1747
+  size: 359, 119
+  orig: 370, 129
+  offset: 5, 5
+  index: -1
+slotFrame2GlowFx_0
+  rotate: true
+  xy: 2, 1748
+  size: 118, 468
+  orig: 129, 489
+  offset: 6, 11
+  index: -1
+slotFrame2_0
+  rotate: true
+  xy: 2, 1468
+  size: 156, 712
+  orig: 160, 716
+  offset: 2, 2
+  index: -1
+slotFrame3GlowFx
+  rotate: false
+  xy: 2, 1626
+  size: 588, 120
+  orig: 623, 129
+  offset: 18, 4
+  index: -1
+slotFrame3_0
+  rotate: true
+  xy: 716, 1431
+  size: 156, 888
+  orig: 160, 892
+  offset: 2, 2
+  index: -1
+slotFrame4GlowFx
+  rotate: false
+  xy: 592, 1626
+  size: 683, 120
+  orig: 722, 129
+  offset: 20, 4
+  index: -1
+slotFrame4_0
+  rotate: true
+  xy: 2, 1273
+  size: 156, 1064
+  orig: 160, 1068
+  offset: 2, 2
+  index: -1
+slotFrame5_0
+  rotate: true
+  xy: 2, 1107
+  size: 164, 1240
+  orig: 168, 1244
+  offset: 2, 2
+  index: -1
+slotShineSprite1
+  rotate: true
+  xy: 1244, 604
+  size: 825, 522
+  orig: 833, 528
+  offset: 4, 2
+  index: -1
+slotShineSprite2_0
+  rotate: true
+  xy: 2, 558
+  size: 547, 945
+  orig: 551, 951
+  offset: 2, 2
+  index: -1
+slotShineSprite3
+  rotate: false
+  xy: 949, 2
+  size: 1082, 600
+  orig: 1103, 606
+  offset: 7, 2
+  index: -1
+slotSpin3
+  rotate: false
+  xy: 472, 1748
+  size: 981, 118
+  orig: 1039, 129
+  offset: 25, 7
+  index: -1
+
+PlayTable2.png
+size: 2001,1446
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slotShineSprite4
+  rotate: false
+  xy: 796, 716
+  size: 1203, 728
+  orig: 1239, 751
+  offset: 15, 2
+  index: -1
+slotShineSprite5_0
+  rotate: true
+  xy: 796, 2
+  size: 712, 1177
+  orig: 806, 1219
+  offset: 1, 15
+  index: -1
+slotShineSprite6
+  rotate: true
+  xy: 2, 243
+  size: 1201, 792
+  orig: 1236, 850
+  offset: 15, 3
+  index: -1

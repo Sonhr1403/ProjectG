@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "6b82db66-e7d3-4ad3-9eb7-a210ceaf8e8e",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 431,
+  "height": 274,
+  "platformSettings": {},
+  "subMetas": {
+    "GenZ_game_title": {
+      "ver": "1.0.6",
+      "uuid": "1e83b4dd-d1c1-41b7-9abd-44567c079f46",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "6b82db66-e7d3-4ad3-9eb7-a210ceaf8e8e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 429,
+      "height": 272,
+      "rawWidth": 431,
+      "rawHeight": 274,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

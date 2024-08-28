@@ -1,0 +1,318 @@
+{
+  "skeleton": {
+    "hash": "m/l6Hg/2xNnqznXlB8IKwApA754",
+    "spine":"3.7.99",
+    "x": -865,
+    "y": -557,
+    "width": 281,
+    "height": 282,
+    "images": "../01_PSDs/FINAL/reel_base_elements/",
+    "audio": "E:/09 Relax/!!!/08_Money_Train_2/03_spine/./../02_assets"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "FRONT_WHEEL",
+      "parent": "root",
+      "x": -631.87,
+      "y": -409.03,
+      "color": "0022ffff"
+    },
+    {
+      "name": "wheel_a",
+      "parent": "FRONT_WHEEL",
+      "x": -98.02,
+      "y": -5.41
+    }
+  ],
+  "slots": [
+    {
+      "name": "wheel_left",
+      "bone": "wheel_a",
+      "attachment": "wheel_left"
+    }
+  ],
+  "skins": {
+    "default": {
+      "wheel_left": {
+        "wheel_left": {
+          "x": 5.4,
+          "y": -1.55,
+          "width": 281,
+          "height": 282
+        }
+      }
+    }
+  },
+  "animations": {
+    "animation": {
+      "bones": {
+        "wheel_a": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.3333,
+              "angle": 120
+            },
+            {
+              "time": 0.6667,
+              "angle": -120
+            },
+            {
+              "time": 1,
+              "angle": 0
+            }
+          ]
+        },
+        "FRONT_WHEEL": {
+          "translate": [
+            {
+              "time": 0,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "time": 0.0667,
+              "x": 0,
+              "y": 1.97
+            },
+            {
+              "time": 0.1333,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "time": 0.2,
+              "x": 0,
+              "y": 1.97
+            },
+            {
+              "time": 0.2667,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "time": 0.3333,
+              "x": 0,
+              "y": 1.97
+            },
+            {
+              "time": 0.5,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "time": 0.5667,
+              "x": 0,
+              "y": -0.49
+            },
+            {
+              "time": 0.6333,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "time": 0.7,
+              "x": 0,
+              "y": 1.97
+            },
+            {
+              "time": 0.8,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "time": 0.8667,
+              "x": 0,
+              "y": -0.49
+            },
+            {
+              "time": 0.9333,
+              "x": 0,
+              "y": 0
+            }
+          ]
+        }
+      }
+    },
+    "front_wheel_start": {
+      "bones": {
+        "wheel_a": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 120
+            },
+            {
+              "time": 1,
+              "angle": -120
+            },
+            {
+              "time": 1.6667,
+              "angle": 0
+            }
+          ]
+        },
+        "FRONT_WHEEL": {
+          "translate": [
+            {
+              "time": 0,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "time": 0.0667,
+              "x": 0,
+              "y": 1.97
+            },
+            {
+              "time": 0.1333,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "time": 0.2,
+              "x": 0,
+              "y": 1.97
+            },
+            {
+              "time": 0.2667,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "time": 0.3333,
+              "x": 0,
+              "y": 1.97
+            },
+            {
+              "time": 0.5,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "time": 0.5667,
+              "x": 0,
+              "y": -0.49
+            },
+            {
+              "time": 0.6333,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "time": 0.7,
+              "x": 0,
+              "y": 1.97
+            },
+            {
+              "time": 0.8,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "time": 0.8667,
+              "x": 0,
+              "y": -0.49
+            },
+            {
+              "time": 0.9333,
+              "x": 0,
+              "y": 0
+            }
+          ]
+        }
+      }
+    },
+    "front_wheel_stop": {
+      "bones": {
+        "wheel_a": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 1,
+              "angle": 120
+            }
+          ]
+        },
+        "FRONT_WHEEL": {
+          "translate": [
+            {
+              "time": 0,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "time": 0.0667,
+              "x": 0,
+              "y": 1.97
+            },
+            {
+              "time": 0.1333,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "time": 0.2,
+              "x": 0,
+              "y": 1.97
+            },
+            {
+              "time": 0.2667,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "time": 0.3333,
+              "x": 0,
+              "y": 1.97
+            },
+            {
+              "time": 0.5,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "time": 0.5667,
+              "x": 0,
+              "y": -0.49
+            },
+            {
+              "time": 0.6333,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "time": 0.7,
+              "x": 0,
+              "y": 1.97
+            },
+            {
+              "time": 0.8,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "time": 0.8667,
+              "x": 0,
+              "y": -0.49
+            },
+            {
+              "time": 0.9333,
+              "x": 0,
+              "y": 0
+            }
+          ]
+        }
+      }
+    }
+  }
+}

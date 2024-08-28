@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "17055b4e-9c74-42b3-86ba-675860d47b9a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 88,
+  "height": 18,
+  "platformSettings": {},
+  "subMetas": {
+    "thanh_giong_popup-select.png": {
+      "ver": "1.0.6",
+      "uuid": "b5ef3444-c65a-4084-a7d8-e7defa7808e8",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "17055b4e-9c74-42b3-86ba-675860d47b9a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 88,
+      "height": 18,
+      "rawWidth": 88,
+      "rawHeight": 18,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

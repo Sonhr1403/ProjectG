@@ -1,0 +1,167 @@
+
+Fx_ReelCover.png
+size: 4010,795
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG/Color_BG
+  rotate: false
+  xy: 149, 322
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+Fx/ReelCover
+  rotate: true
+  xy: 259, 2
+  size: 374, 943
+  orig: 411, 947
+  offset: 37, 3
+  index: -1
+Fx/ReelCover_Dest_G
+  rotate: true
+  xy: 1204, 9
+  size: 372, 942
+  orig: 411, 947
+  offset: 39, 3
+  index: -1
+Fx/ReelCover_F
+  rotate: true
+  xy: 2371, 63
+  size: 318, 171
+  orig: 411, 947
+  offset: 61, 609
+  index: -1
+Fx/ReelCover_F2
+  rotate: false
+  xy: 2, 262
+  size: 145, 531
+  orig: 411, 947
+  offset: 143, 155
+  index: -1
+Fx/ReelCover_G
+  rotate: true
+  xy: 149, 378
+  size: 415, 964
+  orig: 616, 1420
+  offset: 108, 230
+  index: -1
+Fx/ReelCover_G2
+  rotate: true
+  xy: 2978, 398
+  size: 395, 1004
+  orig: 616, 1420
+  offset: 130, 210
+  index: -1
+Fx/ReelCover_Mark_G
+  rotate: false
+  xy: 2, 5
+  size: 255, 255
+  orig: 411, 947
+  offset: 87, 586
+  index: -1
+Win/Win_1
+  rotate: true
+  xy: 2777, 11
+  size: 139, 127
+  orig: 410, 231
+  offset: 142, 50
+  index: -1
+Win/Win_10
+  rotate: true
+  xy: 2513, 384
+  size: 409, 231
+  orig: 410, 231
+  offset: 1, 0
+  index: -1
+Win/Win_11
+  rotate: true
+  xy: 2746, 384
+  size: 409, 230
+  orig: 410, 231
+  offset: 0, 0
+  index: -1
+Win/Win_12
+  rotate: false
+  xy: 2777, 152
+  size: 409, 230
+  orig: 410, 231
+  offset: 0, 0
+  index: -1
+Win/Win_13
+  rotate: false
+  xy: 3188, 166
+  size: 409, 230
+  orig: 410, 231
+  offset: 0, 0
+  index: -1
+Win/Win_14
+  rotate: false
+  xy: 3599, 167
+  size: 409, 229
+  orig: 410, 231
+  offset: 0, 1
+  index: -1
+Win/Win_15
+  rotate: true
+  xy: 2148, 45
+  size: 336, 221
+  orig: 410, 231
+  offset: 0, 9
+  index: -1
+Win/Win_16
+  rotate: false
+  xy: 2148, 5
+  size: 45, 38
+  orig: 410, 231
+  offset: 266, 191
+  index: -1
+Win/Win_2
+  rotate: true
+  xy: 2544, 82
+  size: 300, 231
+  orig: 410, 231
+  offset: 62, 0
+  index: -1
+Win/Win_4
+  rotate: true
+  xy: 1115, 383
+  size: 410, 231
+  orig: 410, 231
+  offset: 0, 0
+  index: -1
+Win/Win_5
+  rotate: true
+  xy: 1348, 383
+  size: 410, 231
+  orig: 410, 231
+  offset: 0, 0
+  index: -1
+Win/Win_6
+  rotate: true
+  xy: 1581, 383
+  size: 410, 231
+  orig: 410, 231
+  offset: 0, 0
+  index: -1
+Win/Win_7
+  rotate: true
+  xy: 1814, 383
+  size: 410, 231
+  orig: 410, 231
+  offset: 0, 0
+  index: -1
+Win/Win_8
+  rotate: true
+  xy: 2047, 383
+  size: 410, 231
+  orig: 410, 231
+  offset: 0, 0
+  index: -1
+Win/Win_9
+  rotate: true
+  xy: 2280, 383
+  size: 410, 231
+  orig: 410, 231
+  offset: 0, 0
+  index: -1

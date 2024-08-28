@@ -1,0 +1,146 @@
+
+background.png
+size: 1902,1169
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 10
+  rotate: false
+  xy: 1155, 74
+  size: 238, 162
+  orig: 243, 163
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: false
+  xy: 1424, 172
+  size: 219, 178
+  orig: 228, 180
+  offset: 3, 1
+  index: -1
+Layer 12
+  rotate: false
+  xy: 1545, 860
+  size: 350, 307
+  orig: 352, 331
+  offset: 1, 1
+  index: -1
+Layer 13
+  rotate: false
+  xy: 1545, 576
+  size: 322, 282
+  orig: 361, 331
+  offset: 38, 48
+  index: -1
+Layer 14
+  rotate: false
+  xy: 2, 104
+  size: 447, 199
+  orig: 452, 201
+  offset: 4, 1
+  index: -1
+Layer 15
+  rotate: false
+  xy: 537, 31
+  size: 447, 199
+  orig: 449, 201
+  offset: 1, 1
+  index: -1
+Layer 16
+  rotate: false
+  xy: 1128, 238
+  size: 294, 112
+  orig: 296, 115
+  offset: 1, 1
+  index: -1
+Layer 17
+  rotate: false
+  xy: 1395, 56
+  size: 294, 114
+  orig: 297, 116
+  offset: 1, 1
+  index: -1
+Layer 18
+  rotate: false
+  xy: 2, 305
+  size: 570, 136
+  orig: 572, 138
+  offset: 1, 1
+  index: -1
+Layer 19
+  rotate: false
+  xy: 1645, 416
+  size: 255, 158
+  orig: 257, 160
+  offset: 1, 1
+  index: -1
+Layer 2
+  rotate: false
+  xy: 1691, 91
+  size: 183, 162
+  orig: 185, 167
+  offset: 1, 1
+  index: -1
+Layer 20
+  rotate: false
+  xy: 1645, 255
+  size: 253, 159
+  orig: 255, 161
+  offset: 1, 1
+  index: -1
+Layer 3
+  rotate: true
+  xy: 986, 31
+  size: 199, 167
+  orig: 201, 169
+  offset: 1, 1
+  index: -1
+Layer 4
+  rotate: false
+  xy: 574, 319
+  size: 552, 69
+  orig: 552, 69
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 1161, 352
+  size: 482, 89
+  orig: 482, 89
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: true
+  xy: 1444, 585
+  size: 582, 99
+  orig: 582, 101
+  offset: 0, 1
+  index: -1
+Layer 7
+  rotate: false
+  xy: 574, 390
+  size: 585, 51
+  orig: 591, 51
+  offset: 1, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 574, 232
+  size: 516, 85
+  orig: 516, 95
+  offset: 0, 3
+  index: -1
+Layer 9
+  rotate: false
+  xy: 2, 2
+  size: 533, 100
+  orig: 535, 103
+  offset: 2, 0
+  index: -1
+background
+  rotate: false
+  xy: 2, 443
+  size: 1440, 724
+  orig: 1442, 726
+  offset: 1, 1
+  index: -1

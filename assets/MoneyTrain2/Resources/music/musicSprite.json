@@ -1,0 +1,50 @@
+{
+  "urls": [
+    "assets/desktop/sounds/musicSprite.ogg",
+    "assets/desktop/sounds/musicSprite.m4a",
+    "assets/desktop/sounds/musicSprite.mp3",
+    "assets/desktop/sounds/musicSprite.ac3"
+  ],
+  "sprite": {
+    "1_music_base_layer_1_loop": [
+      0,
+      40000
+    ],
+    "1_music_base_layer_2_loop": [
+      40500,
+      40000
+    ],
+    "music_bonus_layer_2": [
+      81000,
+      31475.192743764168
+    ],
+    "music_bonus_layer_3": [
+      112975.19274376417,
+      31475.396825396827
+    ],
+    "music_bonus_loop": [
+      144950.589569161,
+      31475.396825396812
+    ],
+    "win_big_music_loop": [
+      176925.9863945578,
+      4896.984126984136
+    ],
+    "win_epic_music_loop": [
+      182322.97052154195,
+      4896.984126984136
+    ],
+    "win_explosive_music_loop": [
+      187719.9546485261,
+      4896.984126984136
+    ],
+    "win_mega_music_loop": [
+      193116.9387755102,
+      4897.959183673464
+    ],
+    "win_music_loop_end": [
+      198514.8979591837,
+      2199.9999999999886
+    ]
+  }
+}

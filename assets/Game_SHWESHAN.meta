@@ -1,0 +1,21 @@
+{
+  "ver": "1.1.3",
+  "uuid": "1a1cb777-319a-4623-9058-3a06338bb64f",
+  "importer": "folder",
+  "isBundle": false,
+  "bundleName": "GameSHWESHAN",
+  "priority": 1,
+  "compressionType": {
+    "android": "merge_all_json"
+  },
+  "optimizeHotUpdate": {
+    "android": false
+  },
+  "inlineSpriteFrames": {
+    "android": false
+  },
+  "isRemoteBundle": {
+    "android": true
+  },
+  "subMetas": {}
+}

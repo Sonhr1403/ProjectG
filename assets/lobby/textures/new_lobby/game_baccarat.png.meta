@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d4d0eede-29b7-4828-b424-f70851e4963a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 346,
+  "height": 342,
+  "platformSettings": {},
+  "subMetas": {
+    "game_baccarat": {
+      "ver": "1.0.6",
+      "uuid": "a4f88658-7c25-460b-9ff1-25a661d902f8",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d4d0eede-29b7-4828-b424-f70851e4963a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 342,
+      "height": 338,
+      "rawWidth": 346,
+      "rawHeight": 342,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

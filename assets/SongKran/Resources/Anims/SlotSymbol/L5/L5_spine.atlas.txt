@@ -1,0 +1,55 @@
+
+L5_spine.png
+size: 1036,185
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L5/base
+  rotate: true
+  xy: 629, 21
+  size: 162, 135
+  orig: 162, 135
+  offset: 0, 0
+  index: -1
+L5/base_glow
+  rotate: false
+  xy: 2, 2
+  size: 208, 181
+  orig: 208, 181
+  offset: 0, 0
+  index: -1
+L5/base_glow_1
+  rotate: true
+  xy: 766, 13
+  size: 170, 114
+  orig: 170, 114
+  offset: 0, 0
+  index: -1
+L5/base_glow_2
+  rotate: false
+  xy: 212, 3
+  size: 205, 180
+  orig: 205, 180
+  offset: 0, 0
+  index: -1
+L5/base_glow_3
+  rotate: false
+  xy: 419, 28
+  size: 208, 155
+  orig: 208, 155
+  offset: 0, 0
+  index: -1
+L5/base_glow_4
+  rotate: false
+  xy: 882, 84
+  size: 130, 99
+  orig: 130, 99
+  offset: 0, 0
+  index: -1
+L5/ft
+  rotate: false
+  xy: 882, 18
+  size: 152, 64
+  orig: 152, 64
+  offset: 0, 0
+  index: -1

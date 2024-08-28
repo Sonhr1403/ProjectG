@@ -1,0 +1,96 @@
+{
+    "frames": {
+        "coin_a.png": {
+            "frame": {
+                "x": 1,
+                "y": 1,
+                "w": 200,
+                "h": 197
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 197
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 197
+            }
+        },
+        "coin_b.png": {
+            "frame": {
+                "x": 1,
+                "y": 200,
+                "w": 197,
+                "h": 131
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 33,
+                "w": 197,
+                "h": 131
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 197
+            }
+        },
+        "dust_b.png": {
+            "frame": {
+                "x": 1,
+                "y": 483,
+                "w": 150,
+                "h": 141
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 5,
+                "w": 150,
+                "h": 141
+            },
+            "sourceSize": {
+                "w": 150,
+                "h": 150
+            }
+        },
+        "dust_g.png": {
+            "frame": {
+                "x": 1,
+                "y": 333,
+                "w": 148,
+                "h": 150
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 0,
+                "w": 148,
+                "h": 150
+            },
+            "sourceSize": {
+                "w": 150,
+                "h": 150
+            }
+        }
+    },
+    "meta": {
+        "app": "https://www.codeandweb.com/texturepacker",
+        "version": "1.0",
+        "image": "train2_particles.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 202,
+            "h": 625
+        },
+        "scale": "1",
+        "smartupdate": "$TexturePacker:SmartUpdate:cf7cae3199e2316394d3fda30c47ec5c:f50c721a9b7b63ffb818cc218d30fba9:4209f651ea15bbbb8c317f932fcc04df$"
+    }
+}

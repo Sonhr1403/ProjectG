@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "fed1c445-08c9-494c-b56b-77cb5fb2e18f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 81,
+  "height": 88,
+  "platformSettings": {},
+  "subMetas": {
+    "moneytrain2_vibrate_icon": {
+      "ver": "1.0.6",
+      "uuid": "d6bcc9c8-0998-4242-bd56-88ee2326dc4f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "fed1c445-08c9-494c-b56b-77cb5fb2e18f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 79,
+      "height": 86,
+      "rawWidth": 81,
+      "rawHeight": 88,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

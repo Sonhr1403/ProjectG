@@ -1,0 +1,21 @@
+{
+  "ver": "1.1.3",
+  "uuid": "3c66f60a-dff6-476b-9477-e1c5c9ed3820",
+  "importer": "folder",
+  "isBundle": false,
+  "bundleName": "GamePoker",
+  "priority": 1,
+  "compressionType": {
+    "android": "merge_all_json"
+  },
+  "optimizeHotUpdate": {
+    "android": false
+  },
+  "inlineSpriteFrames": {
+    "android": false
+  },
+  "isRemoteBundle": {
+    "android": true
+  },
+  "subMetas": {}
+}

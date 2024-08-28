@@ -1,0 +1,55 @@
+
+nemtien.png
+size: 204,262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bup
+  rotate: false
+  xy: 2, 121
+  size: 142, 139
+  orig: 144, 141
+  offset: 1, 1
+  index: -1
+t1
+  rotate: false
+  xy: 2, 5
+  size: 125, 114
+  orig: 127, 116
+  offset: 1, 1
+  index: -1
+t2
+  rotate: true
+  xy: 146, 111
+  size: 60, 56
+  orig: 62, 58
+  offset: 1, 1
+  index: -1
+t3
+  rotate: true
+  xy: 167, 42
+  size: 67, 35
+  orig: 69, 37
+  offset: 1, 1
+  index: -1
+t4
+  rotate: false
+  xy: 129, 34
+  size: 36, 75
+  orig: 38, 77
+  offset: 1, 1
+  index: -1
+t5
+  rotate: true
+  xy: 146, 173
+  size: 87, 41
+  orig: 89, 43
+  offset: 1, 1
+  index: -1
+t6
+  rotate: false
+  xy: 129, 2
+  size: 54, 30
+  orig: 56, 33
+  offset: 1, 1
+  index: -1

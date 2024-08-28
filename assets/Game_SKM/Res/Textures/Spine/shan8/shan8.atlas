@@ -1,0 +1,62 @@
+
+shan8.png
+size: 771,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+9
+  rotate: true
+  xy: 609, 43
+  size: 49, 62
+  orig: 51, 64
+  offset: 1, 1
+  index: -1
+a
+  rotate: true
+  xy: 673, 4
+  size: 41, 47
+  orig: 43, 51
+  offset: 1, 2
+  index: -1
+bg9
+  rotate: false
+  xy: 2, 2
+  size: 307, 90
+  orig: 307, 90
+  offset: 0, 0
+  index: -1
+bg92
+  rotate: false
+  xy: 311, 3
+  size: 296, 89
+  orig: 296, 89
+  offset: 0, 0
+  index: -1
+h
+  rotate: false
+  xy: 722, 44
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+h2
+  rotate: true
+  xy: 673, 47
+  size: 45, 50
+  orig: 48, 53
+  offset: 1, 1
+  index: -1
+n
+  rotate: false
+  xy: 725, 43
+  size: 44, 49
+  orig: 47, 52
+  offset: 1, 1
+  index: -1
+s
+  rotate: true
+  xy: 722, 4
+  size: 37, 47
+  orig: 40, 49
+  offset: 1, 1
+  index: -1

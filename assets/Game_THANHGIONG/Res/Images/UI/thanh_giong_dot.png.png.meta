@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "8643a5c6-f4a4-4b46-8807-f4269a2b242f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2,
+  "height": 2,
+  "platformSettings": {},
+  "subMetas": {
+    "thanh_giong_dot.png": {
+      "ver": "1.0.6",
+      "uuid": "216cb110-2157-4f8e-84ef-27a2a515ab02",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "8643a5c6-f4a4-4b46-8807-f4269a2b242f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 2,
+      "height": 2,
+      "rawWidth": 2,
+      "rawHeight": 2,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

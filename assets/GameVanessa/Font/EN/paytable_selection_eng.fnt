@@ -1,0 +1,47 @@
+info face=paytable_selection_eng size=30 bold=1 italic=0 charset= unicode= stretchH=100 smooth=1 aa=1 padding=2,2,2,2 spacing=0,0 outline=0
+common lineHeight=39 base=22 scaleW=256 scaleH=125 pages=1 packed=0
+page id=0 file="paytable_selection_eng.png"
+chars count=42
+char id=41 x=2 y=2 width=12 height=33 xoffset=-1 yoffset=0 xadvance=10 page=0 chnl=15
+char id=106 x=16 y=2 width=11 height=33 xoffset=-3 yoffset=0 xadvance=7 page=0 chnl=15
+char id=83 x=29 y=2 width=22 height=28 xoffset=-1 yoffset=0 xadvance=20 page=0 chnl=15
+char id=103 x=53 y=2 width=19 height=28 xoffset=-1 yoffset=6 xadvance=17 page=0 chnl=15
+char id=67 x=74 y=2 width=24 height=28 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=38 x=100 y=2 width=23 height=28 xoffset=-1 yoffset=0 xadvance=20 page=0 chnl=15
+char id=53 x=125 y=2 width=20 height=27 xoffset=-1 yoffset=1 xadvance=17 page=0 chnl=15
+char id=54 x=147 y=2 width=20 height=27 xoffset=-1 yoffset=0 xadvance=17 page=0 chnl=15
+char id=50 x=169 y=2 width=20 height=27 xoffset=-1 yoffset=0 xadvance=17 page=0 chnl=15
+char id=51 x=191 y=2 width=19 height=27 xoffset=-1 yoffset=0 xadvance=17 page=0 chnl=15
+char id=52 x=212 y=2 width=20 height=27 xoffset=-2 yoffset=0 xadvance=17 page=0 chnl=15
+char id=80 x=2 y=39 width=22 height=27 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15
+char id=108 x=26 y=39 width=8 height=27 xoffset=0 yoffset=0 xadvance=7 page=0 chnl=15
+char id=112 x=36 y=39 width=19 height=27 xoffset=0 yoffset=6 xadvance=17 page=0 chnl=15
+char id=105 x=57 y=39 width=8 height=27 xoffset=0 yoffset=0 xadvance=7 page=0 chnl=15
+char id=76 x=67 y=39 width=19 height=27 xoffset=0 yoffset=0 xadvance=17 page=0 chnl=15
+char id=70 x=88 y=39 width=20 height=27 xoffset=0 yoffset=0 xadvance=18 page=0 chnl=15
+char id=82 x=110 y=39 width=24 height=27 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=116 x=136 y=39 width=13 height=27 xoffset=-2 yoffset=1 xadvance=8 page=0 chnl=15
+char id=66 x=151 y=39 width=22 height=27 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15
+char id=104 x=175 y=39 width=18 height=27 xoffset=0 yoffset=0 xadvance=17 page=0 chnl=15
+char id=49 x=195 y=39 width=13 height=27 xoffset=1 yoffset=0 xadvance=17 page=0 chnl=15
+char id=72 x=210 y=39 width=22 height=27 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=98 x=2 y=70 width=19 height=27 xoffset=0 yoffset=0 xadvance=17 page=0 chnl=15
+char id=68 x=23 y=70 width=23 height=27 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=77 x=48 y=70 width=26 height=27 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=87 x=76 y=70 width=33 height=27 xoffset=-2 yoffset=0 xadvance=28 page=0 chnl=15
+char id=100 x=111 y=70 width=19 height=27 xoffset=-1 yoffset=0 xadvance=17 page=0 chnl=15
+char id=121 x=132 y=70 width=20 height=27 xoffset=-2 yoffset=6 xadvance=15 page=0 chnl=15
+char id=48 x=154 y=70 width=19 height=27 xoffset=-1 yoffset=0 xadvance=17 page=0 chnl=15
+char id=88 x=175 y=70 width=25 height=27 xoffset=-2 yoffset=0 xadvance=20 page=0 chnl=15
+char id=56 x=202 y=70 width=19 height=27 xoffset=-1 yoffset=0 xadvance=17 page=0 chnl=15
+char id=97 x=223 y=70 width=19 height=22 xoffset=-1 yoffset=6 xadvance=17 page=0 chnl=15
+char id=101 x=2 y=101 width=20 height=22 xoffset=-1 yoffset=6 xadvance=17 page=0 chnl=15
+char id=111 x=24 y=101 width=20 height=22 xoffset=-1 yoffset=6 xadvance=17 page=0 chnl=15
+char id=115 x=46 y=101 width=18 height=22 xoffset=-1 yoffset=6 xadvance=15 page=0 chnl=15
+char id=122 x=66 y=101 width=19 height=21 xoffset=-1 yoffset=6 xadvance=15 page=0 chnl=15
+char id=110 x=87 y=101 width=18 height=21 xoffset=0 yoffset=6 xadvance=17 page=0 chnl=15
+char id=119 x=107 y=101 width=27 height=21 xoffset=-2 yoffset=6 xadvance=22 page=0 chnl=15
+char id=114 x=136 y=101 width=14 height=21 xoffset=0 yoffset=6 xadvance=10 page=0 chnl=15
+char id=117 x=152 y=101 width=18 height=21 xoffset=0 yoffset=6 xadvance=17 page=0 chnl=15
+char id=109 x=172 y=101 width=26 height=21 xoffset=0 yoffset=6 xadvance=25 page=0 chnl=15
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=6 xadvance=8 page=0 chnl=15

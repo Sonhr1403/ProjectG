@@ -1,0 +1,42 @@
+info face=you_won_vi size=60 bold=1 italic=0 charset= unicode= stretchH=100 smooth=1 aa=1 padding=2,2,2,2 spacing=0,0 outline=0
+common lineHeight=92 base=59 scaleW=382 scaleH=512 pages=1 packed=0
+page id=0 file="you_won_vi.png"
+chars count=37
+char id=66 x=2 y=2 width=51 height=68 xoffset=-8 yoffset=14 xadvance=35 page=0 chnl=15
+char id=7841 x=2 y=72 width=58 height=70 xoffset=-9 yoffset=24 xadvance=40 page=0 chnl=15
+char id=110 x=55 y=2 width=53 height=57 xoffset=-9 yoffset=24 xadvance=36 page=0 chnl=15
+char id=273 x=2 y=144 width=59 height=68 xoffset=-9 yoffset=15 xadvance=40 page=0 chnl=15
+char id=227 x=62 y=61 width=58 height=70 xoffset=-9 yoffset=13 xadvance=40 page=0 chnl=15
+char id=116 x=2 y=214 width=37 height=67 xoffset=-9 yoffset=15 xadvance=18 page=0 chnl=15
+char id=104 x=2 y=283 width=53 height=67 xoffset=-9 yoffset=15 xadvance=36 page=0 chnl=15
+char id=7855 x=2 y=352 width=58 height=83 xoffset=-9 yoffset=0 xadvance=40 page=0 chnl=15
+char id=103 x=2 y=437 width=58 height=71 xoffset=-9 yoffset=24 xadvance=40 page=0 chnl=15
+char id=76 x=41 y=214 width=44 height=67 xoffset=-8 yoffset=15 xadvance=26 page=0 chnl=15
+char id=432 x=57 y=283 width=60 height=58 xoffset=-8 yoffset=25 xadvance=44 page=0 chnl=15
+char id=7907 x=63 y=133 width=61 height=70 xoffset=-9 yoffset=24 xadvance=43 page=0 chnl=15
+char id=81 x=87 y=205 width=69 height=70 xoffset=-9 yoffset=13 xadvance=50 page=0 chnl=15
+char id=117 x=110 y=2 width=53 height=57 xoffset=-8 yoffset=26 xadvance=36 page=0 chnl=15
+char id=97 x=122 y=61 width=58 height=59 xoffset=-9 yoffset=24 xadvance=40 page=0 chnl=15
+char id=121 x=126 y=122 width=52 height=67 xoffset=-9 yoffset=26 xadvance=35 page=0 chnl=15
+char id=77 x=62 y=343 width=71 height=68 xoffset=-8 yoffset=14 xadvance=54 page=0 chnl=15
+char id=105 x=62 y=413 width=32 height=68 xoffset=-9 yoffset=13 xadvance=14 page=0 chnl=15
+char id=7877 x=96 y=413 width=56 height=79 xoffset=-9 yoffset=3 xadvance=38 page=0 chnl=15
+char id=80 x=135 y=277 width=51 height=68 xoffset=-8 yoffset=14 xadvance=34 page=0 chnl=15
+char id=237 x=158 y=191 width=35 height=70 xoffset=-9 yoffset=11 xadvance=14 page=0 chnl=15
+char id=272 x=154 y=347 width=62 height=68 xoffset=-9 yoffset=14 xadvance=45 page=0 chnl=15
+char id=67 x=188 y=263 width=64 height=70 xoffset=-9 yoffset=13 xadvance=47 page=0 chnl=15
+char id=417 x=180 y=122 width=61 height=59 xoffset=-9 yoffset=24 xadvance=43 page=0 chnl=15
+char id=84 x=195 y=183 width=45 height=68 xoffset=-10 yoffset=14 xadvance=25 page=0 chnl=15
+char id=78 x=242 y=183 width=60 height=68 xoffset=-8 yoffset=14 xadvance=44 page=0 chnl=15
+char id=259 x=154 y=417 width=58 height=70 xoffset=-9 yoffset=13 xadvance=40 page=0 chnl=15
+char id=111 x=214 y=417 width=57 height=59 xoffset=-9 yoffset=24 xadvance=38 page=0 chnl=15
+char id=119 x=165 y=2 width=65 height=55 xoffset=-8 yoffset=26 xadvance=48 page=0 chnl=15
+char id=101 x=182 y=59 width=56 height=59 xoffset=-9 yoffset=24 xadvance=38 page=0 chnl=15
+char id=114 x=218 y=335 width=37 height=56 xoffset=-9 yoffset=25 xadvance=19 page=0 chnl=15
+char id=83 x=254 y=253 width=49 height=69 xoffset=-9 yoffset=14 xadvance=31 page=0 chnl=15
+char id=112 x=257 y=324 width=58 height=68 xoffset=-9 yoffset=24 xadvance=40 page=0 chnl=15
+char id=108 x=273 y=394 width=32 height=67 xoffset=-9 yoffset=15 xadvance=14 page=0 chnl=15
+char id=109 x=307 y=394 width=73 height=57 xoffset=-9 yoffset=24 xadvance=56 page=0 chnl=15
+char id=98 x=240 y=2 width=58 height=68 xoffset=-9 yoffset=15 xadvance=40 page=0 chnl=15
+char id=122 x=307 y=453 width=46 height=57 xoffset=-9 yoffset=25 xadvance=28 page=0 chnl=15
+char id=32 x=0 y=0 width=0 height=0 xoffset=-9 yoffset=25 xadvance=17 page=0 chnl=15

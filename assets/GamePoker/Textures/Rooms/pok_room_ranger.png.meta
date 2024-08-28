@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "7e007b8b-75fe-419b-92c3-c079fe2cafe3",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 103,
+  "height": 27,
+  "platformSettings": {},
+  "subMetas": {
+    "pok_room_ranger": {
+      "ver": "1.0.6",
+      "uuid": "d407382d-9050-4c29-acc7-0f873010f169",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "7e007b8b-75fe-419b-92c3-c079fe2cafe3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 103,
+      "height": 27,
+      "rawWidth": 103,
+      "rawHeight": 27,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

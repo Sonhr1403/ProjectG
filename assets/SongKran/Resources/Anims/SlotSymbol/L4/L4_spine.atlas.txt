@@ -1,0 +1,55 @@
+
+L4_spine.png
+size: 712,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L4/base
+  rotate: false
+  xy: 431, 2
+  size: 108, 135
+  orig: 108, 135
+  offset: 0, 0
+  index: -1
+L4/base_glow
+  rotate: true
+  xy: 2, 5
+  size: 132, 159
+  orig: 132, 159
+  offset: 0, 0
+  index: -1
+L4/base_glow_1
+  rotate: false
+  xy: 621, 69
+  size: 89, 68
+  orig: 89, 68
+  offset: 0, 0
+  index: -1
+L4/base_glow_2
+  rotate: false
+  xy: 163, 3
+  size: 132, 134
+  orig: 132, 134
+  offset: 0, 0
+  index: -1
+L4/base_glow_3
+  rotate: false
+  xy: 297, 4
+  size: 132, 133
+  orig: 132, 133
+  offset: 0, 0
+  index: -1
+L4/base_glow_4
+  rotate: true
+  xy: 541, 36
+  size: 101, 78
+  orig: 101, 78
+  offset: 0, 0
+  index: -1
+L4/ft
+  rotate: false
+  xy: 621, 2
+  size: 85, 65
+  orig: 85, 65
+  offset: 0, 0
+  index: -1

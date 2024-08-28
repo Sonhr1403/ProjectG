@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "78ec3651-b889-4b64-9003-3ca1988602f8",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 437,
+  "height": 106,
+  "platformSettings": {},
+  "subMetas": {
+    "slottt_totalbet_bg": {
+      "ver": "1.0.6",
+      "uuid": "31ede38a-e87d-40d8-b52b-7e1321992822",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "78ec3651-b889-4b64-9003-3ca1988602f8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 435,
+      "height": 104,
+      "rawWidth": 437,
+      "rawHeight": 106,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

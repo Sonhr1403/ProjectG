@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "294acf32-3a1c-4767-b116-6605dea83977",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 214,
+  "height": 40,
+  "platformSettings": {},
+  "subMetas": {
+    "thanhgiong_button-back.png": {
+      "ver": "1.0.6",
+      "uuid": "b79e6fcd-fd52-4bef-9c7d-5722bb80f68c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "294acf32-3a1c-4767-b116-6605dea83977",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 4,
+      "trimY": 0,
+      "width": 206,
+      "height": 40,
+      "rawWidth": 214,
+      "rawHeight": 40,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

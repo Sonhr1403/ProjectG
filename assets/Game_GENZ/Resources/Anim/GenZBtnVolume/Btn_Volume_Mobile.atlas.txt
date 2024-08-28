@@ -1,0 +1,20 @@
+
+Btn_Volume_Mobile.png
+size: 186,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI/BG_Icons
+  rotate: false
+  xy: 2, 2
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+UI/Icon_Sound_01
+  rotate: true
+  xy: 116, 33
+  size: 81, 68
+  orig: 81, 68
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+tile1B.png
+size: 1214,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+freeSpinsPickerWinGlowGray
+  rotate: true
+  xy: 548, 146
+  size: 375, 362
+  orig: 398, 386
+  offset: 11, 12
+  index: -1
+tile1Bg
+  rotate: true
+  xy: 1059, 353
+  size: 168, 148
+  orig: 168, 148
+  offset: 0, 0
+  index: -1
+title1B_00
+  rotate: false
+  xy: 304, 6
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+title1B_01
+  rotate: true
+  xy: 826, 16
+  size: 14, 42
+  orig: 170, 149
+  offset: 0, 0
+  index: -1
+title1B_02
+  rotate: true
+  xy: 908, 10
+  size: 29, 91
+  orig: 170, 149
+  offset: 0, 0
+  index: -1
+title1B_03
+  rotate: true
+  xy: 1042, 223
+  size: 44, 140
+  orig: 170, 149
+  offset: 0, 0
+  index: -1
+title1B_04
+  rotate: true
+  xy: 1059, 15
+  size: 59, 149
+  orig: 170, 149
+  offset: 0, 0
+  index: -1
+title1B_05
+  rotate: true
+  xy: 912, 146
+  size: 73, 149
+  orig: 170, 149
+  offset: 0, 0
+  index: -1
+title1B_06
+  rotate: false
+  xy: 912, 221
+  size: 88, 149
+  orig: 170, 149
+  offset: 0, 0
+  index: -1
+title1B_07
+  rotate: true
+  xy: 908, 41
+  size: 103, 149
+  orig: 170, 149
+  offset: 0, 0
+  index: -1
+title1B_08
+  rotate: true
+  xy: 455, 17
+  size: 118, 149
+  orig: 170, 149
+  offset: 0, 0
+  index: -1
+title1B_09
+  rotate: true
+  xy: 153, 3
+  size: 132, 149
+  orig: 170, 149
+  offset: 1, 0
+  index: -1
+title1B_10
+  rotate: true
+  xy: 2, 2
+  size: 133, 149
+  orig: 170, 149
+  offset: 15, 0
+  index: -1
+title1B_11
+  rotate: true
+  xy: 606, 10
+  size: 134, 149
+  orig: 170, 149
+  offset: 29, 0
+  index: -1
+title1B_12
+  rotate: true
+  xy: 304, 9
+  size: 126, 149
+  orig: 170, 149
+  offset: 44, 0
+  index: -1
+title1B_13
+  rotate: true
+  xy: 757, 32
+  size: 112, 149
+  orig: 170, 149
+  offset: 58, 0
+  index: -1
+title1B_14
+  rotate: false
+  xy: 912, 372
+  size: 97, 149
+  orig: 170, 149
+  offset: 73, 0
+  index: -1
+title1B_15
+  rotate: true
+  xy: 1059, 269
+  size: 82, 149
+  orig: 170, 149
+  offset: 88, 0
+  index: -1
+title1B_16
+  rotate: true
+  xy: 1059, 76
+  size: 68, 149
+  orig: 170, 149
+  offset: 102, 0
+  index: -1
+title1B_17
+  rotate: true
+  xy: 1063, 168
+  size: 53, 149
+  orig: 170, 149
+  offset: 117, 0
+  index: -1
+title1B_18
+  rotate: false
+  xy: 1002, 234
+  size: 38, 112
+  orig: 170, 149
+  offset: 132, 37
+  index: -1
+title1B_19
+  rotate: true
+  xy: 757, 7
+  size: 23, 67
+  orig: 170, 149
+  offset: 147, 82
+  index: -1
+winLineGlow
+  rotate: true
+  xy: 1011, 348
+  size: 173, 46
+  orig: 202, 56
+  offset: 17, 4
+  index: -1
+winStarsYellowAdd
+  rotate: false
+  xy: 2, 137
+  size: 544, 384
+  orig: 550, 445
+  offset: 3, 2
+  index: -1

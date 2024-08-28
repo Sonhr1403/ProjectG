@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 506,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+vfx/Comp 3_00000
+  rotate: false
+  xy: 2, 2
+  size: 199, 200
+  orig: 406, 256
+  offset: 105, 28
+  index: -1
+vfx/vfx particle_00000
+  rotate: true
+  xy: 388, 84
+  size: 118, 116
+  orig: 131, 124
+  offset: 9, 1
+  index: -1
+vfx/vfx star_00000
+  rotate: false
+  xy: 203, 15
+  size: 183, 187
+  orig: 184, 187
+  offset: 1, 0
+  index: -1

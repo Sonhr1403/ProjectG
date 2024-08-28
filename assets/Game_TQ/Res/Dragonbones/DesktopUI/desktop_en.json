@@ -1,0 +1,40 @@
+{
+    "ui": {
+        "user":"User:",
+        "langbtn":"Desktop.LangEnBtnSkin",
+        "balance":"Balance",
+        "title_font":"ui_title_font_eng_fnt",
+        "coin":"Coin",
+        "ways":"Ways",
+        "lines":"Lines",
+        "bet":"Bet",
+        "line_bet":"Line Bet",
+        "line_bet_one_line":"Line Bet",
+        "line_bet_btn":"Line Bet",
+        "totalbet":"Total Bet",
+        "win":"Win"
+    },
+    "spinaction": {
+        "spinbtn":"Desktop.SpinBtnEnSkin",
+        "stopbtn":"Desktop.StopBtnEnSkin",
+        "autoplaybtn":"Desktop.AutoPlayBtnEnSkin",
+        "stopautobtn":"Desktop.StopAutoBtnEnSkin",
+		"maxbetbtn":"Desktop.MaxBetBtnEnSkin"
+    },
+    "jackpot":{
+		"pane":"jackpot_eng_png"
+    },
+    "hints":{
+        "home":"Exit game",
+        "paytable":"Paytable",
+        "sound":"Volume",
+        "minilobby":"Other Games",
+        "lang":"Select language",
+        "gameRule":"Other Information",
+        "betlog":"Bet Log",
+        "turbomode":"Turbo Mode",
+        "freeSpinOffer":"Free Spin Offer",
+        "ranking":"Ranking",
+        "campaignDetail":"Event"
+    }
+}

@@ -1,0 +1,214 @@
+
+MainScene.png
+size: 1857,1793
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+activatorActiveBigFx4_0
+  rotate: true
+  xy: 1160, 2
+  size: 389, 406
+  orig: 404, 416
+  offset: 6, 8
+  index: -1
+paytable1Lightning
+  rotate: true
+  xy: 425, 1450
+  size: 233, 510
+  orig: 249, 538
+  offset: 10, 22
+  index: -1
+paytable1LightningGlow
+  rotate: true
+  xy: 2, 1135
+  size: 313, 594
+  orig: 331, 618
+  offset: 10, 12
+  index: -1
+sceneSlotPyramid
+  rotate: false
+  xy: 1450, 1651
+  size: 405, 140
+  orig: 405, 140
+  offset: 0, 0
+  index: -1
+sceneSlotPyramidBase0
+  rotate: false
+  xy: 2, 1481
+  size: 421, 202
+  orig: 427, 208
+  offset: 4, 3
+  index: -1
+sceneSlotPyramidBaseSmall0
+  rotate: true
+  xy: 2, 1731
+  size: 60, 315
+  orig: 60, 315
+  offset: 0, 0
+  index: -1
+sceneSlotPyramidGold
+  rotate: true
+  xy: 598, 1096
+  size: 323, 557
+  orig: 327, 561
+  offset: 2, 2
+  index: -1
+sceneSlotPyramidGold0
+  rotate: true
+  xy: 1277, 1368
+  size: 281, 556
+  orig: 292, 568
+  offset: 6, 5
+  index: -1
+sceneSlotPyramidGoldAdd0
+  rotate: true
+  xy: 1157, 1043
+  size: 323, 577
+  orig: 327, 581
+  offset: 2, 2
+  index: -1
+sceneSlotPyramidGoldAdd1
+  rotate: false
+  xy: 2, 810
+  size: 577, 323
+  orig: 581, 327
+  offset: 2, 2
+  index: -1
+sceneSlotPyramidGoldAdd2
+  rotate: false
+  xy: 581, 718
+  size: 577, 323
+  orig: 581, 327
+  offset: 2, 2
+  index: -1
+sceneSlotPyramidGoldAdd3
+  rotate: false
+  xy: 1160, 718
+  size: 577, 323
+  orig: 581, 327
+  offset: 2, 2
+  index: -1
+sceneSlotPyramidGoldAdd4
+  rotate: false
+  xy: 2, 485
+  size: 577, 323
+  orig: 581, 327
+  offset: 2, 2
+  index: -1
+sceneSlotPyramidGoldAdd5
+  rotate: false
+  xy: 581, 393
+  size: 577, 323
+  orig: 581, 327
+  offset: 2, 2
+  index: -1
+sceneSlotPyramidGoldAdd6
+  rotate: true
+  xy: 1160, 393
+  size: 323, 577
+  orig: 327, 581
+  offset: 2, 2
+  index: -1
+sceneSlotPyramidGoldAdd7
+  rotate: true
+  xy: 2, 160
+  size: 323, 577
+  orig: 327, 581
+  offset: 2, 2
+  index: -1
+sceneSlotPyramidGoldAdd8
+  rotate: false
+  xy: 581, 68
+  size: 577, 323
+  orig: 581, 327
+  offset: 2, 2
+  index: -1
+sceneSlotSand1
+  rotate: false
+  xy: 319, 1685
+  size: 1129, 106
+  orig: 1143, 124
+  offset: 9, 5
+  index: -1
+sceneSlotStars
+  rotate: false
+  xy: 937, 1421
+  size: 338, 262
+  orig: 348, 275
+  offset: 8, 6
+  index: -1
+
+MainScene2.png
+size: 1591,1749
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sceneSlotPlanetGlow
+  rotate: false
+  xy: 2, 815
+  size: 1031, 932
+  orig: 1073, 955
+  offset: 19, 15
+  index: -1
+sceneSlotPlanetGow0
+  rotate: true
+  xy: 2, 2
+  size: 811, 953
+  orig: 954, 1189
+  offset: 117, 27
+  index: -1
+sceneSlotPyramid0
+  rotate: true
+  xy: 1035, 133
+  size: 1614, 554
+  orig: 1619, 558
+  offset: 2, 2
+  index: -1
+
+MainScene3.png
+size: 1881,1833
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paytable1GoldGlow
+  rotate: true
+  xy: 1325, 715
+  size: 638, 554
+  orig: 656, 605
+  offset: 2, 22
+  index: -1
+paytable1YellowGlow
+  rotate: false
+  xy: 1275, 109
+  size: 582, 583
+  orig: 645, 615
+  offset: 40, 24
+  index: -1
+sceneSlot
+  rotate: false
+  xy: 535, 694
+  size: 788, 659
+  orig: 788, 659
+  offset: 0, 0
+  index: -1
+sceneSlotLightningL
+  rotate: false
+  xy: 535, 2
+  size: 738, 690
+  orig: 758, 696
+  offset: 8, 4
+  index: -1
+sceneSlotLightningR
+  rotate: false
+  xy: 2, 98
+  size: 531, 1255
+  orig: 557, 1267
+  offset: 6, 5
+  index: -1
+sceneSlotSand2
+  rotate: false
+  xy: 2, 1355
+  size: 1738, 476
+  orig: 1831, 505
+  offset: 84, 21
+  index: -1

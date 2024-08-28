@@ -1,0 +1,62 @@
+
+H2_spine.png
+size: 511,209
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H2/1
+  rotate: true
+  xy: 439, 130
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+H2/2
+  rotate: true
+  xy: 449, 53
+  size: 75, 49
+  orig: 75, 49
+  offset: 0, 0
+  index: -1
+H2/3
+  rotate: true
+  xy: 251, 11
+  size: 62, 112
+  orig: 62, 112
+  offset: 0, 0
+  index: -1
+H2/4
+  rotate: true
+  xy: 365, 5
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+H2/5
+  rotate: false
+  xy: 449, 6
+  size: 57, 45
+  orig: 57, 48
+  offset: 0, 0
+  index: -1
+H2/flower_1
+  rotate: true
+  xy: 251, 75
+  size: 132, 92
+  orig: 132, 92
+  offset: 0, 0
+  index: -1
+H2/flower_2
+  rotate: true
+  xy: 345, 90
+  size: 117, 92
+  orig: 117, 92
+  offset: 0, 0
+  index: -1
+H2/flower_glow
+  rotate: false
+  xy: 2, 2
+  size: 247, 205
+  orig: 247, 205
+  offset: 0, 0
+  index: -1

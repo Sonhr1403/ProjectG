@@ -1,0 +1,230 @@
+
+anticipation@2x.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H1_active/electricity/elecricity_necro_00000
+  rotate: true
+  xy: 462, 327
+  size: 152, 141
+  orig: 192, 162
+  offset: 16, 15
+  index: -1
+H1_active/electricity/elecricity_necro_00001
+  rotate: true
+  xy: 304, 171
+  size: 157, 145
+  orig: 192, 162
+  offset: 12, 12
+  index: -1
+H1_active/electricity/elecricity_necro_00002
+  rotate: true
+  xy: 304, 15
+  size: 154, 144
+  orig: 192, 162
+  offset: 12, 10
+  index: -1
+H1_active/electricity/elecricity_necro_00003
+  rotate: false
+  xy: 302, 330
+  size: 158, 149
+  orig: 192, 162
+  offset: 11, 12
+  index: -1
+H1_active/electricity/elecricity_necro_00004
+  rotate: true
+  xy: 451, 169
+  size: 156, 139
+  orig: 192, 162
+  offset: 15, 17
+  index: -1
+anticipation/anticipation_effect_00000
+  rotate: true
+  xy: 1237, 1323
+  size: 292, 297
+  orig: 400, 400
+  offset: 53, 56
+  index: -1
+anticipation/anticipation_effect_00001
+  rotate: false
+  xy: 649, 1321
+  size: 286, 298
+  orig: 400, 400
+  offset: 54, 51
+  index: -1
+anticipation/anticipation_effect_00002
+  rotate: false
+  xy: 1536, 1320
+  size: 295, 295
+  orig: 400, 400
+  offset: 52, 53
+  index: -1
+anticipation/anticipation_effect_00003
+  rotate: false
+  xy: 2, 2
+  size: 300, 309
+  orig: 400, 400
+  offset: 48, 57
+  index: -1
+anticipation/anticipation_effect_00004
+  rotate: true
+  xy: 347, 1302
+  size: 308, 300
+  orig: 400, 400
+  offset: 42, 63
+  index: -1
+anticipation/anticipation_effect_00005
+  rotate: true
+  xy: 2, 628
+  size: 335, 299
+  orig: 400, 400
+  offset: 28, 63
+  index: -1
+anticipation/anticipation_effect_00006
+  rotate: false
+  xy: 2, 1302
+  size: 343, 308
+  orig: 400, 400
+  offset: 26, 53
+  index: -1
+anticipation/anticipation_effect_00007
+  rotate: false
+  xy: 2, 1612
+  size: 346, 314
+  orig: 400, 400
+  offset: 34, 40
+  index: -1
+anticipation/anticipation_effect_00008
+  rotate: false
+  xy: 1365, 1617
+  size: 317, 309
+  orig: 400, 400
+  offset: 28, 46
+  index: -1
+anticipation/anticipation_effect_00009
+  rotate: true
+  xy: 588, 990
+  size: 310, 295
+  orig: 400, 400
+  offset: 44, 63
+  index: -1
+anticipation/anticipation_effect_00010
+  rotate: false
+  xy: 1043, 1626
+  size: 320, 300
+  orig: 400, 400
+  offset: 40, 53
+  index: -1
+anticipation/anticipation_effect_00011
+  rotate: true
+  xy: 312, 987
+  size: 313, 274
+  orig: 400, 400
+  offset: 44, 64
+  index: -1
+anticipation/anticipation_effect_00012
+  rotate: false
+  xy: 1466, 1031
+  size: 281, 287
+  orig: 400, 400
+  offset: 59, 52
+  index: -1
+anticipation/anticipation_effect_00013
+  rotate: true
+  xy: 885, 750
+  size: 270, 282
+  orig: 400, 400
+  offset: 64, 64
+  index: -1
+anticipation/anticipation_effect_00014
+  rotate: false
+  xy: 312, 703
+  size: 274, 282
+  orig: 400, 400
+  offset: 59, 63
+  index: -1
+anticipation/anticipation_effect_00015
+  rotate: false
+  xy: 588, 710
+  size: 276, 278
+  orig: 400, 400
+  offset: 58, 65
+  index: -1
+anticipation/anticipation_effect_00016
+  rotate: false
+  xy: 1749, 1028
+  size: 278, 290
+  orig: 400, 400
+  offset: 56, 56
+  index: -1
+anticipation/anticipation_effect_00017
+  rotate: true
+  xy: 885, 1022
+  size: 297, 290
+  orig: 400, 400
+  offset: 53, 57
+  index: -1
+anticipation/anticipation_effect_00018
+  rotate: false
+  xy: 1177, 1026
+  size: 287, 295
+  orig: 400, 400
+  offset: 48, 55
+  index: -1
+anticipation/anticipation_effect_00019
+  rotate: false
+  xy: 937, 1330
+  size: 298, 294
+  orig: 400, 400
+  offset: 42, 57
+  index: -1
+anticipation/anticipation_effect_00020
+  rotate: true
+  xy: 2, 313
+  size: 313, 298
+  orig: 400, 400
+  offset: 50, 59
+  index: -1
+anticipation/anticipation_effect_00021
+  rotate: false
+  xy: 2, 965
+  size: 308, 335
+  orig: 400, 400
+  offset: 52, 31
+  index: -1
+anticipation/anticipation_effect_00022
+  rotate: true
+  xy: 698, 1627
+  size: 299, 343
+  orig: 400, 400
+  offset: 60, 29
+  index: -1
+anticipation/anticipation_effect_00023
+  rotate: true
+  xy: 350, 1621
+  size: 305, 346
+  orig: 400, 400
+  offset: 60, 37
+  index: -1
+anticipation/anticipation_effect_00024
+  rotate: true
+  xy: 1684, 1628
+  size: 298, 312
+  orig: 400, 400
+  offset: 61, 39
+  index: -1
+light_burst_MAIN
+  rotate: true
+  xy: 303, 481
+  size: 220, 224
+  orig: 220, 224
+  offset: 0, 0
+  index: -1
+sparks_02
+  rotate: false
+  xy: 1833, 1428
+  size: 197, 198
+  orig: 200, 200
+  offset: 3, 0
+  index: -1

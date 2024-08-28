@@ -1,0 +1,21 @@
+{
+  "ver": "1.1.3",
+  "uuid": "275ca904-aef7-491b-8e08-f1d7fb72b89e",
+  "importer": "folder",
+  "isBundle": false,
+  "bundleName": "GameWukong",
+  "priority": 1,
+  "compressionType": {
+    "android": "merge_all_json"
+  },
+  "optimizeHotUpdate": {
+    "android": false
+  },
+  "inlineSpriteFrames": {
+    "android": false
+  },
+  "isRemoteBundle": {
+    "android": true
+  },
+  "subMetas": {}
+}

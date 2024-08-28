@@ -1,0 +1,160 @@
+
+nami.png
+size: 316,522
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 10
+  rotate: false
+  xy: 160, 88
+  size: 152, 139
+  orig: 152, 139
+  offset: 0, 0
+  index: -1
+Layer 701
+  rotate: true
+  xy: 264, 362
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+Layer 702
+  rotate: true
+  xy: 232, 361
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Layer 705
+  rotate: true
+  xy: 217, 361
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1
+Layer 706
+  rotate: false
+  xy: 156, 299
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+Layer 707
+  rotate: true
+  xy: 217, 390
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+Layer 710
+  rotate: true
+  xy: 302, 414
+  size: 17, 12
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+Layer 713
+  rotate: true
+  xy: 302, 375
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+Layer 714
+  rotate: false
+  xy: 236, 376
+  size: 64, 55
+  orig: 64, 55
+  offset: 0, 0
+  index: -1
+Layer 720
+  rotate: false
+  xy: 236, 433
+  size: 74, 87
+  orig: 74, 87
+  offset: 0, 0
+  index: -1
+Layer 721
+  rotate: false
+  xy: 131, 2
+  size: 91, 84
+  orig: 91, 84
+  offset: 0, 0
+  index: -1
+Layer 722
+  rotate: false
+  xy: 217, 229
+  size: 92, 130
+  orig: 92, 130
+  offset: 0, 0
+  index: -1
+Layer 724
+  rotate: true
+  xy: 2, 124
+  size: 140, 156
+  orig: 140, 156
+  offset: 0, 0
+  index: -1
+Layer 725
+  rotate: false
+  xy: 276, 369
+  size: 14, 5
+  orig: 15, 5
+  offset: 1, 0
+  index: -1
+Layer 726
+  rotate: false
+  xy: 244, 367
+  size: 18, 7
+  orig: 19, 7
+  offset: 0, 0
+  index: -1
+Layer 736
+  rotate: false
+  xy: 156, 318
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+Layer 737
+  rotate: true
+  xy: 156, 356
+  size: 55, 59
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+Layer 737 copy
+  rotate: false
+  xy: 224, 4
+  size: 81, 82
+  orig: 85, 83
+  offset: 4, 1
+  index: -1
+Layer 738
+  rotate: false
+  xy: 2, 413
+  size: 232, 107
+  orig: 232, 107
+  offset: 0, 0
+  index: -1
+Layer 743
+  rotate: true
+  xy: 302, 395
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+Nami blur_00
+  rotate: false
+  xy: 2, 266
+  size: 152, 145
+  orig: 211, 211
+  offset: 28, 32
+  index: -1
+khung cam copy 2
+  rotate: false
+  xy: 2, 3
+  size: 127, 119
+  orig: 127, 119
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+Shan.png
+size: 442,442
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+8
+  rotate: true
+  xy: 2, 2
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 104, 2
+  size: 73, 90
+  orig: 73, 90
+  offset: 0, 0
+  index: -1
+ligh
+  rotate: true
+  xy: 201, 114
+  size: 74, 41
+  orig: 77, 43
+  offset: 3, 1
+  index: -1
+rib
+  rotate: true
+  xy: 268, 30
+  size: 410, 156
+  orig: 410, 158
+  offset: 0, 1
+  index: -1
+sanng
+  rotate: false
+  xy: 2, 190
+  size: 264, 250
+  orig: 264, 250
+  offset: 0, 0
+  index: -1
+shan9
+  rotate: false
+  xy: 2, 77
+  size: 197, 111
+  orig: 197, 112
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "2bc1e51d-eef4-4d19-a568-b0de2bcc8bb5",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 620,
+  "height": 76,
+  "platformSettings": {},
+  "subMetas": {
+    "thanhgiong_fiveofakind.png": {
+      "ver": "1.0.6",
+      "uuid": "d5062a19-89cd-4e43-821a-211175a42d3e",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "2bc1e51d-eef4-4d19-a568-b0de2bcc8bb5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 619,
+      "height": 76,
+      "rawWidth": 620,
+      "rawHeight": 76,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "147cb5ab-b235-4457-8146-61819ea124f2",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 2048,
+  "platformSettings": {},
+  "subMetas": {
+    "juniorsFont_atlas_0": {
+      "ver": "1.0.6",
+      "uuid": "479cf723-e34c-429d-adaa-7c3a2ab24c0b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "147cb5ab-b235-4457-8146-61819ea124f2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -26,
+      "offsetY": 17,
+      "trimX": 0,
+      "trimY": 2,
+      "width": 204,
+      "height": 2010,
+      "rawWidth": 256,
+      "rawHeight": 2048,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "00a1c1b9-0e66-4c74-9119-74a0a62c63a3",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 438,
+  "height": 107,
+  "platformSettings": {},
+  "subMetas": {
+    "slotastros_totalbet_bg": {
+      "ver": "1.0.6",
+      "uuid": "3a5b413b-ecff-4a42-a3ac-b981ae4aefca",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "00a1c1b9-0e66-4c74-9119-74a0a62c63a3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 436,
+      "height": 105,
+      "rawWidth": 438,
+      "rawHeight": 107,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "0fa84248-2453-423e-b8da-cc0f344893ad",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 309,
+  "height": 61,
+  "platformSettings": {},
+  "subMetas": {
+    "thanhgiong_youwon_text.png": {
+      "ver": "1.0.6",
+      "uuid": "9fbc3f18-b81a-4a44-918f-cacf75246544",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "0fa84248-2453-423e-b8da-cc0f344893ad",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 309,
+      "height": 61,
+      "rawWidth": 309,
+      "rawHeight": 61,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

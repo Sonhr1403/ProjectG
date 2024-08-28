@@ -1,0 +1,21 @@
+{
+  "ver": "1.1.3",
+  "uuid": "92539d90-3217-4510-bb2c-129dfeda209e",
+  "importer": "folder",
+  "isBundle": false,
+  "bundleName": "MoneyTrain2",
+  "priority": 1,
+  "compressionType": {
+    "android": "merge_all_json"
+  },
+  "optimizeHotUpdate": {
+    "android": false
+  },
+  "inlineSpriteFrames": {
+    "android": false
+  },
+  "isRemoteBundle": {
+    "android": true
+  },
+  "subMetas": {}
+}

@@ -1,0 +1,8 @@
+{
+  "name": "bundle_instant",
+  "version": "0.0.1",
+  "description": "Bundle Manager",
+  "author": "W.I.C.K",
+  "author": "MinNC",
+  "main": "main.js"
+}

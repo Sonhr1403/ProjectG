@@ -1,0 +1,48 @@
+
+tnt.png
+size: 508,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chay
+  rotate: true
+  xy: 311, 2
+  size: 63, 67
+  orig: 65, 69
+  offset: 1, 1
+  index: -1
+no1
+  rotate: false
+  xy: 421, 2
+  size: 77, 77
+  orig: 79, 79
+  offset: 1, 1
+  index: -1
+no2
+  rotate: false
+  xy: 311, 67
+  size: 108, 104
+  orig: 110, 106
+  offset: 1, 1
+  index: -1
+no3
+  rotate: false
+  xy: 2, 23
+  size: 150, 148
+  orig: 152, 150
+  offset: 1, 1
+  index: -1
+no4
+  rotate: true
+  xy: 154, 29
+  size: 142, 155
+  orig: 144, 157
+  offset: 1, 1
+  index: -1
+tnt
+  rotate: false
+  xy: 421, 81
+  size: 85, 90
+  orig: 87, 92
+  offset: 1, 1
+  index: -1

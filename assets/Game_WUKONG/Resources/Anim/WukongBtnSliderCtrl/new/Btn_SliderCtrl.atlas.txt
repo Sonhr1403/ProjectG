@@ -1,0 +1,13 @@
+
+Btn_SliderCtrl.png
+size: 39,39
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Btn_VolumeCtrl
+  rotate: false
+  xy: 2, 2
+  size: 35, 35
+  orig: 37, 37
+  offset: 1, 1
+  index: -1

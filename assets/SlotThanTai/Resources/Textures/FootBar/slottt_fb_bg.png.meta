@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f0aeeaa8-3cbd-4944-a478-aec306a16146",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1936,
+  "height": 139,
+  "platformSettings": {},
+  "subMetas": {
+    "slottt_fb_bg": {
+      "ver": "1.0.6",
+      "uuid": "11acab74-cc46-4547-861a-68fe922e298e",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f0aeeaa8-3cbd-4944-a478-aec306a16146",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 1934,
+      "height": 137,
+      "rawWidth": 1936,
+      "rawHeight": 139,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

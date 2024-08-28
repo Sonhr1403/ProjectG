@@ -1,0 +1,383 @@
+{
+  "skeleton": {
+    "hash": "mVPiK7cLEcmDQTA9mZg36d0mp4A",
+    "spine":"3.7.99",
+    "x": 488,
+    "y": -554,
+    "width": 403,
+    "height": 473,
+    "images": "../01_PSDs/FINAL/reel_base_elements/",
+    "audio": "E:/09 Relax/!!!/08_Money_Train_2/03_spine/./../02_assets"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "BACK_WHEEL",
+      "parent": "root",
+      "x": 492.28,
+      "y": -348.67,
+      "color": "0022ffff"
+    },
+    {
+      "name": "wheel",
+      "parent": "BACK_WHEEL",
+      "x": 198.97,
+      "y": -4.6
+    }
+  ],
+  "slots": [
+    {
+      "name": "wheel_right",
+      "bone": "wheel",
+      "attachment": "wheel_right"
+    },
+    {
+      "name": "wheel_right_light",
+      "bone": "BACK_WHEEL",
+      "attachment": "wheel_right_light"
+    },
+    {
+      "name": "wheel_right_hide",
+      "bone": "BACK_WHEEL",
+      "attachment": "wheel_right_hide"
+    }
+  ],
+  "skins": {
+    "default": {
+      "wheel_right": {
+        "wheel_right": {
+          "x": -1.75,
+          "y": 0.27,
+          "width": 403,
+          "height": 402
+        }
+      },
+      "wheel_right_hide": {
+        "wheel_right_hide": {
+          "x": 196.72,
+          "y": 159.67,
+          "width": 344,
+          "height": 216
+        }
+      },
+      "wheel_right_light": {
+        "wheel_right_light": {
+          "x": 224.72,
+          "y": 8.67,
+          "width": 336,
+          "height": 376
+        }
+      }
+    }
+  },
+  "animations": {
+    "animation": {
+      "slots": {
+        "wheel_right_light": {
+          "color": [
+            {
+              "time": 0,
+              "color": "ffffffff",
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 0.5,
+              "color": "ffffff98",
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "wheel": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.3333,
+              "angle": 120
+            },
+            {
+              "time": 0.6667,
+              "angle": -120
+            },
+            {
+              "time": 1,
+              "angle": 0
+            }
+          ]
+        },
+        "BACK_WHEEL": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.0667,
+              "angle": 0.6
+            },
+            {
+              "time": 0.1333,
+              "angle": 0
+            },
+            {
+              "time": 0.2,
+              "angle": 0.6
+            },
+            {
+              "time": 0.3333,
+              "angle": 0
+            },
+            {
+              "time": 0.4,
+              "angle": 0.6
+            },
+            {
+              "time": 0.4667,
+              "angle": 0
+            },
+            {
+              "time": 0.5333,
+              "angle": 0.6
+            },
+            {
+              "time": 0.6,
+              "angle": 0
+            },
+            {
+              "time": 0.6667,
+              "angle": 0.6
+            },
+            {
+              "time": 0.7667,
+              "angle": 0
+            },
+            {
+              "time": 0.8333,
+              "angle": 0.6
+            },
+            {
+              "time": 0.9667,
+              "angle": 0
+            }
+          ]
+        }
+      }
+    },
+    "back_wheel_start": {
+      "slots": {
+        "wheel_right_light": {
+          "color": [
+            {
+              "time": 0,
+              "color": "ffffffff",
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 0.5,
+              "color": "ffffff98",
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "wheel": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 120
+            },
+            {
+              "time": 1,
+              "angle": -120,
+              "curve": [
+                0.54,
+                0.55,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 1.6667,
+              "angle": 0
+            }
+          ]
+        },
+        "BACK_WHEEL": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.3,
+              "angle": 0.6
+            },
+            {
+              "time": 0.4333,
+              "angle": 0
+            },
+            {
+              "time": 0.6,
+              "angle": 0.6
+            },
+            {
+              "time": 0.7667,
+              "angle": 0
+            },
+            {
+              "time": 0.8667,
+              "angle": 0.6
+            },
+            {
+              "time": 0.9667,
+              "angle": 0
+            }
+          ]
+        }
+      }
+    },
+    "back_wheel_stop": {
+      "slots": {
+        "wheel_right_light": {
+          "color": [
+            {
+              "time": 0,
+              "color": "ffffffff",
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 0.5,
+              "color": "ffffff98",
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "wheel": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0,
+              "curve": [
+                0.54,
+                0.55,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 1,
+              "angle": 120
+            }
+          ]
+        },
+        "BACK_WHEEL": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.0667,
+              "angle": 0.6
+            },
+            {
+              "time": 0.1333,
+              "angle": 0
+            },
+            {
+              "time": 0.2,
+              "angle": 0.6
+            },
+            {
+              "time": 0.3333,
+              "angle": 0
+            },
+            {
+              "time": 0.4,
+              "angle": 0.6
+            },
+            {
+              "time": 0.4667,
+              "angle": 0
+            },
+            {
+              "time": 0.5333,
+              "angle": 0.6
+            },
+            {
+              "time": 0.6,
+              "angle": 0
+            },
+            {
+              "time": 0.6667,
+              "angle": 0.6
+            },
+            {
+              "time": 0.7667,
+              "angle": 0
+            },
+            {
+              "time": 0.8333,
+              "angle": 0.6
+            },
+            {
+              "time": 0.9667,
+              "angle": 0
+            }
+          ]
+        }
+      }
+    }
+  }
+}

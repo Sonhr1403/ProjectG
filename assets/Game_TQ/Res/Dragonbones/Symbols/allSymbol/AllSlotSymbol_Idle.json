@@ -1,0 +1,15 @@
+{"file":"AllSlotSymbol_Idle.png","frames":{
+"H4_idle":{"x":499,"y":197,"w":228,"h":188,"offX":29,"offY":10,"sourceW":288,"sourceH":223},
+"H5_idle":{"x":269,"y":241,"w":228,"h":198,"offX":29,"offY":0,"sourceW":288,"sourceH":223},
+"H6_idle":{"x":282,"y":1,"w":228,"h":194,"offX":29,"offY":19,"sourceW":288,"sourceH":223},
+"L1_idle":{"x":1,"y":657,"w":162,"h":155,"offX":64,"offY":35,"sourceW":288,"sourceH":223},
+"L2_idle":{"x":231,"y":629,"w":163,"h":155,"offX":63,"offY":35,"sourceW":288,"sourceH":223},
+"L3_idle":{"x":507,"y":544,"w":164,"h":155,"offX":63,"offY":35,"sourceW":288,"sourceH":223},
+"L4_idle":{"x":673,"y":544,"w":124,"h":155,"offX":83,"offY":35,"sourceW":288,"sourceH":223},
+"L5_idle":{"x":507,"y":387,"w":185,"h":155,"offX":52,"offY":35,"sourceW":288,"sourceH":223},
+"L6_idle":{"x":729,"y":186,"w":117,"h":155,"offX":86,"offY":35,"sourceW":288,"sourceH":223},
+"Scatter_idle":{"x":1,"y":1,"w":279,"h":238,"offX":11,"offY":16,"sourceW":300,"sourceH":263},
+"Wild_idle":{"x":1,"y":241,"w":266,"h":234,"offX":18,"offY":21,"sourceW":300,"sourceH":263},
+"H1_idle":{"x":1,"y":477,"w":228,"h":178,"offX":29,"offY":20,"sourceW":288,"sourceH":223},
+"H2_idle":{"x":512,"y":1,"w":228,"h":183,"offX":29,"offY":15,"sourceW":288,"sourceH":223},
+"H3_idle":{"x":269,"y":441,"w":236,"h":186,"offX":29,"offY":12,"sourceW":288,"sourceH":223}}}

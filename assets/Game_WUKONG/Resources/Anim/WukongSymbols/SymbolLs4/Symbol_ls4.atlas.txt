@@ -1,0 +1,398 @@
+
+Symbol_ls4.png
+size: 3029,444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Symbol/ls4
+  rotate: false
+  xy: 563, 238
+  size: 176, 204
+  orig: 177, 205
+  offset: 0, 1
+  index: -1
+Symbol/ls4_B
+  rotate: false
+  xy: 463, 9
+  size: 176, 216
+  orig: 221, 257
+  offset: 21, 23
+  index: -1
+Symbol/ls4_B2
+  rotate: false
+  xy: 374, 227
+  size: 187, 215
+  orig: 230, 266
+  offset: 19, 27
+  index: -1
+Symbol/ls4_Back
+  rotate: false
+  xy: 228, 34
+  size: 233, 174
+  orig: 235, 175
+  offset: 1, 1
+  index: -1
+Symbol/ls4_Back_B
+  rotate: true
+  xy: 187, 210
+  size: 232, 185
+  orig: 293, 219
+  offset: 30, 20
+  index: -1
+Symbol/ls4_Back_B2
+  rotate: true
+  xy: 2, 201
+  size: 241, 183
+  orig: 305, 227
+  offset: 32, 25
+  index: -1
+Symbol/ls4_Front
+  rotate: true
+  xy: 2807, 2
+  size: 154, 75
+  orig: 158, 76
+  offset: 1, 1
+  index: -1
+Symbol/ls4_Front_B
+  rotate: true
+  xy: 2929, 146
+  size: 153, 86
+  orig: 198, 95
+  offset: 22, 6
+  index: -1
+Symbol/ls4_Front_B2
+  rotate: false
+  xy: 641, 8
+  size: 162, 85
+  orig: 206, 98
+  offset: 20, 8
+  index: -1
+Symbol/ls4_G
+  rotate: true
+  xy: 2, 3
+  size: 196, 224
+  orig: 266, 308
+  offset: 33, 44
+  index: -1
+WinsBG/Win_BG_1
+  rotate: false
+  xy: 641, 95
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_10
+  rotate: false
+  xy: 1170, 301
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_11
+  rotate: false
+  xy: 1091, 15
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_12
+  rotate: false
+  xy: 1213, 158
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_13
+  rotate: false
+  xy: 1313, 301
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_14
+  rotate: false
+  xy: 1234, 15
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_15
+  rotate: false
+  xy: 1356, 158
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_16
+  rotate: false
+  xy: 1456, 301
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_17
+  rotate: false
+  xy: 1377, 15
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_18
+  rotate: false
+  xy: 1499, 158
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_19
+  rotate: false
+  xy: 1599, 301
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_2
+  rotate: false
+  xy: 741, 301
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_20
+  rotate: false
+  xy: 1520, 15
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_21
+  rotate: false
+  xy: 1642, 158
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_22
+  rotate: false
+  xy: 1742, 301
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_23
+  rotate: false
+  xy: 1663, 15
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_24
+  rotate: false
+  xy: 1785, 158
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_25
+  rotate: false
+  xy: 1885, 301
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_26
+  rotate: false
+  xy: 1806, 15
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_27
+  rotate: false
+  xy: 1928, 158
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_28
+  rotate: false
+  xy: 2028, 301
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_29
+  rotate: false
+  xy: 1949, 15
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_3
+  rotate: false
+  xy: 784, 158
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_30
+  rotate: false
+  xy: 2071, 158
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_31
+  rotate: false
+  xy: 2171, 301
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_32
+  rotate: false
+  xy: 2092, 15
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_33
+  rotate: false
+  xy: 2214, 158
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_34
+  rotate: false
+  xy: 2314, 301
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_35
+  rotate: false
+  xy: 2235, 15
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_36
+  rotate: false
+  xy: 2357, 158
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_37
+  rotate: false
+  xy: 2457, 301
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_38
+  rotate: false
+  xy: 2378, 15
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_39
+  rotate: false
+  xy: 2500, 158
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_4
+  rotate: false
+  xy: 884, 301
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_40
+  rotate: false
+  xy: 2600, 301
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_41
+  rotate: false
+  xy: 2521, 15
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_42
+  rotate: false
+  xy: 2643, 158
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_43
+  rotate: false
+  xy: 2743, 301
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_44
+  rotate: false
+  xy: 2664, 15
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_45
+  rotate: false
+  xy: 2786, 158
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_46
+  rotate: false
+  xy: 2886, 301
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_5
+  rotate: false
+  xy: 805, 15
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_6
+  rotate: false
+  xy: 927, 158
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_7
+  rotate: false
+  xy: 1027, 301
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_8
+  rotate: false
+  xy: 948, 15
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_9
+  rotate: false
+  xy: 1070, 158
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1

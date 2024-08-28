@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+QUANG TRON
+  rotate: false
+  xy: 239, 112
+  size: 238, 220
+  orig: 256, 228
+  offset: 8, 8
+  index: -1
+khung
+  rotate: false
+  xy: 2, 529
+  size: 292, 78
+  orig: 300, 104
+  offset: 0, 13
+  index: -1
+king
+  rotate: true
+  xy: 239, 442
+  size: 85, 40
+  orig: 85, 40
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 479, 200
+  size: 132, 119
+  orig: 132, 133
+  offset: 0, 14
+  index: -1
+light tron
+  rotate: true
+  xy: 296, 334
+  size: 273, 272
+  orig: 294, 290
+  offset: 9, 9
+  index: -1
+quang
+  rotate: true
+  xy: 2, 258
+  size: 269, 235
+  orig: 286, 271
+  offset: 15, 13
+  index: -1
+vet
+  rotate: true
+  xy: 2, 2
+  size: 254, 206
+  orig: 262, 250
+  offset: 2, 26
+  index: -1

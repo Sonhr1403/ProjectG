@@ -1,0 +1,48 @@
+
+TNT@2x.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tnt_left_1
+  rotate: false
+  xy: 2, 69
+  size: 203, 143
+  orig: 205, 145
+  offset: 1, 1
+  index: -1
+tnt_left_2
+  rotate: false
+  xy: 605, 15
+  size: 82, 197
+  orig: 84, 199
+  offset: 1, 1
+  index: -1
+tnt_left_3
+  rotate: false
+  xy: 689, 17
+  size: 83, 195
+  orig: 85, 197
+  offset: 1, 1
+  index: -1
+tnt_right_1
+  rotate: false
+  xy: 207, 107
+  size: 211, 105
+  orig: 213, 107
+  offset: 1, 1
+  index: -1
+tnt_right_2
+  rotate: false
+  xy: 515, 2
+  size: 88, 210
+  orig: 90, 212
+  offset: 1, 1
+  index: -1
+tnt_right_3
+  rotate: false
+  xy: 420, 17
+  size: 93, 195
+  orig: 95, 197
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "c21867bd-b314-47a1-8f86-922fe08a2a37",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 905,
+  "height": 584,
+  "platformSettings": {},
+  "subMetas": {
+    "thanh_giong_reel.png": {
+      "ver": "1.0.6",
+      "uuid": "d3c83d21-20cb-4fb5-b62a-bb47d132e83a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "c21867bd-b314-47a1-8f86-922fe08a2a37",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 905,
+      "height": 584,
+      "rawWidth": 905,
+      "rawHeight": 584,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

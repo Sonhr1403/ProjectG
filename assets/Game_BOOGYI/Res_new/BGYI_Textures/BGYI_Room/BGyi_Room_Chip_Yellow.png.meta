@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "6d561f83-9488-4369-88c8-7c73323d5aec",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 17,
+  "height": 17,
+  "platformSettings": {},
+  "subMetas": {
+    "BGyi_Room_Chip_Yellow": {
+      "ver": "1.0.6",
+      "uuid": "6e61bbc4-b766-4ef6-945c-d94c1fe8a9c1",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "6d561f83-9488-4369-88c8-7c73323d5aec",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 17,
+      "height": 17,
+      "rawWidth": 17,
+      "rawHeight": 17,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

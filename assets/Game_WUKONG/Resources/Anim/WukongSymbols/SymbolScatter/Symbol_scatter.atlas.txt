@@ -1,0 +1,811 @@
+
+Symbol_scatter.png
+size: 3060,1576
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Symbol/Flash
+  rotate: true
+  xy: 2840, 1324
+  size: 250, 147
+  orig: 250, 147
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_0
+  rotate: false
+  xy: 2, 492
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_60
+  rotate: false
+  xy: 2, 492
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_1
+  rotate: false
+  xy: 779, 1347
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_10
+  rotate: false
+  xy: 2382, 1347
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_11
+  rotate: false
+  xy: 2611, 1347
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_12
+  rotate: false
+  xy: 1083, 1118
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_13
+  rotate: false
+  xy: 1312, 1118
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_14
+  rotate: false
+  xy: 1541, 1118
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_15
+  rotate: false
+  xy: 1770, 1118
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_16
+  rotate: false
+  xy: 1999, 1118
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_17
+  rotate: false
+  xy: 2228, 1118
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_18
+  rotate: false
+  xy: 2457, 1118
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_19
+  rotate: false
+  xy: 231, 492
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_2
+  rotate: false
+  xy: 2, 263
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_20
+  rotate: false
+  xy: 231, 263
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_21
+  rotate: false
+  xy: 231, 34
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_22
+  rotate: false
+  xy: 269, 757
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_23
+  rotate: false
+  xy: 2829, 952
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_24
+  rotate: false
+  xy: 296, 1047
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_25
+  rotate: false
+  xy: 525, 1057
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_26
+  rotate: false
+  xy: 754, 1028
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_27
+  rotate: false
+  xy: 525, 828
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_28
+  rotate: false
+  xy: 754, 799
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_29
+  rotate: false
+  xy: 983, 889
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_3
+  rotate: false
+  xy: 1008, 1347
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_30
+  rotate: false
+  xy: 1212, 889
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_31
+  rotate: false
+  xy: 1441, 889
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_32
+  rotate: false
+  xy: 1670, 889
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_33
+  rotate: false
+  xy: 1899, 889
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_34
+  rotate: false
+  xy: 2128, 889
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_35
+  rotate: false
+  xy: 2357, 889
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_36
+  rotate: false
+  xy: 983, 660
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_37
+  rotate: false
+  xy: 1212, 660
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_38
+  rotate: false
+  xy: 1441, 660
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_39
+  rotate: false
+  xy: 1670, 660
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_4
+  rotate: false
+  xy: 2, 34
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_40
+  rotate: false
+  xy: 1899, 660
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_41
+  rotate: false
+  xy: 2128, 660
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_42
+  rotate: false
+  xy: 2357, 660
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_43
+  rotate: false
+  xy: 2586, 832
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_44
+  rotate: false
+  xy: 2586, 603
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_45
+  rotate: false
+  xy: 2815, 723
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_46
+  rotate: false
+  xy: 2815, 494
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_47
+  rotate: false
+  xy: 498, 599
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_48
+  rotate: false
+  xy: 460, 370
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_49
+  rotate: false
+  xy: 460, 141
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_5
+  rotate: false
+  xy: 1237, 1347
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_50
+  rotate: false
+  xy: 727, 570
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_51
+  rotate: false
+  xy: 689, 341
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_52
+  rotate: false
+  xy: 689, 112
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_53
+  rotate: false
+  xy: 956, 431
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_54
+  rotate: false
+  xy: 1185, 431
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_55
+  rotate: false
+  xy: 1414, 431
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_56
+  rotate: false
+  xy: 1643, 431
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_57
+  rotate: false
+  xy: 1872, 431
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_58
+  rotate: false
+  xy: 2101, 431
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_59
+  rotate: false
+  xy: 2330, 431
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_6
+  rotate: false
+  xy: 1466, 1347
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_7
+  rotate: false
+  xy: 1695, 1347
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_8
+  rotate: false
+  xy: 1924, 1347
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/Scatter_BG/Scatter_BG_9
+  rotate: false
+  xy: 2153, 1347
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+Symbol/scatter
+  rotate: false
+  xy: 591, 1299
+  size: 186, 275
+  orig: 187, 278
+  offset: 1, 2
+  index: -1
+Symbol/scatter_B
+  rotate: false
+  xy: 306, 1286
+  size: 283, 288
+  orig: 356, 345
+  offset: 36, 30
+  index: -1
+Symbol/scatter_B2
+  rotate: false
+  xy: 2, 986
+  size: 292, 288
+  orig: 369, 357
+  offset: 38, 35
+  index: -1
+Symbol/scatter_BG
+  rotate: false
+  xy: 2, 721
+  size: 265, 263
+  orig: 265, 263
+  offset: 0, 0
+  index: -1
+Symbol/scatter_G
+  rotate: false
+  xy: 2, 1276
+  size: 302, 298
+  orig: 427, 413
+  offset: 62, 58
+  index: -1
+Symbol/scatter_Typo
+  rotate: true
+  xy: 2989, 1291
+  size: 283, 69
+  orig: 284, 70
+  offset: 0, 0
+  index: -1
+Symbol/scatter_Typo_G
+  rotate: false
+  xy: 779, 1257
+  size: 302, 88
+  orig: 427, 105
+  offset: 62, 9
+  index: -1
+WinsBG/Win_BG_1
+  rotate: false
+  xy: 2686, 1204
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_10
+  rotate: false
+  xy: 1204, 145
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_11
+  rotate: false
+  xy: 1347, 288
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_12
+  rotate: false
+  xy: 1347, 145
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_13
+  rotate: false
+  xy: 1490, 288
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_14
+  rotate: false
+  xy: 1490, 145
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_15
+  rotate: false
+  xy: 1633, 288
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_16
+  rotate: false
+  xy: 1633, 145
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_17
+  rotate: false
+  xy: 1776, 288
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_18
+  rotate: false
+  xy: 1776, 145
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_19
+  rotate: false
+  xy: 1919, 288
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_2
+  rotate: false
+  xy: 2829, 1181
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_20
+  rotate: false
+  xy: 1919, 145
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_21
+  rotate: false
+  xy: 2062, 288
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_22
+  rotate: false
+  xy: 2062, 145
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_23
+  rotate: false
+  xy: 2205, 288
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_24
+  rotate: false
+  xy: 2205, 145
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_25
+  rotate: false
+  xy: 2348, 288
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_26
+  rotate: false
+  xy: 2348, 145
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_27
+  rotate: false
+  xy: 2491, 288
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_28
+  rotate: false
+  xy: 2491, 145
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_29
+  rotate: false
+  xy: 2634, 317
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_3
+  rotate: false
+  xy: 2686, 1061
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_30
+  rotate: false
+  xy: 2634, 174
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_31
+  rotate: false
+  xy: 2777, 351
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_32
+  rotate: false
+  xy: 2777, 208
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_33
+  rotate: false
+  xy: 2777, 65
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_34
+  rotate: false
+  xy: 2634, 31
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_35
+  rotate: false
+  xy: 918, 2
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_36
+  rotate: false
+  xy: 1061, 2
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_37
+  rotate: false
+  xy: 1204, 2
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_38
+  rotate: false
+  xy: 1347, 2
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_39
+  rotate: false
+  xy: 1490, 2
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_4
+  rotate: false
+  xy: 2559, 460
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_40
+  rotate: false
+  xy: 1633, 2
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_41
+  rotate: false
+  xy: 1776, 2
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_42
+  rotate: false
+  xy: 1919, 2
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_43
+  rotate: false
+  xy: 2062, 2
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_44
+  rotate: false
+  xy: 2205, 2
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_45
+  rotate: false
+  xy: 2348, 2
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_46
+  rotate: false
+  xy: 2491, 2
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_5
+  rotate: false
+  xy: 918, 288
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_6
+  rotate: false
+  xy: 918, 145
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_7
+  rotate: false
+  xy: 1061, 288
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_8
+  rotate: false
+  xy: 1061, 145
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1
+WinsBG/Win_BG_9
+  rotate: false
+  xy: 1204, 288
+  size: 141, 141
+  orig: 170, 170
+  offset: 14, 15
+  index: -1

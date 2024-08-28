@@ -1,0 +1,55 @@
+
+L6_spine.png
+size: 405,286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L6/base
+  rotate: true
+  xy: 2, 8
+  size: 102, 136
+  orig: 102, 136
+  offset: 0, 0
+  index: -1
+L6/base_glow
+  rotate: false
+  xy: 2, 112
+  size: 139, 172
+  orig: 139, 172
+  offset: 0, 0
+  index: -1
+L6/base_glow_1
+  rotate: false
+  xy: 281, 182
+  size: 122, 102
+  orig: 122, 102
+  offset: 0, 0
+  index: -1
+L6/base_glow_2
+  rotate: false
+  xy: 143, 139
+  size: 136, 145
+  orig: 136, 145
+  offset: 0, 0
+  index: -1
+L6/base_glow_3
+  rotate: true
+  xy: 143, 2
+  size: 135, 142
+  orig: 135, 142
+  offset: 0, 0
+  index: -1
+L6/base_glow_4
+  rotate: false
+  xy: 287, 75
+  size: 110, 105
+  orig: 110, 105
+  offset: 0, 0
+  index: -1
+L6/ft
+  rotate: false
+  xy: 287, 8
+  size: 85, 65
+  orig: 85, 65
+  offset: 0, 0
+  index: -1

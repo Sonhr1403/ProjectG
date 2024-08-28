@@ -1,0 +1,328 @@
+
+thanhghiong_freespin.png
+size: 808,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blank
+  rotate: false
+  xy: 601, 298
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fspin_arm-left
+  rotate: false
+  xy: 312, 31
+  size: 69, 99
+  orig: 69, 102
+  offset: 0, 3
+  index: -1
+fspin_arm-right
+  rotate: false
+  xy: 702, 274
+  size: 100, 71
+  orig: 100, 87
+  offset: 0, 16
+  index: -1
+fspin_backhair
+  rotate: false
+  xy: 630, 142
+  size: 52, 98
+  orig: 52, 99
+  offset: 0, 1
+  index: -1
+fspin_bamboo
+  rotate: false
+  xy: 379, 410
+  size: 279, 112
+  orig: 279, 119
+  offset: 0, 5
+  index: -1
+fspin_bamboo-eaves
+  rotate: false
+  xy: 1, 134
+  size: 290, 151
+  orig: 290, 159
+  offset: 0, 4
+  index: -1
+fspin_blackbg
+  rotate: false
+  xy: 379, 270
+  size: 221, 139
+  orig: 221, 151
+  offset: 0, 6
+  index: -1
+fspin_brow-left
+  rotate: false
+  xy: 1, 1
+  size: 15, 6
+  orig: 15, 7
+  offset: 0, 1
+  index: -1
+fspin_brow-right
+  rotate: false
+  xy: 603, 233
+  size: 22, 7
+  orig: 22, 9
+  offset: 0, 1
+  index: -1
+fspin_chestarmour
+  rotate: false
+  xy: 659, 438
+  size: 143, 84
+  orig: 143, 84
+  offset: 0, 0
+  index: -1
+fspin_elbow-left
+  rotate: false
+  xy: 702, 346
+  size: 105, 91
+  orig: 105, 103
+  offset: 0, 12
+  index: -1
+fspin_elbow-right
+  rotate: false
+  xy: 382, 43
+  size: 92, 87
+  orig: 92, 90
+  offset: 0, 3
+  index: -1
+fspin_eye1-left
+  rotate: false
+  xy: 17, 1
+  size: 12, 6
+  orig: 12, 8
+  offset: 0, 1
+  index: -1
+fspin_eye1-right
+  rotate: false
+  xy: 475, 39
+  size: 30, 17
+  orig: 30, 19
+  offset: 0, 1
+  index: -1
+fspin_eye2-right
+  rotate: false
+  xy: 506, 39
+  size: 30, 17
+  orig: 30, 19
+  offset: 0, 1
+  index: -1
+fspin_eye3-right
+  rotate: false
+  xy: 537, 39
+  size: 30, 17
+  orig: 30, 19
+  offset: 0, 1
+  index: -1
+fspin_face
+  rotate: false
+  xy: 630, 73
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+fspin_frame
+  rotate: false
+  xy: 1, 286
+  size: 377, 236
+  orig: 377, 236
+  offset: 0, 0
+  index: -1
+fspin_freespins-cn
+  rotate: false
+  xy: 1, 82
+  size: 310, 51
+  orig: 310, 57
+  offset: 0, 3
+  index: -1
+fspin_freespins-en
+  rotate: false
+  xy: 292, 229
+  size: 310, 40
+  orig: 310, 57
+  offset: 0, 9
+  index: -1
+fspin_handleft
+  rotate: false
+  xy: 1, 31
+  size: 305, 50
+  orig: 305, 88
+  offset: 0, 37
+  index: -1
+fspin_mouth1
+  rotate: false
+  xy: 568, 43
+  size: 24, 13
+  orig: 24, 15
+  offset: 0, 1
+  index: -1
+fspin_mouth2
+  rotate: false
+  xy: 334, 271
+  size: 24, 14
+  orig: 24, 16
+  offset: 0, 1
+  index: -1
+fspin_necklace
+  rotate: false
+  xy: 690, 241
+  size: 47, 32
+  orig: 47, 37
+  offset: 0, 1
+  index: -1
+fspin_plsclick_bar
+  rotate: false
+  xy: 1, 8
+  size: 470, 22
+  orig: 470, 22
+  offset: 0, 0
+  index: -1
+fspin_spaulder-left
+  rotate: false
+  xy: 688, 97
+  size: 76, 52
+  orig: 76, 53
+  offset: 0, 0
+  index: -1
+fspin_spaulder-right
+  rotate: false
+  xy: 683, 182
+  size: 124, 58
+  orig: 124, 67
+  offset: 0, 8
+  index: -1
+fspin_spaulder-strap-right
+  rotate: false
+  xy: 472, 5
+  size: 28, 33
+  orig: 28, 35
+  offset: 0, 1
+  index: -1
+fspin_thanh_gradient
+  rotate: false
+  xy: 292, 164
+  size: 184, 64
+  orig: 184, 97
+  offset: 0, 0
+  index: -1
+fspin_thanh_hair
+  rotate: false
+  xy: 603, 241
+  size: 86, 58
+  orig: 86, 59
+  offset: 0, 0
+  index: -1
+fspin_thanh_handright
+  rotate: false
+  xy: 738, 244
+  size: 61, 29
+  orig: 61, 43
+  offset: 0, 14
+  index: -1
+fspin_thanh_helmet
+  rotate: false
+  xy: 601, 300
+  size: 100, 109
+  orig: 100, 111
+  offset: 0, 1
+  index: -1
+fspin_torso
+  rotate: false
+  xy: 477, 57
+  size: 152, 171
+  orig: 152, 187
+  offset: 0, 16
+  index: -1
+fspin_youwon
+  rotate: false
+  xy: 312, 131
+  size: 156, 32
+  orig: 156, 32
+  offset: 0, 0
+  index: -1
+fspin_youwon-cn
+  rotate: false
+  xy: 683, 150
+  size: 73, 31
+  orig: 73, 31
+  offset: 0, 0
+  index: -1
+helmetshine1
+  rotate: false
+  xy: 292, 271
+  size: 41, 14
+  orig: 41, 60
+  offset: 0, 0
+  index: -1
+helmetshine10
+  rotate: false
+  xy: 292, 153
+  size: 17, 10
+  orig: 17, 14
+  offset: 0, 4
+  index: -1
+helmetshine2
+  rotate: false
+  xy: 765, 102
+  size: 34, 19
+  orig: 34, 32
+  offset: 0, 1
+  index: -1
+helmetshine3
+  rotate: false
+  xy: 765, 122
+  size: 41, 28
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+helmetshine4
+  rotate: false
+  xy: 757, 151
+  size: 47, 30
+  orig: 47, 56
+  offset: 0, 3
+  index: -1
+helmetshine5
+  rotate: false
+  xy: 733, 14
+  size: 47, 37
+  orig: 47, 54
+  offset: 0, 1
+  index: -1
+helmetshine6
+  rotate: false
+  xy: 688, 58
+  size: 54, 38
+  orig: 54, 50
+  offset: 0, 11
+  index: -1
+helmetshine7
+  rotate: false
+  xy: 630, 29
+  size: 53, 43
+  orig: 53, 57
+  offset: 0, 11
+  index: -1
+helmetshine8
+  rotate: false
+  xy: 743, 52
+  size: 46, 44
+  orig: 46, 60
+  offset: 0, 16
+  index: -1
+helmetshine9
+  rotate: false
+  xy: 684, 15
+  size: 48, 42
+  orig: 48, 59
+  offset: 0, 17
+  index: -1
+sparkle_small
+  rotate: false
+  xy: 659, 411
+  size: 31, 26
+  orig: 31, 31
+  offset: 0, 3
+  index: -1

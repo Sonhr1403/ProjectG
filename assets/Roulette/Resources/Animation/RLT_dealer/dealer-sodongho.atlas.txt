@@ -1,0 +1,195 @@
+
+dealer-sodongho.png
+size: 2288,532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer_2
+  rotate: false
+  xy: 1826, 5
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Layer_3
+  rotate: false
+  xy: 31, 8
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Layer_4
+  rotate: false
+  xy: 1107, 160
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+Layer_5
+  rotate: false
+  xy: 1826, 40
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+Layer_6
+  rotate: true
+  xy: 3, 3
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Layer_7
+  rotate: false
+  xy: 1770, 25
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+OBJECTS
+  rotate: false
+  xy: 378, 3
+  size: 56, 93
+  orig: 56, 93
+  offset: 0, 0
+  index: -1
+bap tay phai
+  rotate: true
+  xy: 1854, 82
+  size: 134, 255
+  orig: 134, 255
+  offset: 0, 0
+  index: -1
+bap tay trai
+  rotate: false
+  xy: 2112, 13
+  size: 134, 255
+  orig: 134, 255
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 1165, 19
+  size: 140, 194
+  orig: 140, 194
+  offset: 0, 0
+  index: -1
+gach xuong
+  rotate: false
+  xy: 1737, 10
+  size: 30, 68
+  orig: 30, 68
+  offset: 0, 0
+  index: -1
+heart
+  rotate: true
+  xy: 1077, 5
+  size: 118, 85
+  orig: 118, 85
+  offset: 0, 0
+  index: -1
+hoa cai dau
+  rotate: true
+  xy: 1022, 126
+  size: 87, 82
+  orig: 87, 82
+  offset: 0, 0
+  index: -1
+kiss
+  rotate: false
+  xy: 1308, 19
+  size: 140, 194
+  orig: 140, 194
+  offset: 0, 0
+  index: -1
+phan ao nguc
+  rotate: false
+  xy: 675, 114
+  size: 344, 414
+  orig: 344, 414
+  offset: 0, 0
+  index: -1
+roun
+  rotate: false
+  xy: 2026, 271
+  size: 257, 257
+  orig: 257, 257
+  offset: 0, 0
+  index: -1
+sanng
+  rotate: true
+  xy: 1737, 81
+  size: 135, 114
+  orig: 135, 114
+  offset: 0, 0
+  index: -1
+tay hot tien - phai
+  rotate: false
+  xy: 1022, 216
+  size: 235, 312
+  orig: 235, 312
+  offset: 0, 0
+  index: -1
+tay hot tien - trai
+  rotate: false
+  xy: 1260, 216
+  size: 235, 312
+  orig: 235, 312
+  offset: 0, 0
+  index: -1
+tay phai
+  rotate: false
+  xy: 437, 4
+  size: 317, 92
+  orig: 317, 92
+  offset: 0, 0
+  index: -1
+tay phai - moi
+  rotate: false
+  xy: 1498, 219
+  size: 261, 309
+  orig: 261, 309
+  offset: 0, 0
+  index: -1
+tay trai
+  rotate: false
+  xy: 757, 19
+  size: 317, 92
+  orig: 317, 92
+  offset: 0, 0
+  index: -1
+tay trai - moi copy
+  rotate: false
+  xy: 1762, 219
+  size: 261, 309
+  orig: 261, 309
+  offset: 0, 0
+  index: -1
+thang
+  rotate: false
+  xy: 1451, 19
+  size: 140, 194
+  orig: 140, 194
+  offset: 0, 0
+  index: -1
+thua
+  rotate: false
+  xy: 1594, 22
+  size: 140, 194
+  orig: 140, 194
+  offset: 0, 0
+  index: -1
+toc sau
+  rotate: true
+  xy: 3, 32
+  size: 496, 372
+  orig: 496, 372
+  offset: 0, 0
+  index: -1
+toc trc
+  rotate: false
+  xy: 378, 99
+  size: 294, 429
+  orig: 294, 429
+  offset: 0, 0
+  index: -1

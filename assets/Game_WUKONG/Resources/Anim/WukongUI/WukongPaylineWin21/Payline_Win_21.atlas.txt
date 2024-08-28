@@ -1,0 +1,13 @@
+
+Payline_Win_21.png
+size: 572,287
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Payline/Payline_21
+  rotate: false
+  xy: 2, 2
+  size: 568, 283
+  orig: 864, 486
+  offset: 148, 124
+  index: -1

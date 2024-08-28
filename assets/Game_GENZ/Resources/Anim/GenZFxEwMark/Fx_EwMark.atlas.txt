@@ -1,0 +1,111 @@
+
+Fx_EwMark.png
+size: 1842,808
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fx/sq2_1
+  rotate: true
+  xy: 1579, 273
+  size: 203, 256
+  orig: 402, 526
+  offset: 99, 140
+  index: -1
+Fx/sq2_10
+  rotate: false
+  xy: 321, 2
+  size: 316, 401
+  orig: 402, 526
+  offset: 43, 65
+  index: -1
+Fx/sq2_11
+  rotate: false
+  xy: 640, 406
+  size: 316, 400
+  orig: 402, 526
+  offset: 43, 65
+  index: -1
+Fx/sq2_2
+  rotate: false
+  xy: 1579, 478
+  size: 260, 328
+  orig: 402, 526
+  offset: 71, 104
+  index: -1
+Fx/sq2_3
+  rotate: false
+  xy: 1270, 417
+  size: 307, 389
+  orig: 402, 526
+  offset: 48, 74
+  index: -1
+Fx/sq2_4
+  rotate: false
+  xy: 958, 414
+  size: 310, 392
+  orig: 402, 526
+  offset: 46, 72
+  index: -1
+Fx/sq2_5
+  rotate: false
+  xy: 639, 3
+  size: 316, 400
+  orig: 402, 526
+  offset: 43, 68
+  index: -1
+Fx/sq2_6
+  rotate: false
+  xy: 957, 6
+  size: 314, 398
+  orig: 402, 526
+  offset: 44, 68
+  index: -1
+Fx/sq2_7
+  rotate: false
+  xy: 2, 2
+  size: 317, 400
+  orig: 402, 526
+  offset: 43, 68
+  index: -1
+Fx/sq2_8
+  rotate: false
+  xy: 2, 404
+  size: 317, 402
+  orig: 402, 526
+  offset: 42, 65
+  index: -1
+Fx/sq2_9
+  rotate: false
+  xy: 321, 405
+  size: 317, 401
+  orig: 402, 526
+  offset: 43, 67
+  index: -1
+Symbols/Frame_G
+  rotate: true
+  xy: 1273, 129
+  size: 286, 287
+  orig: 320, 320
+  offset: 17, 17
+  index: -1
+Symbols/s_symbol
+  rotate: false
+  xy: 1363, 16
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+Symbols/s_symbol_B
+  rotate: false
+  xy: 1273, 3
+  size: 88, 103
+  orig: 112, 113
+  offset: 12, 7
+  index: -1
+UI/Flash
+  rotate: false
+  xy: 1562, 108
+  size: 278, 163
+  orig: 278, 163
+  offset: 0, 0
+  index: -1

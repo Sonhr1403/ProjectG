@@ -1,0 +1,13 @@
+
+WinPayline_BG.png
+size: 299,299
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI/Shadow
+  rotate: false
+  xy: 2, 2
+  size: 295, 295
+  orig: 297, 297
+  offset: 1, 1
+  index: -1

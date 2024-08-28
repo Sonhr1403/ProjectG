@@ -1,0 +1,55 @@
+
+Scatter_spine.png
+size: 649,607
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Scatter/blue_bg
+  rotate: true
+  xy: 284, 8
+  size: 202, 201
+  orig: 202, 201
+  offset: 0, 0
+  index: -1
+Scatter/blue_bg_glow
+  rotate: true
+  xy: 2, 2
+  size: 281, 280
+  orig: 281, 280
+  offset: 0, 0
+  index: -1
+Scatter/elphant_body
+  rotate: false
+  xy: 487, 39
+  size: 132, 171
+  orig: 132, 171
+  offset: 0, 0
+  index: -1
+Scatter/elphant_head
+  rotate: true
+  xy: 228, 336
+  size: 269, 177
+  orig: 269, 177
+  offset: 0, 0
+  index: -1
+Scatter/elphant_head_glow
+  rotate: true
+  xy: 2, 285
+  size: 320, 224
+  orig: 320, 224
+  offset: 0, 0
+  index: -1
+Scatter/flower_behind
+  rotate: false
+  xy: 407, 409
+  size: 240, 196
+  orig: 240, 196
+  offset: 0, 0
+  index: -1
+Scatter/flower_font
+  rotate: false
+  xy: 407, 212
+  size: 206, 195
+  orig: 206, 195
+  offset: 0, 0
+  index: -1

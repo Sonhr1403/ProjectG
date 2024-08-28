@@ -1,0 +1,342 @@
+
+khung_ban_choi.png
+size: 1923,1414
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1920_00
+  rotate: true
+  xy: 1061, 234
+  size: 96, 219
+  orig: 100, 232
+  offset: 3, 5
+  index: -1
+1920_01
+  rotate: false
+  xy: 1320, 351
+  size: 96, 219
+  orig: 100, 232
+  offset: 3, 5
+  index: -1
+1920_02
+  rotate: false
+  xy: 1418, 351
+  size: 96, 219
+  orig: 100, 232
+  offset: 3, 5
+  index: -1
+1920_03
+  rotate: false
+  xy: 1710, 877
+  size: 96, 219
+  orig: 100, 232
+  offset: 3, 5
+  index: -1
+1920_04
+  rotate: false
+  xy: 1808, 877
+  size: 96, 219
+  orig: 100, 232
+  offset: 3, 5
+  index: -1
+1920_05
+  rotate: true
+  xy: 1061, 136
+  size: 96, 219
+  orig: 100, 232
+  offset: 3, 5
+  index: -1
+1920_06
+  rotate: false
+  xy: 1600, 691
+  size: 96, 219
+  orig: 100, 232
+  offset: 3, 5
+  index: -1
+1920_07
+  rotate: true
+  xy: 1698, 779
+  size: 96, 219
+  orig: 100, 232
+  offset: 3, 5
+  index: -1
+1920_08
+  rotate: true
+  xy: 1698, 681
+  size: 96, 219
+  orig: 100, 232
+  offset: 3, 5
+  index: -1
+1920_09
+  rotate: true
+  xy: 824, 74
+  size: 96, 219
+  orig: 100, 232
+  offset: 3, 5
+  index: -1
+1920_10
+  rotate: true
+  xy: 1045, 38
+  size: 96, 219
+  orig: 100, 232
+  offset: 3, 5
+  index: -1
+1920_11
+  rotate: false
+  xy: 1516, 351
+  size: 96, 219
+  orig: 100, 232
+  offset: 3, 5
+  index: -1
+1920_12
+  rotate: true
+  xy: 502, 28
+  size: 96, 219
+  orig: 100, 232
+  offset: 3, 5
+  index: -1
+1920_13
+  rotate: true
+  xy: 1320, 253
+  size: 96, 219
+  orig: 100, 232
+  offset: 3, 5
+  index: -1
+1920_14
+  rotate: true
+  xy: 1282, 155
+  size: 96, 219
+  orig: 100, 232
+  offset: 3, 5
+  index: -1
+1920_15
+  rotate: true
+  xy: 1282, 57
+  size: 96, 219
+  orig: 100, 232
+  offset: 3, 5
+  index: -1
+1920_16
+  rotate: false
+  xy: 1503, 32
+  size: 96, 219
+  orig: 100, 232
+  offset: 3, 5
+  index: -1
+1920_17
+  rotate: true
+  xy: 1541, 253
+  size: 96, 219
+  orig: 100, 232
+  offset: 3, 5
+  index: -1
+1920_18
+  rotate: false
+  xy: 1601, 32
+  size: 96, 219
+  orig: 100, 232
+  offset: 3, 5
+  index: -1
+1920_19
+  rotate: false
+  xy: 1699, 32
+  size: 96, 219
+  orig: 100, 232
+  offset: 3, 5
+  index: -1
+1920_20
+  rotate: true
+  xy: 1585, 583
+  size: 96, 219
+  orig: 100, 232
+  offset: 3, 5
+  index: -1
+1920_21
+  rotate: false
+  xy: 1614, 362
+  size: 96, 219
+  orig: 100, 232
+  offset: 3, 5
+  index: -1
+1920_22
+  rotate: false
+  xy: 1712, 362
+  size: 96, 219
+  orig: 100, 232
+  offset: 3, 5
+  index: -1
+1920_23
+  rotate: false
+  xy: 1810, 460
+  size: 96, 219
+  orig: 100, 232
+  offset: 3, 5
+  index: -1
+1920_24
+  rotate: false
+  xy: 1797, 97
+  size: 96, 219
+  orig: 100, 232
+  offset: 3, 5
+  index: -1
+Group 101
+  rotate: false
+  xy: 2, 2
+  size: 231, 85
+  orig: 233, 87
+  offset: 1, 1
+  index: -1
+Group 103
+  rotate: false
+  xy: 2, 332
+  size: 1316, 1080
+  orig: 1318, 1082
+  offset: 1, 1
+  index: -1
+Group 107
+  rotate: false
+  xy: 502, 126
+  size: 320, 204
+  orig: 320, 204
+  offset: 0, 0
+  index: -1
+Group 108
+  rotate: false
+  xy: 1320, 1163
+  size: 388, 249
+  orig: 388, 249
+  offset: 0, 0
+  index: -1
+Group 108 copy
+  rotate: false
+  xy: 824, 172
+  size: 235, 158
+  orig: 235, 158
+  offset: 0, 0
+  index: -1
+Group 108 copy 4
+  rotate: false
+  xy: 1320, 572
+  size: 235, 158
+  orig: 235, 158
+  offset: 0, 0
+  index: -1
+Group 108 copy 5
+  rotate: false
+  xy: 1320, 912
+  size: 388, 249
+  orig: 388, 249
+  offset: 0, 0
+  index: -1
+Group 92
+  rotate: false
+  xy: 2, 89
+  size: 498, 241
+  orig: 498, 241
+  offset: 0, 0
+  index: -1
+Group 93
+  rotate: true
+  xy: 1872, 1227
+  size: 185, 45
+  orig: 187, 47
+  offset: 1, 1
+  index: -1
+Group 93 copy
+  rotate: false
+  xy: 1266, 10
+  size: 154, 45
+  orig: 156, 47
+  offset: 1, 1
+  index: -1
+Group 96 copy 6
+  rotate: false
+  xy: 441, 56
+  size: 37, 31
+  orig: 39, 33
+  offset: 1, 1
+  index: -1
+Group 96 copy 7
+  rotate: false
+  xy: 1872, 1202
+  size: 35, 23
+  orig: 37, 26
+  offset: 1, 2
+  index: -1
+Group 98 copy
+  rotate: true
+  xy: 1282, 289
+  size: 41, 25
+  orig: 43, 27
+  offset: 1, 1
+  index: -1
+Group 98 copy 2
+  rotate: false
+  xy: 1797, 74
+  size: 35, 21
+  orig: 37, 23
+  offset: 1, 1
+  index: -1
+Group 99 copy 2
+  rotate: true
+  xy: 1895, 282
+  size: 34, 26
+  orig: 36, 28
+  offset: 1, 1
+  index: -1
+Layer 1073
+  rotate: false
+  xy: 235, 2
+  size: 204, 85
+  orig: 207, 87
+  offset: 2, 1
+  index: -1
+Layer 1073 copy
+  rotate: false
+  xy: 796, 7
+  size: 193, 65
+  orig: 195, 68
+  offset: 1, 1
+  index: -1
+Layer 1085 copy 3
+  rotate: true
+  xy: 1557, 575
+  size: 155, 26
+  orig: 158, 29
+  offset: 1, 2
+  index: -1
+Layer 1116 copy
+  rotate: false
+  xy: 1810, 389
+  size: 111, 69
+  orig: 111, 69
+  offset: 0, 0
+  index: -1
+Layer 1133
+  rotate: false
+  xy: 1810, 318
+  size: 111, 69
+  orig: 111, 69
+  offset: 0, 0
+  index: -1
+Layer 145
+  rotate: false
+  xy: 1320, 732
+  size: 278, 178
+  orig: 280, 180
+  offset: 1, 1
+  index: -1
+mouth_00
+  rotate: true
+  xy: 1710, 1098
+  size: 314, 160
+  orig: 446, 292
+  offset: 66, 72
+  index: -1
+wings_00
+  rotate: true
+  xy: 723, 12
+  size: 112, 71
+  orig: 167, 119
+  offset: 27, 24
+  index: -1

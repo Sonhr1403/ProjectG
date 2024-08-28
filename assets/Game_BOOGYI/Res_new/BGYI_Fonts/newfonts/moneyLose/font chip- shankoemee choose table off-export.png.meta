@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "82d3bdc0-0c23-4a35-af8f-40462c2ff6da",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "font chip- shankoemee choose table off-export": {
+      "ver": "1.0.6",
+      "uuid": "ed16a2b2-218f-4e90-8793-7c9576081ffb",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "82d3bdc0-0c23-4a35-af8f-40462c2ff6da",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -114,
+      "offsetY": 6,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 284,
+      "height": 500,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

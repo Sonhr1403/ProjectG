@@ -1,0 +1,48 @@
+
+skeleton.png
+size: 485,485
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Baccarat
+  rotate: true
+  xy: 392, 28
+  size: 212, 34
+  orig: 212, 34
+  offset: 0, 0
+  index: -1
+card_48
+  rotate: true
+  xy: 198, 2
+  size: 164, 192
+  orig: 165, 195
+  offset: 1, 1
+  index: -1
+card_52
+  rotate: true
+  xy: 2, 2
+  size: 164, 194
+  orig: 165, 194
+  offset: 0, 0
+  index: -1
+chip
+  rotate: false
+  xy: 348, 354
+  size: 99, 129
+  orig: 99, 129
+  offset: 0, 0
+  index: -1
+hoa
+  rotate: true
+  xy: 348, 242
+  size: 110, 98
+  orig: 111, 98
+  offset: 1, 0
+  index: -1
+rec
+  rotate: false
+  xy: 2, 168
+  size: 344, 315
+  orig: 346, 329
+  offset: 1, 1
+  index: -1

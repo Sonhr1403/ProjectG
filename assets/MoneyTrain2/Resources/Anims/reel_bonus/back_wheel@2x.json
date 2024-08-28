@@ -1,0 +1,190 @@
+{
+  "skeleton": {
+    "hash": "jGpMmRsJnZi1QNUWd9xB0kvic/c",
+    "spine":"3.7.99",
+    "x": 468.5,
+    "y": -461,
+    "width": 403,
+    "height": 550,
+    "images": "../01_PSDs/FINAL/bonus_reel_wheels/",
+    "audio": "../01_PSDs/FINAL/"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "BACK",
+      "parent": "root",
+      "x": 628.05,
+      "y": -20.62
+    },
+    {
+      "name": "back_wheel",
+      "parent": "BACK",
+      "x": 46.07,
+      "y": -239.16
+    }
+  ],
+  "slots": [
+    {
+      "name": "wheel_right",
+      "bone": "back_wheel",
+      "attachment": "wheel_right"
+    },
+    {
+      "name": "wheel_right_shadow",
+      "bone": "BACK",
+      "attachment": "wheel_right_shadow"
+    },
+    {
+      "name": "wheel_right_light_bootom",
+      "bone": "BACK",
+      "attachment": "wheel_right_light_bootom"
+    },
+    {
+      "name": "grill_right",
+      "bone": "BACK",
+      "attachment": "grill_right"
+    }
+  ],
+  "skins": {
+    "default": {
+      "grill_right": {
+        "grill_right": {
+          "x": 52.95,
+          "y": -105.88,
+          "width": 331,
+          "height": 431
+        }
+      },
+      "wheel_right": {
+        "wheel_right": {
+          "x": -4.63,
+          "y": -0.22,
+          "width": 402,
+          "height": 402
+        }
+      },
+      "wheel_right_light_bootom": {
+        "wheel_right_light_bootom": {
+          "x": 71.95,
+          "y": -249.38,
+          "width": 343,
+          "height": 330
+        }
+      },
+      "wheel_right_shadow": {
+        "wheel_right_shadow": {
+          "x": 40.95,
+          "y": -239.38,
+          "width": 401,
+          "height": 402
+        }
+      }
+    }
+  },
+  "animations": {
+    "animation": {
+      "slots": {
+        "wheel_right_light_bootom": {
+          "color": [
+            {
+              "time": 0,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.5,
+              "color": "ffffff82"
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "back_wheel": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.3333,
+              "angle": 120
+            },
+            {
+              "time": 0.6667,
+              "angle": -120
+            },
+            {
+              "time": 1,
+              "angle": 0
+            }
+          ]
+        },
+        "BACK": {
+          "translate": [
+            {
+              "time": 0,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "time": 0.0667,
+              "x": 0,
+              "y": 3.37
+            },
+            {
+              "time": 0.1333,
+              "x": 0,
+              "y": -1.69
+            },
+            {
+              "time": 0.2333,
+              "x": 0,
+              "y": 9.27
+            },
+            {
+              "time": 0.3667,
+              "x": 0,
+              "y": 4.21
+            },
+            {
+              "time": 0.4667,
+              "x": 0,
+              "y": 7.69
+            },
+            {
+              "time": 0.5667,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "time": 0.7,
+              "x": 0,
+              "y": 7.59
+            },
+            {
+              "time": 0.7667,
+              "x": 0,
+              "y": 6.74
+            },
+            {
+              "time": 0.8667,
+              "x": 0,
+              "y": 12.65
+            },
+            {
+              "time": 1,
+              "x": 0,
+              "y": 4.21
+            }
+          ]
+        }
+      }
+    }
+  }
+}

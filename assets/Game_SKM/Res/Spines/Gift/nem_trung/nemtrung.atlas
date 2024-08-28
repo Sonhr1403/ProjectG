@@ -1,0 +1,41 @@
+
+nemtrung.png
+size: 373,125
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+m1
+  rotate: true
+  xy: 287, 4
+  size: 57, 80
+  orig: 59, 82
+  offset: 1, 1
+  index: -1
+m2
+  rotate: true
+  xy: 287, 63
+  size: 60, 84
+  orig: 62, 86
+  offset: 1, 1
+  index: -1
+m3
+  rotate: true
+  xy: 221, 22
+  size: 101, 64
+  orig: 103, 66
+  offset: 1, 1
+  index: -1
+trungnem
+  rotate: false
+  xy: 118, 2
+  size: 101, 121
+  orig: 103, 123
+  offset: 1, 1
+  index: -1
+vo1
+  rotate: false
+  xy: 2, 5
+  size: 114, 118
+  orig: 114, 118
+  offset: 0, 0
+  index: -1

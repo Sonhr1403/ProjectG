@@ -1,0 +1,69 @@
+
+logo_efx.png
+size: 840,82
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+logo_cn
+  rotate: false
+  xy: 1, 24
+  size: 196, 57
+  orig: 196, 65
+  offset: 0, 4
+  index: -1
+logo_elec1
+  rotate: false
+  xy: 702, 27
+  size: 137, 23
+  orig: 137, 23
+  offset: 0, 0
+  index: -1
+logo_elec2
+  rotate: false
+  xy: 1, 1
+  size: 137, 22
+  orig: 137, 22
+  offset: 0, 0
+  index: -1
+logo_elec3
+  rotate: false
+  xy: 519, 18
+  size: 137, 20
+  orig: 137, 21
+  offset: 0, 1
+  index: -1
+logo_elec4
+  rotate: false
+  xy: 382, 12
+  size: 136, 26
+  orig: 136, 27
+  offset: 0, 1
+  index: -1
+logo_elec5
+  rotate: false
+  xy: 702, 51
+  size: 137, 30
+  orig: 137, 31
+  offset: 0, 0
+  index: -1
+logo_elec6
+  rotate: false
+  xy: 251, 6
+  size: 130, 32
+  orig: 130, 33
+  offset: 0, 1
+  index: -1
+logo_en
+  rotate: false
+  xy: 198, 39
+  size: 503, 42
+  orig: 503, 65
+  offset: 0, 11
+  index: -1
+logo_side
+  rotate: false
+  xy: 198, 1
+  size: 52, 37
+  orig: 52, 37
+  offset: 0, 0
+  index: -1

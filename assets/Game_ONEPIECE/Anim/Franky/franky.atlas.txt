@@ -1,0 +1,90 @@
+
+franky.png
+size: 570,266
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 12
+  rotate: false
+  xy: 156, 125
+  size: 150, 139
+  orig: 150, 139
+  offset: 0, 0
+  index: -1
+Group 28
+  rotate: false
+  xy: 2, 2
+  size: 164, 116
+  orig: 164, 116
+  offset: 0, 0
+  index: -1
+Layer 101
+  rotate: true
+  xy: 462, 52
+  size: 80, 68
+  orig: 80, 68
+  offset: 0, 0
+  index: -1
+Layer 363
+  rotate: true
+  xy: 532, 60
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+Layer 792
+  rotate: true
+  xy: 468, 138
+  size: 126, 100
+  orig: 126, 101
+  offset: 0, 0
+  index: -1
+Layer 793
+  rotate: false
+  xy: 296, 11
+  size: 66, 112
+  orig: 66, 114
+  offset: 0, 2
+  index: -1
+Layer 795
+  rotate: false
+  xy: 156, 120
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+Layer 796
+  rotate: false
+  xy: 161, 120
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+Layer 800
+  rotate: true
+  xy: 364, 22
+  size: 110, 96
+  orig: 110, 96
+  offset: 0, 0
+  index: -1
+Layer 804
+  rotate: false
+  xy: 308, 134
+  size: 158, 130
+  orig: 158, 130
+  offset: 0, 0
+  index: -1
+franky_00
+  rotate: false
+  xy: 2, 120
+  size: 152, 144
+  orig: 210, 210
+  offset: 29, 31
+  index: -1
+khung nau copy
+  rotate: false
+  xy: 168, 5
+  size: 126, 118
+  orig: 126, 118
+  offset: 0, 0
+  index: -1

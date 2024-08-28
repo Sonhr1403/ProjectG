@@ -1,0 +1,90 @@
+
+doinuoc.png
+size: 626,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+donuoc
+  rotate: true
+  xy: 2, 95
+  size: 178, 176
+  orig: 178, 180
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 539, 106
+  size: 77, 35
+  orig: 79, 37
+  offset: 1, 1
+  index: -1
+nuocmat1
+  rotate: false
+  xy: 529, 48
+  size: 23, 25
+  orig: 25, 27
+  offset: 1, 1
+  index: -1
+nuocmat2
+  rotate: false
+  xy: 529, 75
+  size: 27, 29
+  orig: 29, 31
+  offset: 1, 1
+  index: -1
+t1
+  rotate: true
+  xy: 539, 143
+  size: 130, 85
+  orig: 176, 102
+  offset: 28, 3
+  index: -1
+t2
+  rotate: false
+  xy: 2, 4
+  size: 149, 89
+  orig: 176, 102
+  offset: 14, 11
+  index: -1
+t3
+  rotate: true
+  xy: 180, 99
+  size: 174, 80
+  orig: 176, 102
+  offset: 1, 14
+  index: -1
+t4
+  rotate: false
+  xy: 153, 6
+  size: 173, 87
+  orig: 176, 102
+  offset: 2, 14
+  index: -1
+xo1
+  rotate: false
+  xy: 428, 3
+  size: 99, 101
+  orig: 101, 103
+  offset: 1, 1
+  index: -1
+xo2
+  rotate: true
+  xy: 262, 107
+  size: 166, 145
+  orig: 169, 148
+  offset: 1, 1
+  index: -1
+xo3
+  rotate: true
+  xy: 409, 126
+  size: 147, 128
+  orig: 149, 131
+  offset: 1, 1
+  index: -1
+xo4
+  rotate: false
+  xy: 328, 2
+  size: 98, 103
+  orig: 100, 107
+  offset: 1, 2
+  index: -1

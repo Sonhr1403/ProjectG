@@ -1,0 +1,167 @@
+
+red.png
+size: 378,1028
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+p_u_img4_en.png/file_1
+  rotate: true
+  xy: 2, 815
+  size: 211, 245
+  orig: 213, 246
+  offset: 1, 1
+  index: -1
+p_u_img4_en.png/file_4
+  rotate: true
+  xy: 2, 602
+  size: 211, 234
+  orig: 213, 234
+  offset: 1, 0
+  index: -1
+p_u_img4_en.png/red_fx_04
+  rotate: true
+  xy: 165, 405
+  size: 22, 28
+  orig: 250, 250
+  offset: 20, 162
+  index: -1
+p_u_img4_en.png/red_fx_05
+  rotate: true
+  xy: 241, 69
+  size: 68, 86
+  orig: 250, 250
+  offset: 13, 142
+  index: -1
+p_u_img4_en.png/red_fx_06
+  rotate: true
+  xy: 2, 94
+  size: 100, 144
+  orig: 250, 250
+  offset: 13, 102
+  index: -1
+p_u_img4_en.png/red_fx_07
+  rotate: false
+  xy: 249, 857
+  size: 123, 169
+  orig: 250, 250
+  offset: 14, 81
+  index: -1
+p_u_img4_en.png/red_fx_08
+  rotate: false
+  xy: 231, 310
+  size: 143, 181
+  orig: 250, 250
+  offset: 15, 69
+  index: -1
+p_u_img4_en.png/red_fx_09
+  rotate: false
+  xy: 2, 196
+  size: 161, 231
+  orig: 250, 250
+  offset: 21, 14
+  index: -1
+p_u_img4_en.png/red_fx_10
+  rotate: true
+  xy: 2, 429
+  size: 171, 227
+  orig: 250, 250
+  offset: 29, 6
+  index: -1
+p_u_img4_en.png/red_fx_11
+  rotate: true
+  xy: 165, 139
+  size: 169, 207
+  orig: 250, 250
+  offset: 54, 10
+  index: -1
+p_u_img4_en.png/red_fx_12
+  rotate: false
+  xy: 238, 493
+  size: 138, 185
+  orig: 250, 250
+  offset: 93, 13
+  index: -1
+p_u_img4_en.png/red_fx_13
+  rotate: false
+  xy: 249, 680
+  size: 117, 175
+  orig: 250, 250
+  offset: 117, 3
+  index: -1
+p_u_img4_en.png/red_fx_14
+  rotate: false
+  xy: 148, 2
+  size: 91, 135
+  orig: 250, 250
+  offset: 144, 2
+  index: -1
+p_u_img4_en.png/red_fx_15
+  rotate: true
+  xy: 2, 17
+  size: 75, 113
+  orig: 250, 250
+  offset: 156, 4
+  index: -1
+p_u_img4_en.png/red_fx_16
+  rotate: true
+  xy: 195, 407
+  size: 20, 29
+  orig: 250, 250
+  offset: 178, 9
+  index: -1
+p_u_img4_en.png/red_fx_20
+  rotate: false
+  xy: 374, 1025
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+p_u_img4_en.png/red_fx_00
+  rotate: false
+  xy: 374, 1025
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+p_u_img4_en.png/red_fx_01
+  rotate: false
+  xy: 374, 1025
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+p_u_img4_en.png/red_fx_02
+  rotate: false
+  xy: 374, 1025
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+p_u_img4_en.png/red_fx_03
+  rotate: false
+  xy: 374, 1025
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+p_u_img4_en.png/red_fx_17
+  rotate: false
+  xy: 374, 1025
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+p_u_img4_en.png/red_fx_18
+  rotate: false
+  xy: 374, 1025
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+p_u_img4_en.png/red_fx_19
+  rotate: false
+  xy: 374, 1025
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

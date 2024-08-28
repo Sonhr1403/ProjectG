@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "@types/gapi.auth2": "^0.0.57",
+    "@types/lodash": "^4.14.184",
+    "@types/node": "^18.16.19"
+  },
+  "dependencies": {
+    "@types/facebook-js-sdk": "^3.3.6",
+    "@types/gapi": "^0.0.44",
+    "fs": "^0.0.1-security",
+    "jquery": "^3.7.0",
+    "path": "^0.12.7",
+    "tslib": "^2.5.0"
+  }
+}

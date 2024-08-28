@@ -1,0 +1,33 @@
+info face=you_won_th size=70 bold=1 italic=0 charset= unicode= stretchH=100 smooth=1 aa=1 padding=2,2,2,2 spacing=0,0 outline=0
+common lineHeight=70 base=52 scaleW=240 scaleH=486 pages=1 packed=0
+page id=0 file="you_won_th.png"
+chars count=28
+char id=3588 x=2 y=2 width=52 height=53 xoffset=-7 yoffset=22 xadvance=38 page=0 chnl=15
+char id=3640 x=2 y=57 width=30 height=35 xoffset=-25 yoffset=55 xadvance=0 page=0 chnl=15
+char id=3603 x=2 y=94 width=66 height=54 xoffset=-7 yoffset=22 xadvance=52 page=0 chnl=15
+char id=3652 x=56 y=2 width=47 height=72 xoffset=-17 yoffset=3 xadvance=22 page=0 chnl=15
+char id=3604 x=2 y=150 width=53 height=53 xoffset=-8 yoffset=22 xadvance=38 page=0 chnl=15
+char id=3657 x=2 y=205 width=38 height=35 xoffset=-29 yoffset=6 xadvance=0 page=0 chnl=15
+char id=3619 x=2 y=242 width=42 height=54 xoffset=-9 yoffset=21 xadvance=26 page=0 chnl=15
+char id=3633 x=42 y=205 width=40 height=33 xoffset=-27 yoffset=9 xadvance=0 page=0 chnl=15
+char id=3610 x=57 y=150 width=50 height=53 xoffset=-8 yoffset=23 xadvance=36 page=0 chnl=15
+char id=3615 x=70 y=76 width=58 height=71 xoffset=-8 yoffset=4 xadvance=43 page=0 chnl=15
+char id=3637 x=105 y=2 width=40 height=40 xoffset=-32 yoffset=2 xadvance=0 page=0 chnl=15
+char id=3626 x=2 y=298 width=46 height=56 xoffset=-6 yoffset=20 xadvance=33 page=0 chnl=15
+char id=3611 x=2 y=356 width=51 height=72 xoffset=-8 yoffset=4 xadvance=36 page=0 chnl=15
+char id=3636 x=46 y=240 width=39 height=35 xoffset=-32 yoffset=6 xadvance=0 page=0 chnl=15
+char id=3609 x=50 y=277 width=58 height=52 xoffset=-8 yoffset=23 xadvance=42 page=0 chnl=15
+char id=3607 x=87 y=205 width=53 height=52 xoffset=-8 yoffset=23 xadvance=39 page=0 chnl=15
+char id=3656 x=109 y=149 width=26 height=33 xoffset=-21 yoffset=7 xadvance=0 page=0 chnl=15
+char id=3648 x=2 y=430 width=36 height=51 xoffset=-6 yoffset=24 xadvance=22 page=0 chnl=15
+char id=3621 x=40 y=430 width=46 height=54 xoffset=-6 yoffset=22 xadvance=33 page=0 chnl=15
+char id=3649 x=55 y=331 width=53 height=51 xoffset=-6 yoffset=24 xadvance=39 page=0 chnl=15
+char id=3623 x=130 y=44 width=44 height=53 xoffset=-9 yoffset=22 xadvance=28 page=0 chnl=15
+char id=3592 x=137 y=99 width=46 height=52 xoffset=-8 yoffset=23 xadvance=32 page=0 chnl=15
+char id=3629 x=176 y=2 width=45 height=54 xoffset=-7 yoffset=22 xadvance=32 page=0 chnl=15
+char id=3660 x=55 y=384 width=37 height=42 xoffset=-26 yoffset=0 xadvance=0 page=0 chnl=15
+char id=3614 x=88 y=428 width=57 height=52 xoffset=-8 yoffset=23 xadvance=43 page=0 chnl=15
+char id=3634 x=110 y=259 width=40 height=52 xoffset=-9 yoffset=23 xadvance=25 page=0 chnl=15
+char id=3617 x=142 y=153 width=51 height=52 xoffset=-7 yoffset=23 xadvance=37 page=0 chnl=15
+char id=3595 x=185 y=58 width=53 height=54 xoffset=-8 yoffset=21 xadvance=39 page=0 chnl=15
+char id=32 x=0 y=0 width=0 height=0 xoffset=-8 yoffset=21 xadvance=13 page=0 chnl=15

@@ -1,0 +1,363 @@
+
+Spin_Effect_Mobile.png
+size: 1939,1326
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bow/BowSmoke_1
+  rotate: false
+  xy: 1420, 298
+  size: 62, 43
+  orig: 502, 502
+  offset: 242, 231
+  index: -1
+Bow/BowSmoke_10
+  rotate: true
+  xy: 893, 1044
+  size: 280, 269
+  orig: 502, 502
+  offset: 112, 122
+  index: -1
+Bow/BowSmoke_11
+  rotate: true
+  xy: 876, 263
+  size: 278, 270
+  orig: 502, 502
+  offset: 112, 123
+  index: -1
+Bow/BowSmoke_12
+  rotate: false
+  xy: 1274, 14
+  size: 258, 270
+  orig: 502, 502
+  offset: 125, 124
+  index: -1
+Bow/BowSmoke_13
+  rotate: false
+  xy: 1444, 1055
+  size: 252, 269
+  orig: 502, 502
+  offset: 125, 126
+  index: -1
+Bow/BowSmoke_14
+  rotate: true
+  xy: 2, 2
+  size: 228, 267
+  orig: 502, 502
+  offset: 145, 128
+  index: -1
+Bow/BowSmoke_15
+  rotate: true
+  xy: 271, 7
+  size: 223, 267
+  orig: 502, 502
+  offset: 145, 129
+  index: -1
+Bow/BowSmoke_16
+  rotate: false
+  xy: 1028, 836
+  size: 164, 206
+  orig: 502, 502
+  offset: 192, 190
+  index: -1
+Bow/BowSmoke_2
+  rotate: false
+  xy: 1574, 937
+  size: 98, 116
+  orig: 502, 502
+  offset: 224, 187
+  index: -1
+Bow/BowSmoke_3
+  rotate: true
+  xy: 1674, 362
+  size: 167, 176
+  orig: 502, 502
+  offset: 175, 159
+  index: -1
+Bow/BowSmoke_4
+  rotate: true
+  xy: 357, 825
+  size: 214, 241
+  orig: 502, 502
+  offset: 147, 122
+  index: -1
+Bow/BowSmoke_5
+  rotate: true
+  xy: 1016, 2
+  size: 259, 256
+  orig: 502, 502
+  offset: 119, 121
+  index: -1
+Bow/BowSmoke_6
+  rotate: true
+  xy: 1416, 597
+  size: 267, 257
+  orig: 502, 502
+  offset: 117, 124
+  index: -1
+Bow/BowSmoke_7
+  rotate: true
+  xy: 874, 543
+  size: 280, 262
+  orig: 502, 502
+  offset: 113, 122
+  index: -1
+Bow/BowSmoke_8
+  rotate: true
+  xy: 627, 1043
+  size: 281, 264
+  orig: 502, 502
+  offset: 112, 121
+  index: -1
+Bow/BowSmoke_9
+  rotate: true
+  xy: 357, 1041
+  size: 283, 268
+  orig: 502, 502
+  offset: 110, 120
+  index: -1
+SpinEff/Spin_Glow_1
+  rotate: false
+  xy: 1534, 219
+  size: 122, 122
+  orig: 480, 480
+  offset: 179, 179
+  index: -1
+SpinEff/Spin_Glow_10
+  rotate: false
+  xy: 1675, 791
+  size: 262, 262
+  orig: 480, 480
+  offset: 109, 109
+  index: -1
+SpinEff/Spin_Main_10
+  rotate: false
+  xy: 1675, 791
+  size: 262, 262
+  orig: 480, 480
+  offset: 109, 109
+  index: -1
+SpinEff/Spin_Glow_11
+  rotate: false
+  xy: 1148, 286
+  size: 270, 270
+  orig: 480, 480
+  offset: 105, 105
+  index: -1
+SpinEff/Spin_Main_11
+  rotate: false
+  xy: 1148, 286
+  size: 270, 270
+  orig: 480, 480
+  offset: 105, 105
+  index: -1
+SpinEff/Spin_Glow_12
+  rotate: false
+  xy: 1138, 558
+  size: 276, 276
+  orig: 480, 480
+  offset: 102, 102
+  index: -1
+SpinEff/Spin_Main_12
+  rotate: false
+  xy: 1138, 558
+  size: 276, 276
+  orig: 480, 480
+  offset: 102, 102
+  index: -1
+SpinEff/Spin_Glow_13
+  rotate: false
+  xy: 590, 541
+  size: 282, 282
+  orig: 480, 480
+  offset: 99, 99
+  index: -1
+SpinEff/Spin_Main_13
+  rotate: false
+  xy: 590, 541
+  size: 282, 282
+  orig: 480, 480
+  offset: 99, 99
+  index: -1
+SpinEff/Spin_Glow_14
+  rotate: false
+  xy: 588, 246
+  size: 286, 286
+  orig: 480, 480
+  offset: 97, 97
+  index: -1
+SpinEff/Spin_Main_14
+  rotate: false
+  xy: 588, 246
+  size: 286, 286
+  orig: 480, 480
+  offset: 97, 97
+  index: -1
+SpinEff/Spin_Glow_15
+  rotate: false
+  xy: 296, 234
+  size: 290, 290
+  orig: 480, 480
+  offset: 95, 95
+  index: -1
+SpinEff/Spin_Main_15
+  rotate: false
+  xy: 296, 234
+  size: 290, 290
+  orig: 480, 480
+  offset: 95, 95
+  index: -1
+SpinEff/Spin_Glow_16
+  rotate: false
+  xy: 2, 232
+  size: 292, 292
+  orig: 480, 480
+  offset: 94, 94
+  index: -1
+SpinEff/Spin_Main_16
+  rotate: false
+  xy: 2, 232
+  size: 292, 292
+  orig: 480, 480
+  offset: 94, 94
+  index: -1
+SpinEff/Spin_Glow_17
+  rotate: false
+  xy: 2, 526
+  size: 296, 296
+  orig: 480, 480
+  offset: 92, 92
+  index: -1
+SpinEff/Spin_Main_17
+  rotate: false
+  xy: 2, 526
+  size: 296, 296
+  orig: 480, 480
+  offset: 92, 92
+  index: -1
+SpinEff/Spin_Glow_2
+  rotate: false
+  xy: 1674, 188
+  size: 172, 172
+  orig: 480, 480
+  offset: 154, 154
+  index: -1
+SpinEff/Spin_Glow_3
+  rotate: false
+  xy: 600, 831
+  size: 208, 208
+  orig: 480, 480
+  offset: 136, 136
+  index: -1
+SpinEff/Spin_Glow_4
+  rotate: false
+  xy: 1698, 1090
+  size: 234, 234
+  orig: 480, 480
+  offset: 123, 123
+  index: -1
+SpinEff/Spin_Glow_5
+  rotate: false
+  xy: 1675, 531
+  size: 258, 258
+  orig: 480, 480
+  offset: 111, 111
+  index: -1
+SpinEff/Spin_Glow_6
+  rotate: false
+  xy: 1164, 1046
+  size: 278, 278
+  orig: 480, 480
+  offset: 101, 101
+  index: -1
+SpinEff/Spin_Glow_7
+  rotate: false
+  xy: 300, 534
+  size: 288, 288
+  orig: 480, 480
+  offset: 96, 96
+  index: -1
+SpinEff/Spin_Glow_8
+  rotate: false
+  xy: 772, 2
+  size: 242, 242
+  orig: 480, 480
+  offset: 119, 119
+  index: -1
+SpinEff/Spin_Main_8
+  rotate: false
+  xy: 772, 2
+  size: 242, 242
+  orig: 480, 480
+  offset: 119, 119
+  index: -1
+SpinEff/Spin_Glow_9
+  rotate: false
+  xy: 1420, 343
+  size: 252, 252
+  orig: 480, 480
+  offset: 114, 114
+  index: -1
+SpinEff/Spin_Main_9
+  rotate: false
+  xy: 1420, 343
+  size: 252, 252
+  orig: 480, 480
+  offset: 114, 114
+  index: -1
+SpinEff/Spin_Main_1
+  rotate: false
+  xy: 1574, 867
+  size: 68, 68
+  orig: 480, 480
+  offset: 206, 206
+  index: -1
+SpinEff/Spin_Main_2
+  rotate: false
+  xy: 1534, 99
+  size: 118, 118
+  orig: 480, 480
+  offset: 181, 181
+  index: -1
+SpinEff/Spin_Main_3
+  rotate: false
+  xy: 1654, 35
+  size: 151, 151
+  orig: 480, 480
+  offset: 164, 165
+  index: -1
+SpinEff/Spin_Main_4
+  rotate: false
+  xy: 1394, 866
+  size: 178, 178
+  orig: 480, 480
+  offset: 151, 151
+  index: -1
+SpinEff/Spin_Main_5
+  rotate: false
+  xy: 1194, 846
+  size: 198, 198
+  orig: 480, 480
+  offset: 141, 141
+  index: -1
+SpinEff/Spin_Main_6
+  rotate: false
+  xy: 810, 825
+  size: 216, 216
+  orig: 480, 480
+  offset: 132, 132
+  index: -1
+SpinEff/Spin_Main_7
+  rotate: false
+  xy: 540, 2
+  size: 230, 230
+  orig: 480, 480
+  offset: 125, 125
+  index: -1
+UI/Effect_S
+  rotate: true
+  xy: 2, 824
+  size: 500, 353
+  orig: 500, 353
+  offset: 0, 0
+  index: -1

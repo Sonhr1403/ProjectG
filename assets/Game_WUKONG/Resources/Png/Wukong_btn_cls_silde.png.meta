@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "bf408100-c678-4e80-91c0-ecb9c3fe8dfc",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 69,
+  "height": 644,
+  "platformSettings": {},
+  "subMetas": {
+    "Wukong_btn_cls_silde": {
+      "ver": "1.0.6",
+      "uuid": "159def2e-0fc8-4767-9692-0dcc93061196",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "bf408100-c678-4e80-91c0-ecb9c3fe8dfc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 69,
+      "height": 644,
+      "rawWidth": 69,
+      "rawHeight": 644,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

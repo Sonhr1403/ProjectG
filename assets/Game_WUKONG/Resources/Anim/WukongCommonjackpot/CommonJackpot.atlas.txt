@@ -1,0 +1,783 @@
+
+CommonJackpot.png
+size: 4049,2837
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Symbols/Symbol_Fnt_A
+  rotate: false
+  xy: 3534, 81
+  size: 62, 54
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+Symbols/Symbol_Fnt_A_G
+  rotate: true
+  xy: 3970, 824
+  size: 85, 77
+  orig: 96, 84
+  offset: 4, 3
+  index: -1
+Symbols/Symbol_Fnt_C
+  rotate: false
+  xy: 3854, 396
+  size: 56, 49
+  orig: 57, 52
+  offset: 0, 2
+  index: -1
+Symbols/Symbol_Fnt_C_G
+  rotate: true
+  xy: 3970, 669
+  size: 78, 73
+  orig: 86, 78
+  offset: 4, 3
+  index: -1
+Symbols/Symbol_Fnt_J
+  rotate: false
+  xy: 3854, 447
+  size: 56, 56
+  orig: 59, 60
+  offset: 1, 2
+  index: -1
+Symbols/Symbol_Fnt_J_G
+  rotate: false
+  xy: 3453, 55
+  size: 79, 80
+  orig: 89, 90
+  offset: 5, 5
+  index: -1
+Symbols/Symbol_Fnt_K
+  rotate: true
+  xy: 3453, 2
+  size: 51, 55
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+Symbols/Symbol_Fnt_K_G
+  rotate: true
+  xy: 3970, 749
+  size: 73, 77
+  orig: 80, 86
+  offset: 3, 4
+  index: -1
+Symbols/Symbol_Fnt_O
+  rotate: true
+  xy: 3598, 81
+  size: 54, 55
+  orig: 54, 57
+  offset: 0, 1
+  index: -1
+Symbols/Symbol_Fnt_O_G
+  rotate: false
+  xy: 3737, 217
+  size: 78, 79
+  orig: 81, 86
+  offset: 1, 4
+  index: -1
+Symbols/Symbol_Fnt_P
+  rotate: false
+  xy: 3655, 82
+  size: 39, 53
+  orig: 41, 57
+  offset: 2, 2
+  index: -1
+Symbols/Symbol_Fnt_P_G
+  rotate: false
+  xy: 3854, 505
+  size: 62, 76
+  orig: 62, 86
+  offset: 0, 6
+  index: -1
+Symbols/Symbol_Fnt_T
+  rotate: false
+  xy: 3737, 161
+  size: 61, 54
+  orig: 62, 57
+  offset: 0, 1
+  index: -1
+Symbols/Symbol_Fnt_T_G
+  rotate: false
+  xy: 3737, 298
+  size: 84, 80
+  orig: 93, 86
+  offset: 4, 3
+  index: -1
+Symbols/Symbol_Top_BG
+  rotate: true
+  xy: 3854, 660
+  size: 249, 114
+  orig: 249, 114
+  offset: 0, 0
+  index: -1
+Symbols/Symbol_Top_Light_Active
+  rotate: false
+  xy: 3696, 102
+  size: 33, 33
+  orig: 60, 60
+  offset: 13, 13
+  index: -1
+Symbols/Symbol_Top_Light_Disable
+  rotate: false
+  xy: 3823, 358
+  size: 19, 20
+  orig: 21, 21
+  offset: 1, 1
+  index: -1
+UI/Jackpot_Top2
+  rotate: false
+  xy: 3854, 583
+  size: 86, 75
+  orig: 86, 75
+  offset: 0, 0
+  index: -1
+UI/Jackpot_Top_G
+  rotate: false
+  xy: 3212, 12
+  size: 239, 123
+  orig: 333, 159
+  offset: 46, 18
+  index: -1
+UI/Win_TP_1
+  rotate: false
+  xy: 2, 2648
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_10
+  rotate: false
+  xy: 1928, 2648
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_11
+  rotate: false
+  xy: 2, 1892
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_12
+  rotate: false
+  xy: 644, 2081
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_13
+  rotate: false
+  xy: 1286, 2270
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_14
+  rotate: false
+  xy: 1928, 2459
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_15
+  rotate: false
+  xy: 2570, 2648
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_16
+  rotate: false
+  xy: 2, 1703
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_17
+  rotate: false
+  xy: 644, 1892
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_18
+  rotate: false
+  xy: 1286, 2081
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_19
+  rotate: false
+  xy: 1928, 2270
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_2
+  rotate: false
+  xy: 2, 2459
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_20
+  rotate: false
+  xy: 2570, 2459
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_21
+  rotate: false
+  xy: 3212, 2648
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_22
+  rotate: false
+  xy: 2, 1514
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_23
+  rotate: false
+  xy: 644, 1703
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_24
+  rotate: false
+  xy: 1286, 1892
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_25
+  rotate: false
+  xy: 1928, 2081
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_26
+  rotate: false
+  xy: 2570, 2270
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_27
+  rotate: false
+  xy: 3212, 2459
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_28
+  rotate: false
+  xy: 2, 1325
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_29
+  rotate: false
+  xy: 644, 1514
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_3
+  rotate: false
+  xy: 644, 2648
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_30
+  rotate: false
+  xy: 1286, 1703
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_31
+  rotate: false
+  xy: 1928, 1892
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_32
+  rotate: false
+  xy: 2570, 2081
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_33
+  rotate: false
+  xy: 3212, 2270
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_34
+  rotate: false
+  xy: 2, 1136
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_35
+  rotate: false
+  xy: 644, 1325
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_36
+  rotate: false
+  xy: 1286, 1514
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_37
+  rotate: false
+  xy: 1928, 1703
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_38
+  rotate: false
+  xy: 2570, 1892
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_39
+  rotate: false
+  xy: 3212, 2081
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_4
+  rotate: false
+  xy: 2, 2270
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_40
+  rotate: true
+  xy: 3854, 2195
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_41
+  rotate: false
+  xy: 2, 947
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_42
+  rotate: false
+  xy: 644, 1136
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_43
+  rotate: false
+  xy: 1286, 1325
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_44
+  rotate: false
+  xy: 1928, 1514
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_45
+  rotate: false
+  xy: 2570, 1703
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_46
+  rotate: false
+  xy: 3212, 1892
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_47
+  rotate: false
+  xy: 2, 758
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_48
+  rotate: false
+  xy: 644, 947
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_49
+  rotate: false
+  xy: 1286, 1136
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_5
+  rotate: false
+  xy: 644, 2459
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_50
+  rotate: false
+  xy: 1928, 1325
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_51
+  rotate: false
+  xy: 2570, 1514
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_52
+  rotate: false
+  xy: 3212, 1703
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_53
+  rotate: false
+  xy: 2, 569
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_54
+  rotate: false
+  xy: 644, 758
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_55
+  rotate: false
+  xy: 1286, 947
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_56
+  rotate: false
+  xy: 1928, 1136
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_57
+  rotate: false
+  xy: 2570, 1325
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_58
+  rotate: false
+  xy: 3212, 1514
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_59
+  rotate: true
+  xy: 3854, 1553
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_6
+  rotate: false
+  xy: 1286, 2648
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_60
+  rotate: false
+  xy: 2, 380
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_61
+  rotate: false
+  xy: 644, 569
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_62
+  rotate: false
+  xy: 1286, 758
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_63
+  rotate: false
+  xy: 1928, 947
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_64
+  rotate: false
+  xy: 2570, 1136
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_65
+  rotate: false
+  xy: 3212, 1325
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_66
+  rotate: false
+  xy: 2, 191
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_67
+  rotate: false
+  xy: 2, 2
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_68
+  rotate: false
+  xy: 644, 380
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_69
+  rotate: false
+  xy: 1286, 569
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_7
+  rotate: false
+  xy: 2, 2081
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_70
+  rotate: false
+  xy: 1928, 758
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_71
+  rotate: false
+  xy: 2570, 947
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_72
+  rotate: false
+  xy: 3212, 1136
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_73
+  rotate: false
+  xy: 644, 191
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_74
+  rotate: false
+  xy: 644, 2
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_75
+  rotate: false
+  xy: 1286, 380
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_76
+  rotate: false
+  xy: 1928, 569
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_77
+  rotate: false
+  xy: 2570, 758
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_78
+  rotate: false
+  xy: 3212, 947
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_79
+  rotate: false
+  xy: 1286, 191
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_8
+  rotate: false
+  xy: 644, 2270
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_80
+  rotate: false
+  xy: 1286, 2
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_81
+  rotate: false
+  xy: 1928, 380
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_82
+  rotate: false
+  xy: 2570, 569
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_83
+  rotate: false
+  xy: 3212, 758
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_84
+  rotate: true
+  xy: 3854, 911
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_85
+  rotate: false
+  xy: 1928, 191
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_86
+  rotate: false
+  xy: 1928, 2
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_87
+  rotate: false
+  xy: 2570, 380
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_88
+  rotate: false
+  xy: 3212, 569
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_89
+  rotate: false
+  xy: 2570, 191
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_9
+  rotate: false
+  xy: 1286, 2459
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_90
+  rotate: false
+  xy: 2570, 2
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/Win_TP_91
+  rotate: false
+  xy: 3212, 380
+  size: 640, 187
+  orig: 640, 187
+  offset: 0, 0
+  index: -1
+UI/glow
+  rotate: false
+  xy: 3212, 137
+  size: 523, 241
+  orig: 525, 296
+  offset: 2, 40
+  index: -1

@@ -1,0 +1,94 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "EffectOpenBowl",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.625,
+  "sample": 40,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "angle": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.25,
+          "value": -5
+        },
+        {
+          "frame": 0.5,
+          "value": -30
+        }
+      ],
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            300,
+            0
+          ]
+        },
+        {
+          "frame": 0.25,
+          "value": [
+            0,
+            450,
+            0
+          ],
+          "curve": "cubicIn"
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            300,
+            600,
+            0
+          ]
+        }
+      ],
+      "scale": [
+        {
+          "frame": 0.25,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          },
+          "curve": [
+            0.3376254180602007,
+            0.22056856187290974,
+            0.7668896321070233,
+            0.6456521739130434
+          ]
+        },
+        {
+          "frame": 0.625,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0.95,
+            "y": 0.95
+          }
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 0.5,
+          "value": 245
+        },
+        {
+          "frame": 0.625,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e54a49df-a749-4db0-8cd5-827ddca488f7",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 513,
+  "height": 248,
+  "platformSettings": {},
+  "subMetas": {
+    "thanh_giong_totalwin_panel.png": {
+      "ver": "1.0.6",
+      "uuid": "30f65a24-b4b5-4d95-8c40-361f8605bfc3",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e54a49df-a749-4db0-8cd5-827ddca488f7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 513,
+      "height": 248,
+      "rawWidth": 513,
+      "rawHeight": 248,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

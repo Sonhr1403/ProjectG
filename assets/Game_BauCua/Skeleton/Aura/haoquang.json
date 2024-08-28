@@ -1,0 +1,136 @@
+{
+    "skeleton": {
+        "hash": "3HDf9o7aV9/9itzDy69tuJfF4Nc",
+        "spine": "3.8.99",
+        "x": -123.6,
+        "y": -120.58,
+        "width": 252,
+        "height": 252,
+        "images": "./images/",
+        "audio": "C:/Users/pc/OneDrive/Desktop/haoquangchienthang"
+    },
+    "bones": [
+        {
+            "name": "root"
+        },
+        {
+            "name": "Layer 16",
+            "parent": "root",
+            "length": 103.53,
+            "rotation": 90.71,
+            "x": 2.83,
+            "y": 5.73
+        }
+    ],
+    "slots": [
+        {
+            "name": "Layer 16",
+            "bone": "Layer 16",
+            "attachment": "Layer 16"
+        }
+    ],
+    "skins": [
+        {
+            "name": "default",
+            "attachments": {
+                "Layer 16": {
+                    "Layer 16": {
+                        "x": -0.31,
+                        "y": 0.43,
+                        "rotation": -90.71,
+                        "width": 252,
+                        "height": 252
+                    }
+                }
+            }
+        }
+    ],
+    "animations": {
+        "haoquang": {
+            "slots": {
+                "Layer 16": {
+                    "color": [
+                        {
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 0.5,
+                            "color": "ffffffbe"
+                        },
+                        {
+                            "time": 1,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 1.5,
+                            "color": "ffffffbe"
+                        },
+                        {
+                            "time": 2,
+                            "color": "ffffffff"
+                        }
+                    ]
+                }
+            },
+            "bones": {
+                "root": {
+                    "rotate": [
+                        {},
+                        {
+                            "time": 0.5,
+                            "angle": -56.9
+                        },
+                        {
+                            "time": 1
+                        },
+                        {
+                            "time": 1.5,
+                            "angle": -56.9
+                        },
+                        {
+                            "time": 2
+                        }
+                    ]
+                },
+                "Layer 16": {
+                    "rotate": [
+                        {},
+                        {
+                            "time": 0.5,
+                            "angle": -56.9
+                        },
+                        {
+                            "time": 1
+                        },
+                        {
+                            "time": 1.5,
+                            "angle": -56.9
+                        },
+                        {
+                            "time": 2
+                        }
+                    ],
+                    "scale": [
+                        {},
+                        {
+                            "time": 0.5,
+                            "x": 0.848,
+                            "y": 0.848
+                        },
+                        {
+                            "time": 1
+                        },
+                        {
+                            "time": 1.5,
+                            "x": 0.848,
+                            "y": 0.848
+                        },
+                        {
+                            "time": 2
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

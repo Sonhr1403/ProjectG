@@ -1,0 +1,292 @@
+
+bigwin.png
+size: 2027,1527
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 397, 907
+  size: 236, 177
+  orig: 247, 251
+  offset: 6, 32
+  index: -1
+1
+  rotate: true
+  xy: 1457, 859
+  size: 188, 193
+  orig: 247, 251
+  offset: 24, 40
+  index: -1
+10
+  rotate: false
+  xy: 1497, 1049
+  size: 187, 182
+  orig: 247, 251
+  offset: 35, 53
+  index: -1
+11
+  rotate: false
+  xy: 865, 889
+  size: 188, 178
+  orig: 247, 251
+  offset: 37, 53
+  index: -1
+12
+  rotate: false
+  xy: 1260, 877
+  size: 195, 182
+  orig: 247, 251
+  offset: 45, 40
+  index: -1
+13
+  rotate: true
+  xy: 1055, 886
+  size: 178, 203
+  orig: 247, 251
+  offset: 32, 46
+  index: -1
+14
+  rotate: true
+  xy: 2, 918
+  size: 172, 199
+  orig: 247, 251
+  offset: 34, 43
+  index: -1
+15
+  rotate: true
+  xy: 2, 1092
+  size: 162, 208
+  orig: 247, 251
+  offset: 35, 42
+  index: -1
+16
+  rotate: true
+  xy: 1686, 1221
+  size: 160, 207
+  orig: 247, 251
+  offset: 39, 43
+  index: -1
+17
+  rotate: true
+  xy: 669, 1071
+  size: 163, 209
+  orig: 247, 251
+  offset: 36, 41
+  index: -1
+18
+  rotate: true
+  xy: 404, 1403
+  size: 122, 208
+  orig: 247, 251
+  offset: 89, 4
+  index: -1
+19
+  rotate: true
+  xy: 2, 1415
+  size: 110, 188
+  orig: 247, 251
+  offset: 71, 42
+  index: -1
+2
+  rotate: true
+  xy: 1483, 1233
+  size: 159, 201
+  orig: 247, 251
+  offset: 41, 42
+  index: -1
+20
+  rotate: true
+  xy: 394, 1250
+  size: 151, 214
+  orig: 247, 251
+  offset: 38, 26
+  index: -1
+21
+  rotate: true
+  xy: 203, 912
+  size: 172, 192
+  orig: 247, 251
+  offset: 59, 38
+  index: -1
+22
+  rotate: true
+  xy: 836, 1236
+  size: 156, 201
+  orig: 247, 251
+  offset: 33, 17
+  index: -1
+23
+  rotate: true
+  xy: 194, 1256
+  size: 146, 198
+  orig: 247, 251
+  offset: 52, 33
+  index: -1
+25
+  rotate: true
+  xy: 1290, 1061
+  size: 170, 205
+  orig: 247, 251
+  offset: 51, 41
+  index: -1
+26
+  rotate: true
+  xy: 1652, 845
+  size: 201, 216
+  orig: 247, 251
+  offset: 45, 34
+  index: -1
+27
+  rotate: true
+  xy: 231, 668
+  size: 237, 249
+  orig: 247, 251
+  offset: 9, 1
+  index: -1
+28
+  rotate: false
+  xy: 2, 684
+  size: 227, 226
+  orig: 247, 251
+  offset: 1, 3
+  index: -1
+29
+  rotate: true
+  xy: 635, 892
+  size: 177, 228
+  orig: 247, 251
+  offset: 31, 11
+  index: -1
+3
+  rotate: true
+  xy: 1071, 1066
+  size: 167, 217
+  orig: 247, 251
+  offset: 17, 33
+  index: -1
+4
+  rotate: true
+  xy: 1818, 1383
+  size: 142, 207
+  orig: 247, 251
+  offset: 65, 25
+  index: -1
+5
+  rotate: true
+  xy: 610, 1245
+  size: 149, 224
+  orig: 247, 251
+  offset: 73, 1
+  index: -1
+6
+  rotate: true
+  xy: 192, 1404
+  size: 121, 210
+  orig: 247, 251
+  offset: 86, 1
+  index: -1
+7
+  rotate: true
+  xy: 2, 1257
+  size: 145, 190
+  orig: 247, 251
+  offset: 44, 39
+  index: -1
+8
+  rotate: true
+  xy: 1686, 1048
+  size: 171, 214
+  orig: 247, 251
+  offset: 44, 17
+  index: -1
+9
+  rotate: true
+  xy: 880, 1069
+  size: 164, 189
+  orig: 247, 251
+  offset: 49, 39
+  index: -1
+bigWin
+  rotate: false
+  xy: 877, 1394
+  size: 645, 131
+  orig: 653, 138
+  offset: 4, 4
+  index: -1
+bigWinPlate
+  rotate: false
+  xy: 482, 638
+  size: 940, 237
+  orig: 944, 241
+  offset: 2, 2
+  index: -1
+bigWinPlateShine0_0
+  rotate: true
+  xy: 614, 1396
+  size: 129, 261
+  orig: 142, 312
+  offset: 7, 8
+  index: -1
+bigWinPlateShine1
+  rotate: false
+  xy: 1039, 1235
+  size: 442, 157
+  orig: 493, 173
+  offset: 39, 9
+  index: -1
+bigWinPlateShine2_0
+  rotate: true
+  xy: 212, 1086
+  size: 157, 455
+  orig: 173, 504
+  offset: 11, 33
+  index: -1
+bigWinPlateShine3_0
+  rotate: true
+  xy: 1524, 1394
+  size: 131, 292
+  orig: 141, 314
+  offset: 5, 15
+  index: -1
+bigWinSand2Small0_0
+  rotate: true
+  xy: 526, 2
+  size: 634, 754
+  orig: 640, 760
+  offset: 3, 3
+  index: -1
+megaWinGlowSm
+  rotate: false
+  xy: 1424, 510
+  size: 424, 333
+  orig: 433, 338
+  offset: 6, 2
+  index: -1
+superWinParticlesSmall0
+  rotate: false
+  xy: 2, 143
+  size: 522, 493
+  orig: 536, 506
+  offset: 5, 7
+  index: -1
+
+bigwin2.png
+size: 1696,1477
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bigWinEffect1
+  rotate: true
+  xy: 928, 58
+  size: 1417, 766
+  orig: 1424, 830
+  offset: 4, 54
+  index: -1
+bigWinEffect2_0
+  rotate: false
+  xy: 2, 2
+  size: 924, 1473
+  orig: 928, 1478
+  offset: 2, 2
+  index: -1

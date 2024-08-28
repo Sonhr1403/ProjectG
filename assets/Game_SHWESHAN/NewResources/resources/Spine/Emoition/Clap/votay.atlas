@@ -1,0 +1,27 @@
+
+votay.png
+size: 288,95
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bt1
+  rotate: false
+  xy: 2, 5
+  size: 122, 88
+  orig: 122, 88
+  offset: 0, 0
+  index: -1
+bt2
+  rotate: false
+  xy: 126, 11
+  size: 100, 82
+  orig: 100, 82
+  offset: 0, 0
+  index: -1
+hh
+  rotate: true
+  xy: 228, 2
+  size: 91, 58
+  orig: 93, 60
+  offset: 1, 1
+  index: -1

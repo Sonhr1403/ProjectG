@@ -1,0 +1,62 @@
+
+thanh-gwin.png
+size: 639,500
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_win4
+  rotate: false
+  xy: 1, 201
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+blank
+  rotate: false
+  xy: 1, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+glitter-gwin
+  rotate: false
+  xy: 553, 412
+  size: 82, 87
+  orig: 82, 87
+  offset: 0, 0
+  index: -1
+grand-cn
+  rotate: false
+  xy: 387, 22
+  size: 197, 55
+  orig: 197, 55
+  offset: 0, 0
+  index: -1
+grand-en
+  rotate: false
+  xy: 300, 207
+  size: 301, 48
+  orig: 301, 48
+  offset: 0, 0
+  index: -1
+gwin-panel
+  rotate: false
+  xy: 1, 3
+  size: 385, 197
+  orig: 385, 197
+  offset: 0, 0
+  index: -1
+gwin_burst1
+  rotate: false
+  xy: 387, 78
+  size: 251, 128
+  orig: 266, 136
+  offset: 8, 4
+  index: -1
+multiplier-smoke
+  rotate: false
+  xy: 300, 256
+  size: 252, 243
+  orig: 311, 266
+  offset: 30, 11
+  index: -1

@@ -1,0 +1,55 @@
+
+L3_spine.png
+size: 413,306
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L3/base
+  rotate: false
+  xy: 150, 4
+  size: 145, 136
+  orig: 145, 136
+  offset: 0, 0
+  index: -1
+L3/base_glow
+  rotate: true
+  xy: 2, 142
+  size: 162, 154
+  orig: 162, 154
+  offset: 0, 0
+  index: -1
+L3/base_glow_1
+  rotate: true
+  xy: 297, 31
+  size: 126, 85
+  orig: 126, 85
+  offset: 0, 0
+  index: -1
+L3/base_glow_2
+  rotate: false
+  xy: 2, 2
+  size: 146, 138
+  orig: 146, 138
+  offset: 0, 0
+  index: -1
+L3/base_glow_3
+  rotate: true
+  xy: 158, 148
+  size: 156, 128
+  orig: 156, 128
+  offset: 0, 0
+  index: -1
+L3/base_glow_4
+  rotate: false
+  xy: 288, 159
+  size: 118, 80
+  orig: 118, 80
+  offset: 0, 0
+  index: -1
+L3/ft
+  rotate: false
+  xy: 297, 241
+  size: 114, 63
+  orig: 114, 63
+  offset: 0, 0
+  index: -1

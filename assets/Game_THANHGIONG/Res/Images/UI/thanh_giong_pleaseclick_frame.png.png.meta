@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f1bea90f-b401-45df-8a64-5f499a3667a8",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 937,
+  "height": 42,
+  "platformSettings": {},
+  "subMetas": {
+    "thanh_giong_pleaseclick_frame.png": {
+      "ver": "1.0.6",
+      "uuid": "b0b31d2a-9e2d-4cdf-ad4a-cc7dfed4b731",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f1bea90f-b401-45df-8a64-5f499a3667a8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 937,
+      "height": 42,
+      "rawWidth": 937,
+      "rawHeight": 42,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

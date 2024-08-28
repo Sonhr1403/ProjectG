@@ -1,0 +1,13 @@
+
+Symbol_scatter_Effect.png
+size: 315,328
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Symbols/scatter_1_G2
+  rotate: false
+  xy: 2, 2
+  size: 311, 324
+  orig: 344, 361
+  offset: 14, 19
+  index: -1

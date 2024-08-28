@@ -1,0 +1,62 @@
+
+counter@2x.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+counter_hide
+  rotate: true
+  xy: 320, 205
+  size: 305, 337
+  orig: 305, 337
+  offset: 0, 0
+  index: -1
+door_backgorund
+  rotate: false
+  xy: 2, 177
+  size: 316, 333
+  orig: 316, 333
+  offset: 0, 0
+  index: -1
+door_part_01
+  rotate: true
+  xy: 100, 88
+  size: 87, 97
+  orig: 87, 97
+  offset: 0, 0
+  index: -1
+door_part_02
+  rotate: false
+  xy: 659, 315
+  size: 86, 97
+  orig: 86, 97
+  offset: 0, 0
+  index: -1
+door_part_03
+  rotate: false
+  xy: 2, 79
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+door_part_04
+  rotate: true
+  xy: 756, 427
+  size: 83, 97
+  orig: 83, 97
+  offset: 0, 0
+  index: -1
+door_part_05
+  rotate: true
+  xy: 100, 2
+  size: 84, 97
+  orig: 84, 97
+  offset: 0, 0
+  index: -1
+door_part_06
+  rotate: false
+  xy: 659, 414
+  size: 95, 96
+  orig: 95, 96
+  offset: 0, 0
+  index: -1

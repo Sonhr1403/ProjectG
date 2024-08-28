@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "810cfef7-e2d0-46f9-8cbc-629ebf3975a4",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 205,
+  "height": 135,
+  "platformSettings": {},
+  "subMetas": {
+    "op_paytable_pg_4_icon_bingo_ball": {
+      "ver": "1.0.6",
+      "uuid": "df112397-dd11-4086-baf0-d6632b76c7a5",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "810cfef7-e2d0-46f9-8cbc-629ebf3975a4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 203,
+      "height": 133,
+      "rawWidth": 205,
+      "rawHeight": 135,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

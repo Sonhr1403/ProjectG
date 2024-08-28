@@ -1,0 +1,104 @@
+
+zoro.png
+size: 473,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 24
+  rotate: false
+  xy: 2, 2
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+Layer 312
+  rotate: false
+  xy: 46, 23
+  size: 5, 19
+  orig: 5, 19
+  offset: 0, 0
+  index: -1
+Layer 312 copy
+  rotate: false
+  xy: 53, 24
+  size: 5, 18
+  orig: 5, 18
+  offset: 0, 0
+  index: -1
+Layer 312 copy 2
+  rotate: false
+  xy: 54, 5
+  size: 5, 17
+  orig: 5, 17
+  offset: 0, 0
+  index: -1
+Layer 315
+  rotate: true
+  xy: 169, 27
+  size: 87, 75
+  orig: 87, 75
+  offset: 0, 0
+  index: -1
+Layer 332
+  rotate: false
+  xy: 75, 112
+  size: 92, 155
+  orig: 92, 155
+  offset: 0, 0
+  index: -1
+Layer 333
+  rotate: true
+  xy: 2, 44
+  size: 223, 71
+  orig: 223, 71
+  offset: 0, 0
+  index: -1
+Layer 38
+  rotate: false
+  xy: 320, 8
+  size: 126, 118
+  orig: 126, 118
+  offset: 0, 0
+  index: -1
+Layer 691
+  rotate: false
+  xy: 75, 6
+  size: 92, 104
+  orig: 92, 104
+  offset: 0, 0
+  index: -1
+Layer 692
+  rotate: true
+  xy: 246, 64
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+Layer 778
+  rotate: false
+  xy: 28, 7
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1
+Layer 779
+  rotate: false
+  xy: 2, 18
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+canh khung copy 7
+  rotate: false
+  xy: 320, 128
+  size: 151, 139
+  orig: 151, 139
+  offset: 0, 0
+  index: -1
+zoro blur_00
+  rotate: true
+  xy: 169, 116
+  size: 151, 149
+  orig: 210, 210
+  offset: 30, 27
+  index: -1

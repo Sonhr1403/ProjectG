@@ -1,0 +1,13 @@
+
+glow@2x.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light_burst_MAIN
+  rotate: false
+  xy: 2, 2
+  size: 220, 224
+  orig: 220, 224
+  offset: 0, 0
+  index: -1

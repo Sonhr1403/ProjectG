@@ -1,0 +1,27 @@
+
+Bottom_BG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG/BG_L2
+  rotate: false
+  xy: 1084, 531
+  size: 148, 449
+  orig: 148, 449
+  offset: 0, 0
+  index: -1
+BG/BG_L2_G
+  rotate: false
+  xy: 1084, 80
+  size: 148, 449
+  orig: 148, 449
+  offset: 0, 0
+  index: -1
+UI/Portrait_BG
+  rotate: false
+  xy: 2, 2
+  size: 1080, 978
+  orig: 1080, 1836
+  offset: 0, 0
+  index: -1

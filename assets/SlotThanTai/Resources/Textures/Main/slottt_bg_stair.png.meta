@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "96247d64-67bb-4136-9c33-59c570844645",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1122,
+  "height": 180,
+  "platformSettings": {},
+  "subMetas": {
+    "slottt_bg_stair": {
+      "ver": "1.0.6",
+      "uuid": "e49dafc1-d33f-47ba-878a-91321fcf6003",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "96247d64-67bb-4136-9c33-59c570844645",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 1120,
+      "height": 178,
+      "rawWidth": 1122,
+      "rawHeight": 180,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

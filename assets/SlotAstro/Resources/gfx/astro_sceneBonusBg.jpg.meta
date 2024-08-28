@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "adc6222b-9a6a-47b8-8d01-58e8308397b7",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 3150,
+  "height": 2636,
+  "platformSettings": {},
+  "subMetas": {
+    "astro_sceneBonusBg": {
+      "ver": "1.0.6",
+      "uuid": "d13b8558-406e-47de-9492-9a5c74f57bf3",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "adc6222b-9a6a-47b8-8d01-58e8308397b7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 3150,
+      "height": 2636,
+      "rawWidth": 3150,
+      "rawHeight": 2636,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

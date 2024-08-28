@@ -1,0 +1,51 @@
+{
+"skeleton": {
+	"hash": "NFVaYwIusFI/I22y0+60mjScVY4",
+	"spine": "3.8.99",
+	"x": -81,
+	"y": -90,
+	"width": 162,
+	"height": 180,
+	"images": "",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "HAND", "parent": "root", "length": 64.03, "rotation": 120.63, "x": 42.89, "y": -48.15 }
+],
+"slots": [
+	{ "name": "HAND", "bone": "HAND", "attachment": "HAND" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"HAND": {
+				"HAND": { "x": 63.28, "y": 12.37, "rotation": -120.63, "width": 162, "height": 180 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"HAND": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "ffffffff" },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"HAND": {
+				"rotate": [
+					{ "angle": 16.31 },
+					{ "time": 1, "angle": -50.07 }
+				]
+			}
+		}
+	}
+}
+}

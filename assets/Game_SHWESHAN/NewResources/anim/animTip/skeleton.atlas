@@ -1,0 +1,111 @@
+
+skeleton.png
+size: 401,401
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye1
+  rotate: false
+  xy: 2, 10
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 51, 10
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: false
+  xy: 100, 10
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 284, 5
+  size: 57, 75
+  orig: 57, 75
+  offset: 0, 0
+  index: -1
+heart
+  rotate: true
+  xy: 164, 29
+  size: 115, 84
+  orig: 118, 85
+  offset: 1, 0
+  index: -1
+hoa
+  rotate: false
+  xy: 149, 2
+  size: 22, 25
+  orig: 22, 26
+  offset: 0, 1
+  index: -1
+lip1_chu
+  rotate: true
+  xy: 359, 153
+  size: 36, 18
+  orig: 38, 20
+  offset: 0, 1
+  index: -1
+model2
+  rotate: false
+  xy: 2, 35
+  size: 160, 109
+  orig: 163, 210
+  offset: 3, 26
+  index: -1
+roun
+  rotate: false
+  xy: 2, 146
+  size: 253, 253
+  orig: 257, 257
+  offset: 2, 2
+  index: -1
+sanng
+  rotate: false
+  xy: 257, 285
+  size: 135, 114
+  orig: 135, 114
+  offset: 0, 0
+  index: -1
+tay chia_L
+  rotate: true
+  xy: 339, 68
+  size: 82, 43
+  orig: 82, 43
+  offset: 0, 0
+  index: -1
+tay chia_R
+  rotate: true
+  xy: 284, 64
+  size: 86, 53
+  orig: 86, 54
+  offset: 0, 0
+  index: -1
+tayphai2-copy
+  rotate: true
+  xy: 250, 52
+  size: 92, 32
+  orig: 93, 107
+  offset: 0, 1
+  index: -1
+taytrai-copy
+  rotate: true
+  xy: 359, 191
+  size: 92, 35
+  orig: 92, 36
+  offset: 0, 1
+  index: -1
+toc
+  rotate: false
+  xy: 257, 152
+  size: 100, 131
+  orig: 100, 131
+  offset: 0, 0
+  index: -1

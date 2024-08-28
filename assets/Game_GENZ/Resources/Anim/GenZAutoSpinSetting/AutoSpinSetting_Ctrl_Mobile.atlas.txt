@@ -1,0 +1,27 @@
+
+AutoSpinSetting_Ctrl_Mobile.png
+size: 967,72
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG/Color_BG
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BG/PosDummy
+  rotate: false
+  xy: 964, 69
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+UI/Line
+  rotate: false
+  xy: 2, 68
+  size: 960, 2
+  orig: 1152, 8
+  offset: 96, 3
+  index: -1

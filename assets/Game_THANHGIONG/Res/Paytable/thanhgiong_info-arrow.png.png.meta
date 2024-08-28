@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "0141f2ee-81d3-4d44-9f14-ea5772a375e5",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 40,
+  "height": 40,
+  "platformSettings": {},
+  "subMetas": {
+    "thanhgiong_info-arrow.png": {
+      "ver": "1.0.6",
+      "uuid": "92d38c07-b6b9-4af6-b786-57a7194c0293",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "0141f2ee-81d3-4d44-9f14-ea5772a375e5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 40,
+      "height": 40,
+      "rawWidth": 40,
+      "rawHeight": 40,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

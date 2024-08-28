@@ -1,0 +1,139 @@
+
+thongbaochucmung.png
+size: 4063,2045
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1160 copy 2
+  rotate: false
+  xy: 1319, 44
+  size: 1407, 781
+  orig: 1922, 1117
+  offset: 281, 335
+  index: -1
+Layer 1160 copy 3
+  rotate: true
+  xy: 2, 14
+  size: 2029, 1315
+  orig: 3122, 2940
+  offset: 611, 1030
+  index: -1
+Layer 1160 copy 4
+  rotate: false
+  xy: 1319, 827
+  size: 2273, 1216
+  orig: 3283, 2816
+  offset: 462, 799
+  index: -1
+Layer 1165
+  rotate: false
+  xy: 3853, 967
+  size: 188, 75
+  orig: 190, 77
+  offset: 1, 1
+  index: -1
+Layer 1167
+  rotate: false
+  xy: 3853, 1044
+  size: 190, 79
+  orig: 192, 81
+  offset: 1, 1
+  index: -1
+Layer 1167 copy 2
+  rotate: false
+  xy: 3853, 1627
+  size: 200, 87
+  orig: 202, 89
+  offset: 1, 1
+  index: -1
+Layer 1182
+  rotate: true
+  xy: 1417, 5
+  size: 37, 27
+  orig: 39, 29
+  offset: 1, 1
+  index: -1
+Layer 1182 copy
+  rotate: true
+  xy: 3727, 775
+  size: 114, 118
+  orig: 116, 120
+  offset: 1, 1
+  index: -1
+Layer 1182 copy 2
+  rotate: true
+  xy: 4008, 914
+  size: 51, 53
+  orig: 53, 55
+  offset: 1, 1
+  index: -1
+Layer 1182 copy 3
+  rotate: true
+  xy: 3594, 762
+  size: 127, 131
+  orig: 129, 134
+  offset: 1, 1
+  index: -1
+Layer 1182 copy 4
+  rotate: false
+  xy: 3847, 754
+  size: 63, 57
+  orig: 65, 59
+  offset: 1, 1
+  index: -1
+Layer 1183
+  rotate: true
+  xy: 3898, 1716
+  size: 152, 158
+  orig: 154, 160
+  offset: 1, 1
+  index: -1
+Layer 1183 copy
+  rotate: false
+  xy: 3853, 813
+  size: 153, 152
+  orig: 156, 154
+  offset: 1, 1
+  index: -1
+Layer 1183 copy 2
+  rotate: true
+  xy: 3898, 1870
+  size: 173, 163
+  orig: 176, 166
+  offset: 2, 2
+  index: -1
+Nhận
+  rotate: false
+  xy: 1319, 2
+  size: 96, 40
+  orig: 98, 42
+  offset: 1, 1
+  index: -1
+chuc mung
+  rotate: true
+  xy: 3594, 891
+  size: 871, 257
+  orig: 885, 262
+  offset: 7, 1
+  index: -1
+chuc mung copy 2
+  rotate: false
+  xy: 2728, 282
+  size: 936, 478
+  orig: 946, 486
+  offset: 5, 4
+  index: -1
+diem
+  rotate: true
+  xy: 3853, 1125
+  size: 500, 195
+  orig: 502, 196
+  offset: 1, 1
+  index: -1
+dong xu copy
+  rotate: false
+  xy: 3594, 1764
+  size: 302, 279
+  orig: 304, 281
+  offset: 1, 1
+  index: -1

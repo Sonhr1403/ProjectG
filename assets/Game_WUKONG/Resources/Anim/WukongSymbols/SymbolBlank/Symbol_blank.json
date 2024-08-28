@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"aImze6WJ8SanJRAZEH2XRmNoGZ8=","spine":"3.8.75"},"bones":[{"name":"root"}],"slots":[{"name":"BG/PosDummy","bone":"root","attachment":"BG/PosDummy"}],"skins":[{"name":"default","attachments":{"BG/PosDummy":{"BG/PosDummy":{"width":1,"height":1}}}}],"animations":{"Deactive":{},"Default":{},"Hide":{},"Idle":{},"Spin":{},"Win":{}}}

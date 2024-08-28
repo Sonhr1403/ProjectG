@@ -1,0 +1,30 @@
+info face=you_won_vi size=80 bold=1 italic=0 charset= unicode= stretchH=100 smooth=1 aa=1 padding=2,2,2,2 spacing=0,0 outline=0
+common lineHeight=124 base=70 scaleW=256 scaleH=433 pages=1 packed=0
+page id=0 file="you_won_vi.png"
+chars count=25
+char id=81 x=2 y=2 width=67 height=79 xoffset=1 yoffset=11 xadvance=67 page=0 chnl=15
+char id=7855 x=71 y=2 width=50 height=77 xoffset=1 yoffset=0 xadvance=49 page=0 chnl=15
+char id=7877 x=123 y=2 width=46 height=74 xoffset=1 yoffset=3 xadvance=46 page=0 chnl=15
+char id=7907 x=171 y=2 width=50 height=73 xoffset=0 yoffset=21 xadvance=49 page=0 chnl=15
+char id=67 x=2 y=85 width=60 height=66 xoffset=1 yoffset=11 xadvance=62 page=0 chnl=15
+char id=273 x=64 y=85 width=55 height=65 xoffset=1 yoffset=12 xadvance=53 page=0 chnl=15
+char id=103 x=121 y=85 width=53 height=64 xoffset=0 yoffset=28 xadvance=49 page=0 chnl=15
+char id=104 x=176 y=85 width=57 height=63 xoffset=-1 yoffset=12 xadvance=55 page=0 chnl=15
+char id=66 x=2 y=155 width=63 height=63 xoffset=-1 yoffset=13 xadvance=62 page=0 chnl=15
+char id=76 x=67 y=155 width=60 height=63 xoffset=0 yoffset=13 xadvance=58 page=0 chnl=15
+char id=77 x=129 y=155 width=82 height=63 xoffset=-1 yoffset=13 xadvance=78 page=0 chnl=15
+char id=7841 x=2 y=222 width=50 height=63 xoffset=1 yoffset=31 xadvance=49 page=0 chnl=15
+char id=272 x=54 y=222 width=67 height=63 xoffset=0 yoffset=13 xadvance=67 page=0 chnl=15
+char id=80 x=123 y=222 width=62 height=63 xoffset=0 yoffset=13 xadvance=61 page=0 chnl=15
+char id=227 x=187 y=222 width=50 height=62 xoffset=1 yoffset=15 xadvance=49 page=0 chnl=15
+char id=237 x=2 y=289 width=31 height=62 xoffset=0 yoffset=13 xadvance=30 page=0 chnl=15
+char id=121 x=35 y=289 width=52 height=60 xoffset=-1 yoffset=32 xadvance=49 page=0 chnl=15
+char id=116 x=89 y=289 width=36 height=60 xoffset=0 yoffset=17 xadvance=34 page=0 chnl=15
+char id=105 x=127 y=289 width=30 height=60 xoffset=0 yoffset=15 xadvance=30 page=0 chnl=15
+char id=417 x=159 y=289 width=50 height=56 xoffset=0 yoffset=21 xadvance=49 page=0 chnl=15
+char id=432 x=2 y=355 width=63 height=56 xoffset=-1 yoffset=21 xadvance=56 page=0 chnl=15
+char id=97 x=67 y=355 width=50 height=46 xoffset=1 yoffset=31 xadvance=49 page=0 chnl=15
+char id=110 x=119 y=355 width=57 height=44 xoffset=0 yoffset=31 xadvance=55 page=0 chnl=15
+char id=117 x=178 y=355 width=58 height=44 xoffset=-1 yoffset=32 xadvance=55 page=0 chnl=15
+char id=45 x=2 y=415 width=25 height=16 xoffset=1 yoffset=46 xadvance=27 page=0 chnl=15
+char id=32 x=0 y=0 width=0 height=0 xoffset=1 yoffset=46 xadvance=23 page=0 chnl=15

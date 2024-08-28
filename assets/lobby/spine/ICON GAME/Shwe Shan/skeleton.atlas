@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 625,625
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1l
+  rotate: false
+  xy: 2, 29
+  size: 127, 87
+  orig: 127, 130
+  offset: 0, 19
+  index: -1
+Group 3
+  rotate: false
+  xy: 2, 118
+  size: 323, 187
+  orig: 342, 222
+  offset: 7, 7
+  index: -1
+Shwe Shan
+  rotate: true
+  xy: 570, 333
+  size: 290, 53
+  orig: 293, 57
+  offset: 2, 2
+  index: -1
+card
+  rotate: true
+  xy: 327, 15
+  size: 275, 196
+  orig: 275, 196
+  offset: 0, 0
+  index: -1
+chip
+  rotate: true
+  xy: 556, 68
+  size: 195, 67
+  orig: 195, 72
+  offset: 0, 5
+  index: -1
+k bich
+  rotate: false
+  xy: 220, 47
+  size: 69, 69
+  orig: 70, 70
+  offset: 1, 0
+  index: -1
+k co
+  rotate: true
+  xy: 525, 232
+  size: 58, 29
+  orig: 58, 29
+  offset: 0, 0
+  index: -1
+k tep
+  rotate: true
+  xy: 570, 265
+  size: 66, 46
+  orig: 67, 46
+  offset: 1, 0
+  index: -1
+light
+  rotate: false
+  xy: 131, 29
+  size: 87, 87
+  orig: 103, 103
+  offset: 8, 8
+  index: -1
+mo
+  rotate: true
+  xy: 515, 292
+  size: 331, 53
+  orig: 331, 53
+  offset: 0, 0
+  index: -1
+rec
+  rotate: false
+  xy: 2, 307
+  size: 511, 316
+  orig: 513, 337
+  offset: 1, 1
+  index: -1
+square
+  rotate: false
+  xy: 525, 39
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,21 @@
+{
+  "ver": "1.1.3",
+  "uuid": "1513f083-160d-4df0-8540-92482deb3a91",
+  "importer": "folder",
+  "isBundle": false,
+  "bundleName": "GameOnePiece",
+  "priority": 1,
+  "compressionType": {
+    "android": "merge_all_json"
+  },
+  "optimizeHotUpdate": {
+    "android": false
+  },
+  "inlineSpriteFrames": {
+    "android": false
+  },
+  "isRemoteBundle": {
+    "android": true
+  },
+  "subMetas": {}
+}

@@ -1,0 +1,13 @@
+
+wheel_front@2x.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wheel_left
+  rotate: false
+  xy: 2, 2
+  size: 281, 282
+  orig: 281, 282
+  offset: 0, 0
+  index: -1

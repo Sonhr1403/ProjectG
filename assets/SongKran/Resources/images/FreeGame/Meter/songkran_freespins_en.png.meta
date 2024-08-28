@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e5e1ef59-d5e1-47b7-acb4-7575b3c33276",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 176,
+  "height": 30,
+  "platformSettings": {},
+  "subMetas": {
+    "songkran_freespins_en": {
+      "ver": "1.0.6",
+      "uuid": "077e2ea2-1e64-4641-a1e7-6d7f57193580",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e5e1ef59-d5e1-47b7-acb4-7575b3c33276",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 176,
+      "height": 30,
+      "rawWidth": 176,
+      "rawHeight": 30,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

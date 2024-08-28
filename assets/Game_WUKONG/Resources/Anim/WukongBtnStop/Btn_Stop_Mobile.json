@@ -1,0 +1,135 @@
+{
+  "skeleton": { "hash": "pYjLHFqEkiRgvueWaNjIA6nm5DU", "spine": "3.8.99" },
+  "bones": [
+    { "name": "root" },
+    { "name": "All", "parent": "root" },
+    { "name": "Txt_AutoSpinNum", "parent": "All" },
+    { "name": "Spin", "parent": "All", "scaleX": 1.05, "scaleY": 1.05 },
+    { "name": "Spin_Effect", "parent": "All" }
+  ],
+  "slots": [
+    {
+      "name": "Spin_Effect",
+      "bone": "Spin_Effect",
+      "attachment": "BG/PosDummy"
+    },
+    { "name": "UI/Btn_BG", "bone": "All", "attachment": "UI/Spin_M_BG2" },
+    { "name": "Spin", "bone": "Spin", "attachment": "UI/Spin_M2" },
+    {
+      "name": "Txt_AutoSpinNum",
+      "bone": "Txt_AutoSpinNum",
+      "attachment": "BG/PosDummy"
+    },
+    { "name": "UI/Spin_M", "bone": "All" }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "Spin": { "UI/Spin_M2": { "width": 151, "height": 151 } },
+        "Spin_Effect": { "BG/PosDummy": { "width": 1, "height": 1 } },
+        "Txt_AutoSpinNum": { "BG/PosDummy": { "width": 1, "height": 1 } },
+        "UI/Btn_BG": {
+          "UI/Spin_M_BG2": { "y": -6, "width": 318, "height": 307 }
+        },
+        "UI/Spin_M": { "UI/Spin_M": { "width": 176, "height": 178 } }
+      }
+    }
+  ],
+  "animations": {
+    "Disable": {
+      "slots": {
+        "Spin": {
+          "color": [{ "color": "232323ff" }],
+          "attachment": [{ "name": null }]
+        },
+        "UI/Spin_M": {
+          "color": [{ "color": "1b1b1bff" }],
+          "attachment": [{ "name": "UI/Spin_M" }]
+        }
+      },
+      "bones": { "All": { "scale": [{ "x": 0.8, "y": 0.8 }] } }
+    },
+    "Disable_Portrait": {
+      "slots": {
+        "Spin": {
+          "color": [{ "color": "232323ff" }],
+          "attachment": [{ "name": null }]
+        },
+        "UI/Spin_M": {
+          "color": [{ "color": "8c8c8cff" }],
+          "attachment": [{ "name": "UI/Spin_M" }]
+        }
+      },
+      "bones": {
+        "All": {
+          "translate": [{ "y": -50 }],
+          "scale": [{ "x": 1.25, "y": 1.25 }]
+        }
+      }
+    },
+    "Down": {
+      "slots": {
+        "Spin": { "attachment": [{ "name": null }] },
+        "UI/Spin_M": {
+          "color": [{ "color": "8c8c8cff" }],
+          "attachment": [{ "name": "UI/Spin_M" }]
+        }
+      },
+      "bones": { "All": { "scale": [{ "x": 0.8, "y": 0.8 }] } }
+    },
+    "Down_Portrait": {
+      "slots": {
+        "Spin": { "attachment": [{ "name": null }] },
+        "UI/Spin_M": {
+          "color": [{ "color": "8c8c8cff" }],
+          "attachment": [{ "name": "UI/Spin_M" }]
+        }
+      },
+      "bones": {
+        "All": {
+          "translate": [{ "y": -50 }],
+          "scale": [{ "x": 1.25, "y": 1.25 }]
+        }
+      }
+    },
+    "Landscape": { "bones": { "All": { "scale": [{ "x": 0.8, "y": 0.8 }] } } },
+    "Portrait": {
+      "bones": {
+        "All": {
+          "translate": [{ "y": -50 }],
+          "scale": [{ "x": 1.25, "y": 1.25 }]
+        }
+      }
+    },
+    "Up": {
+      "bones": {
+        "All": { "scale": [{ "x": 0.8, "y": 0.8 }] },
+        "Spin": {
+          "rotate": [
+            {},
+            { "time": 0.0667, "angle": -120 },
+            { "time": 0.1333, "angle": 120 },
+            { "time": 0.2 }
+          ]
+        }
+      }
+    },
+    "Up_Portrait": {
+      "bones": {
+        "All": {
+          "translate": [{ "y": -50 }],
+          "scale": [{ "x": 1.25, "y": 1.25 }]
+        },
+        "Spin": {
+          "rotate": [
+            {},
+            { "time": 0.0667, "angle": -120 },
+            { "time": 0.1333, "angle": 120 },
+            { "time": 0.2 }
+          ]
+        }
+      }
+    }
+  }
+}

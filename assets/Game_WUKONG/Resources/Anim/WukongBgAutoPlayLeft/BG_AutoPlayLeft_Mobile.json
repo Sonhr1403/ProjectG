@@ -1,0 +1,85 @@
+{
+  "skeleton": {
+    "hash": "8VLFgZbW2rQXIkJ6C//1iXiSnP0",
+    "spine": "3.8.99",
+    "x": -67,
+    "y": -77,
+    "width": 134,
+    "height": 134,
+    "images": "./Image/",
+    "audio": "C:/NBEE/Edc/PUBLIC_UI/Client Common/Resources/Spine/Mobile"
+  },
+  "bones": [
+    { "name": "root" },
+    { "name": "All", "parent": "root" },
+    { "name": "Txt_AutoPlayLeft", "parent": "All" }
+  ],
+  "slots": [
+    { "name": "Stop", "bone": "All", "attachment": "UI/BG_AutoPlayLeft_M" },
+    {
+      "name": "Txt_AutoPlayLeft",
+      "bone": "Txt_AutoPlayLeft",
+      "attachment": "BG/PosDummy"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "Stop": { "UI/BG_AutoPlayLeft_M": { "width": 134, "height": 134 } },
+        "Txt_AutoPlayLeft": { "BG/PosDummy": { "width": 16, "height": 16 } }
+      }
+    }
+  ],
+  "animations": {
+    "Disable": {
+      "slots": { "Stop": { "attachment": [{ "name": null }] } },
+      "bones": { "All": { "scale": [{ "x": 0.8, "y": 0.8 }] } }
+    },
+    "Disable_Portrait": {
+      "slots": { "Stop": { "attachment": [{ "name": null }] } },
+      "bones": {
+        "All": {
+          "translate": [{ "y": -40 }],
+          "scale": [{ "x": 1.25, "y": 1.25 }]
+        }
+      }
+    },
+    "Down": { "bones": { "All": { "scale": [{ "x": 0.8, "y": 0.8 }] } } },
+    "Down_Portrait": {
+      "bones": {
+        "All": {
+          "translate": [{ "y": -40 }],
+          "scale": [{ "x": 1.25, "y": 1.25 }]
+        }
+      }
+    },
+    "Landscape": { "bones": { "All": { "scale": [{ "x": 0.8, "y": 0.8 }] } } },
+    "Over": { "bones": { "All": { "scale": [{ "x": 0.8, "y": 0.8 }] } } },
+    "Over_Portrait": {
+      "bones": {
+        "All": {
+          "translate": [{ "y": -40 }],
+          "scale": [{ "x": 1.25, "y": 1.25 }]
+        }
+      }
+    },
+    "Portrait": {
+      "bones": {
+        "All": {
+          "translate": [{ "y": -40 }],
+          "scale": [{ "x": 1.25, "y": 1.25 }]
+        }
+      }
+    },
+    "Up": { "bones": { "All": { "scale": [{ "x": 0.8, "y": 0.8 }] } } },
+    "Up_Portrait": {
+      "bones": {
+        "All": {
+          "translate": [{ "y": -40 }],
+          "scale": [{ "x": 1.25, "y": 1.25 }]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+
+wheel_back@2x.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wheel_right
+  rotate: false
+  xy: 2, 2
+  size: 403, 402
+  orig: 403, 402
+  offset: 0, 0
+  index: -1
+wheel_right_hide
+  rotate: true
+  xy: 745, 60
+  size: 344, 216
+  orig: 344, 216
+  offset: 0, 0
+  index: -1
+wheel_right_light
+  rotate: false
+  xy: 407, 28
+  size: 336, 376
+  orig: 336, 376
+  offset: 0, 0
+  index: -1

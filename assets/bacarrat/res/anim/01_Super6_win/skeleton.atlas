@@ -1,0 +1,111 @@
+
+skeleton.png
+size: 380,380
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6
+  rotate: false
+  xy: 331, 261
+  size: 46, 58
+  orig: 46, 58
+  offset: 0, 0
+  index: -1
+6_glow
+  rotate: false
+  xy: 85, 7
+  size: 79, 92
+  orig: 84, 96
+  offset: 2, 2
+  index: -1
+E
+  rotate: false
+  xy: 205, 110
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+E_glow
+  rotate: false
+  xy: 82, 132
+  size: 74, 92
+  orig: 79, 96
+  offset: 2, 2
+  index: -1
+P
+  rotate: false
+  xy: 158, 110
+  size: 45, 56
+  orig: 45, 56
+  offset: 0, 0
+  index: -1
+P_glow
+  rotate: false
+  xy: 247, 9
+  size: 79, 90
+  orig: 83, 95
+  offset: 2, 2
+  index: -1
+R
+  rotate: false
+  xy: 158, 168
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+R_glow
+  rotate: false
+  xy: 2, 134
+  size: 78, 90
+  orig: 83, 95
+  offset: 2, 2
+  index: -1
+S
+  rotate: false
+  xy: 328, 41
+  size: 50, 58
+  orig: 50, 58
+  offset: 0, 0
+  index: -1
+S_glow
+  rotate: false
+  xy: 166, 7
+  size: 79, 92
+  orig: 85, 96
+  offset: 3, 2
+  index: -1
+Text2
+  rotate: false
+  xy: 2, 226
+  size: 298, 58
+  orig: 298, 58
+  offset: 0, 0
+  index: -1
+Text2 - Copy
+  rotate: false
+  xy: 2, 286
+  size: 327, 92
+  orig: 333, 96
+  offset: 3, 2
+  index: -1
+U
+  rotate: false
+  xy: 331, 321
+  size: 47, 57
+  orig: 47, 57
+  offset: 0, 0
+  index: -1
+U_glow
+  rotate: false
+  xy: 2, 8
+  size: 81, 91
+  orig: 85, 95
+  offset: 2, 2
+  index: -1
+light
+  rotate: true
+  xy: 302, 101
+  size: 158, 67
+  orig: 158, 67
+  offset: 0, 0
+  index: -1

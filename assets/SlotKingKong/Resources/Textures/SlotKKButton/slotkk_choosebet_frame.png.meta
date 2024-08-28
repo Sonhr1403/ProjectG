@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e1a51460-b962-43b9-b831-699e3acb2d57",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 163,
+  "height": 50,
+  "platformSettings": {},
+  "subMetas": {
+    "slotkk_choosebet_frame": {
+      "ver": "1.0.6",
+      "uuid": "c362e4f8-c89c-447d-8d2f-4cc02e0e8398",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e1a51460-b962-43b9-b831-699e3acb2d57",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 161,
+      "height": 48,
+      "rawWidth": 163,
+      "rawHeight": 50,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

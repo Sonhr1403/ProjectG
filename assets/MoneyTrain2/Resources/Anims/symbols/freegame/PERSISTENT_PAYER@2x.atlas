@@ -1,0 +1,412 @@
+
+persistent_scatters@2x.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bullet_belt
+  rotate: false
+  xy: 2, 2
+  size: 118, 77
+  orig: 118, 77
+  offset: 0, 0
+  index: -1
+bullet_hole_big
+  rotate: false
+  xy: 1515, 412
+  size: 112, 97
+  orig: 112, 97
+  offset: 0, 0
+  index: -1
+bullet_hole_big_add
+  rotate: false
+  xy: 1393, 300
+  size: 63, 64
+  orig: 112, 97
+  offset: 23, 15
+  index: -1
+cev_glow
+  rotate: true
+  xy: 516, 102
+  size: 121, 128
+  orig: 128, 139
+  offset: 7, 11
+  index: -1
+collector
+  rotate: false
+  xy: 354, 90
+  size: 148, 38
+  orig: 148, 38
+  offset: 0, 0
+  index: -1
+collector_add
+  rotate: false
+  xy: 1219, 142
+  size: 166, 56
+  orig: 166, 56
+  offset: 0, 0
+  index: -1
+collector_background
+  rotate: false
+  xy: 1192, 525
+  size: 205, 198
+  orig: 205, 198
+  offset: 0, 0
+  index: -1
+doors/door_down
+  rotate: false
+  xy: 667, 197
+  size: 204, 102
+  orig: 206, 104
+  offset: 1, 1
+  index: -1
+doors/door_up
+  rotate: true
+  xy: 1909, 819
+  size: 203, 104
+  orig: 205, 106
+  offset: 1, 1
+  index: -1
+dust_a3
+  rotate: false
+  xy: 1399, 415
+  size: 114, 116
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+fire_cracker/fire_caracker_A_00000
+  rotate: true
+  xy: 1166, 97
+  size: 93, 51
+  orig: 100, 56
+  offset: 2, 4
+  index: -1
+fire_cracker/fire_caracker_A_00001
+  rotate: false
+  xy: 1396, 366
+  size: 80, 47
+  orig: 100, 56
+  offset: 6, 3
+  index: -1
+fire_cracker/fire_caracker_A_00002
+  rotate: true
+  xy: 1733, 444
+  size: 65, 49
+  orig: 100, 56
+  offset: 18, 1
+  index: -1
+flare_o
+  rotate: true
+  xy: 354, 130
+  size: 284, 160
+  orig: 284, 160
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 402, 494
+  size: 218, 220
+  orig: 218, 220
+  offset: 0, 0
+  index: -1
+frame_add
+  rotate: true
+  xy: 1536, 511
+  size: 244, 246
+  orig: 244, 246
+  offset: 0, 0
+  index: -1
+frame_white
+  rotate: false
+  xy: 1784, 509
+  size: 244, 246
+  orig: 244, 246
+  offset: 0, 0
+  index: -1
+magnet
+  rotate: true
+  xy: 622, 508
+  size: 214, 162
+  orig: 214, 162
+  offset: 0, 0
+  index: -1
+magnet_ADD
+  rotate: true
+  xy: 1048, 321
+  size: 195, 159
+  orig: 214, 162
+  offset: 19, 3
+  index: -1
+magnet_occluder
+  rotate: true
+  xy: 1399, 533
+  size: 190, 113
+  orig: 190, 113
+  offset: 0, 0
+  index: -1
+muzzle_flash/PP_muzzle_flash
+  rotate: true
+  xy: 516, 225
+  size: 210, 149
+  orig: 210, 149
+  offset: 0, 0
+  index: -1
+muzzle_flash/sniper_flash_00000
+  rotate: false
+  xy: 803, 718
+  size: 365, 304
+  orig: 450, 308
+  offset: 85, 2
+  index: -1
+muzzle_flash/sniper_flash_00001
+  rotate: false
+  xy: 1536, 757
+  size: 371, 265
+  orig: 450, 308
+  offset: 79, 18
+  index: -1
+muzzle_flash/sniper_flash_00002
+  rotate: false
+  xy: 415, 724
+  size: 386, 298
+  orig: 450, 308
+  offset: 64, 3
+  index: -1
+muzzle_flash/sniper_flash_00003
+  rotate: false
+  xy: 2, 416
+  size: 398, 298
+  orig: 450, 308
+  offset: 51, 6
+  index: -1
+muzzle_flash/sniper_flash_00004
+  rotate: false
+  xy: 2, 716
+  size: 411, 306
+  orig: 450, 308
+  offset: 38, 2
+  index: -1
+muzzle_flash/sniper_flash_00005
+  rotate: false
+  xy: 1170, 725
+  size: 364, 297
+  orig: 450, 308
+  offset: 36, 10
+  index: -1
+muzzle_flash_b
+  rotate: false
+  xy: 2, 81
+  size: 350, 333
+  orig: 350, 334
+  offset: 0, 0
+  index: -1
+payer
+  rotate: true
+  xy: 1393, 214
+  size: 84, 38
+  orig: 84, 38
+  offset: 0, 0
+  index: -1
+payer_add
+  rotate: false
+  xy: 1629, 452
+  size: 102, 57
+  orig: 102, 57
+  offset: 0, 0
+  index: -1
+payer_background
+  rotate: true
+  xy: 667, 301
+  size: 205, 197
+  orig: 205, 197
+  offset: 0, 0
+  index: -1
+persistent_payer_stage_a
+  rotate: false
+  xy: 1047, 192
+  size: 170, 127
+  orig: 170, 127
+  offset: 0, 0
+  index: -1
+persistent_payer_stage_a_ADD
+  rotate: false
+  xy: 994, 63
+  size: 170, 127
+  orig: 170, 127
+  offset: 0, 0
+  index: -1
+persistent_payer_stage_b
+  rotate: false
+  xy: 873, 195
+  size: 172, 127
+  orig: 172, 127
+  offset: 0, 0
+  index: -1
+persistent_payer_stage_b_ADD
+  rotate: false
+  xy: 646, 68
+  size: 172, 127
+  orig: 172, 127
+  offset: 0, 0
+  index: -1
+persistent_payer_stage_c
+  rotate: false
+  xy: 1219, 200
+  size: 172, 165
+  orig: 172, 165
+  offset: 0, 0
+  index: -1
+persistent_payer_stage_c_ADD
+  rotate: false
+  xy: 820, 28
+  size: 172, 165
+  orig: 172, 165
+  offset: 0, 0
+  index: -1
+s_bottom_door
+  rotate: false
+  xy: 122, 23
+  size: 203, 56
+  orig: 203, 56
+  offset: 0, 0
+  index: -1
+bottom_door
+  rotate: false
+  xy: 122, 23
+  size: 203, 56
+  orig: 203, 56
+  offset: 0, 0
+  index: -1
+c_bottom_door
+  rotate: false
+  xy: 122, 23
+  size: 203, 56
+  orig: 203, 56
+  offset: 0, 0
+  index: -1
+s_persistent
+  rotate: false
+  xy: 1219, 103
+  size: 161, 37
+  orig: 161, 37
+  offset: 0, 0
+  index: -1
+c_persistent
+  rotate: false
+  xy: 1219, 103
+  size: 161, 37
+  orig: 161, 37
+  offset: 0, 0
+  index: -1
+p_persistent
+  rotate: false
+  xy: 1219, 103
+  size: 161, 37
+  orig: 161, 37
+  offset: 0, 0
+  index: -1
+s_persistent_add
+  rotate: false
+  xy: 994, 6
+  size: 177, 55
+  orig: 177, 55
+  offset: 0, 0
+  index: -1
+c_persistent_add
+  rotate: false
+  xy: 994, 6
+  size: 177, 55
+  orig: 177, 55
+  offset: 0, 0
+  index: -1
+p_persistent_add
+  rotate: false
+  xy: 994, 6
+  size: 177, 55
+  orig: 177, 55
+  offset: 0, 0
+  index: -1
+s_top_door
+  rotate: false
+  xy: 402, 437
+  size: 203, 55
+  orig: 203, 55
+  offset: 0, 0
+  index: -1
+c_top_door
+  rotate: false
+  xy: 402, 437
+  size: 203, 55
+  orig: 203, 55
+  offset: 0, 0
+  index: -1
+top_door
+  rotate: false
+  xy: 402, 437
+  size: 203, 55
+  orig: 203, 55
+  offset: 0, 0
+  index: -1
+sniper
+  rotate: false
+  xy: 1629, 412
+  size: 91, 38
+  orig: 91, 38
+  offset: 0, 0
+  index: -1
+sniper_add
+  rotate: false
+  xy: 1909, 760
+  size: 111, 57
+  orig: 111, 57
+  offset: 0, 0
+  index: -1
+sniper_back
+  rotate: true
+  xy: 1784, 465
+  size: 42, 78
+  orig: 42, 78
+  offset: 0, 0
+  index: -1
+sniper_background
+  rotate: false
+  xy: 786, 518
+  size: 205, 198
+  orig: 205, 198
+  offset: 0, 0
+  index: -1
+sniper_front
+  rotate: false
+  xy: 1209, 367
+  size: 185, 156
+  orig: 185, 164
+  offset: 0, 0
+  index: -1
+sniper_front copy
+  rotate: false
+  xy: 866, 324
+  size: 180, 192
+  orig: 185, 192
+  offset: 5, 0
+  index: -1
+sniper_handle
+  rotate: true
+  xy: 402, 417
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+sniper_scope
+  rotate: false
+  xy: 607, 444
+  size: 58, 48
+  orig: 59, 50
+  offset: 0, 0
+  index: -1
+sparks_02
+  rotate: false
+  xy: 993, 518
+  size: 197, 198
+  orig: 200, 200
+  offset: 3, 0
+  index: -1

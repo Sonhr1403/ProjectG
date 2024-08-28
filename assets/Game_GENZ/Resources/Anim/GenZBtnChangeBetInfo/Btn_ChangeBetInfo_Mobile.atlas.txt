@@ -1,0 +1,20 @@
+
+Btn_ChangeBetInfo_Mobile.png
+size: 216,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI/BG_Icons
+  rotate: false
+  xy: 2, 2
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+UI/Icon_ChangeBet
+  rotate: false
+  xy: 116, 16
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1

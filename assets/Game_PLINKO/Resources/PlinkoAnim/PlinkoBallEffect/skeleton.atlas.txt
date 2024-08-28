@@ -1,0 +1,97 @@
+
+skeleton.png
+size: 140,282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball
+  rotate: false
+  xy: 94, 47
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ball fx fix_18
+  rotate: false
+  xy: 53, 21
+  size: 39, 46
+  orig: 69, 105
+  offset: 6, 46
+  index: -1
+ball fx fix_19
+  rotate: false
+  xy: 53, 21
+  size: 39, 46
+  orig: 69, 105
+  offset: 6, 46
+  index: -1
+ball fx fix_20
+  rotate: false
+  xy: 53, 21
+  size: 39, 46
+  orig: 69, 105
+  offset: 6, 46
+  index: -1
+ball fx fix_21
+  rotate: false
+  xy: 83, 200
+  size: 46, 80
+  orig: 69, 105
+  offset: 7, 11
+  index: -1
+ball fx fix_22
+  rotate: false
+  xy: 83, 200
+  size: 46, 80
+  orig: 69, 105
+  offset: 7, 11
+  index: -1
+ball fx fix_23
+  rotate: false
+  xy: 2, 2
+  size: 49, 84
+  orig: 69, 105
+  offset: 8, 6
+  index: -1
+ball fx fix_24
+  rotate: false
+  xy: 48, 121
+  size: 44, 77
+  orig: 69, 105
+  offset: 13, 6
+  index: -1
+ball fx fix_25
+  rotate: false
+  xy: 94, 127
+  size: 43, 71
+  orig: 69, 105
+  offset: 15, 8
+  index: -1
+ball fx fix_26
+  rotate: false
+  xy: 53, 69
+  size: 39, 50
+  orig: 69, 105
+  offset: 18, 9
+  index: -1
+ball particle_00
+  rotate: false
+  xy: 2, 202
+  size: 79, 78
+  orig: 150, 150
+  offset: 36, 36
+  index: -1
+ball_00
+  rotate: false
+  xy: 94, 81
+  size: 44, 44
+  orig: 64, 64
+  offset: 10, 10
+  index: -1
+blur ball_00
+  rotate: true
+  xy: 2, 88
+  size: 112, 44
+  orig: 130, 52
+  offset: 10, 3
+  index: -1

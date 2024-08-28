@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "af878de3-2492-4c67-ba5b-a5345f6bc436",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 494,
+  "height": 81,
+  "platformSettings": {},
+  "subMetas": {
+    "thanhgiong_Info-Page-web-page04_06.png": {
+      "ver": "1.0.6",
+      "uuid": "7f07ea0b-8665-43ce-8291-7291885f4e3f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "af878de3-2492-4c67-ba5b-a5345f6bc436",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 492,
+      "height": 79,
+      "rawWidth": 494,
+      "rawHeight": 81,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,293 @@
+
+CommonJackpotBanner.png
+size: 4002,619
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG/Center_Gra
+  rotate: true
+  xy: 418, 6
+  size: 33, 377
+  orig: 33, 385
+  offset: 0, 4
+  index: -1
+BG/Center_Gra2
+  rotate: true
+  xy: 1253, 88
+  size: 32, 377
+  orig: 33, 385
+  offset: 0, 4
+  index: -1
+BG/PosDummy
+  rotate: false
+  xy: 2, 14
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+UI/BG_Gra
+  rotate: false
+  xy: 2747, 399
+  size: 1253, 218
+  orig: 1256, 222
+  offset: 0, 4
+  index: -1
+UI/BannerInfo_01
+  rotate: false
+  xy: 2896, 82
+  size: 102, 94
+  orig: 456, 95
+  offset: 0, 0
+  index: -1
+UI/BannerInfo_01_1
+  rotate: true
+  xy: 3697, 57
+  size: 340, 88
+  orig: 341, 89
+  offset: 0, 1
+  index: -1
+UI/BannerInfo_01_11
+  rotate: true
+  xy: 3605, 38
+  size: 359, 90
+  orig: 360, 91
+  offset: 0, 1
+  index: -1
+UI/BannerInfo_01_2
+  rotate: true
+  xy: 3024, 16
+  size: 381, 331
+  orig: 381, 331
+  offset: 0, 0
+  index: -1
+UI/BannerInfo_01_3
+  rotate: true
+  xy: 2814, 178
+  size: 219, 208
+  orig: 239, 226
+  offset: 8, 9
+  index: -1
+UI/BannerInfo_01_4
+  rotate: false
+  xy: 2369, 36
+  size: 102, 138
+  orig: 104, 145
+  offset: 1, 7
+  index: -1
+UI/BannerInfo_02
+  rotate: true
+  xy: 2747, 176
+  size: 221, 65
+  orig: 223, 67
+  offset: 1, 1
+  index: -1
+UI/BannerInfo_02_G
+  rotate: true
+  xy: 3902, 157
+  size: 240, 86
+  orig: 335, 101
+  offset: 47, 9
+  index: -1
+UI/BannerInfo_03
+  rotate: false
+  xy: 797, 21
+  size: 158, 43
+  orig: 162, 91
+  offset: 2, 46
+  index: -1
+UI/BannerInfo_03_2
+  rotate: false
+  xy: 2473, 4
+  size: 100, 39
+  orig: 162, 91
+  offset: 4, 3
+  index: -1
+UI/BannerInfo_04
+  rotate: true
+  xy: 3787, 145
+  size: 252, 113
+  orig: 252, 113
+  offset: 0, 0
+  index: -1
+UI/BannerInfo_04_G
+  rotate: false
+  xy: 2090, 15
+  size: 277, 140
+  orig: 378, 170
+  offset: 51, 16
+  index: -1
+UI/Jackpot_BG
+  rotate: false
+  xy: 957, 7
+  size: 475, 75
+  orig: 475, 75
+  offset: 0, 0
+  index: -1
+UI/Part_24
+  rotate: true
+  xy: 2473, 45
+  size: 129, 421
+  orig: 164, 600
+  offset: 15, 4
+  index: -1
+UI/Part_25
+  rotate: false
+  xy: 2367, 176
+  size: 133, 441
+  orig: 164, 600
+  offset: 13, 4
+  index: -1
+UI/Part_26
+  rotate: true
+  xy: 1632, 2
+  size: 133, 456
+  orig: 164, 600
+  offset: 9, 10
+  index: -1
+UI/Part_27
+  rotate: false
+  xy: 1398, 136
+  size: 126, 481
+  orig: 164, 600
+  offset: 6, 9
+  index: -1
+UI/Part_28
+  rotate: false
+  xy: 971, 109
+  size: 127, 508
+  orig: 164, 600
+  offset: 3, 6
+  index: -1
+UI/Part_29
+  rotate: false
+  xy: 837, 84
+  size: 132, 533
+  orig: 164, 600
+  offset: 1, 2
+  index: -1
+UI/Part_30
+  rotate: false
+  xy: 698, 66
+  size: 137, 551
+  orig: 164, 600
+  offset: 0, 4
+  index: -1
+UI/Part_31
+  rotate: false
+  xy: 558, 53
+  size: 138, 564
+  orig: 164, 600
+  offset: 3, 5
+  index: -1
+UI/Part_32
+  rotate: false
+  xy: 418, 41
+  size: 138, 576
+  orig: 164, 600
+  offset: 5, 6
+  index: -1
+UI/Part_33
+  rotate: false
+  xy: 275, 30
+  size: 141, 587
+  orig: 164, 600
+  offset: 4, 6
+  index: -1
+UI/Part_34
+  rotate: false
+  xy: 2, 17
+  size: 135, 600
+  orig: 164, 600
+  offset: 9, 0
+  index: -1
+UI/Part_35
+  rotate: false
+  xy: 139, 18
+  size: 134, 599
+  orig: 164, 600
+  offset: 18, 0
+  index: -1
+UI/Part_36
+  rotate: false
+  xy: 2234, 169
+  size: 131, 448
+  orig: 164, 600
+  offset: 24, 2
+  index: -1
+UI/Part_37
+  rotate: false
+  xy: 1965, 157
+  size: 139, 460
+  orig: 164, 600
+  offset: 21, 2
+  index: -1
+UI/Part_38
+  rotate: false
+  xy: 1823, 154
+  size: 140, 463
+  orig: 164, 600
+  offset: 20, 10
+  index: -1
+UI/Part_39
+  rotate: false
+  xy: 1678, 150
+  size: 143, 467
+  orig: 164, 600
+  offset: 17, 13
+  index: -1
+UI/Part_40
+  rotate: false
+  xy: 1526, 137
+  size: 150, 480
+  orig: 164, 600
+  offset: 13, 17
+  index: -1
+UI/Part_41
+  rotate: false
+  xy: 1100, 117
+  size: 151, 500
+  orig: 164, 600
+  offset: 13, 20
+  index: -1
+UI/Part_42
+  rotate: false
+  xy: 1253, 122
+  size: 143, 495
+  orig: 164, 600
+  offset: 21, 23
+  index: -1
+UI/Part_43
+  rotate: false
+  xy: 2106, 163
+  size: 126, 454
+  orig: 164, 600
+  offset: 35, 26
+  index: -1
+UI/Part_44
+  rotate: false
+  xy: 2502, 214
+  size: 119, 403
+  orig: 164, 600
+  offset: 37, 20
+  index: -1
+UI/Part_45
+  rotate: false
+  xy: 3484, 25
+  size: 119, 372
+  orig: 164, 600
+  offset: 30, 9
+  index: -1
+UI/Part_46
+  rotate: false
+  xy: 3357, 19
+  size: 125, 378
+  orig: 164, 600
+  offset: 25, 14
+  index: -1
+UI/Part_47
+  rotate: false
+  xy: 2623, 220
+  size: 122, 397
+  orig: 164, 600
+  offset: 22, 10
+  index: -1

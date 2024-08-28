@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "5e76cd04-8a80-43c8-aeef-4b217b7ee873",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 354,
+  "height": 340,
+  "platformSettings": {},
+  "subMetas": {
+    "game_longho": {
+      "ver": "1.0.6",
+      "uuid": "38f0b3a2-35e8-4040-8375-9184cf78c517",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "5e76cd04-8a80-43c8-aeef-4b217b7ee873",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 1,
+      "width": 349,
+      "height": 338,
+      "rawWidth": 354,
+      "rawHeight": 340,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

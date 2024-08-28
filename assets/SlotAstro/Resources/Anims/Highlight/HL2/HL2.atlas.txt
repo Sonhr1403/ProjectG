@@ -1,0 +1,55 @@
+
+HL2.png
+size: 1253,259
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tile100Flash
+  rotate: true
+  xy: 2, 4
+  size: 253, 271
+  orig: 261, 277
+  offset: 3, 3
+  index: -1
+tile100Frame_0
+  rotate: false
+  xy: 782, 2
+  size: 200, 255
+  orig: 203, 258
+  offset: 1, 1
+  index: -1
+tile100Glow
+  rotate: true
+  xy: 275, 18
+  size: 239, 272
+  orig: 247, 279
+  offset: 5, 3
+  index: -1
+tile100Plate_0
+  rotate: true
+  xy: 984, 13
+  size: 64, 210
+  orig: 70, 219
+  offset: 4, 4
+  index: -1
+tile100Plazma
+  rotate: true
+  xy: 549, 19
+  size: 238, 231
+  orig: 243, 246
+  offset: 2, 4
+  index: -1
+tile100Scarabey
+  rotate: false
+  xy: 984, 79
+  size: 175, 178
+  orig: 179, 182
+  offset: 2, 2
+  index: -1
+tile100Text
+  rotate: true
+  xy: 1196, 55
+  size: 202, 55
+  orig: 208, 61
+  offset: 4, 2
+  index: -1

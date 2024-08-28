@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e4062d6f-b04d-4268-8945-ea505be52bc6",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 235,
+  "height": 259,
+  "platformSettings": {},
+  "subMetas": {
+    "op_logia_mera_mera": {
+      "ver": "1.0.6",
+      "uuid": "b50584b7-a2a7-4559-b130-25f5cc4c5ed0",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e4062d6f-b04d-4268-8945-ea505be52bc6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 233,
+      "height": 257,
+      "rawWidth": 235,
+      "rawHeight": 259,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

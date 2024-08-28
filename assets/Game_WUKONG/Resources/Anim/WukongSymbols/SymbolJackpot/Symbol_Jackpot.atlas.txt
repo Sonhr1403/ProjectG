@@ -1,0 +1,251 @@
+
+Symbol_Jackpot.png
+size: 543,1035
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Symbols/Flash
+  rotate: true
+  xy: 303, 755
+  size: 278, 163
+  orig: 278, 163
+  offset: 0, 0
+  index: -1
+Symbols/Jackpot_B
+  rotate: false
+  xy: 2, 214
+  size: 275, 269
+  orig: 363, 338
+  offset: 40, 27
+  index: -1
+Symbols/Jackpot_B2
+  rotate: false
+  xy: 2, 485
+  size: 288, 268
+  orig: 378, 350
+  offset: 41, 33
+  index: -1
+Symbols/Jackpot_G
+  rotate: false
+  xy: 2, 755
+  size: 299, 278
+  orig: 656, 608
+  offset: 174, 158
+  index: -1
+Symbols/Symbol_Bottom
+  rotate: false
+  xy: 2, 72
+  size: 260, 140
+  orig: 260, 140
+  offset: 0, 0
+  index: -1
+Symbols/Symbol_Bottom2
+  rotate: false
+  xy: 292, 532
+  size: 200, 105
+  orig: 260, 140
+  offset: 42, 22
+  index: -1
+Symbols/Symbol_Bottom3
+  rotate: true
+  xy: 468, 840
+  size: 193, 52
+  orig: 260, 140
+  offset: 48, 73
+  index: -1
+Symbols/Symbol_Coin_01
+  rotate: true
+  xy: 422, 12
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+Symbols/Symbol_Coin_02
+  rotate: false
+  xy: 496, 407
+  size: 42, 35
+  orig: 43, 39
+  offset: 1, 0
+  index: -1
+Symbols/Symbol_Coin_03
+  rotate: false
+  xy: 452, 403
+  size: 42, 39
+  orig: 43, 45
+  offset: 0, 3
+  index: -1
+Symbols/Symbol_Dia_01
+  rotate: false
+  xy: 243, 12
+  size: 57, 58
+  orig: 57, 58
+  offset: 0, 0
+  index: -1
+Symbols/Symbol_Dia_02
+  rotate: true
+  xy: 494, 534
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+Symbols/Symbol_Dia_03
+  rotate: true
+  xy: 302, 16
+  size: 61, 55
+  orig: 61, 55
+  offset: 0, 0
+  index: -1
+Symbols/Symbol_F_Coin_01
+  rotate: true
+  xy: 176, 13
+  size: 57, 65
+  orig: 57, 65
+  offset: 0, 0
+  index: -1
+Symbols/Symbol_F_Coin_02
+  rotate: false
+  xy: 2, 2
+  size: 92, 68
+  orig: 95, 68
+  offset: 0, 0
+  index: -1
+Symbols/Symbol_Fnt_A
+  rotate: true
+  xy: 468, 775
+  size: 63, 55
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+Symbols/Symbol_Fnt_A_G
+  rotate: true
+  xy: 452, 444
+  size: 86, 78
+  orig: 96, 84
+  offset: 4, 2
+  index: -1
+Symbols/Symbol_Fnt_C
+  rotate: true
+  xy: 429, 102
+  size: 57, 49
+  orig: 57, 52
+  offset: 0, 2
+  index: -1
+Symbols/Symbol_Fnt_C_G
+  rotate: true
+  xy: 367, 161
+  size: 80, 75
+  orig: 86, 78
+  offset: 3, 2
+  index: -1
+Symbols/Symbol_Fnt_J
+  rotate: true
+  xy: 480, 104
+  size: 57, 56
+  orig: 59, 60
+  offset: 1, 2
+  index: -1
+Symbols/Symbol_Fnt_J_G
+  rotate: false
+  xy: 264, 79
+  size: 81, 80
+  orig: 89, 90
+  offset: 4, 5
+  index: -1
+Symbols/Symbol_Fnt_K
+  rotate: false
+  xy: 429, 45
+  size: 51, 55
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+Symbols/Symbol_Fnt_K_G
+  rotate: false
+  xy: 444, 163
+  size: 74, 79
+  orig: 80, 86
+  offset: 2, 3
+  index: -1
+Symbols/Symbol_Fnt_O
+  rotate: false
+  xy: 482, 47
+  size: 54, 55
+  orig: 54, 57
+  offset: 0, 1
+  index: -1
+Symbols/Symbol_Fnt_O_G
+  rotate: false
+  xy: 347, 80
+  size: 80, 79
+  orig: 81, 86
+  offset: 0, 4
+  index: -1
+Symbols/Symbol_Fnt_P
+  rotate: false
+  xy: 494, 584
+  size: 41, 53
+  orig: 41, 57
+  offset: 0, 2
+  index: -1
+Symbols/Symbol_Fnt_P_G
+  rotate: true
+  xy: 96, 8
+  size: 62, 78
+  orig: 62, 86
+  offset: 0, 5
+  index: -1
+Symbols/Symbol_Fnt_T
+  rotate: false
+  xy: 359, 24
+  size: 61, 54
+  orig: 62, 57
+  offset: 0, 1
+  index: -1
+Symbols/Symbol_Fnt_T_G
+  rotate: false
+  xy: 279, 161
+  size: 86, 80
+  orig: 93, 86
+  offset: 3, 3
+  index: -1
+Symbols/Symbol_Top_BG
+  rotate: false
+  xy: 292, 639
+  size: 249, 114
+  orig: 249, 114
+  offset: 0, 0
+  index: -1
+Symbols/Symbol_Top_Light_Active
+  rotate: false
+  xy: 461, 9
+  size: 34, 34
+  orig: 60, 60
+  offset: 13, 13
+  index: -1
+Symbols/Symbol_Top_Light_Disable
+  rotate: false
+  xy: 497, 25
+  size: 20, 20
+  orig: 21, 21
+  offset: 0, 1
+  index: -1
+Win/Seven_Major
+  rotate: false
+  xy: 408, 244
+  size: 122, 157
+  orig: 122, 157
+  offset: 0, 0
+  index: -1
+Win/Seven_Mini
+  rotate: true
+  xy: 292, 403
+  size: 127, 158
+  orig: 130, 162
+  offset: 2, 2
+  index: -1
+Win/Seven_Minor
+  rotate: false
+  xy: 279, 243
+  size: 127, 158
+  orig: 127, 158
+  offset: 0, 0
+  index: -1

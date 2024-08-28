@@ -1,0 +1,21 @@
+{
+  "ver": "1.1.3",
+  "uuid": "f5f990fa-3b0a-4e77-abfd-1e815e2b212c",
+  "importer": "folder",
+  "isBundle": false,
+  "bundleName": "GameLongHo",
+  "priority": 1,
+  "compressionType": {
+    "android": "merge_all_json"
+  },
+  "optimizeHotUpdate": {
+    "android": false
+  },
+  "inlineSpriteFrames": {
+    "android": false
+  },
+  "isRemoteBundle": {
+    "android": true
+  },
+  "subMetas": {}
+}

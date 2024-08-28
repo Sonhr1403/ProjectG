@@ -1,0 +1,27 @@
+
+Btn_QuickSpin_Mobile.png
+size: 280,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI/BG_Icons
+  rotate: false
+  xy: 2, 2
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+UI/Icon_QuickSpin
+  rotate: false
+  xy: 116, 31
+  size: 80, 83
+  orig: 80, 83
+  offset: 0, 0
+  index: -1
+UI/Icon_QuickSpin5
+  rotate: false
+  xy: 198, 31
+  size: 80, 83
+  orig: 80, 83
+  offset: 0, 0
+  index: -1

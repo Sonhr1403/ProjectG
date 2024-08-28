@@ -1,0 +1,439 @@
+
+ThanTai.png
+size: 2045,1987
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Color Balance 1
+  rotate: true
+  xy: 1424, 1798
+  size: 113, 149
+  orig: 117, 153
+  offset: 2, 0
+  index: -1
+JP/Group 170
+  rotate: false
+  xy: 2, 1774
+  size: 326, 110
+  orig: 328, 113
+  offset: 1, 2
+  index: -1
+JP/Group 170 copy
+  rotate: false
+  xy: 650, 1827
+  size: 289, 98
+  orig: 293, 100
+  offset: 3, 1
+  index: -1
+JP/Layer 1364 copy
+  rotate: false
+  xy: 427, 1953
+  size: 86, 32
+  orig: 88, 34
+  offset: 1, 1
+  index: -1
+JP/Layer 1426
+  rotate: false
+  xy: 1203, 1679
+  size: 366, 117
+  orig: 368, 119
+  offset: 1, 1
+  index: -1
+JP/Layer 158 copy
+  rotate: false
+  xy: 576, 731
+  size: 503, 344
+  orig: 506, 388
+  offset: 1, 20
+  index: -1
+JP/Layer 1590 copy 2
+  rotate: false
+  xy: 1081, 509
+  size: 633, 522
+  orig: 648, 532
+  offset: 7, 4
+  index: -1
+JP/Layer 1593 copy
+  rotate: false
+  xy: 1604, 1910
+  size: 107, 75
+  orig: 109, 78
+  offset: 1, 2
+  index: -1
+JP/Layer 1593 copy 12
+  rotate: false
+  xy: 1296, 1800
+  size: 126, 111
+  orig: 129, 118
+  offset: 1, 4
+  index: -1
+JP/Layer 1594
+  rotate: false
+  xy: 2, 1971
+  size: 393, 14
+  orig: 395, 16
+  offset: 1, 1
+  index: -1
+JP/Layer_2.1
+  rotate: true
+  xy: 812, 1150
+  size: 223, 242
+  orig: 225, 244
+  offset: 1, 1
+  index: -1
+JP/Layer_3.1
+  rotate: false
+  xy: 2, 1429
+  size: 236, 215
+  orig: 238, 217
+  offset: 1, 1
+  index: -1
+JP/nap
+  rotate: false
+  xy: 532, 1557
+  size: 412, 137
+  orig: 412, 137
+  offset: 0, 0
+  index: -1
+JP/nap close
+  rotate: false
+  xy: 946, 1540
+  size: 412, 137
+  orig: 412, 137
+  offset: 0, 0
+  index: -1
+JP/text jackpot
+  rotate: false
+  xy: 2, 1209
+  size: 808, 181
+  orig: 810, 183
+  offset: 1, 1
+  index: -1
+JP/than
+  rotate: false
+  xy: 532, 1392
+  size: 392, 163
+  orig: 394, 165
+  offset: 1, 1
+  index: -1
+JP/than2
+  rotate: false
+  xy: 926, 1375
+  size: 392, 163
+  orig: 394, 165
+  offset: 1, 1
+  index: -1
+JP/trong hop tren
+  rotate: false
+  xy: 498, 1710
+  size: 369, 115
+  orig: 369, 115
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 1056, 1077
+  size: 497, 244
+  orig: 499, 248
+  offset: 1, 2
+  index: -1
+Layer 10
+  rotate: false
+  xy: 240, 1403
+  size: 290, 177
+  orig: 292, 180
+  offset: 1, 2
+  index: -1
+Layer 11 copy
+  rotate: false
+  xy: 1320, 1323
+  size: 290, 185
+  orig: 292, 187
+  offset: 1, 1
+  index: -1
+Layer 12
+  rotate: false
+  xy: 1360, 1510
+  size: 307, 158
+  orig: 314, 162
+  offset: 1, 2
+  index: -1
+Layer 13
+  rotate: false
+  xy: 1669, 1486
+  size: 290, 171
+  orig: 292, 175
+  offset: 1, 3
+  index: -1
+Layer 15
+  rotate: true
+  xy: 2, 1646
+  size: 126, 261
+  orig: 128, 265
+  offset: 1, 1
+  index: -1
+Layer 16
+  rotate: true
+  xy: 265, 1582
+  size: 126, 265
+  orig: 128, 266
+  offset: 1, 1
+  index: -1
+Layer 18 copy
+  rotate: false
+  xy: 665, 1928
+  size: 100, 57
+  orig: 102, 60
+  offset: 1, 1
+  index: -1
+Layer 19
+  rotate: true
+  xy: 1161, 1913
+  size: 72, 219
+  orig: 73, 220
+  offset: 1, 0
+  index: -1
+Layer 2
+  rotate: true
+  xy: 2, 2
+  size: 727, 765
+  orig: 729, 768
+  offset: 1, 0
+  index: -1
+Layer 20
+  rotate: true
+  xy: 1382, 1913
+  size: 72, 220
+  orig: 73, 225
+  offset: 0, 0
+  index: -1
+Layer 22
+  rotate: false
+  xy: 2, 1887
+  size: 101, 82
+  orig: 104, 84
+  offset: 1, 1
+  index: -1
+Layer 23
+  rotate: false
+  xy: 105, 1887
+  size: 101, 82
+  orig: 104, 93
+  offset: 2, 1
+  index: -1
+Layer 25
+  rotate: true
+  xy: 1555, 1033
+  size: 262, 309
+  orig: 265, 312
+  offset: 2, 1
+  index: -1
+Layer 3
+  rotate: false
+  xy: 285, 928
+  size: 289, 279
+  orig: 291, 281
+  offset: 1, 1
+  index: -1
+Layer 4
+  rotate: false
+  xy: 2, 932
+  size: 281, 275
+  orig: 283, 276
+  offset: 1, 1
+  index: -1
+Layer 5
+  rotate: false
+  xy: 1612, 1297
+  size: 287, 187
+  orig: 289, 190
+  offset: 1, 1
+  index: -1
+fire_fx_00
+  rotate: true
+  xy: 578, 1947
+  size: 38, 40
+  orig: 125, 250
+  offset: 85, 3
+  index: -1
+fire_fx_01
+  rotate: true
+  xy: 620, 1946
+  size: 39, 43
+  orig: 125, 250
+  offset: 84, 10
+  index: -1
+fire_fx_02
+  rotate: true
+  xy: 767, 1928
+  size: 57, 81
+  orig: 125, 250
+  offset: 68, 18
+  index: -1
+fire_fx_03
+  rotate: true
+  xy: 850, 1927
+  size: 58, 105
+  orig: 125, 250
+  offset: 67, 27
+  index: -1
+fire_fx_04
+  rotate: true
+  xy: 1040, 1917
+  size: 68, 119
+  orig: 125, 250
+  offset: 57, 31
+  index: -1
+fire_fx_05
+  rotate: true
+  xy: 1807, 1906
+  size: 79, 148
+  orig: 125, 250
+  offset: 46, 30
+  index: -1
+fire_fx_06
+  rotate: true
+  xy: 208, 1886
+  size: 83, 158
+  orig: 125, 250
+  offset: 42, 34
+  index: -1
+fire_fx_07
+  rotate: true
+  xy: 368, 1858
+  size: 92, 167
+  orig: 125, 250
+  offset: 33, 36
+  index: -1
+fire_fx_08
+  rotate: true
+  xy: 941, 1816
+  size: 99, 176
+  orig: 125, 250
+  offset: 26, 37
+  index: -1
+fire_fx_09
+  rotate: true
+  xy: 1119, 1808
+  size: 103, 175
+  orig: 125, 250
+  offset: 22, 42
+  index: -1
+fire_fx_10
+  rotate: true
+  xy: 1575, 1795
+  size: 113, 169
+  orig: 125, 250
+  offset: 12, 57
+  index: -1
+fire_fx_11
+  rotate: true
+  xy: 330, 1739
+  size: 117, 166
+  orig: 125, 250
+  offset: 8, 67
+  index: -1
+fire_fx_12
+  rotate: true
+  xy: 869, 1696
+  size: 118, 165
+  orig: 125, 250
+  offset: 7, 70
+  index: -1
+fire_fx_13
+  rotate: true
+  xy: 1036, 1684
+  size: 122, 165
+  orig: 125, 250
+  offset: 3, 72
+  index: -1
+fire_fx_14
+  rotate: true
+  xy: 1727, 1662
+  size: 124, 159
+  orig: 125, 250
+  offset: 1, 77
+  index: -1
+fire_fx_15
+  rotate: true
+  xy: 1888, 1659
+  size: 124, 155
+  orig: 125, 250
+  offset: 0, 78
+  index: -1
+fire_fx_16
+  rotate: true
+  xy: 1571, 1670
+  size: 123, 154
+  orig: 125, 250
+  offset: 0, 80
+  index: -1
+fire_fx_17
+  rotate: true
+  xy: 1892, 1785
+  size: 119, 146
+  orig: 125, 250
+  offset: 0, 91
+  index: -1
+fire_fx_18
+  rotate: true
+  xy: 1746, 1788
+  size: 116, 144
+  orig: 125, 250
+  offset: 0, 92
+  index: -1
+fire_fx_19
+  rotate: false
+  xy: 537, 1841
+  size: 111, 103
+  orig: 125, 250
+  offset: 0, 132
+  index: -1
+fire_fx_20
+  rotate: false
+  xy: 1713, 1910
+  size: 92, 75
+  orig: 125, 250
+  offset: 8, 156
+  index: -1
+fire_fx_21
+  rotate: false
+  xy: 957, 1922
+  size: 81, 63
+  orig: 125, 250
+  offset: 14, 165
+  index: -1
+fire_fx_22
+  rotate: false
+  xy: 515, 1952
+  size: 61, 33
+  orig: 125, 250
+  offset: 26, 192
+  index: -1
+fire_fx_23
+  rotate: false
+  xy: 397, 1959
+  size: 28, 26
+  orig: 125, 250
+  offset: 56, 196
+  index: -1
+
+ThanTai2.png
+size: 1873,1421
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JP/Layer 1590
+  rotate: true
+  xy: 2, 2
+  size: 1417, 993
+  orig: 1462, 1017
+  offset: 21, 11
+  index: -1
+JP/ptc_406
+  rotate: true
+  xy: 997, 484
+  size: 935, 874
+  orig: 1033, 1033
+  offset: 70, 99
+  index: -1

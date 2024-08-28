@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "2db51f32-b6a7-4e05-b8d4-2ca98c77fb66",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 113,
+  "height": 38,
+  "platformSettings": {},
+  "subMetas": {
+    "thanh_giong_linebet_frame.png": {
+      "ver": "1.0.6",
+      "uuid": "c41c4027-59d3-400e-9b54-ee2326a13b2c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "2db51f32-b6a7-4e05-b8d4-2ca98c77fb66",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 113,
+      "height": 38,
+      "rawWidth": 113,
+      "rawHeight": 38,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

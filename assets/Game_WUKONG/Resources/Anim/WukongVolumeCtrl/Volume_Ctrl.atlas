@@ -1,0 +1,27 @@
+
+Volume_Ctrl.png
+size: 286,84
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BG_VolumeCtrl
+  rotate: true
+  xy: 2, 12
+  size: 70, 264
+  orig: 70, 264
+  offset: 0, 0
+  index: -1
+G_Volume
+  rotate: true
+  xy: 2, 2
+  size: 8, 156
+  orig: 8, 156
+  offset: 0, 0
+  index: -1
+PosDummy
+  rotate: false
+  xy: 268, 66
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1

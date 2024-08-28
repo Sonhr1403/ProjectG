@@ -1,0 +1,48 @@
+
+L1_spine.png
+size: 459,307
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L1/base
+  rotate: false
+  xy: 204, 3
+  size: 143, 136
+  orig: 143, 136
+  offset: 0, 0
+  index: -1
+L1/base_glow
+  rotate: false
+  xy: 2, 112
+  size: 200, 193
+  orig: 200, 193
+  offset: 0, 0
+  index: -1
+L1/base_glow_1
+  rotate: true
+  xy: 349, 14
+  size: 125, 108
+  orig: 125, 108
+  offset: 0, 0
+  index: -1
+L1/base_glow_2
+  rotate: false
+  xy: 204, 141
+  size: 173, 164
+  orig: 173, 164
+  offset: 0, 0
+  index: -1
+L1/base_glow_3
+  rotate: false
+  xy: 2, 2
+  size: 188, 108
+  orig: 188, 108
+  offset: 0, 0
+  index: -1
+L1/ft
+  rotate: true
+  xy: 379, 176
+  size: 129, 61
+  orig: 129, 61
+  offset: 0, 0
+  index: -1

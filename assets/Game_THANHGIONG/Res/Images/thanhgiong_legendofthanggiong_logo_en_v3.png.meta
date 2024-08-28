@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "427c4e8c-f9fe-4004-95c8-e0ca8667e50c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1080,
+  "height": 270,
+  "platformSettings": {},
+  "subMetas": {
+    "thanhgiong_legendofthanggiong_logo_en_v3": {
+      "ver": "1.0.6",
+      "uuid": "dbd075c1-a456-4da7-9bfa-43653ab2d0ef",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "427c4e8c-f9fe-4004-95c8-e0ca8667e50c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 3,
+      "trimX": 92,
+      "trimY": 35,
+      "width": 897,
+      "height": 194,
+      "rawWidth": 1080,
+      "rawHeight": 270,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

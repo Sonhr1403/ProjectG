@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d546c434-024d-4503-9784-a58d566b0c7f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 64,
+  "height": 64,
+  "platformSettings": {},
+  "subMetas": {
+    "Vanessa_coin_symbol": {
+      "ver": "1.0.6",
+      "uuid": "7cee28d4-a11a-4182-ba33-3ec3ea049071",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d546c434-024d-4503-9784-a58d566b0c7f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 62,
+      "height": 62,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

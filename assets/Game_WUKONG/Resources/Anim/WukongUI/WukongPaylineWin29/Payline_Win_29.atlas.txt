@@ -1,0 +1,13 @@
+
+Payline_Win_29.png
+size: 572,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Payline/Payline_29
+  rotate: false
+  xy: 2, 2
+  size: 568, 280
+  orig: 864, 486
+  offset: 148, 127
+  index: -1

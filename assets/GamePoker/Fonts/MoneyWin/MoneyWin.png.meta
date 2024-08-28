@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "896f41c0-0a7f-4dd3-aefb-5aa2d9167b3e",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 128,
+  "platformSettings": {},
+  "subMetas": {
+    "MoneyWin": {
+      "ver": "1.0.6",
+      "uuid": "0d784fec-8496-47dc-b802-fe5c6bce5332",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "896f41c0-0a7f-4dd3-aefb-5aa2d9167b3e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -54,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 148,
+      "height": 127,
+      "rawWidth": 256,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

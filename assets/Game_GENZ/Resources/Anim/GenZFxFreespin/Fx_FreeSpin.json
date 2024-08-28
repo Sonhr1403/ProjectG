@@ -1,0 +1,2173 @@
+{
+  "skeleton": { "hash": "pFlqviM+1GD1MfqTNOSsqH3I4BA", "spine": "3.8.99" },
+  "bones": [
+    { "name": "root" },
+    { "name": "All", "parent": "root" },
+    { "name": "Typo_Congu", "parent": "All", "y": 779.8 },
+    {
+      "name": "Fnt_SpinNum",
+      "parent": "All",
+      "x": 15,
+      "y": 350,
+      "scaleX": 1.8,
+      "scaleY": 1.8
+    },
+    { "name": "Btn_FreeSpin", "parent": "All" },
+    {
+      "name": "Fnt_FreeSpin",
+      "parent": "All",
+      "y": -129.34,
+      "scaleX": 1.25,
+      "scaleY": 1.25
+    },
+    { "name": "Typo_FreeS", "parent": "All", "y": -125.79 },
+    { "name": "Typo_Continue", "parent": "All", "y": -1151.99 },
+    { "name": "Typo_Total", "parent": "All", "y": 225.61 },
+    { "name": "BG", "parent": "All", "y": -490 },
+    {
+      "name": "Flash",
+      "parent": "All",
+      "x": -1.8,
+      "y": -344.29,
+      "scaleX": 3.5,
+      "scaleY": 3.5
+    },
+    { "name": "FreeSpin_Count_0", "parent": "BG", "x": -840, "y": -120 },
+    { "name": "FreeSpin_Count_1", "parent": "BG", "x": -630, "y": -120 },
+    { "name": "FreeSpin_Count_2", "parent": "BG", "x": -420, "y": -120 },
+    { "name": "FreeSpin_Count_3", "parent": "BG", "x": -210, "y": -120 },
+    { "name": "FreeSpin_Count_4", "parent": "BG", "y": -120 },
+    { "name": "FreeSpin_Count_5", "parent": "BG", "x": 210, "y": -120 },
+    { "name": "FreeSpin_Count_6", "parent": "BG", "x": 420, "y": -120 },
+    { "name": "FreeSpin_Count_7", "parent": "BG", "x": 630, "y": -120 },
+    { "name": "FreeSpin_Count_8", "parent": "BG", "x": 840, "y": -120 },
+    {
+      "name": "LineGlow",
+      "parent": "All",
+      "y": 291.72,
+      "scaleX": 1.61,
+      "scaleY": 3.6785
+    },
+    {
+      "name": "LineParticle",
+      "parent": "All",
+      "rotation": 180,
+      "y": -42.34,
+      "scaleX": 2,
+      "scaleY": 2
+    },
+    {
+      "name": "LineParticle2",
+      "parent": "All",
+      "rotation": 180,
+      "x": -388.96,
+      "y": -42.34,
+      "scaleX": 2,
+      "scaleY": 2
+    },
+    {
+      "name": "LineParticle3",
+      "parent": "All",
+      "rotation": 180,
+      "x": 363.79,
+      "y": -42.34,
+      "scaleX": 2,
+      "scaleY": 2
+    },
+    { "name": "Gra", "parent": "All" },
+    { "name": "BG2", "parent": "root", "y": 395 }
+  ],
+  "slots": [
+    {
+      "name": "BG/Color_BG",
+      "bone": "root",
+      "color": "00000085",
+      "attachment": "BG/Color_BG"
+    },
+    { "name": "Fx/Fx_BG", "bone": "All" },
+    {
+      "name": "Fx/Light",
+      "bone": "Flash",
+      "color": "ffffff00",
+      "attachment": "Fx/BG_Flash2",
+      "blend": "additive"
+    },
+    { "name": "Fx/FreeSpin_BG_2", "bone": "BG2" },
+    {
+      "name": "Fx/FreeSpin_BG_1",
+      "bone": "All",
+      "attachment": "Fx/FreeSpin_BG_1",
+      "blend": "additive"
+    },
+    { "name": "BG/Center_Gra", "bone": "All", "color": "000000ff" },
+    {
+      "name": "Fx/FreeSpin_Count_BG",
+      "bone": "FreeSpin_Count_0",
+      "attachment": "Fx/FreeSpin_Count_BG"
+    },
+    {
+      "name": "Fx/FreeSpin_Count_BG2",
+      "bone": "FreeSpin_Count_1",
+      "attachment": "Fx/FreeSpin_Count_BG"
+    },
+    {
+      "name": "Fx/FreeSpin_Count_BG3",
+      "bone": "FreeSpin_Count_2",
+      "attachment": "Fx/FreeSpin_Count_BG"
+    },
+    {
+      "name": "Fx/FreeSpin_Count_BG4",
+      "bone": "FreeSpin_Count_3",
+      "attachment": "Fx/FreeSpin_Count_BG"
+    },
+    {
+      "name": "Fx/FreeSpin_Count_BG5",
+      "bone": "FreeSpin_Count_4",
+      "attachment": "Fx/FreeSpin_Count_BG"
+    },
+    {
+      "name": "Fx/FreeSpin_Count_BG6",
+      "bone": "FreeSpin_Count_5",
+      "attachment": "Fx/FreeSpin_Count_BG"
+    },
+    {
+      "name": "Fx/FreeSpin_Count_BG7",
+      "bone": "FreeSpin_Count_6",
+      "attachment": "Fx/FreeSpin_Count_BG"
+    },
+    {
+      "name": "Fx/FreeSpin_Count_BG8",
+      "bone": "FreeSpin_Count_7",
+      "attachment": "Fx/FreeSpin_Count_BG"
+    },
+    {
+      "name": "Fx/FreeSpin_Count_BG9",
+      "bone": "FreeSpin_Count_8",
+      "attachment": "Fx/FreeSpin_Count_BG"
+    },
+    {
+      "name": "Fx/Typo_Congu",
+      "bone": "Typo_Congu",
+      "attachment": "Fx/Typo_Congu"
+    },
+    {
+      "name": "Fx/Typo_Won2",
+      "bone": "Typo_Total",
+      "attachment": "Fx/Typo_TotalWin"
+    },
+    {
+      "name": "Fnt_SpinNum",
+      "bone": "Fnt_SpinNum",
+      "color": "ffffff00",
+      "attachment": "BG/PosDummy"
+    },
+    {
+      "name": "FreeSpin_Count_8",
+      "bone": "FreeSpin_Count_8",
+      "attachment": "BG/PosDummy"
+    },
+    {
+      "name": "FreeSpin_Count_7",
+      "bone": "FreeSpin_Count_7",
+      "attachment": "BG/PosDummy"
+    },
+    {
+      "name": "FreeSpin_Count_6",
+      "bone": "FreeSpin_Count_6",
+      "attachment": "BG/PosDummy"
+    },
+    {
+      "name": "FreeSpin_Count_5",
+      "bone": "FreeSpin_Count_5",
+      "attachment": "BG/PosDummy"
+    },
+    {
+      "name": "FreeSpin_Count_4",
+      "bone": "FreeSpin_Count_4",
+      "attachment": "BG/PosDummy"
+    },
+    {
+      "name": "FreeSpin_Count_3",
+      "bone": "FreeSpin_Count_3",
+      "attachment": "BG/PosDummy"
+    },
+    {
+      "name": "FreeSpin_Count_2",
+      "bone": "FreeSpin_Count_2",
+      "attachment": "BG/PosDummy"
+    },
+    {
+      "name": "FreeSpin_Count_1",
+      "bone": "FreeSpin_Count_1",
+      "attachment": "BG/PosDummy"
+    },
+    {
+      "name": "FreeSpin_Count_0",
+      "bone": "FreeSpin_Count_0",
+      "attachment": "BG/PosDummy"
+    },
+    {
+      "name": "BG/Center_Gra2",
+      "bone": "All",
+      "color": "ff8c00ff",
+      "blend": "additive"
+    },
+    {
+      "name": "Fx/Typo_Continue",
+      "bone": "Typo_Continue",
+      "attachment": "Fx/Typo_Continue"
+    },
+    {
+      "name": "Fx/Typo_FreeSpins",
+      "bone": "Typo_FreeS",
+      "attachment": "Fx/Typo_FreeSpins"
+    },
+    {
+      "name": "Fnt_FreeSpin",
+      "bone": "Fnt_FreeSpin",
+      "color": "ffffff00",
+      "attachment": "BG/PosDummy"
+    },
+    {
+      "name": "Btn_FreeSpin",
+      "bone": "Btn_FreeSpin",
+      "color": "ffffff00",
+      "attachment": "BG/PosDummy"
+    },
+    { "name": "Fx/lineGlow", "bone": "LineGlow", "blend": "additive" },
+    { "name": "Fx/partLine_2", "bone": "LineParticle", "blend": "additive" },
+    { "name": "Fx/partLine_3", "bone": "LineParticle2", "blend": "additive" },
+    { "name": "Fx/partLine_4", "bone": "LineParticle3", "blend": "additive" },
+    { "name": "BG/GraBG", "bone": "Gra", "blend": "additive" }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "BG/Center_Gra": {
+          "BG/Center_Gra": {
+            "y": -370.59,
+            "scaleX": 169.3672,
+            "scaleY": 1.815,
+            "rotation": 180,
+            "width": 33,
+            "height": 385
+          }
+        },
+        "BG/Center_Gra2": {
+          "BG/Center_Gra": {
+            "y": -1008.26,
+            "scaleX": 169.3672,
+            "scaleY": 1.815,
+            "rotation": 180,
+            "width": 33,
+            "height": 385
+          }
+        },
+        "BG/Color_BG": {
+          "BG/Color_BG": {
+            "x": -3.22,
+            "y": 622.24,
+            "scaleX": 64.7529,
+            "scaleY": 207.3444,
+            "width": 64,
+            "height": 64
+          }
+        },
+        "BG/GraBG": {
+          "BG/GraBG": {
+            "y": -267.52,
+            "scaleX": 48.9052,
+            "rotation": 180,
+            "width": 26,
+            "height": 458
+          }
+        },
+        "Btn_FreeSpin": { "BG/PosDummy": { "width": 1, "height": 1 } },
+        "Fnt_FreeSpin": { "BG/PosDummy": { "width": 1, "height": 1 } },
+        "Fnt_SpinNum": { "BG/PosDummy": { "width": 1, "height": 1 } },
+        "FreeSpin_Count_0": { "BG/PosDummy": { "width": 1, "height": 1 } },
+        "FreeSpin_Count_1": { "BG/PosDummy": { "width": 1, "height": 1 } },
+        "FreeSpin_Count_2": { "BG/PosDummy": { "width": 1, "height": 1 } },
+        "FreeSpin_Count_3": { "BG/PosDummy": { "width": 1, "height": 1 } },
+        "FreeSpin_Count_4": { "BG/PosDummy": { "width": 1, "height": 1 } },
+        "FreeSpin_Count_5": { "BG/PosDummy": { "width": 1, "height": 1 } },
+        "FreeSpin_Count_6": { "BG/PosDummy": { "width": 1, "height": 1 } },
+        "FreeSpin_Count_7": { "BG/PosDummy": { "width": 1, "height": 1 } },
+        "FreeSpin_Count_8": { "BG/PosDummy": { "width": 1, "height": 1 } },
+        "Fx/FreeSpin_BG_1": {
+          "Fx/FreeSpin_BG_1": {
+            "y": 242.25,
+            "scaleX": 2,
+            "scaleY": 2,
+            "width": 600,
+            "height": 600
+          }
+        },
+        "Fx/FreeSpin_BG_2": {
+          "Fx/FreeSpin_BG_2": {
+            "scaleX": 3.77,
+            "scaleY": 3.77,
+            "width": 540,
+            "height": 405
+          }
+        },
+        "Fx/FreeSpin_Count_BG": {
+          "Fx/FreeSpin_Count_BG": {
+            "scaleX": 1.777,
+            "scaleY": 1.777,
+            "width": 110,
+            "height": 440
+          }
+        },
+        "Fx/FreeSpin_Count_BG2": {
+          "Fx/FreeSpin_Count_BG": {
+            "scaleX": 1.777,
+            "scaleY": 1.777,
+            "width": 110,
+            "height": 440
+          }
+        },
+        "Fx/FreeSpin_Count_BG3": {
+          "Fx/FreeSpin_Count_BG": {
+            "scaleX": 1.777,
+            "scaleY": 1.777,
+            "width": 110,
+            "height": 440
+          }
+        },
+        "Fx/FreeSpin_Count_BG4": {
+          "Fx/FreeSpin_Count_BG": {
+            "scaleX": 1.777,
+            "scaleY": 1.777,
+            "width": 110,
+            "height": 440
+          }
+        },
+        "Fx/FreeSpin_Count_BG5": {
+          "Fx/FreeSpin_Count_BG": {
+            "scaleX": 1.777,
+            "scaleY": 1.777,
+            "width": 110,
+            "height": 440
+          }
+        },
+        "Fx/FreeSpin_Count_BG6": {
+          "Fx/FreeSpin_Count_BG": {
+            "scaleX": 1.777,
+            "scaleY": 1.777,
+            "width": 110,
+            "height": 440
+          }
+        },
+        "Fx/FreeSpin_Count_BG7": {
+          "Fx/FreeSpin_Count_BG": {
+            "scaleX": 1.777,
+            "scaleY": 1.777,
+            "width": 110,
+            "height": 440
+          }
+        },
+        "Fx/FreeSpin_Count_BG8": {
+          "Fx/FreeSpin_Count_BG": {
+            "scaleX": 1.777,
+            "scaleY": 1.777,
+            "width": 110,
+            "height": 440
+          }
+        },
+        "Fx/FreeSpin_Count_BG9": {
+          "Fx/FreeSpin_Count_BG": {
+            "scaleX": 1.777,
+            "scaleY": 1.777,
+            "width": 110,
+            "height": 440
+          }
+        },
+        "Fx/Fx_BG": {
+          "Fx/Fx_BG": {
+            "y": -490,
+            "scaleX": 1.777,
+            "scaleY": 1.777,
+            "width": 634,
+            "height": 1904
+          }
+        },
+        "Fx/Light": { "Fx/BG_Flash2": { "width": 759, "height": 713 } },
+        "Fx/Typo_Congu": {
+          "Fx/Typo_Congu": {
+            "scaleX": 1.7,
+            "scaleY": 1.7,
+            "width": 1053,
+            "height": 107
+          }
+        },
+        "Fx/Typo_Continue": {
+          "Fx/Typo_Continue": {
+            "scaleX": 1.8,
+            "scaleY": 1.8,
+            "width": 1012,
+            "height": 68
+          }
+        },
+        "Fx/Typo_FreeSpins": {
+          "Fx/Typo_FreeSpins": {
+            "y": 23.97,
+            "scaleX": 1.8,
+            "scaleY": 1.8,
+            "width": 670,
+            "height": 126
+          }
+        },
+        "Fx/Typo_Won2": {
+          "Fx/Typo_TotalWin": {
+            "scaleX": 1.5,
+            "scaleY": 1.5,
+            "width": 810,
+            "height": 126
+          }
+        },
+        "Fx/lineGlow": {
+          "Fx/lineGlow": {
+            "scaleX": 2,
+            "scaleY": 2,
+            "width": 592,
+            "height": 24
+          }
+        },
+        "Fx/partLine_2": {
+          "Fx/partLine_2": { "width": 845, "height": 457 },
+          "Fx/partLine_3": { "width": 845, "height": 457 },
+          "Fx/partLine_4": { "width": 845, "height": 457 },
+          "Fx/partLine_5": { "width": 845, "height": 457 },
+          "Fx/partLine_6": { "width": 845, "height": 457 },
+          "Fx/partLine_7": { "width": 845, "height": 457 },
+          "Fx/partLine_8": { "width": 845, "height": 457 },
+          "Fx/partLine_9": { "width": 845, "height": 457 },
+          "Fx/partLine_10": { "width": 845, "height": 457 },
+          "Fx/partLine_11": { "width": 845, "height": 457 },
+          "Fx/partLine_12": { "width": 845, "height": 457 },
+          "Fx/partLine_13": { "width": 845, "height": 457 },
+          "Fx/partLine_14": { "width": 845, "height": 457 },
+          "Fx/partLine_15": { "width": 845, "height": 457 },
+          "Fx/partLine_16": { "width": 845, "height": 457 },
+          "Fx/partLine_17": { "width": 845, "height": 457 },
+          "Fx/partLine_18": { "width": 845, "height": 457 },
+          "Fx/partLine_19": { "width": 845, "height": 457 },
+          "Fx/partLine_20": { "width": 845, "height": 457 }
+        },
+        "Fx/partLine_3": {
+          "Fx/partLine_2": { "width": 845, "height": 457 },
+          "Fx/partLine_3": { "width": 845, "height": 457 },
+          "Fx/partLine_4": { "width": 845, "height": 457 },
+          "Fx/partLine_5": { "width": 845, "height": 457 },
+          "Fx/partLine_6": { "width": 845, "height": 457 },
+          "Fx/partLine_7": { "width": 845, "height": 457 },
+          "Fx/partLine_8": { "width": 845, "height": 457 },
+          "Fx/partLine_9": { "width": 845, "height": 457 },
+          "Fx/partLine_10": { "width": 845, "height": 457 },
+          "Fx/partLine_11": { "width": 845, "height": 457 },
+          "Fx/partLine_12": { "width": 845, "height": 457 },
+          "Fx/partLine_13": { "width": 845, "height": 457 },
+          "Fx/partLine_14": { "width": 845, "height": 457 },
+          "Fx/partLine_15": { "width": 845, "height": 457 },
+          "Fx/partLine_16": { "width": 845, "height": 457 },
+          "Fx/partLine_17": { "width": 845, "height": 457 },
+          "Fx/partLine_18": { "width": 845, "height": 457 },
+          "Fx/partLine_19": { "width": 845, "height": 457 },
+          "Fx/partLine_20": { "width": 845, "height": 457 }
+        },
+        "Fx/partLine_4": {
+          "Fx/partLine_2": { "width": 845, "height": 457 },
+          "Fx/partLine_3": { "width": 845, "height": 457 },
+          "Fx/partLine_4": { "width": 845, "height": 457 },
+          "Fx/partLine_5": { "width": 845, "height": 457 },
+          "Fx/partLine_6": { "width": 845, "height": 457 },
+          "Fx/partLine_7": { "width": 845, "height": 457 },
+          "Fx/partLine_8": { "width": 845, "height": 457 },
+          "Fx/partLine_9": { "width": 845, "height": 457 },
+          "Fx/partLine_10": { "width": 845, "height": 457 },
+          "Fx/partLine_11": { "width": 845, "height": 457 },
+          "Fx/partLine_12": { "width": 845, "height": 457 },
+          "Fx/partLine_13": { "width": 845, "height": 457 },
+          "Fx/partLine_14": { "width": 845, "height": 457 },
+          "Fx/partLine_15": { "width": 845, "height": 457 },
+          "Fx/partLine_16": { "width": 845, "height": 457 },
+          "Fx/partLine_17": { "width": 845, "height": 457 },
+          "Fx/partLine_18": { "width": 845, "height": 457 },
+          "Fx/partLine_19": { "width": 845, "height": 457 },
+          "Fx/partLine_20": { "width": 845, "height": 457 }
+        }
+      }
+    }
+  ],
+  "events": {
+    "EnterFreeSpin": { "audio": "EnterFreeSpin.mp3" },
+    "FreeSpinEnd": { "audio": "FreeSpinEnd.mp3" },
+    "FreeSpinIn": { "audio": "FreeSpinIn.mp3" },
+    "NumberSpin": { "audio": "NumberSpin.mp3" },
+    "PT_Bubble_Start2": {
+      "string": "{\"event_type\": \"particle\", \"name\": \"Bubble_Up2\", \"action\": \"start\"}"
+    },
+    "Shake": {
+      "string": "{\"event_type\":\"shake\", \"dx\":15,\"dy\":15,\"duration\":2000,\"is_scaling_remain_time\":true}"
+    },
+    "SymbolIntoReel": { "audio": "SymbolIntoReel.mp3" }
+  },
+  "animations": {
+    "Default": {
+      "slots": {
+        "BG/Color_BG": { "attachment": [{ "name": null }] },
+        "Btn_FreeSpin": { "attachment": [{ "name": null }] },
+        "Fnt_FreeSpin": { "attachment": [{ "name": null }] },
+        "Fnt_SpinNum": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_BG_1": { "color": [{ "color": "ffffff00" }] },
+        "Fx/FreeSpin_Count_BG": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG2": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG3": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG4": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG5": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG6": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG7": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG8": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG9": { "attachment": [{ "name": null }] },
+        "Fx/Typo_Congu": { "attachment": [{ "name": null }] },
+        "Fx/Typo_Continue": { "attachment": [{ "name": null }] },
+        "Fx/Typo_FreeSpins": { "attachment": [{ "name": null }] },
+        "Fx/Typo_Won2": { "attachment": [{ "name": null }] }
+      }
+    },
+    "FreeSpinEnd_Active": {
+      "slots": {
+        "BG/Color_BG": {
+          "color": [
+            { "color": "00000000" },
+            { "time": 0.3333, "color": "000000e0" }
+          ]
+        },
+        "Btn_FreeSpin": {
+          "color": [
+            { "time": 0.5, "color": "ffffff00" },
+            { "time": 1, "color": "ffffffff" }
+          ]
+        },
+        "Fnt_FreeSpin": {
+          "color": [
+            { "time": 0.6667, "color": "ffffff00" },
+            { "time": 1, "color": "ffffffff" }
+          ]
+        },
+        "FreeSpin_Count_0": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_1": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_2": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_3": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_4": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_5": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_6": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_7": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_8": { "color": [{ "color": "ffffff00" }] },
+        "Fx/FreeSpin_BG_1": { "color": [{ "color": "ffffff00" }] },
+        "Fx/FreeSpin_Count_BG": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG2": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG3": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG4": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG5": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG6": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG7": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG8": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG9": { "attachment": [{ "name": null }] },
+        "Fx/Fx_BG": {
+          "color": [
+            { "color": "ffffff00" },
+            { "time": 0.3333, "color": "ffffffff" }
+          ],
+          "attachment": [{ "name": "Fx/Fx_BG" }]
+        },
+        "Fx/Light": {
+          "color": [
+            { "time": 0.6667, "color": "ffffff00" },
+            { "time": 1, "color": "ffffffff" }
+          ]
+        },
+        "Fx/Typo_Congu": {
+          "color": [
+            { "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+            { "time": 0.3333, "color": "ffffffff" }
+          ]
+        },
+        "Fx/Typo_Continue": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 0.6667, "color": "ffffff00" },
+            { "time": 1, "color": "ffffffff" }
+          ]
+        },
+        "Fx/Typo_FreeSpins": {
+          "color": [{ "color": "ffffff00" }],
+          "attachment": [{ "name": null }]
+        },
+        "Fx/Typo_Won2": {
+          "color": [
+            { "time": 0.3333, "color": "ffffff00" },
+            { "time": 0.6667, "color": "ffffffff" }
+          ],
+          "attachment": [
+            { "name": null },
+            { "time": 0.3333, "name": "Fx/Typo_TotalWin" }
+          ]
+        }
+      },
+      "bones": {
+        "Fnt_FreeSpin": {
+          "scale": [
+            {
+              "time": 0.6667,
+              "x": 3,
+              "y": 3,
+              "curve": 0.25,
+              "c3": 0.645,
+              "c4": 1.44
+            },
+            { "time": 1 }
+          ]
+        },
+        "All": {
+          "translate": [{ "y": 80 }],
+          "scale": [{ "x": 0.55, "y": 0.55 }]
+        },
+        "Flash": { "translate": [{ "y": 214.95 }] },
+        "Typo_Congu": {
+          "translate": [{ "y": -247.17 }],
+          "scale": [
+            { "x": 2, "y": 2, "curve": 0, "c2": 0.28, "c3": 0.687, "c4": 1.4 },
+            { "time": 0.3333 }
+          ]
+        },
+        "Typo_Continue": { "translate": [{ "y": 208.34 }] },
+        "Typo_Total": {
+          "translate": [{ "y": -932.16 }],
+          "scale": [
+            {
+              "time": 0.3333,
+              "x": 2,
+              "y": 2,
+              "curve": 0,
+              "c2": 0.44,
+              "c3": 0.691,
+              "c4": 1.33
+            },
+            { "time": 0.6667 }
+          ]
+        },
+        "BG2": { "translate": [{ "y": -476.1 }], "scale": [{ "y": 0.834 }] }
+      },
+      "events": [{ "name": "FreeSpinEnd" }, { "name": "PT_Bubble_Start2" }]
+    },
+    "FreeSpinEnd_Active_Portrait": {
+      "slots": {
+        "BG/Color_BG": {
+          "color": [
+            { "color": "00000000" },
+            { "time": 0.3333, "color": "000000b3" }
+          ]
+        },
+        "Btn_FreeSpin": {
+          "color": [
+            { "time": 0.5, "color": "ffffff00" },
+            { "time": 1, "color": "ffffffff" }
+          ]
+        },
+        "Fnt_FreeSpin": {
+          "color": [
+            { "time": 0.6667, "color": "ffffff00" },
+            { "time": 1, "color": "ffffffff" }
+          ]
+        },
+        "FreeSpin_Count_0": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_1": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_2": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_3": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_4": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_5": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_6": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_7": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_8": { "color": [{ "color": "ffffff00" }] },
+        "Fx/FreeSpin_BG_1": { "color": [{ "color": "ffffff00" }] },
+        "Fx/FreeSpin_Count_BG": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG2": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG3": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG4": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG5": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG6": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG7": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG8": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG9": { "attachment": [{ "name": null }] },
+        "Fx/Fx_BG": {
+          "color": [
+            { "color": "ffffff00" },
+            { "time": 0.3333, "color": "ffffffff" }
+          ],
+          "attachment": [{ "name": "Fx/Fx_BG" }]
+        },
+        "Fx/Light": {
+          "color": [
+            { "time": 0.6667, "color": "ffffff00" },
+            { "time": 1, "color": "ffffffff" }
+          ]
+        },
+        "Fx/Typo_Congu": {
+          "color": [
+            { "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+            { "time": 0.3333, "color": "ffffffff" }
+          ]
+        },
+        "Fx/Typo_Continue": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 0.6667, "color": "ffffff00" },
+            { "time": 1, "color": "ffffffff" }
+          ]
+        },
+        "Fx/Typo_FreeSpins": {
+          "color": [{ "color": "ffffff00" }],
+          "attachment": [{ "name": null }]
+        },
+        "Fx/Typo_Won2": {
+          "color": [
+            { "time": 0.3333, "color": "ffffff00" },
+            { "time": 0.6667, "color": "ffffffff" }
+          ],
+          "attachment": [
+            { "name": null },
+            { "time": 0.3333, "name": "Fx/Typo_TotalWin" }
+          ]
+        }
+      },
+      "bones": {
+        "Fnt_FreeSpin": {
+          "scale": [
+            {
+              "time": 0.6667,
+              "x": 3,
+              "y": 3,
+              "curve": 0.25,
+              "c3": 0.645,
+              "c4": 1.44
+            },
+            { "time": 1 }
+          ]
+        },
+        "Flash": { "translate": [{ "y": 214.95 }] },
+        "Typo_Congu": {
+          "translate": [{ "y": -247.17 }],
+          "scale": [
+            { "x": 2, "y": 2, "curve": 0, "c2": 0.28, "c3": 0.687, "c4": 1.4 },
+            { "time": 0.3333 }
+          ]
+        },
+        "Typo_Continue": { "translate": [{ "y": 208.34 }] },
+        "Typo_Total": {
+          "translate": [{ "y": -932.16 }],
+          "scale": [
+            {
+              "time": 0.3333,
+              "x": 2,
+              "y": 2,
+              "curve": 0,
+              "c2": 0.44,
+              "c3": 0.691,
+              "c4": 1.33
+            },
+            { "time": 0.6667 }
+          ]
+        }
+      },
+      "events": [{ "name": "FreeSpinEnd" }, { "name": "PT_Bubble_Start2" }]
+    },
+    "FreeSpinEnd_End": {
+      "slots": {
+        "BG/Color_BG": {
+          "color": [
+            { "color": "000000e0" },
+            { "time": 0.3333, "color": "00000000" }
+          ]
+        },
+        "Btn_FreeSpin": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fnt_FreeSpin": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "FreeSpin_Count_0": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_1": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_2": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_3": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_4": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_5": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_6": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_7": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_8": { "color": [{ "color": "ffffff00" }] },
+        "Fx/FreeSpin_BG_1": { "color": [{ "color": "ffffff00" }] },
+        "Fx/FreeSpin_Count_BG": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG2": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG3": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG4": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG5": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG6": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG7": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG8": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG9": { "attachment": [{ "name": null }] },
+        "Fx/Fx_BG": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ],
+          "attachment": [{ "name": "Fx/Fx_BG" }]
+        },
+        "Fx/Light": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/Typo_Congu": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/Typo_Continue": {
+          "color": [
+            { "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/Typo_FreeSpins": {
+          "color": [{ "color": "ffffff00" }],
+          "attachment": [{ "name": null }]
+        },
+        "Fx/Typo_Won2": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        }
+      },
+      "bones": {
+        "Fnt_FreeSpin": {
+          "scale": [
+            { "curve": 0.25, "c3": 0.75 },
+            { "time": 0.3333, "x": 2, "y": 2 }
+          ]
+        },
+        "All": {
+          "translate": [{ "y": 80 }],
+          "scale": [{ "x": 0.55, "y": 0.55 }]
+        },
+        "Flash": { "translate": [{ "y": 214.95 }] },
+        "Typo_Congu": { "translate": [{ "y": -247.17 }] },
+        "Typo_Continue": { "translate": [{ "y": 208.34 }] },
+        "Typo_Total": { "translate": [{ "y": -932.16 }] },
+        "BG2": { "translate": [{ "y": -476.1 }], "scale": [{ "y": 0.834 }] }
+      }
+    },
+    "FreeSpinEnd_End_Portrait": {
+      "slots": {
+        "BG/Color_BG": {
+          "color": [
+            { "color": "000000b3" },
+            { "time": 0.3333, "color": "00000000" }
+          ]
+        },
+        "Btn_FreeSpin": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fnt_FreeSpin": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "FreeSpin_Count_0": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_1": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_2": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_3": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_4": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_5": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_6": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_7": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_8": { "color": [{ "color": "ffffff00" }] },
+        "Fx/FreeSpin_BG_1": { "color": [{ "color": "ffffff00" }] },
+        "Fx/FreeSpin_Count_BG": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG2": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG3": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG4": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG5": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG6": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG7": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG8": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG9": { "attachment": [{ "name": null }] },
+        "Fx/Fx_BG": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ],
+          "attachment": [{ "name": "Fx/Fx_BG" }]
+        },
+        "Fx/Light": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/Typo_Congu": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/Typo_Continue": {
+          "color": [
+            { "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/Typo_FreeSpins": {
+          "color": [{ "color": "ffffff00" }],
+          "attachment": [{ "name": null }]
+        },
+        "Fx/Typo_Won2": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        }
+      },
+      "bones": {
+        "Fnt_FreeSpin": {
+          "scale": [
+            { "curve": 0.25, "c3": 0.75 },
+            { "time": 0.3333, "x": 2, "y": 2 }
+          ]
+        },
+        "Flash": { "translate": [{ "y": 214.95 }] },
+        "Typo_Congu": { "translate": [{ "y": -247.17 }] },
+        "Typo_Continue": { "translate": [{ "y": 208.34 }] },
+        "Typo_Total": { "translate": [{ "y": -932.16 }] }
+      }
+    },
+    "FreeSpinEnd_Loop": {
+      "slots": {
+        "BG/Color_BG": { "color": [{ "color": "000000e0" }] },
+        "Btn_FreeSpin": { "color": [{ "color": "ffffffff" }] },
+        "Fnt_FreeSpin": { "color": [{ "color": "ffffffff" }] },
+        "FreeSpin_Count_0": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_1": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_2": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_3": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_4": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_5": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_6": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_7": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_8": { "color": [{ "color": "ffffff00" }] },
+        "Fx/FreeSpin_BG_1": { "color": [{ "color": "ffffff00" }] },
+        "Fx/FreeSpin_Count_BG": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG2": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG3": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG4": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG5": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG6": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG7": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG8": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG9": { "attachment": [{ "name": null }] },
+        "Fx/Fx_BG": { "attachment": [{ "name": "Fx/Fx_BG" }] },
+        "Fx/Light": { "color": [{ "color": "ffffffff" }] },
+        "Fx/Typo_Continue": {
+          "color": [
+            { "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+            { "time": 1, "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+            { "time": 2, "color": "ffffffff" }
+          ]
+        },
+        "Fx/Typo_FreeSpins": {
+          "color": [{ "color": "ffffff00" }],
+          "attachment": [{ "name": null }]
+        }
+      },
+      "bones": {
+        "Fnt_FreeSpin": {
+          "scale": [
+            { "curve": 0.25, "c3": 0.75 },
+            { "time": 1, "x": 1.2, "y": 1.2, "curve": 0.25, "c3": 0.75 },
+            { "time": 2 }
+          ]
+        },
+        "All": {
+          "translate": [{ "y": 80 }],
+          "scale": [{ "x": 0.55, "y": 0.55 }]
+        },
+        "Flash": {
+          "translate": [{ "y": 214.95 }],
+          "scale": [{}, { "time": 1, "x": 1.333, "y": 1.333 }, { "time": 2 }]
+        },
+        "Typo_Continue": { "translate": [{ "y": 208.34 }] },
+        "Typo_Total": { "translate": [{ "y": -932.16 }] },
+        "Typo_Congu": { "translate": [{ "y": -247.17 }] },
+        "BG2": { "translate": [{ "y": -476.1 }], "scale": [{ "y": 0.834 }] }
+      }
+    },
+    "FreeSpinEnd_Loop_Portrait": {
+      "slots": {
+        "BG/Color_BG": { "color": [{ "color": "000000b3" }] },
+        "Btn_FreeSpin": { "color": [{ "color": "ffffffff" }] },
+        "Fnt_FreeSpin": { "color": [{ "color": "ffffffff" }] },
+        "FreeSpin_Count_0": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_1": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_2": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_3": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_4": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_5": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_6": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_7": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_8": { "color": [{ "color": "ffffff00" }] },
+        "Fx/FreeSpin_BG_1": { "color": [{ "color": "ffffff00" }] },
+        "Fx/FreeSpin_Count_BG": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG2": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG3": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG4": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG5": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG6": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG7": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG8": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG9": { "attachment": [{ "name": null }] },
+        "Fx/Fx_BG": { "attachment": [{ "name": "Fx/Fx_BG" }] },
+        "Fx/Light": { "color": [{ "color": "ffffffff" }] },
+        "Fx/Typo_Continue": {
+          "color": [
+            { "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+            { "time": 1, "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+            { "time": 2, "color": "ffffffff" }
+          ]
+        },
+        "Fx/Typo_FreeSpins": {
+          "color": [{ "color": "ffffff00" }],
+          "attachment": [{ "name": null }]
+        }
+      },
+      "bones": {
+        "Fnt_FreeSpin": {
+          "scale": [
+            { "curve": 0.25, "c3": 0.75 },
+            { "time": 1, "x": 1.2, "y": 1.2, "curve": 0.25, "c3": 0.75 },
+            { "time": 2 }
+          ]
+        },
+        "Flash": {
+          "translate": [{ "y": 214.95 }],
+          "scale": [{}, { "time": 1, "x": 1.333, "y": 1.333 }, { "time": 2 }]
+        },
+        "Typo_Continue": { "translate": [{ "y": 208.34 }] },
+        "Typo_Total": { "translate": [{ "y": -932.16 }] },
+        "Typo_Congu": { "translate": [{ "y": -247.17 }] }
+      }
+    },
+    "FreeSpinStart_Active": {
+      "slots": {
+        "BG/Center_Gra": {
+          "color": [
+            { "color": "00000000" },
+            { "time": 0.1667, "color": "000000ff" }
+          ],
+          "attachment": [{ "name": "BG/Center_Gra" }]
+        },
+        "BG/Center_Gra2": {
+          "color": [
+            { "color": "ff8c0000", "curve": "stepped" },
+            { "time": 3.3333, "color": "ff8c0000" },
+            { "time": 3.6, "color": "ff8c00ff" }
+          ],
+          "attachment": [{ "name": "BG/Center_Gra" }]
+        },
+        "BG/Color_BG": {
+          "color": [
+            { "color": "00000000" },
+            { "time": 0.3333, "color": "00000095" },
+            { "time": 2, "color": "000000b3" }
+          ]
+        },
+        "Btn_FreeSpin": {
+          "color": [
+            { "time": 6.6, "color": "ffffff00" },
+            { "time": 7, "color": "ffffffff" }
+          ]
+        },
+        "Fnt_SpinNum": {
+          "color": [
+            { "time": 3.7333, "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+            { "time": 4, "color": "ffffffff" }
+          ]
+        },
+        "FreeSpin_Count_0": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 1.6667, "color": "ffffff00" },
+            { "time": 2, "color": "ffffffff" }
+          ]
+        },
+        "FreeSpin_Count_1": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 1.8333, "color": "ffffff00" },
+            { "time": 2.1667, "color": "ffffffff" }
+          ]
+        },
+        "FreeSpin_Count_2": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 2, "color": "ffffff00" },
+            { "time": 2.3333, "color": "ffffffff" }
+          ]
+        },
+        "FreeSpin_Count_3": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 2.1667, "color": "ffffff00" },
+            { "time": 2.5, "color": "ffffffff" }
+          ]
+        },
+        "FreeSpin_Count_4": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 2.3333, "color": "ffffff00" },
+            { "time": 2.6667, "color": "ffffffff" }
+          ]
+        },
+        "FreeSpin_Count_5": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 2.5, "color": "ffffff00" },
+            { "time": 2.8333, "color": "ffffffff" }
+          ]
+        },
+        "FreeSpin_Count_6": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 2.6667, "color": "ffffff00" },
+            { "time": 3, "color": "ffffffff" }
+          ]
+        },
+        "FreeSpin_Count_7": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 2.8333, "color": "ffffff00" },
+            { "time": 3.1667, "color": "ffffffff" }
+          ]
+        },
+        "FreeSpin_Count_8": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 3, "color": "ffffff00" },
+            { "time": 3.3333, "color": "ffffffff" }
+          ]
+        },
+        "Fx/FreeSpin_BG_1": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 0.3333, "color": "ffffff00" },
+            { "time": 0.6667, "color": "ffffffff" }
+          ]
+        },
+        "Fx/FreeSpin_BG_2": {
+          "color": [
+            { "color": "ffffff00" },
+            { "time": 0.3333, "color": "ffffffff" }
+          ],
+          "attachment": [{ "name": "Fx/FreeSpin_BG_2" }]
+        },
+        "Fx/FreeSpin_Count_BG": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 1.6667, "color": "ffffff00" },
+            { "time": 2, "color": "ffffffff" }
+          ]
+        },
+        "Fx/FreeSpin_Count_BG2": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 1.8333, "color": "ffffff00" },
+            { "time": 2.1667, "color": "ffffffff" }
+          ]
+        },
+        "Fx/FreeSpin_Count_BG3": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 2, "color": "ffffff00" },
+            { "time": 2.3333, "color": "ffffffff" }
+          ]
+        },
+        "Fx/FreeSpin_Count_BG4": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 2.1667, "color": "ffffff00" },
+            { "time": 2.5, "color": "ffffffff" }
+          ]
+        },
+        "Fx/FreeSpin_Count_BG5": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 2.3333, "color": "ffffff00" },
+            { "time": 2.6667, "color": "ffffffff" }
+          ]
+        },
+        "Fx/FreeSpin_Count_BG6": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 2.5, "color": "ffffff00" },
+            { "time": 2.8333, "color": "ffffffff" }
+          ]
+        },
+        "Fx/FreeSpin_Count_BG7": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 2.6667, "color": "ffffff00" },
+            { "time": 3, "color": "ffffffff" }
+          ]
+        },
+        "Fx/FreeSpin_Count_BG8": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 2.8333, "color": "ffffff00" },
+            { "time": 3.1667, "color": "ffffffff" }
+          ]
+        },
+        "Fx/FreeSpin_Count_BG9": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 3, "color": "ffffff00" },
+            { "time": 3.3333, "color": "ffffffff" }
+          ]
+        },
+        "Fx/Light": {
+          "color": [
+            { "time": 15.5, "color": "ffffff00" },
+            { "time": 15.8333, "color": "ffffffff" }
+          ]
+        },
+        "Fx/Typo_Congu": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 0.8, "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+            { "time": 1.0667, "color": "ffffffff" }
+          ]
+        },
+        "Fx/Typo_Continue": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 15.8667, "color": "ffffff00" },
+            { "time": 16.1667, "color": "ffffffff" }
+          ]
+        },
+        "Fx/Typo_FreeSpins": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            {
+              "time": 15.6667,
+              "color": "ffffff00",
+              "curve": 0,
+              "c2": 0.28,
+              "c3": 0.75
+            },
+            { "time": 15.8, "color": "ffffffff" }
+          ]
+        },
+        "Fx/Typo_Won2": {
+          "color": [{ "color": "ffffff00" }],
+          "attachment": [{ "name": null }]
+        }
+      },
+      "bones": {
+        "All": { "scale": [{ "x": 0.55, "y": 0.55 }] },
+        "Fnt_SpinNum": {
+          "translate": [
+            { "time": 3.2 },
+            { "time": 3.7333, "y": -95.06, "curve": 0.25, "c3": 0.75 },
+            { "time": 4 }
+          ]
+        },
+        "BG2": { "translate": [{ "y": -476.1 }], "scale": [{ "y": 0.834 }] },
+        "Flash": {
+          "scale": [
+            {
+              "time": 15.5,
+              "x": 0,
+              "y": 0,
+              "curve": 0,
+              "c2": 0.55,
+              "c3": 0.75
+            },
+            { "time": 15.8333 }
+          ]
+        },
+        "Typo_Congu": {
+          "scale": [
+            { "x": 2, "y": 2, "curve": "stepped" },
+            {
+              "time": 0.8,
+              "x": 2,
+              "y": 2,
+              "curve": 0,
+              "c2": 0.28,
+              "c3": 0.687,
+              "c4": 1.4
+            },
+            { "time": 1.0667 }
+          ]
+        },
+        "Typo_Continue": { "translate": [{ "y": 797.89 }] },
+        "Typo_FreeS": {
+          "translate": [{ "y": 74.71 }],
+          "scale": [
+            { "time": 4.0667 },
+            {
+              "time": 15.6667,
+              "x": 2,
+              "y": 2,
+              "curve": 0,
+              "c2": 0.28,
+              "c3": 0.674,
+              "c4": 1.17
+            },
+            { "time": 15.8 }
+          ]
+        },
+        "BG": {
+          "scale": [
+            { "x": 0, "y": 0, "curve": "stepped" },
+            { "time": 1, "x": 0, "y": 0, "curve": 0, "c2": 0.37, "c3": 0.75 },
+            { "time": 1.2667 }
+          ]
+        }
+      },
+      "events": [
+        { "name": "FreeSpinIn" },
+        { "time": 1.6667, "name": "NumberSpin" }
+      ]
+    },
+    "FreeSpinStart_Active_Portrait": {
+      "slots": {
+        "BG/Center_Gra": {
+          "color": [
+            { "color": "00000000" },
+            { "time": 0.1667, "color": "000000ff" }
+          ],
+          "attachment": [{ "name": "BG/Center_Gra" }]
+        },
+        "BG/Color_BG": {
+          "color": [
+            { "color": "00000000" },
+            { "time": 0.3333, "color": "00000095" },
+            { "time": 2, "color": "000000b3" }
+          ]
+        },
+        "Btn_FreeSpin": {
+          "color": [
+            { "time": 6.6, "color": "ffffff00" },
+            { "time": 7, "color": "ffffffff" }
+          ]
+        },
+        "Fnt_SpinNum": {
+          "color": [
+            { "time": 3.7333, "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+            { "time": 4, "color": "ffffffff" }
+          ]
+        },
+        "FreeSpin_Count_0": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 1.6667, "color": "ffffff00" },
+            { "time": 2, "color": "ffffffff" }
+          ]
+        },
+        "FreeSpin_Count_1": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 1.8333, "color": "ffffff00" },
+            { "time": 2.1667, "color": "ffffffff" }
+          ]
+        },
+        "FreeSpin_Count_2": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 2, "color": "ffffff00" },
+            { "time": 2.3333, "color": "ffffffff" }
+          ]
+        },
+        "FreeSpin_Count_3": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 2.1667, "color": "ffffff00" },
+            { "time": 2.5, "color": "ffffffff" }
+          ]
+        },
+        "FreeSpin_Count_4": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 2.3333, "color": "ffffff00" },
+            { "time": 2.6667, "color": "ffffffff" }
+          ]
+        },
+        "FreeSpin_Count_5": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 2.5, "color": "ffffff00" },
+            { "time": 2.8333, "color": "ffffffff" }
+          ]
+        },
+        "FreeSpin_Count_6": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 2.6667, "color": "ffffff00" },
+            { "time": 3, "color": "ffffffff" }
+          ]
+        },
+        "FreeSpin_Count_7": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 2.8333, "color": "ffffff00" },
+            { "time": 3.1667, "color": "ffffffff" }
+          ]
+        },
+        "FreeSpin_Count_8": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 3, "color": "ffffff00" },
+            { "time": 3.3333, "color": "ffffffff" }
+          ]
+        },
+        "Fx/FreeSpin_BG_1": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 0.3333, "color": "ffffff00" },
+            { "time": 0.6667, "color": "ffffffff" }
+          ]
+        },
+        "Fx/FreeSpin_BG_2": {
+          "color": [
+            { "color": "ffffff00" },
+            { "time": 0.3333, "color": "ffffffff" }
+          ],
+          "attachment": [{ "name": "Fx/FreeSpin_BG_2" }]
+        },
+        "Fx/FreeSpin_Count_BG": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 1.6667, "color": "ffffff00" },
+            { "time": 2, "color": "ffffffff" }
+          ]
+        },
+        "Fx/FreeSpin_Count_BG2": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 1.8333, "color": "ffffff00" },
+            { "time": 2.1667, "color": "ffffffff" }
+          ]
+        },
+        "Fx/FreeSpin_Count_BG3": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 2, "color": "ffffff00" },
+            { "time": 2.3333, "color": "ffffffff" }
+          ]
+        },
+        "Fx/FreeSpin_Count_BG4": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 2.1667, "color": "ffffff00" },
+            { "time": 2.5, "color": "ffffffff" }
+          ]
+        },
+        "Fx/FreeSpin_Count_BG5": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 2.3333, "color": "ffffff00" },
+            { "time": 2.6667, "color": "ffffffff" }
+          ]
+        },
+        "Fx/FreeSpin_Count_BG6": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 2.5, "color": "ffffff00" },
+            { "time": 2.8333, "color": "ffffffff" }
+          ]
+        },
+        "Fx/FreeSpin_Count_BG7": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 2.6667, "color": "ffffff00" },
+            { "time": 3, "color": "ffffffff" }
+          ]
+        },
+        "Fx/FreeSpin_Count_BG8": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 2.8333, "color": "ffffff00" },
+            { "time": 3.1667, "color": "ffffffff" }
+          ]
+        },
+        "Fx/FreeSpin_Count_BG9": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 3, "color": "ffffff00" },
+            { "time": 3.3333, "color": "ffffffff" }
+          ]
+        },
+        "Fx/Light": {
+          "color": [
+            { "time": 15.5, "color": "ffffff00" },
+            { "time": 15.8333, "color": "ffffffff" }
+          ]
+        },
+        "Fx/Typo_Congu": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 0.8, "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+            { "time": 1.0667, "color": "ffffffff" }
+          ]
+        },
+        "Fx/Typo_Continue": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            { "time": 15.8667, "color": "ffffff00" },
+            { "time": 16.1667, "color": "ffffffff" }
+          ]
+        },
+        "Fx/Typo_FreeSpins": {
+          "color": [
+            { "color": "ffffff00", "curve": "stepped" },
+            {
+              "time": 15.6667,
+              "color": "ffffff00",
+              "curve": 0,
+              "c2": 0.28,
+              "c3": 0.75
+            },
+            { "time": 15.8, "color": "ffffffff" }
+          ]
+        },
+        "Fx/Typo_Won2": {
+          "color": [{ "color": "ffffff00" }],
+          "attachment": [{ "name": null }]
+        }
+      },
+      "bones": {
+        "Fnt_SpinNum": {
+          "translate": [
+            { "time": 3.2 },
+            { "time": 3.7333, "y": -95.06, "curve": 0.25, "c3": 0.75 },
+            { "time": 4 }
+          ]
+        },
+        "Flash": {
+          "scale": [
+            {
+              "time": 15.5,
+              "x": 0,
+              "y": 0,
+              "curve": 0,
+              "c2": 0.55,
+              "c3": 0.75
+            },
+            { "time": 15.8333 }
+          ]
+        },
+        "Typo_Congu": {
+          "scale": [
+            { "x": 2, "y": 2, "curve": "stepped" },
+            {
+              "time": 0.8,
+              "x": 2,
+              "y": 2,
+              "curve": 0,
+              "c2": 0.28,
+              "c3": 0.687,
+              "c4": 1.4
+            },
+            { "time": 1.0667 }
+          ]
+        },
+        "Typo_FreeS": {
+          "scale": [
+            { "time": 4.0667 },
+            {
+              "time": 15.6667,
+              "x": 2,
+              "y": 2,
+              "curve": 0,
+              "c2": 0.28,
+              "c3": 0.674,
+              "c4": 1.17
+            },
+            { "time": 15.8 }
+          ]
+        },
+        "BG": {
+          "scale": [
+            { "x": 0, "y": 0, "curve": "stepped" },
+            { "time": 1, "x": 0, "y": 0, "curve": 0, "c2": 0.37, "c3": 0.75 },
+            { "time": 1.2667 }
+          ]
+        }
+      },
+      "events": [
+        { "name": "FreeSpinIn" },
+        { "time": 1.6667, "name": "NumberSpin" }
+      ]
+    },
+    "FreeSpinStart_End": {
+      "slots": {
+        "BG/Center_Gra": {
+          "color": [
+            { "color": "000000ff" },
+            { "time": 0.3333, "color": "00000000" }
+          ],
+          "attachment": [{ "name": "BG/Center_Gra" }]
+        },
+        "BG/Center_Gra2": {
+          "color": [
+            { "color": "ff8c00ff" },
+            { "time": 0.3333, "color": "ff8c0000" }
+          ],
+          "attachment": [{ "name": "BG/Center_Gra" }]
+        },
+        "BG/Color_BG": {
+          "color": [
+            { "color": "000000b3" },
+            { "time": 0.3333, "color": "00000000" }
+          ]
+        },
+        "Btn_FreeSpin": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.1667, "color": "ffffff00" }
+          ]
+        },
+        "Fnt_SpinNum": {
+          "color": [
+            { "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "FreeSpin_Count_0": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "FreeSpin_Count_1": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "FreeSpin_Count_2": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "FreeSpin_Count_3": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "FreeSpin_Count_4": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "FreeSpin_Count_5": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "FreeSpin_Count_6": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "FreeSpin_Count_7": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "FreeSpin_Count_8": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/FreeSpin_BG_1": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/FreeSpin_BG_2": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ],
+          "attachment": [{ "name": "Fx/FreeSpin_BG_2" }]
+        },
+        "Fx/FreeSpin_Count_BG": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/FreeSpin_Count_BG2": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/FreeSpin_Count_BG3": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/FreeSpin_Count_BG4": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/FreeSpin_Count_BG5": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/FreeSpin_Count_BG6": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/FreeSpin_Count_BG7": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/FreeSpin_Count_BG8": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/FreeSpin_Count_BG9": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/Light": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/Typo_Congu": {
+          "color": [
+            { "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/Typo_Continue": {
+          "color": [
+            { "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/Typo_FreeSpins": {
+          "color": [
+            { "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/Typo_Won2": {
+          "color": [{ "color": "ffffff00" }],
+          "attachment": [{ "name": null }]
+        }
+      },
+      "bones": {
+        "All": { "scale": [{ "x": 0.55, "y": 0.55 }] },
+        "BG2": { "translate": [{ "y": -476.1 }], "scale": [{ "y": 0.834 }] },
+        "Typo_Continue": { "translate": [{ "y": 797.89 }] },
+        "Typo_FreeS": { "translate": [{ "y": 74.71 }] }
+      },
+      "events": [{ "name": "EnterFreeSpin" }, { "name": "PT_Bubble_Start2" }]
+    },
+    "FreeSpinStart_End_Portrait": {
+      "slots": {
+        "BG/Center_Gra": {
+          "color": [
+            { "color": "000000ff" },
+            { "time": 0.3333, "color": "00000000" }
+          ],
+          "attachment": [{ "name": "BG/Center_Gra" }]
+        },
+        "BG/Color_BG": {
+          "color": [
+            { "color": "000000b3" },
+            { "time": 0.3333, "color": "00000000" }
+          ]
+        },
+        "Btn_FreeSpin": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.1667, "color": "ffffff00" }
+          ]
+        },
+        "Fnt_SpinNum": {
+          "color": [
+            { "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "FreeSpin_Count_0": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "FreeSpin_Count_1": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "FreeSpin_Count_2": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "FreeSpin_Count_3": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "FreeSpin_Count_4": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "FreeSpin_Count_5": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "FreeSpin_Count_6": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "FreeSpin_Count_7": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "FreeSpin_Count_8": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/FreeSpin_BG_1": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/FreeSpin_BG_2": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ],
+          "attachment": [{ "name": "Fx/FreeSpin_BG_2" }]
+        },
+        "Fx/FreeSpin_Count_BG": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/FreeSpin_Count_BG2": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/FreeSpin_Count_BG3": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/FreeSpin_Count_BG4": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/FreeSpin_Count_BG5": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/FreeSpin_Count_BG6": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/FreeSpin_Count_BG7": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/FreeSpin_Count_BG8": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/FreeSpin_Count_BG9": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/Light": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/Typo_Congu": {
+          "color": [
+            { "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/Typo_Continue": {
+          "color": [
+            { "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/Typo_FreeSpins": {
+          "color": [
+            { "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        },
+        "Fx/Typo_Won2": {
+          "color": [{ "color": "ffffff00" }],
+          "attachment": [{ "name": null }]
+        }
+      },
+      "events": [{ "name": "EnterFreeSpin" }, { "name": "PT_Bubble_Start2" }]
+    },
+    "FreeSpinStart_Loop": {
+      "slots": {
+        "BG/Center_Gra": { "attachment": [{ "name": "BG/Center_Gra" }] },
+        "BG/Center_Gra2": {
+          "color": [
+            { "color": "ff8c00ff" },
+            { "time": 1, "color": "ff8c0000" },
+            { "time": 2, "color": "ff8c00ff" }
+          ],
+          "attachment": [{ "name": "BG/Center_Gra" }]
+        },
+        "BG/Color_BG": { "color": [{ "color": "000000b3" }] },
+        "Btn_FreeSpin": { "color": [{ "color": "ffffffff" }] },
+        "Fnt_SpinNum": { "color": [{ "color": "ffffffff" }] },
+        "Fx/FreeSpin_BG_2": { "attachment": [{ "name": "Fx/FreeSpin_BG_2" }] },
+        "Fx/Light": { "color": [{ "color": "ffffffff" }] },
+        "Fx/Typo_Continue": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 1, "color": "ffffff00" },
+            { "time": 2, "color": "ffffffff" }
+          ]
+        },
+        "Fx/Typo_Won2": {
+          "color": [{ "color": "ffffff00" }],
+          "attachment": [{ "name": null }]
+        }
+      },
+      "bones": {
+        "All": { "scale": [{ "x": 0.55, "y": 0.55 }] },
+        "Fnt_SpinNum": {
+          "scale": [
+            { "curve": 0.25, "c3": 0.75 },
+            { "time": 0.5, "x": 1.1, "y": 1.1, "curve": 0.25, "c3": 0.75 },
+            { "time": 1, "curve": 0.25, "c3": 0.75 },
+            { "time": 1.5, "x": 1.1, "y": 1.1, "curve": 0.25, "c3": 0.75 },
+            { "time": 2 }
+          ]
+        },
+        "BG2": { "translate": [{ "y": -476.1 }], "scale": [{ "y": 0.834 }] },
+        "Flash": {
+          "scale": [{}, { "time": 1, "x": 1.333, "y": 1.333 }, { "time": 2 }]
+        },
+        "Typo_Continue": { "translate": [{ "y": 797.89 }] },
+        "Typo_FreeS": { "translate": [{ "y": 74.71 }] }
+      }
+    },
+    "FreeSpinStart_Loop_Portrait": {
+      "slots": {
+        "BG/Center_Gra": { "attachment": [{ "name": "BG/Center_Gra" }] },
+        "BG/Color_BG": { "color": [{ "color": "000000b3" }] },
+        "Btn_FreeSpin": { "color": [{ "color": "ffffffff" }] },
+        "Fnt_SpinNum": { "color": [{ "color": "ffffffff" }] },
+        "Fx/FreeSpin_BG_2": { "attachment": [{ "name": "Fx/FreeSpin_BG_2" }] },
+        "Fx/Light": { "color": [{ "color": "ffffffff" }] },
+        "Fx/Typo_Continue": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 1, "color": "ffffff00" },
+            { "time": 2, "color": "ffffffff" }
+          ]
+        },
+        "Fx/Typo_Won2": {
+          "color": [{ "color": "ffffff00" }],
+          "attachment": [{ "name": null }]
+        }
+      },
+      "bones": {
+        "Fnt_SpinNum": {
+          "scale": [
+            { "curve": 0.25, "c3": 0.75 },
+            { "time": 0.5, "x": 1.1, "y": 1.1, "curve": 0.25, "c3": 0.75 },
+            { "time": 1, "curve": 0.25, "c3": 0.75 },
+            { "time": 1.5, "x": 1.1, "y": 1.1, "curve": 0.25, "c3": 0.75 },
+            { "time": 2 }
+          ]
+        },
+        "Flash": {
+          "scale": [{}, { "time": 1, "x": 1.333, "y": 1.333 }, { "time": 2 }]
+        }
+      }
+    },
+    "FreeSpin_Idle": {
+      "slots": {
+        "BG/Color_BG": { "attachment": [{ "name": null }] },
+        "Btn_FreeSpin": { "attachment": [{ "name": null }] },
+        "Fnt_FreeSpin": { "attachment": [{ "name": null }] },
+        "Fnt_SpinNum": { "attachment": [{ "name": null }] },
+        "FreeSpin_Count_0": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_1": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_2": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_3": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_4": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_5": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_6": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_7": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_8": { "color": [{ "color": "ffffff00" }] },
+        "Fx/FreeSpin_BG_1": { "color": [{ "color": "ffffff00" }] },
+        "Fx/FreeSpin_Count_BG": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG2": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG3": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG4": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG5": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG6": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG7": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG8": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG9": { "attachment": [{ "name": null }] },
+        "Fx/Typo_Congu": { "attachment": [{ "name": null }] },
+        "Fx/Typo_Continue": { "attachment": [{ "name": null }] },
+        "Fx/Typo_FreeSpins": { "attachment": [{ "name": null }] },
+        "Fx/Typo_Won2": { "attachment": [{ "name": null }] }
+      }
+    },
+    "Hide": {
+      "slots": {
+        "BG/Color_BG": { "attachment": [{ "name": null }] },
+        "Btn_FreeSpin": { "attachment": [{ "name": null }] },
+        "Fnt_FreeSpin": { "attachment": [{ "name": null }] },
+        "Fnt_SpinNum": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_BG_1": { "color": [{ "color": "ffffff00" }] },
+        "Fx/FreeSpin_Count_BG": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG2": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG3": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG4": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG5": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG6": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG7": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG8": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG9": { "attachment": [{ "name": null }] },
+        "Fx/Typo_Congu": { "attachment": [{ "name": null }] },
+        "Fx/Typo_Continue": { "attachment": [{ "name": null }] },
+        "Fx/Typo_FreeSpins": { "attachment": [{ "name": null }] },
+        "Fx/Typo_Won2": { "attachment": [{ "name": null }] }
+      }
+    },
+    "Idle": {
+      "slots": {
+        "BG/Color_BG": { "attachment": [{ "name": null }] },
+        "Btn_FreeSpin": { "attachment": [{ "name": null }] },
+        "Fnt_FreeSpin": { "attachment": [{ "name": null }] },
+        "Fnt_SpinNum": { "attachment": [{ "name": null }] },
+        "FreeSpin_Count_0": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_1": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_2": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_3": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_4": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_5": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_6": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_7": { "color": [{ "color": "ffffff00" }] },
+        "FreeSpin_Count_8": { "color": [{ "color": "ffffff00" }] },
+        "Fx/FreeSpin_BG_1": { "color": [{ "color": "ffffff00" }] },
+        "Fx/FreeSpin_Count_BG": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG2": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG3": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG4": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG5": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG6": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG7": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG8": { "attachment": [{ "name": null }] },
+        "Fx/FreeSpin_Count_BG9": { "attachment": [{ "name": null }] },
+        "Fx/Typo_Congu": { "attachment": [{ "name": null }] },
+        "Fx/Typo_Continue": { "attachment": [{ "name": null }] },
+        "Fx/Typo_FreeSpins": { "attachment": [{ "name": null }] },
+        "Fx/Typo_Won2": { "attachment": [{ "name": null }] }
+      }
+    }
+  }
+}

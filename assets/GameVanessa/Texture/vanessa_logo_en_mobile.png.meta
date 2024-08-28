@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "be8964f2-7cf0-4326-9fe2-59d03d8ceaf4",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 578,
+  "height": 209,
+  "platformSettings": {},
+  "subMetas": {
+    "vanessa_logo_en_mobile": {
+      "ver": "1.0.6",
+      "uuid": "2ad1e98d-8346-4b22-b8e1-98f9d3c9dfad",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "be8964f2-7cf0-4326-9fe2-59d03d8ceaf4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": 3,
+      "trimX": 42,
+      "trimY": 14,
+      "width": 490,
+      "height": 175,
+      "rawWidth": 578,
+      "rawHeight": 209,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

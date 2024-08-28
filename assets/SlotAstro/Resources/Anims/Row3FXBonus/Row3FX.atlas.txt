@@ -1,0 +1,34 @@
+
+Row3FX.png
+size: 609,529
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+antiSandSide1
+  rotate: false
+  xy: 503, 64
+  size: 104, 266
+  orig: 122, 285
+  offset: 10, 16
+  index: -1
+antiSandSide2_0
+  rotate: false
+  xy: 2, 2
+  size: 485, 116
+  orig: 498, 136
+  offset: 10, 8
+  index: -1
+antiSandSide3
+  rotate: true
+  xy: 2, 120
+  size: 210, 499
+  orig: 214, 503
+  offset: 2, 2
+  index: -1
+antiSandSide4_0
+  rotate: false
+  xy: 2, 332
+  size: 604, 195
+  orig: 612, 211
+  offset: 6, 2
+  index: -1

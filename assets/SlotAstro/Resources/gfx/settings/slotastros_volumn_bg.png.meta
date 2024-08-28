@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "75a3e3c4-ca76-44c8-ada8-fe215f0aac2e",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 461,
+  "height": 53,
+  "platformSettings": {},
+  "subMetas": {
+    "slotastros_volumn_bg": {
+      "ver": "1.0.6",
+      "uuid": "421be2c4-6ba2-4589-b711-fa3a0dab7212",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "75a3e3c4-ca76-44c8-ada8-fe215f0aac2e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 459,
+      "height": 51,
+      "rawWidth": 461,
+      "rawHeight": 53,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

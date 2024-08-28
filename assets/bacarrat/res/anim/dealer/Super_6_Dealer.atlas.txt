@@ -1,0 +1,139 @@
+
+Super_6_Dealer.png
+size: 313,546
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm
+  rotate: true
+  xy: 124, 6
+  size: 29, 104
+  orig: 29, 104
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 151
+  size: 92, 135
+  orig: 96, 149
+  offset: 2, 7
+  index: -1
+Bubble_Invite_Bet
+  rotate: true
+  xy: 193, 384
+  size: 160, 63
+  orig: 178, 64
+  offset: 5, 1
+  index: -1
+Bubble_Stop_Bet
+  rotate: true
+  xy: 96, 126
+  size: 160, 63
+  orig: 178, 64
+  offset: 5, 1
+  index: -1
+Card
+  rotate: true
+  xy: 161, 127
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+Card_Box
+  rotate: true
+  xy: 95, 37
+  size: 87, 86
+  orig: 88, 86
+  offset: 1, 0
+  index: -1
+Card_Trash
+  rotate: false
+  xy: 193, 295
+  size: 83, 87
+  orig: 84, 87
+  offset: 1, 0
+  index: -1
+Forearm_1
+  rotate: true
+  xy: 2, 2
+  size: 33, 120
+  orig: 58, 121
+  offset: 14, 1
+  index: -1
+Forearm_2
+  rotate: false
+  xy: 270, 180
+  size: 37, 109
+  orig: 58, 121
+  offset: 10, 12
+  index: -1
+Forearm_3
+  rotate: false
+  xy: 161, 165
+  size: 41, 121
+  orig: 58, 121
+  offset: 5, 0
+  index: -1
+Forearm_4
+  rotate: false
+  xy: 278, 291
+  size: 33, 120
+  orig: 58, 121
+  offset: 15, 1
+  index: -1
+Forearm_5
+  rotate: false
+  xy: 204, 172
+  size: 32, 121
+  orig: 58, 121
+  offset: 18, 0
+  index: -1
+Forearm_6
+  rotate: false
+  xy: 258, 413
+  size: 46, 131
+  orig: 46, 131
+  offset: 0, 0
+  index: -1
+Forearm_Shadow
+  rotate: false
+  xy: 238, 173
+  size: 30, 120
+  orig: 72, 151
+  offset: 21, 16
+  index: -1
+Hair
+  rotate: false
+  xy: 2, 288
+  size: 189, 256
+  orig: 189, 266
+  offset: 0, 10
+  index: -1
+Hair_Back
+  rotate: false
+  xy: 237, 32
+  size: 50, 46
+  orig: 50, 50
+  offset: 0, 4
+  index: -1
+Hair_Forehead
+  rotate: false
+  xy: 2, 37
+  size: 91, 112
+  orig: 91, 112
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 183, 62
+  size: 52, 63
+  orig: 52, 65
+  offset: 0, 0
+  index: -1
+mai2
+  rotate: false
+  xy: 237, 80
+  size: 59, 90
+  orig: 59, 90
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+H3_spine.png
+size: 429,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H3/car
+  rotate: true
+  xy: 252, 36
+  size: 194, 175
+  orig: 194, 175
+  offset: 0, 0
+  index: -1
+H3/car_glow
+  rotate: false
+  xy: 2, 2
+  size: 248, 228
+  orig: 248, 228
+  offset: 0, 0
+  index: -1

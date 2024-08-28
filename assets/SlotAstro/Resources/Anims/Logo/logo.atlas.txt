@@ -1,0 +1,132 @@
+
+logo.png
+size: 2003,1279
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+activatorActiveBigFx1_0
+  rotate: false
+  xy: 1535, 59
+  size: 196, 163
+  orig: 202, 171
+  offset: 3, 4
+  index: -1
+extraWinGoldGlow
+  rotate: false
+  xy: 1801, 238
+  size: 191, 195
+  orig: 204, 208
+  offset: 6, 7
+  index: -1
+featSwapKing
+  rotate: false
+  xy: 696, 565
+  size: 538, 712
+  orig: 542, 716
+  offset: 2, 2
+  index: -1
+kingCloud1
+  rotate: true
+  xy: 1563, 224
+  size: 209, 236
+  orig: 213, 240
+  offset: 2, 2
+  index: -1
+logo
+  rotate: true
+  xy: 620, 52
+  size: 472, 175
+  orig: 487, 181
+  offset: 7, 4
+  index: -1
+logoPlate
+  rotate: false
+  xy: 797, 2
+  size: 615, 226
+  orig: 619, 230
+  offset: 2, 2
+  index: -1
+logoPlateShine0
+  rotate: false
+  xy: 1839, 500
+  size: 108, 175
+  orig: 118, 189
+  offset: 5, 3
+  index: -1
+logoPlateShine1
+  rotate: false
+  xy: 1858, 980
+  size: 143, 297
+  orig: 150, 312
+  offset: 5, 5
+  index: -1
+logoPlateShine2
+  rotate: true
+  xy: 1858, 677
+  size: 301, 140
+  orig: 323, 149
+  offset: 9, 5
+  index: -1
+logoPlateShine3
+  rotate: true
+  xy: 1414, 59
+  size: 186, 119
+  orig: 200, 128
+  offset: 3, 5
+  index: -1
+logoSun
+  rotate: false
+  xy: 1733, 52
+  size: 174, 170
+  orig: 181, 180
+  offset: 5, 4
+  index: -1
+megaWinGlowSm
+  rotate: false
+  xy: 797, 230
+  size: 424, 333
+  orig: 433, 338
+  offset: 6, 2
+  index: -1
+megaWinLightnings1_0
+  rotate: false
+  xy: 2, 50
+  size: 616, 474
+  orig: 633, 515
+  offset: 6, 24
+  index: -1
+megaWinLightnings2
+  rotate: false
+  xy: 1568, 699
+  size: 288, 578
+  orig: 309, 590
+  offset: 18, 2
+  index: -1
+megaWinLightnings3_0
+  rotate: true
+  xy: 1236, 511
+  size: 766, 330
+  orig: 778, 342
+  offset: 8, 4
+  index: -1
+sceneSlotStars
+  rotate: false
+  xy: 1223, 247
+  size: 338, 262
+  orig: 348, 275
+  offset: 8, 6
+  index: -1
+splashSwirlSmaller_0
+  rotate: false
+  xy: 2, 526
+  size: 692, 751
+  orig: 726, 763
+  offset: 13, 6
+  index: -1
+yellowGlow
+  rotate: false
+  xy: 1568, 435
+  size: 269, 262
+  orig: 273, 266
+  offset: 2, 2
+  index: -1

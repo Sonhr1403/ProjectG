@@ -1,0 +1,503 @@
+
+Mini.png
+size: 1953,491
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 60
+  rotate: false
+  xy: 1760, 78
+  size: 63, 71
+  orig: 63, 71
+  offset: 0, 0
+  index: -1
+Group 61
+  rotate: false
+  xy: 1182, 49
+  size: 100, 72
+  orig: 100, 72
+  offset: 0, 0
+  index: -1
+Group 62
+  rotate: false
+  xy: 1294, 268
+  size: 228, 182
+  orig: 228, 182
+  offset: 0, 0
+  index: -1
+man tra thuong/Group 113
+  rotate: false
+  xy: 1168, 2
+  size: 56, 45
+  orig: 56, 45
+  offset: 0, 0
+  index: -1
+man tra thuong/Group 113 copy
+  rotate: false
+  xy: 1226, 2
+  size: 56, 45
+  orig: 56, 45
+  offset: 0, 0
+  index: -1
+man tra thuong/Group 114 copy 4
+  rotate: true
+  xy: 1182, 123
+  size: 192, 100
+  orig: 192, 100
+  offset: 0, 0
+  index: -1
+man tra thuong/Group 114 copy 5
+  rotate: false
+  xy: 1284, 166
+  size: 192, 100
+  orig: 192, 100
+  offset: 0, 0
+  index: -1
+man tra thuong/Group 118
+  rotate: false
+  xy: 1294, 452
+  size: 399, 37
+  orig: 399, 37
+  offset: 0, 0
+  index: -1
+man tra thuong/Group 119
+  rotate: false
+  xy: 2, 6
+  size: 550, 37
+  orig: 550, 37
+  offset: 0, 0
+  index: -1
+man tra thuong/Layer 1169 copy
+  rotate: false
+  xy: 2, 45
+  size: 745, 444
+  orig: 790, 466
+  offset: 24, 21
+  index: -1
+man tra thuong/Layer 1169 copy 3
+  rotate: false
+  xy: 749, 59
+  size: 431, 256
+  orig: 456, 270
+  offset: 13, 13
+  index: -1
+man tra thuong/Layer 1189 copy 4
+  rotate: true
+  xy: 1914, 302
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+man tra thuong/Layer 1189 copy 5
+  rotate: false
+  xy: 1752, 14
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+man tra thuong/Layer 1192
+  rotate: false
+  xy: 1709, 385
+  size: 83, 75
+  orig: 84, 75
+  offset: 1, 0
+  index: -1
+man tra thuong/Layer 1192 copy
+  rotate: false
+  xy: 1709, 308
+  size: 83, 75
+  orig: 84, 75
+  offset: 0, 0
+  index: -1
+man tra thuong/Layer 1193
+  rotate: false
+  xy: 1907, 36
+  size: 25, 25
+  orig: 25, 26
+  offset: 0, 1
+  index: -1
+man tra thuong/Layer 1193 copy
+  rotate: false
+  xy: 1385, 12
+  size: 25, 25
+  orig: 25, 26
+  offset: 0, 1
+  index: -1
+man tra thuong/Layer 1194
+  rotate: false
+  xy: 1478, 224
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+man tra thuong/Layer 1194 copy
+  rotate: false
+  xy: 1478, 180
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+man tra thuong/Layer 1195
+  rotate: false
+  xy: 1793, 46
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+man tra thuong/Layer 1195 copy
+  rotate: false
+  xy: 1907, 63
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+man tra thuong/Layer 1196
+  rotate: true
+  xy: 724, 18
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+man tra thuong/Layer 1196 copy
+  rotate: false
+  xy: 1887, 12
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+man tra thuong/Layer 538 copy
+  rotate: true
+  xy: 1695, 462
+  size: 27, 125
+  orig: 27, 125
+  offset: 0, 0
+  index: -1
+man tra thuong/Layer 538 copy 2
+  rotate: true
+  xy: 1284, 15
+  size: 22, 99
+  orig: 22, 99
+  offset: 0, 0
+  index: -1
+man tra thuong/Layer 538 copy 3
+  rotate: true
+  xy: 864, 6
+  size: 17, 74
+  orig: 17, 74
+  offset: 0, 0
+  index: -1
+man tra thuong/Layer 5381
+  rotate: true
+  xy: 940, 6
+  size: 17, 74
+  orig: 17, 74
+  offset: 0, 0
+  index: -1
+man tra thuong/Layer 5382
+  rotate: true
+  xy: 1692, 44
+  size: 22, 99
+  orig: 22, 99
+  offset: 0, 0
+  index: -1
+man tra thuong/Layer 5383
+  rotate: true
+  xy: 554, 16
+  size: 27, 125
+  orig: 27, 125
+  offset: 0, 0
+  index: -1
+man tra thuong/MiniLayer_2
+  rotate: true
+  xy: 1284, 39
+  size: 125, 136
+  orig: 125, 136
+  offset: 0, 0
+  index: -1
+man tra thuong/MiniLayer_3
+  rotate: false
+  xy: 1524, 314
+  size: 149, 136
+  orig: 149, 136
+  offset: 0, 0
+  index: -1
+man tra thuong/MiniLayer_4
+  rotate: false
+  xy: 1422, 28
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+man tra thuong/MiniLayer_6
+  rotate: false
+  xy: 1524, 176
+  size: 144, 136
+  orig: 144, 136
+  offset: 0, 0
+  index: -1
+man tra thuong/Mini_00
+  rotate: false
+  xy: 1760, 185
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+man tra thuong/Mini_12
+  rotate: false
+  xy: 1760, 185
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+man tra thuong/Mini_01
+  rotate: false
+  xy: 1887, 36
+  size: 18, 57
+  orig: 124, 66
+  offset: 2, 6
+  index: -1
+man tra thuong/Mini_02
+  rotate: true
+  xy: 1560, 21
+  size: 31, 62
+  orig: 124, 66
+  offset: 2, 2
+  index: -1
+man tra thuong/Mini_03
+  rotate: true
+  xy: 1104, 10
+  size: 47, 62
+  orig: 124, 66
+  offset: 2, 2
+  index: -1
+man tra thuong/Mini_04
+  rotate: false
+  xy: 1892, 223
+  size: 59, 62
+  orig: 124, 66
+  offset: 4, 2
+  index: -1
+man tra thuong/Mini_05
+  rotate: false
+  xy: 1825, 87
+  size: 60, 62
+  orig: 124, 66
+  offset: 17, 2
+  index: -1
+man tra thuong/Mini_06
+  rotate: false
+  xy: 1887, 95
+  size: 61, 62
+  orig: 124, 66
+  offset: 31, 2
+  index: -1
+man tra thuong/Mini_07
+  rotate: false
+  xy: 1825, 23
+  size: 60, 62
+  orig: 124, 66
+  offset: 46, 2
+  index: -1
+man tra thuong/Mini_08
+  rotate: false
+  xy: 1892, 159
+  size: 59, 62
+  orig: 124, 66
+  offset: 60, 2
+  index: -1
+man tra thuong/Mini_09
+  rotate: true
+  xy: 1624, 6
+  size: 48, 62
+  orig: 124, 66
+  offset: 74, 2
+  index: -1
+man tra thuong/Mini_10
+  rotate: true
+  xy: 1688, 9
+  size: 33, 62
+  orig: 124, 66
+  offset: 89, 2
+  index: -1
+man tra thuong/Mini_11
+  rotate: true
+  xy: 1016, 4
+  size: 19, 58
+  orig: 124, 66
+  offset: 103, 2
+  index: -1
+man tra thuong/khung bia mo
+  rotate: false
+  xy: 749, 317
+  size: 543, 172
+  orig: 543, 172
+  offset: 0, 0
+  index: -1
+man tra thuong/mini - frank_00
+  rotate: true
+  xy: 1560, 54
+  size: 120, 62
+  orig: 124, 66
+  offset: 2, 2
+  index: -1
+man tra thuong/mini - frankenstein
+  rotate: false
+  xy: 749, 2
+  size: 113, 55
+  orig: 113, 55
+  offset: 0, 0
+  index: -1
+man tra thuong/mini frame_00
+  rotate: false
+  xy: 864, 25
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/mini frame_01
+  rotate: true
+  xy: 1624, 56
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/mini frame_02
+  rotate: false
+  xy: 984, 25
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/mini frame_03
+  rotate: false
+  xy: 1822, 457
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/mini frame_04
+  rotate: true
+  xy: 1675, 332
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/mini frame_05
+  rotate: true
+  xy: 1658, 56
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/mini frame_06
+  rotate: false
+  xy: 1794, 423
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/mini frame_07
+  rotate: false
+  xy: 1794, 389
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/mini frame_08
+  rotate: false
+  xy: 1794, 355
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/mini frame_09
+  rotate: false
+  xy: 1794, 321
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/mini frame_10
+  rotate: true
+  xy: 1914, 337
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/mini frame_11
+  rotate: false
+  xy: 1794, 287
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/mini frame_12
+  rotate: true
+  xy: 1670, 194
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/mini frame_13
+  rotate: true
+  xy: 1704, 188
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/mini frame_14
+  rotate: true
+  xy: 1738, 188
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/mini frame_15
+  rotate: false
+  xy: 1772, 253
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/mini frame_16
+  rotate: false
+  xy: 1772, 219
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/mini frame_17
+  rotate: false
+  xy: 1772, 185
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/mini frame_18
+  rotate: true
+  xy: 1692, 68
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/mini frame_19
+  rotate: true
+  xy: 1726, 68
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/mini frame_20
+  rotate: false
+  xy: 1760, 151
+  size: 118, 32
+  orig: 122, 38
+  offset: 2, 4
+  index: -1
+man tra thuong/particle_00
+  rotate: false
+  xy: 681, 2
+  size: 41, 41
+  orig: 75, 75
+  offset: 17, 17
+  index: -1

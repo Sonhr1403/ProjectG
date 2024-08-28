@@ -1,0 +1,181 @@
+
+winsum_bubble_spine.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+water_grp/bubble_a/bubble_a__000
+  rotate: false
+  xy: 2, 838
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+water_grp/bubble_a/bubble_a__001
+  rotate: false
+  xy: 504, 1340
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+water_grp/bubble_a/bubble_a__002
+  rotate: false
+  xy: 1006, 1842
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+water_grp/bubble_a/bubble_a__003
+  rotate: false
+  xy: 2, 636
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+water_grp/bubble_a/bubble_a__004
+  rotate: false
+  xy: 504, 1138
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+water_grp/bubble_a/bubble_a__005
+  rotate: false
+  xy: 1006, 1640
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+water_grp/bubble_a/bubble_a__006
+  rotate: false
+  xy: 1308, 1842
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+water_grp/bubble_a/bubble_a__007
+  rotate: false
+  xy: 2, 434
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+water_grp/bubble_a/bubble_a__008
+  rotate: false
+  xy: 1308, 1640
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+water_grp/bubble_a/bubble_a__009
+  rotate: false
+  xy: 1610, 1842
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+water_grp/bubble_a/bubble_a__010
+  rotate: false
+  xy: 2, 232
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+water_grp/bubble_a/bubble_a__011
+  rotate: false
+  xy: 1610, 1640
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+water_grp/water_a/water_a_007
+  rotate: false
+  xy: 806, 1114
+  size: 268, 206
+  orig: 500, 500
+  offset: 94, 176
+  index: -1
+water_grp/water_a/water_a_008
+  rotate: false
+  xy: 304, 158
+  size: 266, 206
+  orig: 500, 500
+  offset: 100, 182
+  index: -1
+water_grp/water_a/water_a_009
+  rotate: false
+  xy: 806, 1322
+  size: 267, 218
+  orig: 500, 500
+  offset: 97, 186
+  index: -1
+water_grp/water_a/water_a_010
+  rotate: false
+  xy: 1075, 1425
+  size: 270, 213
+  orig: 500, 500
+  offset: 94, 201
+  index: -1
+water_grp/water_a/water_a_011
+  rotate: false
+  xy: 304, 366
+  size: 260, 220
+  orig: 500, 500
+  offset: 102, 201
+  index: -1
+water_grp/water_a/water_a_012
+  rotate: false
+  xy: 2, 2
+  size: 266, 228
+  orig: 500, 500
+  offset: 97, 199
+  index: -1
+water_grp/water_a/water_a_013
+  rotate: false
+  xy: 304, 588
+  size: 260, 223
+  orig: 500, 500
+  offset: 99, 209
+  index: -1
+water_grp/water_a/water_a_014
+  rotate: false
+  xy: 1347, 1420
+  size: 263, 218
+  orig: 500, 500
+  offset: 93, 223
+  index: -1
+water_grp/water_a/water_a_015
+  rotate: false
+  xy: 304, 813
+  size: 260, 225
+  orig: 500, 500
+  offset: 100, 222
+  index: -1
+water_grp/water_a/water_a_016
+  rotate: false
+  xy: 1612, 1420
+  size: 249, 218
+  orig: 500, 500
+  offset: 107, 229
+  index: -1
+water_grp/water_a/water_a_017
+  rotate: false
+  xy: 2, 1542
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water_grp/water_a/water_a_018
+  rotate: false
+  xy: 2, 1040
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water_grp/water_a/water_a_019
+  rotate: false
+  xy: 504, 1542
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1

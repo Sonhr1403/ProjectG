@@ -1,0 +1,587 @@
+
+skeleton_2.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/emo 1/Ellipse 3 copy
+  rotate: false
+  xy: 1, 1
+  size: 169, 145
+  orig: 169, 145
+  offset: 0, 0
+  index: -1
+1/emo 1/Ellipse 4
+  rotate: false
+  xy: 222, 507
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+1/emo 6/Ellipse 7
+  rotate: false
+  xy: 172, 1
+  size: 145, 155
+  orig: 145, 155
+  offset: 0, 0
+  index: -1
+1/emo 8/Ellipse 7
+  rotate: false
+  xy: 1, 148
+  size: 145, 145
+  orig: 145, 145
+  offset: 0, 0
+  index: -1
+1/emo17/Ellipse 7
+  rotate: false
+  xy: 319, 1
+  size: 145, 145
+  orig: 145, 145
+  offset: 0, 0
+  index: -1
+1/emo 1/Shape 5
+  rotate: false
+  xy: 306, 352
+  size: 112, 55
+  orig: 112, 55
+  offset: 0, 0
+  index: -1
+1/emo 7/Shape 6
+  rotate: false
+  xy: 140, 507
+  size: 80, 14
+  orig: 80, 14
+  offset: 0, 0
+  index: -1
+1/emo 1/Shape 6
+  rotate: false
+  xy: 222, 520
+  size: 80, 11
+  orig: 80, 11
+  offset: 0, 0
+  index: -1
+1/emo 1/Shape 7
+  rotate: false
+  xy: 466, 209
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+1/emo 1/Shape 7 copy
+  rotate: false
+  xy: 466, 229
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+1/emo 7/Shape 22
+  rotate: false
+  xy: 1, 341
+  size: 102, 43
+  orig: 102, 43
+  offset: 0, 0
+  index: -1
+1/emo 1/Group 29
+  rotate: false
+  xy: 258, 416
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+1/emo 7/Group 29
+  rotate: false
+  xy: 466, 1
+  size: 30, 60
+  orig: 30, 60
+  offset: 0, 0
+  index: -1
+1/emo 1/Group 29 copy
+  rotate: false
+  xy: 207, 318
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+1/emo 2/Shape 1
+  rotate: false
+  xy: 306, 295
+  size: 112, 55
+  orig: 112, 55
+  offset: 0, 0
+  index: -1
+1/emo 2/Shape 3
+  rotate: false
+  xy: 103, 523
+  size: 47, 15
+  orig: 47, 15
+  offset: 0, 0
+  index: -1
+1/emo 2/Shape 4
+  rotate: false
+  xy: 258, 473
+  size: 58, 45
+  orig: 58, 45
+  offset: 0, 0
+  index: -1
+1/emo 2/Shape 4 copy
+  rotate: false
+  xy: 318, 520
+  size: 58, 43
+  orig: 58, 43
+  offset: 0, 0
+  index: -1
+Shape 18
+  rotate: false
+  xy: 52, 438
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+1/emo 3/Shape 19
+  rotate: false
+  xy: 1, 574
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+1/emo 3/Ellipse 6
+  rotate: false
+  xy: 403, 483
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+1/emo 4/Shape 13
+  rotate: false
+  xy: 210, 378
+  size: 87, 36
+  orig: 87, 36
+  offset: 0, 0
+  index: -1
+1/emo 4/Shape 14
+  rotate: false
+  xy: 49, 521
+  size: 51, 16
+  orig: 51, 16
+  offset: 0, 0
+  index: -1
+1/emo 11/Group 30
+  rotate: false
+  xy: 403, 431
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+1/emo 4/Group 30
+  rotate: false
+  xy: 420, 365
+  size: 72, 64
+  orig: 72, 64
+  offset: 0, 0
+  index: -1
+1/emo 4/Group 30 copy
+  rotate: false
+  xy: 420, 295
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+1/emo 16/Group 32
+  rotate: false
+  xy: 480, 584
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+1/emo 6/Group 32
+  rotate: false
+  xy: 429, 584
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+1/emo 9/Group 32
+  rotate: false
+  xy: 1, 386
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+1/emo 9/Group 32 copy
+  rotate: false
+  xy: 456, 532
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+mat
+  rotate: false
+  xy: 378, 537
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+1/emo 16/Group 32 copy
+  rotate: false
+  xy: 480, 611
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+1/emo 6/Shape 32
+  rotate: false
+  xy: 72, 572
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+1/emo 16/Shape 32
+  rotate: false
+  xy: 39, 573
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+1/emo 6/Shape 32 copy 2
+  rotate: false
+  xy: 103, 555
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+1/emo 16/Shape 32 copy 2
+  rotate: false
+  xy: 39, 556
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+1/emo 6/Shape 33
+  rotate: false
+  xy: 147, 318
+  size: 58, 74
+  orig: 58, 74
+  offset: 0, 0
+  index: -1
+1/emo 6/Shape 34
+  rotate: false
+  xy: 103, 540
+  size: 46, 13
+  orig: 46, 13
+  offset: 0, 0
+  index: -1
+1/emo 7/Shape 20
+  rotate: false
+  xy: 466, 105
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+1/emo 7/Shape 20 copy
+  rotate: false
+  xy: 105, 341
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+1/emo 7/Shape 21
+  rotate: false
+  xy: 49, 539
+  size: 52, 15
+  orig: 52, 15
+  offset: 0, 0
+  index: -1
+1/emo 8/Shape 28
+  rotate: false
+  xy: 466, 269
+  size: 36, 18
+  orig: 36, 18
+  offset: 0, 0
+  index: -1
+1/emo 8/Shape 28 copy
+  rotate: false
+  xy: 466, 249
+  size: 36, 18
+  orig: 36, 18
+  offset: 0, 0
+  index: -1
+1/emo 8/Shape 29
+  rotate: false
+  xy: 231, 533
+  size: 39, 15
+  orig: 39, 15
+  offset: 0, 0
+  index: -1
+1/emo 8/Shape 29 copy
+  rotate: false
+  xy: 190, 533
+  size: 39, 15
+  orig: 39, 15
+  offset: 0, 0
+  index: -1
+1/emo 8/Shape 30
+  rotate: false
+  xy: 156, 489
+  size: 89, 16
+  orig: 89, 16
+  offset: 0, 0
+  index: -1
+1/emo 8/Group 31
+  rotate: false
+  xy: 299, 409
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+1/emo 8/Group 31 copy
+  rotate: false
+  xy: 351, 409
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+1/emo 9/Shape 35
+  rotate: false
+  xy: 466, 169
+  size: 42, 18
+  orig: 42, 18
+  offset: 0, 0
+  index: -1
+1/emo 9/Group 33
+  rotate: false
+  xy: 148, 158
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+1/emo 10/Ellipse 13
+  rotate: false
+  xy: 319, 148
+  size: 145, 145
+  orig: 145, 145
+  offset: 0, 0
+  index: -1
+1/emo 10/Shape 47
+  rotate: false
+  xy: 1, 490
+  size: 73, 25
+  orig: 73, 25
+  offset: 0, 0
+  index: -1
+1/emo 10/Shape 46
+  rotate: false
+  xy: 152, 523
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+1/emo 10/Shape 46 copy
+  rotate: false
+  xy: 1, 555
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+1/emo 10/Group 34
+  rotate: false
+  xy: 1, 438
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+1/emo 10/Group 34 copy
+  rotate: false
+  xy: 462, 431
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+1/emo 11/Shape 43
+  rotate: false
+  xy: 466, 189
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+1/emo 11/Ellipse 12
+  rotate: false
+  xy: 52, 386
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+1/emo 11/Shape 44
+  rotate: false
+  xy: 429, 537
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+1/emo12/Shape 51
+  rotate: false
+  xy: 156, 457
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+1/emo12/Group 35
+  rotate: false
+  xy: 1, 295
+  size: 144, 44
+  orig: 144, 44
+  offset: 0, 0
+  index: -1
+1/emo 13/Ellipse 14
+  rotate: false
+  xy: 466, 134
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+1/emo 13/Shape 52 copy
+  rotate: false
+  xy: 105, 370
+  size: 39, 14
+  orig: 39, 14
+  offset: 0, 0
+  index: -1
+1/emo 13/Shape 53
+  rotate: false
+  xy: 466, 63
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+1/emo 14/Group 36
+  rotate: false
+  xy: 187, 550
+  size: 36, 8
+  orig: 36, 8
+  offset: 0, 0
+  index: -1
+1/emo 14/Group 36 copy
+  rotate: false
+  xy: 225, 550
+  size: 36, 8
+  orig: 36, 8
+  offset: 0, 0
+  index: -1
+1/emo 14/Shape 55
+  rotate: false
+  xy: 76, 496
+  size: 62, 23
+  orig: 62, 23
+  offset: 0, 0
+  index: -1
+1/emo 14/Group 37
+  rotate: false
+  xy: 147, 394
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+1/emo 15/Shape 26
+  rotate: false
+  xy: 244, 158
+  size: 60, 108
+  orig: 60, 108
+  offset: 0, 0
+  index: -1
+1/emo 15/Shape 26 copy
+  rotate: false
+  xy: 244, 268
+  size: 60, 108
+  orig: 60, 108
+  offset: 0, 0
+  index: -1
+1/emo 15/Shape 23
+  rotate: false
+  xy: 151, 542
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+1/emo 15/Shape 23 copy
+  rotate: false
+  xy: 151, 560
+  size: 35, 15
+  orig: 35, 15
+  offset: 0, 0
+  index: -1
+1/emo 15/Shape 25
+  rotate: false
+  xy: 318, 473
+  size: 58, 45
+  orig: 58, 45
+  offset: 0, 0
+  index: -1
+1/emo 15/Shape 24
+  rotate: false
+  xy: 272, 533
+  size: 44, 13
+  orig: 44, 13
+  offset: 0, 0
+  index: -1
+1/nuocmat
+  rotate: false
+  xy: 378, 473
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+1/emo 16/Group 29 copy 2
+  rotate: false
+  xy: 103, 386
+  size: 30, 60
+  orig: 30, 60
+  offset: 0, 0
+  index: -1
+1/emo 16/Shape 45
+  rotate: false
+  xy: 1, 537
+  size: 46, 16
+  orig: 46, 16
+  offset: 0, 0
+  index: -1
+1/emo17/Shape 59
+  rotate: false
+  xy: 148, 240
+  size: 94, 76
+  orig: 94, 76
+  offset: 0, 0
+  index: -1
+1/emo17/Rounded Rectangle 3
+  rotate: false
+  xy: 210, 416
+  size: 46, 66
+  orig: 46, 66
+  offset: 0, 0
+  index: -1
+1/emo17/Shape 57
+  rotate: false
+  xy: 272, 548
+  size: 38, 15
+  orig: 38, 15
+  offset: 0, 0
+  index: -1
+1/emo17/Shape 60
+  rotate: false
+  xy: 1, 517
+  size: 46, 18
+  orig: 46, 18
+  offset: 0, 0
+  index: -1
+1/emo17/Shape 58 copy
+  rotate: false
+  xy: 101, 457
+  size: 53, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+1/emo17/Shape 58 copy 2
+  rotate: false
+  xy: 456, 483
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1

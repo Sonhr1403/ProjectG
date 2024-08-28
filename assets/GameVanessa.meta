@@ -1,0 +1,25 @@
+{
+  "ver": "1.1.3",
+  "uuid": "2110305f-ff18-46e8-af50-5496b41b7d87",
+  "importer": "folder",
+  "isBundle": false,
+  "bundleName": "GameVanessa",
+  "priority": 1,
+  "compressionType": {
+    "web-mobile": "merge_all_json",
+    "android": "merge_all_json"
+  },
+  "optimizeHotUpdate": {
+    "web-mobile": false,
+    "android": false
+  },
+  "inlineSpriteFrames": {
+    "web-mobile": false,
+    "android": false
+  },
+  "isRemoteBundle": {
+    "web-mobile": false,
+    "android": true
+  },
+  "subMetas": {}
+}

@@ -1,0 +1,139 @@
+
+Fx_EwArea.png
+size: 2018,815
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fx/sq2_1
+  rotate: true
+  xy: 2, 46
+  size: 203, 256
+  orig: 402, 526
+  offset: 99, 140
+  index: -1
+Fx/sq2_10
+  rotate: false
+  xy: 705, 412
+  size: 316, 401
+  orig: 402, 526
+  offset: 43, 65
+  index: -1
+Fx/sq2_11
+  rotate: false
+  xy: 1342, 413
+  size: 316, 400
+  orig: 402, 526
+  offset: 43, 65
+  index: -1
+Fx/sq2_2
+  rotate: false
+  xy: 410, 81
+  size: 260, 328
+  orig: 402, 526
+  offset: 71, 104
+  index: -1
+Fx/sq2_3
+  rotate: false
+  xy: 1709, 30
+  size: 307, 389
+  orig: 402, 526
+  offset: 48, 74
+  index: -1
+Fx/sq2_4
+  rotate: false
+  xy: 1660, 421
+  size: 310, 392
+  orig: 402, 526
+  offset: 46, 72
+  index: -1
+Fx/sq2_5
+  rotate: false
+  xy: 1075, 11
+  size: 316, 400
+  orig: 402, 526
+  offset: 43, 68
+  index: -1
+Fx/sq2_6
+  rotate: false
+  xy: 1393, 13
+  size: 314, 398
+  orig: 402, 526
+  offset: 44, 68
+  index: -1
+Fx/sq2_7
+  rotate: false
+  xy: 1023, 413
+  size: 317, 400
+  orig: 402, 526
+  offset: 43, 68
+  index: -1
+Fx/sq2_8
+  rotate: false
+  xy: 386, 411
+  size: 317, 402
+  orig: 402, 526
+  offset: 42, 65
+  index: -1
+Fx/sq2_9
+  rotate: true
+  xy: 672, 92
+  size: 317, 401
+  orig: 402, 526
+  offset: 43, 67
+  index: -1
+FxLine/LineStart1
+  rotate: true
+  xy: 380, 74
+  size: 189, 28
+  orig: 199, 66
+  offset: 5, 1
+  index: -1
+FxLine/LineStart2
+  rotate: false
+  xy: 197, 9
+  size: 193, 35
+  orig: 199, 66
+  offset: 3, 1
+  index: -1
+FxLine/LineStart3
+  rotate: false
+  xy: 2, 2
+  size: 193, 42
+  orig: 199, 66
+  offset: 3, 1
+  index: -1
+FxLine/LineStart4
+  rotate: true
+  xy: 326, 68
+  size: 195, 52
+  orig: 199, 66
+  offset: 2, 1
+  index: -1
+FxLine/LineStart5
+  rotate: true
+  xy: 260, 66
+  size: 197, 64
+  orig: 199, 66
+  offset: 1, 1
+  index: -1
+FxLine/Line_Back
+  rotate: false
+  xy: 2, 251
+  size: 201, 562
+  orig: 203, 575
+  offset: 1, 9
+  index: -1
+FxLine/Line_GraBack
+  rotate: false
+  xy: 205, 265
+  size: 179, 548
+  orig: 203, 575
+  offset: 13, 11
+  index: -1
+FxLine/Line_LineFx
+  rotate: true
+  xy: 380, 47
+  size: 25, 536
+  orig: 27, 553
+  offset: 1, 0
+  index: -1

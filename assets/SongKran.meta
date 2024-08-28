@@ -1,0 +1,21 @@
+{
+  "ver": "1.1.3",
+  "uuid": "830b3ace-34ab-45f4-8c99-fc81b2735c11",
+  "importer": "folder",
+  "isBundle": false,
+  "bundleName": "SongKran",
+  "priority": 1,
+  "compressionType": {
+    "android": "merge_all_json"
+  },
+  "optimizeHotUpdate": {
+    "android": false
+  },
+  "inlineSpriteFrames": {
+    "android": false
+  },
+  "isRemoteBundle": {
+    "android": true
+  },
+  "subMetas": {}
+}

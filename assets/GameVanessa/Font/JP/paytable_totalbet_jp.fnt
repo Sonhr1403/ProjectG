@@ -1,0 +1,10 @@
+info face=paytable_totalbet_jp size=30 bold=1 italic=0 charset= unicode= stretchH=100 smooth=1 aa=1 padding=2,2,2,2 spacing=0,0 outline=0
+common lineHeight=30 base=25 scaleW=256 scaleH=37 pages=1 packed=0
+page id=0 file="paytable_totalbet_jp.png"
+chars count=5
+char id=35336 x=2 y=2 width=34 height=33 xoffset=-1 yoffset=0 xadvance=30 page=0 chnl=15
+char id=21512 x=38 y=2 width=34 height=33 xoffset=-2 yoffset=0 xadvance=30 page=0 chnl=15
+char id=12488 x=74 y=2 width=24 height=31 xoffset=0 yoffset=1 xadvance=21 page=0 chnl=15
+char id=12505 x=100 y=2 width=27 height=30 xoffset=-1 yoffset=2 xadvance=23 page=0 chnl=15
+char id=12483 x=129 y=2 width=23 height=26 xoffset=-2 yoffset=6 xadvance=19 page=0 chnl=15
+char id=32 x=0 y=0 width=0 height=0 xoffset=-2 yoffset=6 xadvance=9 page=0 chnl=15

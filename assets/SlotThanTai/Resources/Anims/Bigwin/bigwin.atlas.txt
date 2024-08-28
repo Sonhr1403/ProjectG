@@ -1,0 +1,153 @@
+
+bigwin.png
+size: 2019,543
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bigwin/Layer 16
+  rotate: false
+  xy: 1265, 346
+  size: 752, 195
+  orig: 754, 197
+  offset: 1, 1
+  index: -1
+bigwin/Layer 18
+  rotate: false
+  xy: 2, 2
+  size: 1261, 539
+  orig: 1293, 551
+  offset: 15, 7
+  index: -1
+p_u_img4_en.png/file_31
+  rotate: false
+  xy: 1265, 224
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+p_u_img4_en.png/file_32
+  rotate: false
+  xy: 1265, 102
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+p_u_img4_en.png/file_34
+  rotate: false
+  xy: 1387, 224
+  size: 116, 120
+  orig: 116, 120
+  offset: 0, 0
+  index: -1
+p_u_img4_en.png/file_41
+  rotate: false
+  xy: 1387, 102
+  size: 116, 120
+  orig: 116, 120
+  offset: 0, 0
+  index: -1
+p_u_img4_en.png/file_43
+  rotate: false
+  xy: 1505, 224
+  size: 116, 120
+  orig: 116, 120
+  offset: 0, 0
+  index: -1
+p_u_img4_en.png/file_45
+  rotate: false
+  xy: 1505, 102
+  size: 116, 120
+  orig: 116, 120
+  offset: 0, 0
+  index: -1
+p_u_img4_en.png/file_46
+  rotate: true
+  xy: 1265, 2
+  size: 98, 120
+  orig: 98, 120
+  offset: 0, 0
+  index: -1
+p_u_img4_en.png/file_48
+  rotate: true
+  xy: 1387, 2
+  size: 98, 120
+  orig: 98, 120
+  offset: 0, 0
+  index: -1
+p_u_img4_en.png/file_49
+  rotate: true
+  xy: 1509, 2
+  size: 98, 120
+  orig: 98, 120
+  offset: 0, 0
+  index: -1
+p_u_img4_en.png/file_50
+  rotate: false
+  xy: 1623, 224
+  size: 98, 120
+  orig: 98, 120
+  offset: 0, 0
+  index: -1
+p_u_img4_en.png/file_51
+  rotate: false
+  xy: 1723, 224
+  size: 68, 120
+  orig: 68, 120
+  offset: 0, 0
+  index: -1
+p_u_img4_en.png/file_52
+  rotate: true
+  xy: 1631, 47
+  size: 68, 120
+  orig: 68, 120
+  offset: 0, 0
+  index: -1
+p_u_img4_en.png/file_53
+  rotate: true
+  xy: 1724, 154
+  size: 68, 120
+  orig: 68, 120
+  offset: 0, 0
+  index: -1
+p_u_img4_en.png/file_54
+  rotate: false
+  xy: 1793, 224
+  size: 68, 120
+  orig: 68, 120
+  offset: 0, 0
+  index: -1
+p_u_img4_en.png/file_55
+  rotate: true
+  xy: 1631, 15
+  size: 30, 120
+  orig: 30, 120
+  offset: 0, 0
+  index: -1
+p_u_img4_en.png/file_56
+  rotate: true
+  xy: 1724, 122
+  size: 30, 120
+  orig: 30, 120
+  offset: 0, 0
+  index: -1
+p_u_img4_en.png/file_57
+  rotate: true
+  xy: 1753, 90
+  size: 30, 120
+  orig: 30, 120
+  offset: 0, 0
+  index: -1
+p_u_img4_en.png/file_58
+  rotate: true
+  xy: 1846, 192
+  size: 30, 120
+  orig: 30, 120
+  offset: 0, 0
+  index: -1
+p_u_img5_en.png/file_1
+  rotate: false
+  xy: 1623, 117
+  size: 99, 105
+  orig: 100, 105
+  offset: 0, 0
+  index: -1

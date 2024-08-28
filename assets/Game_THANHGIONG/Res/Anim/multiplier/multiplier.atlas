@@ -1,0 +1,146 @@
+
+multiplier.png
+size: 318,1061
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+multiplier-smoke
+  rotate: false
+  xy: 1, 781
+  size: 168, 163
+  orig: 207, 178
+  offset: 20, 7
+  index: -1
+multiplier_glitter
+  rotate: false
+  xy: 219, 963
+  size: 91, 97
+  orig: 91, 97
+  offset: 0, 0
+  index: -1
+x10
+  rotate: false
+  xy: 1, 945
+  size: 217, 115
+  orig: 217, 115
+  offset: 0, 0
+  index: -1
+x10_burst
+  rotate: false
+  xy: 1, 1
+  size: 167, 88
+  orig: 175, 94
+  offset: 4, 3
+  index: -1
+x2
+  rotate: false
+  xy: 1, 319
+  size: 157, 114
+  orig: 157, 114
+  offset: 0, 0
+  index: -1
+x2_burst
+  rotate: false
+  xy: 160, 477
+  size: 121, 87
+  orig: 175, 94
+  offset: 27, 4
+  index: -1
+x3
+  rotate: false
+  xy: 1, 665
+  size: 158, 115
+  orig: 158, 115
+  offset: 0, 0
+  index: -1
+x3_burst
+  rotate: false
+  xy: 169, 2
+  size: 122, 88
+  orig: 175, 94
+  offset: 27, 3
+  index: -1
+x4
+  rotate: false
+  xy: 1, 205
+  size: 157, 113
+  orig: 157, 113
+  offset: 0, 0
+  index: -1
+x4_burst
+  rotate: false
+  xy: 160, 389
+  size: 121, 87
+  orig: 175, 94
+  offset: 27, 4
+  index: -1
+x5
+  rotate: false
+  xy: 1, 90
+  size: 156, 114
+  orig: 156, 114
+  offset: 0, 0
+  index: -1
+x5_burst
+  rotate: false
+  xy: 159, 301
+  size: 120, 87
+  orig: 175, 94
+  offset: 28, 4
+  index: -1
+x6
+  rotate: false
+  xy: 160, 653
+  size: 152, 114
+  orig: 152, 114
+  offset: 0, 0
+  index: -1
+x6_burst
+  rotate: false
+  xy: 159, 213
+  size: 117, 87
+  orig: 175, 94
+  offset: 29, 4
+  index: -1
+x7
+  rotate: false
+  xy: 158, 91
+  size: 159, 113
+  orig: 159, 113
+  offset: 0, 0
+  index: -1
+x7_burst
+  rotate: false
+  xy: 170, 768
+  size: 123, 87
+  orig: 175, 94
+  offset: 26, 4
+  index: -1
+x8
+  rotate: false
+  xy: 1, 549
+  size: 158, 115
+  orig: 158, 115
+  offset: 0, 0
+  index: -1
+x8_burst
+  rotate: false
+  xy: 170, 856
+  size: 122, 88
+  orig: 175, 94
+  offset: 27, 3
+  index: -1
+x9
+  rotate: false
+  xy: 1, 434
+  size: 158, 114
+  orig: 158, 114
+  offset: 0, 0
+  index: -1
+x9_burst
+  rotate: false
+  xy: 160, 565
+  size: 122, 87
+  orig: 175, 94
+  offset: 27, 4
+  index: -1

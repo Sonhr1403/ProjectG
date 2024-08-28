@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "4e26e2a6-4980-421d-b69a-f931906ec90b",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 146,
+  "height": 3,
+  "platformSettings": {},
+  "subMetas": {
+    "thanh_giong_boarder_bonus.png": {
+      "ver": "1.0.6",
+      "uuid": "2a862f69-6df9-44ad-a1e7-44fc369e1309",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "4e26e2a6-4980-421d-b69a-f931906ec90b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 146,
+      "height": 3,
+      "rawWidth": 146,
+      "rawHeight": 3,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
